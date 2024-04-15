@@ -12,13 +12,18 @@
     <xi:include href="./frontmatter.ptx" />
 
     <part xml:id="part-intro">
-      <title>Preliminary Concepts</title>
+      <title>She Blinded Me with Science!</title>
 
       <xi:include href="./p0-ch1-scientific-method.ptx" />
       <xi:include href="./p0-ch2-measurement.ptx" />
       <xi:include href="./p0-ch3-mathematics.ptx" />
     </part>
 
+    <part xml:id="part-dynamics-statics">
+      <title>I Do My Own Stunts!</title>
+
+      <xi:include href="./p1-ch4-one-dim.ptx" />
+    </part>
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
