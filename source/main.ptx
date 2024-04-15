@@ -23,6 +23,36 @@
       <title>I Do My Own Stunts!</title>
 
       <xi:include href="./p1-ch4-one-dim.ptx" />
+      <xi:include href="./p1-ch5-constant-acceleration.ptx" />
+      <xi:include href="./p1-ch6-newton.ptx" />
+      <xi:include href="./p1-ch7-momentum.ptx" />
+      <xi:include href="./p1-ch8-rigid-structures.ptx" />
+      <xi:include href="./p1-ch9-tension.ptx" />
+    </part>
+
+    <part xml:id="part-optics">
+      <title>Lights... Camera... Optics!</title>
+
+      <xi:include href="./p1-ch10-light.ptx" />
+      <xi:include href="./p1-ch11-reflection-refraction.ptx" />
+      <xi:include href="./p1-ch12-lenses.ptx" />
+      <xi:include href="./p1-ch13-color-science.ptx" />
+    </part>
+
+    <part xml:id="part-sound">
+      <title>These Go to Eleven</title>
+
+      <xi:include href="./p1-ch14-sound.ptx" />
+      <xi:include href="./p1-ch15-resonance.ptx" />
+      <xi:include href="./p1-ch16-music.ptx" />
+    </part>
+
+    <part xml:id="part-electronics">
+      <title>1.21 Gigawatts!?</title>
+
+      <xi:include href="./p1-ch17-sound.ptx" />
+      <xi:include href="./p1-ch18-resonance.ptx" />
+      <xi:include href="./p1-ch19-music.ptx" />
     </part>
 
     <!-- Include backmatter -->
