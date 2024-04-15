@@ -3,6 +3,16 @@
 <chapter xml:id="ch-mathematics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Mathematics</title>
 
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          Students will be able to...
+        </p>
+      </li>
+    </ul>
+  </objectives>
+
   <introduction>
     <p> Text before the first section. </p>
   </introduction>
