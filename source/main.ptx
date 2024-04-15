@@ -14,10 +14,10 @@
     <part xml:id="part-intro">
       <title>Preliminary Concepts</title>
 
-      <xi:include href="./p0ch1-scientific-method.ptx" />
+      <xi:include href="./p0-ch1-scientific-method.ptx" />
       <!--
-      <xi:include href="./p0ch2-measurement.ptx" />
-      <xi:include href="./p0ch3-mathematics.ptx" />
+      <xi:include href="./p0-ch2-measurement.ptx" />
+      <xi:include href="./p0-ch3-mathematics.ptx" />
       -->
     </part>
 
