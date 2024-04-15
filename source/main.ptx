@@ -33,26 +33,26 @@
     <part xml:id="part-optics">
       <title>Lights... Camera... Optics!</title>
 
-      <xi:include href="./p1-ch10-light.ptx" />
-      <xi:include href="./p1-ch11-reflection-refraction.ptx" />
-      <xi:include href="./p1-ch12-lenses.ptx" />
-      <xi:include href="./p1-ch13-color-science.ptx" />
+      <xi:include href="./p2-ch10-light.ptx" />
+      <xi:include href="./p2-ch11-reflection-refraction.ptx" />
+      <xi:include href="./p2-ch12-lenses.ptx" />
+      <xi:include href="./p2-ch13-color-science.ptx" />
     </part>
 
     <part xml:id="part-sound">
       <title>These Go to Eleven</title>
 
-      <xi:include href="./p1-ch14-sound.ptx" />
-      <xi:include href="./p1-ch15-resonance.ptx" />
-      <xi:include href="./p1-ch16-music.ptx" />
+      <xi:include href="./p3-ch14-sound.ptx" />
+      <xi:include href="./p3-ch15-resonance.ptx" />
+      <xi:include href="./p3-ch16-music.ptx" />
     </part>
 
     <part xml:id="part-electronics">
       <title>1.21 Gigawatts!?</title>
 
-      <xi:include href="./p1-ch17-electronics.ptx" />
-      <xi:include href="./p1-ch18-hacking.ptx" />
-      <xi:include href="./p1-ch19-building.ptx" />
+      <xi:include href="./p4-ch17-electronics.ptx" />
+      <xi:include href="./p4-ch18-hacking.ptx" />
+      <xi:include href="./p4-ch19-building.ptx" />
     </part>
 
     <!-- Include backmatter -->
