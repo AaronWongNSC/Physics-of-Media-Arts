@@ -50,9 +50,9 @@
     <part xml:id="part-electronics">
       <title>1.21 Gigawatts!?</title>
 
-      <xi:include href="./p1-ch17-sound.ptx" />
-      <xi:include href="./p1-ch18-resonance.ptx" />
-      <xi:include href="./p1-ch19-music.ptx" />
+      <xi:include href="./p1-ch17-electronics.ptx" />
+      <xi:include href="./p1-ch18-hacking.ptx" />
+      <xi:include href="./p1-ch19-building.ptx" />
     </part>
 
     <!-- Include backmatter -->
