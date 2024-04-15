@@ -5,14 +5,19 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Physics for Creatives</title>
+    <subtitle>Conceptual Physics for Visual Media Students</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <part xml:id="part-intro">
+      <title>Preliminary Concepts</title>
+
+      <xi:include href="./p0ch1-scientific-method.ptx" />
+      <xi:include href="./p0ch2-measurement.ptx" />
+      <xi:include href="./p0ch3-mathematics.ptx" />
+    </part>
 
 
     <!-- Include backmatter -->
