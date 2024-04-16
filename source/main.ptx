@@ -28,6 +28,7 @@
       <xi:include href="./p1-ch7-momentum.ptx" />
       <xi:include href="./p1-ch8-rigid-structures.ptx" />
       <xi:include href="./p1-ch9-tension.ptx" />
+      <!-- Add pressure? -->
     </part>
 
     <part xml:id="part-optics">
@@ -51,8 +52,9 @@
       <title>1.21 Gigawatts!?</title>
 
       <xi:include href="./p4-ch17-electronics.ptx" />
-      <xi:include href="./p4-ch18-hacking.ptx" />
-      <xi:include href="./p4-ch19-building.ptx" />
+      <xi:include href="./p4-ch18-practical.ptx" />
+      <xi:include href="./p4-ch19-hacking.ptx" />
+      <xi:include href="./p4-ch20-building.ptx" />
     </part>
 
     <!-- Include backmatter -->

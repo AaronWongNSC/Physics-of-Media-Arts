@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-scientific-method" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Scientific Method</title>
+<chapter xml:id="ch-electronics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basic Electronics</title>
 
   <objectives>
     <ul>
       <li>
         <p>
-          Students will be able to describe the scientific method in both formal and informal language.
+          Students will be able to...
         </p>
       </li>
     </ul>
   </objectives>
-  
+
   <introduction>
     <p> Text before the first section. </p>
   </introduction>
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
 
 </chapter>
