@@ -38,6 +38,7 @@
       <xi:include href="./p2-ch11-reflection-refraction.ptx" />
       <xi:include href="./p2-ch12-lenses.ptx" />
       <xi:include href="./p2-ch13-color-science.ptx" />
+      <!-- Add shadows -->
     </part>
 
     <part xml:id="part-sound">
