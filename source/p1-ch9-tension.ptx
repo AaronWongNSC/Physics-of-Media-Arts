@@ -7,7 +7,7 @@
     <ul>
       <li>
         <p>
-          Students will be able to...
+          Students will be able to interpret a force diagram corresponding to a physical situation involving ropes under tension.
         </p>
       </li>
     </ul>
@@ -19,5 +19,6 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
+  <xi:include href="sec-section-labs.ptx" />
 
 </chapter>

@@ -7,7 +7,17 @@
     <ul>
       <li>
         <p>
-          Students will be able to...
+          Students will be able to describe the wave-particle duality of light.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to explain the concept of the universal speed limit of light.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to describe application of light polarization in film and photography.
         </p>
       </li>
     </ul>
@@ -19,5 +29,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-
+  <xi:include href="sec-section-labs.ptx" />
 </chapter>
