@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-scientific-method" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Scientific Method(s)</title>
+
+  <p>
+    Most science textbooks start off by teaching students the scientific method, as if there is one precise way
+    to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
+    trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
+    what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
+    practical perspective. It is probably most correct to say that there are many scientific methods, and that
+    those methods vary from one field of study to the next. How you might try to study physics is different from how
+    you might try to study biology.
+  </p>
+  <p>
+    That said, it's not as if the ideas behind "the" scientific method are completely wrong. There is still value
+    to having a general framework as a guidepost, even if it's not completely general or completely accurate in
+    every context.
+  </p>
+  <p>
+    If you search around the internet, you'll find that there isn't an agreement on the steps of the scientific method.
+    Here are a few examples:
+  </p>
+  <ul>
+    <li>
+      <p>
+        <url href="https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology">Khan Academy's
+        Introduction to Biology</url>: (1) Make an observation; (2) Ask a question; (3) Form a hypothesis; (4) Make a prediction;
+        (5) Test the prediction; (6) Iterate
+      </p>
+    </li>
+    <li>
+      <p>
+        <url href="https://extension.unr.edu/publication.aspx?PubID=4239">University of Nevada Reno Extension's Fact Sheet on the Scientific
+        Method</url>: (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory
+      </p>
+    </li>
+  </ul>
+
+</section>

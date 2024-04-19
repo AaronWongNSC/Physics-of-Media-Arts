@@ -10,15 +10,30 @@
           Students will be able to describe the scientific method in both formal and informal language.
         </p>
       </li>
+      <li>
+        <p>
+          Students will be able to describe the difference between a theory and a hypothesis.
+        </p>
+      </li>
     </ul>
   </objectives>
   
   <introduction>
-    <p> Text before the first section. </p>
+    <p>
+      Science is both a branch of knowledge and a process for obtaining knowledge. In other words, science is something
+      that is both known and done. In this course, we are going to approach science using both lenses.
+    </p>
+    <p>
+      Specifically, this is a course of conceptual physics for visual media students. We're going to spend time learning
+      about important concepts of the branch of science known as physics, and we're also going to try to use scientific
+      methods to learn more about how those ideas can be applied in film, photography, and other forms of art. But before
+      we can talk about those things, we need to ground ourselves in the basics of science.
+    </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p0-ch1-s1-scientific-method.ptx" />
   <xi:include href="sec-section-labs.ptx" />
+  <!-- First lab: The difference between screwing around and science is writing it down. -->
 
 </chapter>
