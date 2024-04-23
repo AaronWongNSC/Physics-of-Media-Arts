@@ -11,51 +11,79 @@
   </blockquote>
 
   <p>
-    Another area of scientific thinking where it's possible to try to get unnecessarily rigorous is the distinction
-    between hypotheses, theories, and laws. There is no underlying rule that allows us to classify each of these
-    into neat groupings, and even the language itself is inconsistent. So this conversation ends up being more
-    less accurate the more that we try to make it rigorous.
+    Physics labs are simply a formal structure that give us opportunities to practice making observations and
+    formulating ideas. In this book, we set them up in a very formal way because it's the best way to really
+    slow down the process and allow deeper insights to settle in.
   </p>
   <p>
-    Typically, the word "hypothesis" is reserved for ideas we have that we are testing. For example, if we make a
-    prediction about what is going to happen in a physics lab, we would typically call that idea a hypothesis. The
-    whole point of making hypotheses is that it forces us to put our ideas into words that can be meaningfully
-    tested for accuracy. After we make further observations (such as by running an experiment), we can then go back
-    to those words and determine whether they were right or wrong (or at least mostly right or mostly wrong), and
-    that leads us into the act of refining our ideas.
+    Your lab report should be understood as a completely self-contained document that describes what happened
+    in the lab and what you learned from it. You should not assume that the person reading your lab report has
+    access to the textbook or the lab procedures. All of that information must be included in your report. If
+    the lab procedure has reflection questions, you should copy those questions into the appropriate section,
+    and not just write down a number and your answers.
   </p>
   <p>
-    The words "theory" and "law" are actually much less precise. Some might try to talk about these as two different
-    levels of knowledge and testability, where a "theory" is an idea that has been well-tested, but a "law" is so
-    well-tested that we just don't ever expect it to be violated. However, this just isn't the case in physics.
+    A carefully written lab report is much more than just presenting experimental data. It's a reflection of
+    your ability to communicate the ideas that you have been asked to consider. It's also important to understand
+    that not all labs work out perfectly, and sometimes you get results that are different than what is expected.
+    Part of your job as a scientific thinker is to try to understand and explain discrepancies between the
+    anticipated results and the actual results. In many cases, there is more to learn when something goes wrong
+    compared to when everything goes right.
   </p>
   <p>
-    For example, there's something known as "Newton's Law of Universal Gravitation" that is a formula that we can use
-    to calculate the force of gravity between any two objects. The problem with this "law" is that it's not actually
-    a law. The reason is that the law isn't perfectly correct. There are many
-    observations we can make that would violate this law, such as looking at the orbits of planets around the sun.
+    The following outline should be used for all lab activities:
   </p>
-  <p>
-    There's also "Einstein's Theory of Special Relativity" which (among other things) establishes the idea that nothing
-    can move faster than the speed of light. Up to this point, there are no known violations of this. And so it would
-    seem we should call this a "law" instead of a theory. But the language around this is so deeply rooted in history
-    that it's a change that will never happen.
-  </p>
-  <p>
-    Ultimately, a better word for these is to call them "models." A model is just a particular representation of a
-    scientific idea. A model makes no declarations about what is "true" about the universe. It simply says that under
-    a certain set of assumptions, we would expect the universe to behave in a certain way. Whether or not that happens
-    in reality is an entirely different question. In physics, it's very common to be working in the framework of models
-    instead of debating between theories and laws.
-  </p>
-  <p>
-    For example, Newton's Law of Universal Gravitation gives us a formula for how much force we expect there to be between
-    two massive objects, and it is known to be accurate when the masses aren't too large. But when the objects get larger,
-    we may have to turn to Einstein's Theory of General Relativity to make better predictions.
-  </p>
-  <p>
-    Our approach to physics will be built around creating models for various situations. Those models will give us a
-    theoretical foundation with which to analyze what might happen, and we will discuss things that can happen that will
-    cause those models to fail.
-  </p>
+  <ul>
+    <li>
+      <p>
+        Title and Header Information: This section is mostly for organization purposes. You should use the title
+        that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly
+        add one in. The remainder of the header information is the name of the group members. Typically, lab groups
+        will be limited to three members, but your instructor may decide differently.
+      </p>
+    </li>
+    <li>
+      <p>
+        Introduction: This is where you state the overall objectives of the experiment. You will also want to include
+        a discussion of the relevant concepts associated with the objectives. In a sense, you should think about this
+        as the section that teaches the reader everything they need to know in order to understand the experiment you
+        are about to run.
+      </p>
+    </li>
+    <li>
+      <p>
+        Procedure: This is where you explain the step-by-step procedure that you were meant to follow, and indications
+        of any times that you deviated from that. This part should be detailed enough that someone else can follow the
+        instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of
+        what happened should be written as paragraphs.
+      </p>
+    </li>
+    <li>
+      <p>
+        Results and Data: This section is where you record what happened. Typically, while you're actually running the
+        experiment you'll be keeping your data recorded in a lab notebook or on other paper. When it comes to putting
+        that data into a lab report, you are not simply copying over that information, but you are organizing it so that
+        it is as legible and understandable as possible. This may mean that you put the data into tables and a graph,
+        or maybe it's just a written description of observations at different times. This section also includes relevant
+        calculations. This does not mean that you should include all of your scratch work. It should contain just the
+        relevant calculations and a minimal amount of information or explanation (if needed) for what those calculations
+        represent. It should not be a solid wall of formulas.
+      </p>
+    </li>
+    <li>
+      <p>
+        Discussion: This is where the heart of the report lives. All of the other work that you've done leads up to this
+        section. Here is where you will respond to the questions that are contained in the lab. Your goal is to demonstrate
+        that you've learned something from the observations you made while executing the lab. These questions should all
+        revolve around the objectives that you presented in the introduction. When possible, you should make direct reference
+        to the objectives for emphasis. In many cases, this may also include an error analysis, where you talk about the
+        things that went wrong and how those things might be addressed if you were to do the experiment again.
+      </p>
+    </li>
+    <li>
+      <p>
+        Conclusion: Write a paragraph or two that summarizes the lab and what you learned from it.
+      </p>
+    </li>
+  </ul>
 </section>

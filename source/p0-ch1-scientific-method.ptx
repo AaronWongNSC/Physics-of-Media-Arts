@@ -16,6 +16,11 @@
           to describe what is meant by a model.
         </p>
       </li>
+      <li>
+        <p>
+          Students will be able to provide an outline for how a physics lab report should be organized.
+        </p>
+      </li>
     </ul>
   </objectives>
   
@@ -35,7 +40,7 @@
   <!-- include sections -->
   <xi:include href="p0-ch1-s1-scientific-method.ptx" />
   <xi:include href="p0-ch1-s2-hypothesis-theory-law-model.ptx" />
+  <xi:include href="p0-ch1-s3-physics-labs.ptx" />
   <xi:include href="sec-section-labs.ptx" />
-  <!-- First lab: The difference between screwing around and science is writing it down. -->
 
 </chapter>
