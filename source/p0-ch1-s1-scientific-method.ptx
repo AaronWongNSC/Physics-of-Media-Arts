@@ -5,9 +5,9 @@
   
   <blockquote>
     <p>
-      <q>The difference between screwing around and science is writing it down.</q>
+      <q>The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.</q>
     </p>
-    <attribution>Adam Savage (Mythbusters)</attribution>
+    <attribution>Thomas Henry Huxley</attribution>
   </blockquote>
 
   <p>
@@ -75,5 +75,36 @@
     go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and
     formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to
     advance our knowledge of physics.
+  </p>
+  <p>
+    More importantly, this framework helps to establish something that Thomas Huxley (the person quoted at the start of the section) was
+    getting at with his ideas. Here's a longer quote from his essay "On Our Knowledge of the Causes of the Phenomena of Organic Nature":
+  </p>
+  <blockquote>
+    <p>
+      The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind. It is simply
+      the mode at which all phenomena are reasoned about, rendered precise and exact. There is no more difference, but there is just the
+      same kind of difference, between the mental operations of a man of science and those of an ordinary person, as there is between the
+      operations and methods of a baker or of a butcher weighing out his goods in common scales, and the operations of a chemist in performing
+      a difficult and complex analysis by means of his balance and finely-graduated weights. It is not that the action of the scales in the
+      one case, and the balance in the other, differ in the principles of their construction or manner of working; but the beam of one is
+      set on an infinitely finer axis than the other, and of course turns by the addition of a much smaller weight.
+    </p>
+    <p>
+      You will understand this better, perhaps, if I give you some familiar example. You have all heard it repeated, I dare say, that men of
+      science work by means of induction and deduction, and that by the help of these operations, they, in a sort of sense, wring from Nature
+      certain other things, which are called natural laws, and causes, and that out of these, by some cunning skill of their own, they build
+      up hypotheses and theories. And it is imagined by many, that the operations of the common mind can be by no means compared with these
+      processes, and that they have to be acquired by a sort of special apprenticeship to the craft. To hear all these large words, you would
+      think that the mind of a man of science must be constituted differently from that of his fellow men; but if you will not be frightened by
+      terms, you will discover that you are quite wrong, and that all these terrible apparatus are being used by yourselves every day and every
+      hour of your lives.
+    </p>
+  </blockquote>
+  <p>
+    In other words, the idea he's putting forward is that scientific thinking is just regular thinking, but more refined. There is no "magic" in
+    the scientific method that is reserved only for scientists doing real science. It's just a way of learning that is very similar to how
+    people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see
+    how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.
   </p>
 </section>
