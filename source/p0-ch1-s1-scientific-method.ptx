@@ -2,24 +2,18 @@
 
 <section xml:id="sec-scientific-method" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Scientific Method(s)</title>
+  
+  <blockquote>
+    <title>Science!</title>
+    <p>
+      <q>The difference between screwing around and science is writing it down.</q>
+    </p>
+    <attribution>Adam Savage (Mythbusters)</attribution>
+  </blockquote>
 
   <p>
-    Most science textbooks start off by teaching students the scientific method, as if there is one precise way
-    to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
-    trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
-    what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
-    practical perspective. It is probably most correct to say that there are many scientific methods, and that
-    those methods vary from one field of study to the next. How you might try to study physics is different from how
-    you might try to study biology.
-  </p>
-  <p>
-    That said, it's not as if the ideas behind "the" scientific method are completely wrong. There is still value
-    to having a general framework as a guidepost, even if it's not completely general or completely accurate in
-    every context.
-  </p>
-  <p>
-    If you search around the internet, you'll find that there isn't an agreement on the steps of the scientific method.
-    Here are a few examples:
+    If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement
+    on the steps. Here are a few examples:
   </p>
   <ul>
     <li>
@@ -35,6 +29,38 @@
         Method</url>: (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory
       </p>
     </li>
+    <li>
+      <p>
+        <url href="https://www.yourdictionary.com/articles/scientific-method-steps">Your Dictionary's Article on the Scientific Method</url>:
+        (1) Define purpose; (2) Construct hypothesis; (3) Test hypothesis and collect data; (4) Analyze data; (5) Draw conclusion; (6) Communicate
+        results
+      </p>
+    </li>
   </ul>
+  <aside>
+    There are more examples in an <url href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1635141/">article</url> found in the
+    <url href="https://www.ncbi.nlm.nih.gov/pmc/journals/421/">CBE Life Sciences Education</url> journal that explores the topic much
+    more deeply and in the context of K-12 science education standards in Kansas from 2005.
+  </aside>
+  <p>
+    So what's really happening here? The reality is that there is no single scientific method. There are scientists who are
+    out there doing science, but each field (and each sub-field) has particular ways that science is practiced. However,
+    there is some value in presenting a general framework, even if it's not completely general or completely correct, because it
+    provides some basic guideposts to help students start to move towards scientific thinking. And so that is the 
+  </p>
+  <p>
+    Most science textbooks start off by teaching students the scientific method, as if there is one precise way
+    to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
+    trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
+    what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
+    practical perspective. It is probably most correct to say that there are many scientific methods, and that
+    those methods vary from one field of study to the next. How you might try to study physics is different from how
+    you might try to study biology.
+  </p>
+  <p>
+    That said, it's not as if the ideas behind "the" scientific method are completely wrong. There is still value
+    to having a general framework as a guidepost, even if it's not completely general or completely accurate in
+    every context.
+  </p>
 
 </section>
