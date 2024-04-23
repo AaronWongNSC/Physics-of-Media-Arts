@@ -12,7 +12,8 @@
       </li>
       <li>
         <p>
-          Students will be able to describe the difference between a hypothesis, a theory, and a law.
+          Students will be able to explain the difference between a hypothesis and a theory or law, and will be able
+          to describe what is meant by a model.
         </p>
       </li>
     </ul>
@@ -33,7 +34,7 @@
 
   <!-- include sections -->
   <xi:include href="p0-ch1-s1-scientific-method.ptx" />
-  <xi:include href="p0-ch1-s2-hypothesis-theory-law.ptx" />
+  <xi:include href="p0-ch1-s2-hypothesis-theory-law-model.ptx" />
   <xi:include href="sec-section-labs.ptx" />
   <!-- First lab: The difference between screwing around and science is writing it down. -->
 
