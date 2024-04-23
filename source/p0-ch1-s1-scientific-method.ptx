@@ -4,7 +4,6 @@
   <title>The Scientific Method(s)</title>
   
   <blockquote>
-    <title>Science!</title>
     <p>
       <q>The difference between screwing around and science is writing it down.</q>
     </p>
@@ -43,14 +42,8 @@
     more deeply and in the context of K-12 science education standards in Kansas from 2005.
   </aside>
   <p>
-    So what's really happening here? The reality is that there is no single scientific method. There are scientists who are
-    out there doing science, but each field (and each sub-field) has particular ways that science is practiced. However,
-    there is some value in presenting a general framework, even if it's not completely general or completely correct, because it
-    provides some basic guideposts to help students start to move towards scientific thinking. And so that is the 
-  </p>
-  <p>
-    Most science textbooks start off by teaching students the scientific method, as if there is one precise way
-    to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
+    So what's really happening here? Most science textbooks start off by teaching students the scientific method, as if there is
+    one precise way to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
     trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
     what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
     practical perspective. It is probably most correct to say that there are many scientific methods, and that
@@ -62,5 +55,25 @@
     to having a general framework as a guidepost, even if it's not completely general or completely accurate in
     every context.
   </p>
-
+  <p>
+    In this book, we are interested in trying to make the study of physics both practical and conceptual, but without getting too
+    bogged down in unnecessary details. And trying to provide a precise formulation of the scientific is one of those
+    unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.
+  </p>
+  <definition>
+    <title>An Informal Scientific Method</title>
+    <statement>
+      <p>
+        Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many
+        cases, the ideas that are formulate lead to the creation of experiments in order to generate additional observations that can
+        be used to refine the ideas that have been formulated.
+      </p>
+    </statement>
+  </definition>
+  <p>
+    This two-step understanding of the scientific method is probably the simplest way to think about the process of doing science. If we
+    go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and
+    formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to
+    advance our knowledge of physics.
+  </p>
 </section>
