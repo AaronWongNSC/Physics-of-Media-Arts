@@ -65,8 +65,8 @@
     <statement>
       <p>
         Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many
-        cases, the ideas that are formulate lead to the creation of experiments in order to generate additional observations that can
-        be used to refine the ideas that have been formulated.
+        cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can
+        be used to refine those ideas.
       </p>
     </statement>
   </definition>
@@ -108,3 +108,6 @@
     how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.
   </p>
 </section>
+<!-- Additional Resources:
+https://undsci.berkeley.edu/understanding-science-101/how-science-works/
+-->

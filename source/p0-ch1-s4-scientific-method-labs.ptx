@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-scientific-method-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: Scientific Method</title>
+
+  <p>
+    Introduction to the labs
+  </p>
+
+  <exploration xml:id="lab-curious-thinker">
+    <title>Becoming a Curious Thinker</title>
+
+    <introduction>
+      <p>
+        The first lab activity is designed to cultivate a mind that is curious and willing to ask
+        questions.
+      </p>
+      <p>
+        Observations, questions, and methods to begin to address the questions.
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          Explore the classroom
+        </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Explore the building
+        </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Explore the area around the building
+        </p>
+      </statement>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Explore your home.
+        </p>
+      </statement>
+    </task>
+
+    <conclusion>
+      <p>
+        Here is a concluding piece of text.
+      </p>
+    </conclusion>
+  </exploration>
+
+</section>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-numbers-and-units" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Numbers and Units</title>
+  
+  <blockquote>
+    <p>
+      <q>-----</q>
+    </p>
+    <attribution>------</attribution>
+  </blockquote>
+
+  <p>
+    In order to explore physics, we need to work with numbers and units. So before we launch into physics, we have
+    to spend a little bit of time understanding what those things are.
+  </p>
+  <p>
+    Here is a seemingly simple question: What is the number three? Yes, you can draw the arabic numeral 3 and say 
+    that this is 3. But that doesn't really get at the question, since there are lots of ways to write the number 3.
+    We can also write three using a system of tally marks, or using numbers from a different language. Your next impulse
+    might be to try gather three objects and say that these objects represent the number three. But is that true? How
+    would we know from this that if we grabbed three other objects that those other things would also be three?
+  </p>
+  <p>
+    It turns out that the question of "What is a number?" is extremely complicated and can lead down rich paths of
+    mathematical philosophy. For example, we can think about numbers in terms of their properties (numbers behave like
+    this) or we can try to think about the "essence" of numbers (what makes a number a number and not something else?).
+    And as you get deeper into the subject, you'll find that there is not a single simple answer to the question. (This is
+    another example of how simple questions can lead to complicated answers.)
+  </p>
+  <p>
+    For our purposes, we will stick with the idea that numbers are symbols that represent a quantity or an amount. You might
+    ask, "A quantity or amount of what?" And that's a good question to ask. Numbers don't tell us that. They just represent
+    the abstract concept of quantity or amount. In order to know what sorts of things we have quantities of, we have to add
+    a unit.
+  </p>
+  <p>
+    <idx><h>unit</h></idx>
+
+    A <term>unit</term> is a word that represents a known quantity that represents a standard for a measurement. In casual contexts, the
+    known quantity can be something simple like an apple. It makes sense for us to say that there are "five apples" on the table.
+    However, from a more scientific perspective, an "apple" is not precise enough for us to use for our studies. What type of
+    apples are they? And even if we have the same variety of apple (say, red delicious apples), they can be of many different
+    weights and sizes. This makes for a very imprecise form of measurement.
+  </p>
+  <aside>
+    <p>
+      Why are red delicious apples called that? If you've ever had them, they are perhaps among the least delicious apples that are
+      out there! Apparently, they used to taste better, but over the years they have been bred for things like rotting slowly 
+      and not being easily bruised, and not bred for taste. Basically, the red delicious apple is a victim of modern capitalism.
+    </p>
+  </aside>
+  <p>
+    When it comes to science, we have to use very precise quantities to avoid this type of variation. This will be the topic of the
+    next section.
+  </p>
+</section>
+
+<!-- Additional Resources:
+
+
+-->

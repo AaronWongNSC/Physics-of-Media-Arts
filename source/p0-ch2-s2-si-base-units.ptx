@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-si-base-units" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>SI Base Units</title>
+  
+  <blockquote>
+    <p>
+      <q>-----</q>
+    </p>
+    <attribution>------</attribution>
+  </blockquote>
+
+  <p>
+    <idx><h>SI</h></idx>
+    <idx><h>International Bureau of Weights and Measures</h></idx>
+
+    The units used in modern science are known as SI units. <term>SI</term> stands for the "International System of Units"
+    (from the French <em>Système international d'unités</em>). These units were created by an organization called the <term>International
+    Bureau of Weights and Measures</term> and is an agreed-upon standard that is officially used by almost every country in the world and
+    the entirety of the modern scientific community. We are going to take a brief tour of the seven base units, which form the foundation
+    for all other scientific units.
+  </p>
+
+  <subsection xml:id="subsec-seconds">
+    <title>Seconds</title>
+
+    <p>
+      <idx><h>second</h></idx>
+
+      A <term>second</term> is a unit of time. Measuring the passage of time is something that we use in our daily lives and the second
+      is the smallest common unit of time that we use for that purpose. But the technical definition of a second is somewhat surprising.
+      The statement below is taken from the <url href="https://www.bipm.org/utils/common/pdf/si-brochure/SI-Brochure-9.pdf">9th edition...</url>
+    </p>
+    <blockquote>
+      <p>
+        [The second] is defined by taking the fixed numerical value of the caesium frequency, <m>\Delta_{\nu_{\text{Cs}}}</m>, the
+        unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz,
+        which is equal to <m>\text{s}^{-1}</m>.
+      </p>
+    </blockquote>
+  
+  </subsection>
+</section>
+
+<!-- Additional Resources:
+
+
+-->
