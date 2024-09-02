@@ -36,7 +36,7 @@
   <ul>
     <li>
       <p>
-        Title and Header Information: This section is mostly for organization purposes. You should use the title
+        Title and Header: This section is mostly for organization purposes. You should use the title
         that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly
         add one in. The remainder of the header information is the name of the group members. Typically, lab groups
         will be limited to three members, but your instructor may decide differently.
@@ -86,4 +86,20 @@
       </p>
     </li>
   </ul>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://centers.njit.edu/introphysics/physics-lab-report-guidelines/">(New Jersey Institute of Technology) Physics Lab Report Guidelines</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="http://physics.wm.edu/~inovikova/phys352/LabReports.pdf">(William and Mary Department of Physics) Tips for Writing a Good Lab Report [PDF]</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
 </section>

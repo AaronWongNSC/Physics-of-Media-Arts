@@ -61,6 +61,9 @@
     unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.
   </p>
   <definition>
+    <idx><h>scientific method (informal)</h></idx>
+    <idx><h>informal scientific method</h></idx>
+
     <title>An Informal Scientific Method</title>
     <statement>
       <p>
@@ -107,7 +110,14 @@
     people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see
     how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.
   </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://undsci.berkeley.edu/understanding-science-101/how-science-works/">(UC Museum of Paleontology) Understanding Science 101: How Science Works</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
 </section>
-<!-- Additional Resources:
-https://undsci.berkeley.edu/understanding-science-101/how-science-works/
--->
