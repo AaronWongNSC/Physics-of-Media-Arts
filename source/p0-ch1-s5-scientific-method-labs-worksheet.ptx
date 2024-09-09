@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-scientific-method-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-scientific-method-labs-worksheet" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: The Scientific Method</title>
 
-  <exploration xml:id="lab-curious-thinker">
+  <worksheet xml:id="lab-curious-thinker-worksheet">
     <title>Becoming a Curious Thinker</title>
 
     <exercisegroup>
@@ -29,7 +29,7 @@
           starting the research.
         </p>
       </introduction>
-        
+    
     </exercisegroup>
 
     <exercisegroup>
@@ -40,6 +40,7 @@
           We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home.
           At each location, we're going to complete the following steps:
         </p>
+        <!--
         <ol>
           <li>
             <p>
@@ -62,7 +63,37 @@
             </p>
           </li>
         </ol>
+        -->
       </introduction>
+    
+      <exercise>
+        <statement>
+          <p>
+            Identify 5-7 objects in the space.
+          </p>
+        </statement>
+      </exercise>
+      <exercise>
+        <statement>
+          <p>
+            Pick 1 object to ask questions about.
+          </p>
+        </statement>
+      </exercise>
+      <exercise>
+        <statement>
+          <p>
+            Write down a list of at least 5 questions about it. (Feel free to ask more!)
+          </p>
+        </statement>
+      </exercise>
+      <exercise>
+        <statement>
+          <p>
+            Pick 3 of those questions and determine how you might go about finding the answer to those questions.
+          </p>
+        </statement>
+      </exercise>
 
       <conclusion>
         <p>
@@ -236,6 +267,7 @@
           </ul>
         </hint>
       </conclusion>
+    
     </exercisegroup>
 
     <exercisegroup>
@@ -358,7 +390,7 @@
       </ul>
     </conclusion>
 
-  </exploration>
+  </worksheet>
 
 
   <outcomes>

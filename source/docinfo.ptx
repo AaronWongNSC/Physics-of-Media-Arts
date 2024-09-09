@@ -30,6 +30,7 @@
 
   <rename element="objectives" xml:lang="en-US">Learning Objectives</rename>
   <rename element="exploration" xml:lang="en-US">Lab Activity</rename>
+  <rename element="worksheet" xml:lang="en-US">Lab Activity</rename>
   <rename element="outcomes" xml:lang="en-US">Additional Resources</rename>
 
   <!-- Specify the default type of cross reference: -->
