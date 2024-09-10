@@ -65,10 +65,8 @@
       </introduction>
 
       <conclusion>
-        <p>
-          Here is an example:
-        </p>
         <hint>
+          <title>Example 1</title>
           <ul>
             <li>
               <p>
@@ -146,10 +144,8 @@
             </li>
           </ul>
         </hint>
-        <p>
-          Here is another example:
-        </p>
         <hint>
+          <title>Example 2</title>
           <ul>
             <li>
               <p>
@@ -248,115 +244,133 @@
       </introduction>
 
       <exercise>
-        <p>
-          Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult?
-          Why do you think that was the case?
-        </p>
-      </exercise>
-      <exercise>
-        <p>
-          What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought
-          it would be hard to come up with questions about it?
-        </p>
-      </exercise>
-      <exercise>
-        <p>
-          What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?
-        </p>
-      </exercise>
-    </exercisegroup>
-
-    <introduction>
-      <p>
-        After you've completed the tasks, answer the following discussion questions:
-      </p>
-
-      <task>
         <statement>
           <p>
             Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult?
             Why do you think that was the case?
           </p>
         </statement>
-      </task>
-      <task>
+      </exercise>
+      <exercise>
         <statement>
           <p>
             What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought
             it would be hard to come up with questions about it?
           </p>
         </statement>
-      </task>
-      <task>
+      </exercise>
+      <exercise>
         <statement>
           <p>
             What was the best question you came up with? What are the features of it that make it a good question?
           </p>
         </statement>
-      </task>
-      <task>
+      </exercise>
+      <exercise>
         <statement>
           <p>
             What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?
           </p>
         </statement>
-      </task>
-      <task>
+      </exercise>
+      <exercise>
         <statement>
           <p>
             Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?
           </p>
         </statement>
-      </task>
-    </introduction>
+      </exercise>
 
-    <conclusion>
-      <p>
-        As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible,
-        while others were complicated enough that you really need a lot of information to even begin the process of answering the question.
-        The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.
-      </p>
-      <p>
-        <em>Lab Write-Up Guidance:</em> Use the following guidance to help you complete your lab write-up.
-      </p>
-      <ul>
-        <li>
+    </exercisegroup>
+
+    <exercisegroup>
+      <title>Conclusion</title>
+    
+      <introduction>
+        <p>
+          As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible,
+          while others were complicated enough that you really need a lot of information to even begin the process of answering the question.
+          The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.                
+        </p>
+      </introduction>
+    
+    </exercisegroup>
+
+    <exercisegroup>
+      <title>Lab Write-Up Guidance</title>
+    
+      <introduction>
+        <p>
+          Use the following outline to help you write up your lab report completely and correctly.
+        </p>
+      </introduction>
+
+      <exercise>
+        <title>Title and Header</title>
+
+        <statement>
           <p>
-            Title and Header: What is the title of the lab and who was in the lab group?
+            What is the title of the lab and who was in the lab group?
           </p>
-        </li>
-        <li>
+        </statement>
+      </exercise>
+    
+      <exercise>
+        <title>Introduction</title>
+
+        <statement>
           <p>
-            Introduction: In your own words, what was the purpose of the lab activity? This should only take a
+            In your own words, what was the purpose of the lab activity? This should only take a
             few sentences for this lab.
           </p>
-        </li>
-        <li>
+        </statement>
+      </exercise>
+
+      <exercise>
+        <title>Procedure</title>
+
+        <statement>
           <p>
-            Procedure: This lab has you executing the same procedure in a few different locations. You do not need to write out
+            This lab has you executing the same procedure in a few different locations. You do not need to write out
             the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.
           </p>
-        </li>
-        <li>
+        </statement>
+      </exercise>
+
+      <exercise>
+        <title>Results and Data</title>
+
+        <statement>
           <p>
-            Results and Data: For this lab, the results and data consist of lists and sentences. You can use the examples in the lab
+            For this lab, the results and data consist of lists and sentences. You can use the examples in the lab
             activity to give you some ideas for how to organize your work.
           </p>
-        </li>
-        <li>
+        </statement>
+      </exercise>
+
+      <exercise>
+        <title>Discussion</title>
+
+        <statement>
           <p>
-            Discussion: Answer the discussion questions. Be sure that you state the original question and organize it in a way that is
+            Answer the discussion questions. Be sure that you state the original question and organize it in a way that is
             easy to follow.
           </p>
-        </li>
-        <li>
+        </statement>
+      </exercise>
+
+      <exercise>
+        <title>Conclusion</title>
+
+        <statement>
           <p>
-            Conclusion: Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything,
+            Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything,
             is there something that could have been done differently that would make the lab better?
           </p>
-        </li>
-      </ul>
-    </conclusion>
+        </statement>
+      </exercise>
+
+    </exercisegroup>
 
   </exploration>
 
