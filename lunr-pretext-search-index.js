@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "  Physics for Creatives   copyright  "
+  "body": "  Physics of Media Arts   copyright  "
 },
 {
   "id": "sec-scientific-method",
