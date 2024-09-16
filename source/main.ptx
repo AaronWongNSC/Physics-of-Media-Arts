@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Physics for Creatives</title>
-    <subtitle>Conceptual Physics for Visual Media Students</subtitle>
+    <title>Physics of Media Arts</title>
+    <subtitle>Conceptual Physics for Students of the Media Arts</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
