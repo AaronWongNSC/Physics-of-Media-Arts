@@ -244,6 +244,114 @@ var ptx_lunr_docs = [
   "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
 },
 {
+  "id": "sec-scientific-method-labs-subsections",
+  "level": "1",
+  "url": "sec-scientific-method-labs-subsections.html",
+  "type": "Section",
+  "number": "1.6",
+  "title": "Lab Activities: The Scientific Method",
+  "body": " Lab Activities: The Scientific Method    Introduction   How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.   Procedure   We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.     Example 1    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Example 2    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.        Discussion   After you've completed the tasks, answer the following discussion questions:   Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?  What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?  What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?  Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?    Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.   Title and Header  What is the title of the lab and who was in the lab group?   Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.   Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.   Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.   Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.   Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?        The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.      "
+},
+{
+  "id": "lab-curious-thinker-subsection-10-3",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-10-3",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "",
+  "body": "Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case? "
+},
+{
+  "id": "lab-curious-thinker-subsection-10-4",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-10-4",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "",
+  "body": "What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it? "
+},
+{
+  "id": "lab-curious-thinker-subsection-10-5",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-10-5",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "",
+  "body": "What was the most clever way you came up with for answering one of your questions? What did you think was clever about it? "
+},
+{
+  "id": "lab-curious-thinker-subsection-10-6",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-10-6",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "",
+  "body": "Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know? "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-3",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-3",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Title and Header.",
+  "body": "Title and Header  What is the title of the lab and who was in the lab group?  "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-4",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-4",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Introduction.",
+  "body": "Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.  "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-5",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-5",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Procedure.",
+  "body": "Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.  "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-6",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-6",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Results and Data.",
+  "body": "Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.  "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-7",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-7",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Discussion.",
+  "body": "Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.  "
+},
+{
+  "id": "lab-curious-thinker-subsection-12-8",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-12-8",
+  "type": "Checkpoint",
+  "number": "[STRUCT].1",
+  "title": "Conclusion.",
+  "body": "Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?  "
+},
+{
+  "id": "lab-curious-thinker-subsection-13",
+  "level": "2",
+  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-13",
+  "type": "Additional Resources",
+  "number": "1.6.1",
+  "title": "",
+  "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
+},
+{
   "id": "sec-numbers-and-units",
   "level": "1",
   "url": "sec-numbers-and-units.html",
