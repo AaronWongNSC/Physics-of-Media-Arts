@@ -29,9 +29,11 @@
   <!-- <rename element="assemblage" xml:lang="en-US">Summary</rename> -->
 
   <rename element="objectives" xml:lang="en-US">Learning Objectives</rename>
+  <rename element="outcomes" xml:lang="en-US">Additional Resources</rename>
+
   <rename element="exploration" xml:lang="en-US">Lab Activity</rename>
   <rename element="worksheet" xml:lang="en-US">Lab Activity</rename>
-  <rename element="outcomes" xml:lang="en-US">Additional Resources</rename>
+  <rename element="subsection" xml:lang="en-US">Lab Activity</rename>
 
   <!-- Specify the default type of cross reference: -->
   <!-- <cross-references text="type-global" /> -->
