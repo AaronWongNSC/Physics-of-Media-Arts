@@ -38,11 +38,39 @@
         which is equal to <m>\text{s}^{-1}</m>.
       </p>
     </blockquote>
+    <p>
+      What does this mean? Basically, it means that a second is <em>defined</em> by (basically) watching an atom and counting how quickly it
+      bounces back and forth between two states. After about 9 billion of those transitions have occured, we say that a second has passed.
+    </p>
+    <p>
+      Historically, seconds have been a subdivision of a long unit of time. You would take a day, break it into 24 hours, break each hour into
+      60 minutes, and each minute into 60 seconds, and that would result in having a second be <m>\frac{1}{86400}</m> of a day. The problem with
+      this definition is that a day is not a fixed unit of time. It turns out that the spin of the earth is decreasing at a rate of about 1.8
+      milliseconds every century (and this is only an average). This means that our measurements would be slowly shifting as well, and that's not
+      what we want to see out of our science.
+    </p>
+    <p>
+      At a deeper level, it ties our concept of time to something that's not consistently measurable. If we were able to get a consistent and perfectly
+      exact measurement of a day (and this time period is something that never changes), then we could theoretically tie our calculations to it. But
+      we can't, and so scientists have tried to come up with something that they think would satisfy the requirements.
+    </p>
+    <aside>
+      <p>
+        While this may seem random, we have used vibrations of quartz crystals to keep consistent time since the 1940s. And that was the start of the
+        pathway that has taken us to where we are.
+      </p>
+    </aside>
   
   </subsection>
+
+<outcomes>
+  <ul>
+    <li>
+      <p>
+        <url href="https://americanhistory.si.edu/ontime/expanding/seconds.html">(The National Museum of American History) On Time: Splitting Seconds</url>
+      </p>
+    </li>
+  </ul>
+</outcomes>
+
 </section>
-
-<!-- Additional Resources:
-
-
--->
