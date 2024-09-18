@@ -406,11 +406,38 @@ var ptx_lunr_docs = [
   "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
 },
 {
+  "id": "sec-section-name",
+  "level": "1",
+  "url": "sec-section-name.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Section Title",
+  "body": " Section Title  Text of section.  "
+},
+{
+  "id": "sec-section-labs",
+  "level": "1",
+  "url": "sec-section-labs.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Labs",
+  "body": " Labs   Physics Lab   Text of section.  "
+},
+{
+  "id": "sec-section-labs-2",
+  "level": "2",
+  "url": "sec-section-labs.html#sec-section-labs-2",
+  "type": "Lab Activity",
+  "number": "2.1",
+  "title": "Physics Lab.",
+  "body": " Physics Lab  "
+},
+{
   "id": "sec-numbers-and-units",
   "level": "1",
   "url": "sec-numbers-and-units.html",
   "type": "Section",
-  "number": "2.1",
+  "number": "3.1",
   "title": "Numbers and Units",
   "body": " Numbers and Units    -----   ------   In order to explore physics, we need to work with numbers and units. So before we launch into physics, we have to spend a little bit of time understanding what those things are.  Here is a seemingly simple question: What is the number three? Yes, you can draw the arabic numeral 3 and say that this is 3. But that doesn't really get at the question, since there are lots of ways to write the number 3. We can also write three using a system of tally marks, or using numbers from a different language. Your next impulse might be to try gather three objects and say that these objects represent the number three. But is that true? How would we know from this that if we grabbed three other objects that those other things would also be three?  It turns out that the question of \"What is a number?\" is extremely complicated and can lead down rich paths of mathematical philosophy. For example, we can think about numbers in terms of their properties (numbers behave like this) or we can try to think about the \"essence\" of numbers (what makes a number a number and not something else?). And as you get deeper into the subject, you'll find that there is not a single simple answer to the question. (This is another example of how simple questions can lead to complicated answers.)  For our purposes, we will stick with the idea that numbers are symbols that represent a quantity or an amount. You might ask, \"A quantity or amount of what?\" And that's a good question to ask. Numbers don't tell us that. They just represent the abstract concept of quantity or amount. In order to know what sorts of things we have quantities of, we have to add a unit.   unit A unit is a word that represents a known quantity that represents a standard for a measurement. In casual contexts, the known quantity can be something simple like an apple. It makes sense for us to say that there are \"five apples\" on the table. However, from a more scientific perspective, an \"apple\" is not precise enough for us to use for our studies. What type of apples are they? And even if we have the same variety of apple (say, red delicious apples), they can be of many different weights and sizes. This makes for a very imprecise form of measurement.   Why are red delicious apples called that? If you've ever had them, they are perhaps among the least delicious apples that are out there! Apparently, they used to taste better, but over the years they have been bred for things like rotting slowly and not being easily bruised, and not bred for taste. Basically, the red delicious apple is a victim of modern capitalism.   When it comes to science, we have to use very precise quantities to avoid this type of variation. This will be the topic of the next section.  "
 },
@@ -428,7 +455,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-si-base-units.html",
   "type": "Section",
-  "number": "2.2",
+  "number": "3.2",
   "title": "SI Base Units",
   "body": " SI Base Units    I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it.   Lord Kelvin    SI  International Bureau of Weights and Measures The units used in modern science are known as SI units. SI stands for the \"International System of Units\" (from the French Système international d'unités ). These units were created by an organization called the International Bureau of Weights and Measures and is an agreed-upon standard that is officially used by almost every country in the world and the entirety of the modern scientific community. We are going to take a brief tour of a few of the units, which form the foundation for all other scientific units.   Seconds   second A second is a unit of time. Measuring the passage of time is something that we use in our daily lives and the second is the smallest common unit of time that we use for that purpose. But the technical definition of a second is somewhat surprising. The statement below is taken from the 9th edition of the \"SI brochure\" :   [The second] is defined by taking the fixed numerical value of the caesium frequency, , the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to .   What does this mean? Basically, it means that a second is defined by (basically) watching an atom and counting how quickly it bounces back and forth between two states. After about 9 billion of those transitions have occured, we say that a second has passed.  Historically, seconds have been a subdivision of a long unit of time. You would take a day, break it into 24 hours, break each hour into 60 minutes, and each minute into 60 seconds, and that would result in having a second be of a day. The problem with this definition is that a day is not a fixed unit of time. It turns out that the spin of the earth is decreasing at a rate of about 1.8 milliseconds every century (and this is only an average). This means that our measurements would be slowly shifting as well, and that's not what we want to see out of our science.  At a deeper level, it ties our concept of time to something that's not consistently measurable. If we were able to get a consistent and perfectly exact measurement of a day (and this time period is something that never changes), then we could theoretically tie our calculations to it. But we can't, and so scientists have tried to come up with something that they think would satisfy the requirements.   While this may seem random, we have used vibrations of quartz crystals to keep consistent time since the 1940s. And that was the start of the pathway that has taken us to where we are.     Meters   meter A meter is a unit of distance, and it is the distance that light travels in of a second. It turns out that this is about 39 inches, or a few inches longer than a yard. But why would this be the definition? It turns out that one of the laws of physics is that the speed of light is the same for all observers. This claim takes a bit to unpack, because it's a deeply unintuitive result that leads to all sorts of interesting consequences. So for now, we'll just say that the speed of light is a universal constant, which makes it a useful value for making measurements. The specific denominator of the fraction comes the speed of light being exactly 299,792,458 meters per second. And this also presents a chicken-and-egg problem. We use the speed of light to define a distance, but then we can't make sense of that distance that without measuring the speed of light.  Humans have been measuring distance for much longer than we have known the speed of light. And there were multiple iterations of the distance of a meter, but each of those were found to be imprecise. For example, an early definition of a meter was connected to the length of a particular pendulum to make it oscillate with a specific frequency, but that length turned out to be different in different locations (due to the fact that gravity changes with altitude). Another attempted meter was to define it to be one ten-millionth of the distance from the North Pole to the Equator, but that measurement assumes the earth is smooth enough to make that meaningful. And while neither of those two methods were perfect, they did create an expectation for what a meter ought to be. And so the choice of declaring that the speed of light is exactly 299,792,458 meters per second was to create an integer value that also wouldn't significantly alter the existing meter.    Kilograms   kilogram  mass  weight  force A kilogram is a unit of mass. Mass is a somewhat complicated quantity to measure because it gets mixed up with a related but different concept of weight . The mass is basically the amount of matter in the object. If there's more mass in one object than another, it means that there's more matter in that object compared to the other. But how would we know how much matter there is? Our first intuition might be to weight it, and then we can say that there's more matter in the one that weighs more. This leads to the correct conclusion, but it's deceptive about the nature of matter.   gravity  intertia  International Space Station (ISS) You might be familiar with the idea that objects weigh less on the moon than they do on earth, and this is related to the concept of gravity . Since the gravity changes from one location to another, it makes it hard to really use gravity as the way to determine mass. In fact, if we were to put objects into orbit on the International Space Station (or ISS), we could not use weight at all since everything would weigh nothing! So a better concept of mass is to think about inertia , which is a measure of how hard it is to change the motion of something. Even though objects have no weight in space, it still takes a certain amount of effort to move them. Objects with more mass are harder to move than objects with less mass. And the difficulty of moving an object (not its weight) is what we should be thinking of when we think about mass.  You might have noticed that we haven't given the definition of a kilogram yet. That's because the definition is connected to a quantity known as Planck's constant . This is the number that relates the energy of a photon to its frequency. But to understand what that means, we would have to get into quantum mechanics, and that's just a lot to take in. So it's better to just hold the concept of mass without worrying about its formal definition.    The Other SI Units   ampere  kelvin  mole  candela There are four other SI units.     Ampere : A measure of electrical current     Kelvin : A measure of temperature     Mole : A measure of quantity     Candela : A measure of brightness of light    Each of these units have their own histories and complexities, but we will leave it as an exercise to explore that.       The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     (The National Institute of Standards and Technology) SI Units      (The National Museum of American History) On Time: Splitting Seconds      "
 },
@@ -518,7 +545,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-si-base-units.html#sec-si-base-units-8",
   "type": "Additional Resources",
-  "number": "2.2",
+  "number": "3.2",
   "title": "",
   "body": "    The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     (The National Institute of Standards and Technology) SI Units      (The National Museum of American History) On Time: Splitting Seconds     "
 },
@@ -527,63 +554,36 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-derived-units.html",
   "type": "Section",
-  "number": "2.3",
+  "number": "3.3",
   "title": "Derived Units",
-  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.      The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     "
+  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  What else to say here?      Link : Description     "
 },
 {
-  "id": "sec-derived-units-7",
+  "id": "sec-derived-units-8",
   "level": "2",
-  "url": "sec-derived-units.html#sec-derived-units-7",
+  "url": "sec-derived-units.html#sec-derived-units-8",
   "type": "Additional Resources",
-  "number": "2.3",
+  "number": "3.3",
   "title": "",
-  "body": "    The International System of Units (9th Edition) : This is the official document that defines all of the SI units.    "
+  "body": "    Link : Description    "
 },
 {
-  "id": "sec-section-labs",
+  "id": "sec-derived-units",
   "level": "1",
-  "url": "sec-section-labs.html",
+  "url": "sec-derived-units.html",
   "type": "Section",
-  "number": "2.4",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "number": "3.4",
+  "title": "Derived Units",
+  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  What else to say here?      Link : Description     "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "sec-derived-units-8",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "2.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "3.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
-},
-{
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "3.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
-  "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "3.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "sec-derived-units.html#sec-derived-units-8",
+  "type": "Additional Resources",
+  "number": "3.4",
+  "title": "",
+  "body": "    Link : Description    "
 },
 {
   "id": "sec-section-name",
