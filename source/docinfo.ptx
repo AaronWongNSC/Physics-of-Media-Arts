@@ -35,6 +35,8 @@
   <rename element="worksheet" xml:lang="en-US">Lab Activity</rename>
   <rename element="subsection" xml:lang="en-US">Lab Activity</rename>
 
+  <rename element="hint" xml:lang="en-US">Example</rename>
+
   <!-- Specify the default type of cross reference: -->
   <!-- <cross-references text="type-global" /> -->
 

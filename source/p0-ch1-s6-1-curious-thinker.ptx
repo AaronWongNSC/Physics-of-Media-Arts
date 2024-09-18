@@ -53,175 +53,174 @@
           </li>
       </ol>
     </paragraphs>
-    <subsubsection>
-        <title>Example 1</title>
+    <paragraphs>
+      <title>Example 1</title>
 
-        <ul>
-            <li>
-            <p>
-                Location: Bedroom
-            </p>
-            </li>
-            <li>
-            <p>
-                Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt
-            </p>
-            </li>
-            <li>
-            <p>
-                Questions about the light switch:
-            </p>
-            <ul>
-                <li>
-                <p>
-                    How does it work?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How much electricity flows through it?
-                </p>
-                </li>
-                <li>
-                <p>
-                    What is it made of?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How is it manufactured?
-                </p>
-                </li>
-                <li>
-                <p>
-                    Are there other types of light switches? What makes them different?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How easy is it to fix or repair a broken light switch?
-                </p>
-                </li>
-            </ul>
-            </li>
-            <li>
-            <p>
-                Finding answers:
-            </p>
-            <ul>
-                <li>
-                <p>
-                    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it
-                    apart and see if we can see the mechanism.
-                </p>
-                </li>
-                <li>
-                <p>
-                    How much electricity flows through it? -- We would need a device that can be used to measure the amount
-                    of electricity. A quick internet search shows that such a device is called a "multimeter".
-                </p>
-                </li>
-                <li>
-                <p>
-                    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be
-                    used to determine the type of plastic it is. But the inside part probably has some metal in it because
-                    electricity doesn't flow through plastic. We might have to use a different type of kit to test for different
-                    types of metals.
-                </p>
-                </li>
-            </ul>
-            </li>
-        </ul>
-    </subsubsection>
-    <subsubsection>
-        <title>Example 2</title>
+      <ul>
+          <li>
+          <p>
+              Location: Bedroom
+          </p>
+          </li>
+          <li>
+          <p>
+              Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt
+          </p>
+          </li>
+          <li>
+          <p>
+              Questions about the light switch:
+          </p>
+          <ul>
+              <li>
+              <p>
+                  How does it work?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How much electricity flows through it?
+              </p>
+              </li>
+              <li>
+              <p>
+                  What is it made of?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How is it manufactured?
+              </p>
+              </li>
+              <li>
+              <p>
+                  Are there other types of light switches? What makes them different?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How easy is it to fix or repair a broken light switch?
+              </p>
+              </li>
+          </ul>
+          </li>
+          <li>
+          <p>
+              Finding answers:
+          </p>
+          <ul>
+              <li>
+              <p>
+                  How does it work? -- There's probably a YouTube video that explains this. We could also try to take it
+                  apart and see if we can see the mechanism.
+              </p>
+              </li>
+              <li>
+              <p>
+                  How much electricity flows through it? -- We would need a device that can be used to measure the amount
+                  of electricity. A quick internet search shows that such a device is called a "multimeter".
+              </p>
+              </li>
+              <li>
+              <p>
+                  What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be
+                  used to determine the type of plastic it is. But the inside part probably has some metal in it because
+                  electricity doesn't flow through plastic. We might have to use a different type of kit to test for different
+                  types of metals.
+              </p>
+              </li>
+          </ul>
+          </li>
+      </ul>
+    </paragraphs>
+    <paragraphs>
+      <title>Example 2</title>
 
-        <ul>
-            <li>
-            <p>
-                Location: Parking Lot
-            </p>
-            </li>
-            <li>
-            <p>
-                Objects of Interest: Cars, trees, birds, dumpster, painted stripes
-            </p>
-            </li>
-            <li>
-            <p>
-                Questions about the cars:
-            </p>
-            <ul>
-                <li>
-                <p>
-                    How many cars are in the parking lot?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many cars are normally in the parking lot?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many cars does the parking lot hold?
-                </p>
-                </li>
-                <li>
-                <p>
-                    What is the most common type of car in the parking lot?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How much does a car weigh?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many cars are hybrid or electric?
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many of the cars are not locked?
-                </p>
-                </li>
-            </ul>
-            </li>
-            <li>
-            <p>
-                Finding Answers:
-            </p>
-            <ul>
-                <li>
-                <p>
-                    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while
-                    we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos.
-                    Having a drone might be useful because then we could take an overhead view of the parking lot.
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many cars are normally in the parking lot? -- We could count the number of cars at different
-                    times and then create a graph of the results. Or we can have someone monitor the entrances and exits
-                    to see when cars come and go and use that information to count the cars throughout the day.
-                </p>
-                </li>
-                <li>
-                <p>
-                    How many of the cars are not locked? -- We could go through the parking lot and try to open the car
-                    doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find
-                    the answer.] We can also observe people as they walk to the car to see how many of them need to unlock
-                    the car before getting in. We would have to be close enough to hear the car locks in case someone has
-                    keyless car entry.
-                </p>
-                </li>
-            </ul>
-            </li>
-        </ul>
-    </subsubsection>
-      
+      <ul>
+          <li>
+          <p>
+              Location: Parking Lot
+          </p>
+          </li>
+          <li>
+          <p>
+              Objects of Interest: Cars, trees, birds, dumpster, painted stripes
+          </p>
+          </li>
+          <li>
+          <p>
+              Questions about the cars:
+          </p>
+          <ul>
+              <li>
+              <p>
+                  How many cars are in the parking lot?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many cars are normally in the parking lot?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many cars does the parking lot hold?
+              </p>
+              </li>
+              <li>
+              <p>
+                  What is the most common type of car in the parking lot?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How much does a car weigh?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many cars are hybrid or electric?
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many of the cars are not locked?
+              </p>
+              </li>
+          </ul>
+          </li>
+          <li>
+          <p>
+              Finding Answers:
+          </p>
+          <ul>
+              <li>
+              <p>
+                  How many cars are in the parking lot? -- We can try to count them, but cars might come and go while
+                  we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos.
+                  Having a drone might be useful because then we could take an overhead view of the parking lot.
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many cars are normally in the parking lot? -- We could count the number of cars at different
+                  times and then create a graph of the results. Or we can have someone monitor the entrances and exits
+                  to see when cars come and go and use that information to count the cars throughout the day.
+              </p>
+              </li>
+              <li>
+              <p>
+                  How many of the cars are not locked? -- We could go through the parking lot and try to open the car
+                  doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find
+                  the answer.] We can also observe people as they walk to the car to see how many of them need to unlock
+                  the car before getting in. We would have to be close enough to hear the car locks in case someone has
+                  keyless car entry.
+              </p>
+              </li>
+          </ul>
+          </li>
+      </ul>
+    </paragraphs>      
  
     <exercisegroup>
         <title>Discussion</title>

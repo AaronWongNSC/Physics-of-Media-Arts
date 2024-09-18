@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-derived-units" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derived Units</title>
+  
+  <blockquote>
+    <p>
+      <q>-----</q>
+    </p>
+    <attribution>-----</attribution>
+  </blockquote>
+
+  <p>
+    We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in 
+    a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it
+    gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those
+    units.
+  </p>
+  <p>
+    Here are some examples of some physics concepts and their associated units:
+  </p>
+  <ul>
+    <li>
+      <p>
+        Speed (<m>\frac{\text{m}}{\text{s}}</m>): A measure of how far an object travels in a particular amount of time.
+      </p>
+    </li>
+    <li>
+      <p>
+        Acceleration (<m>\frac{\text{m}}{\text{s}^2}</m>): A measure of the change of speed over a period of time.
+      </p>
+    </li>
+    <li>
+      <p>
+        Force (<m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2}</m>): A measure of the push or pull applied to an object.
+      </p>
+    </li>
+  </ul>
+  <p>
+    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood
+    as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some
+    concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is
+    calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.
+  </p>
+
+
+<outcomes>
+  <ul>
+    <li>
+      <p>
+        <url href="https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-EN.pdf">The International System of Units (9th Edition)</url>: This is the
+        official document that defines all of the SI units.
+      </p>
+    </li>
+  </ul>
+</outcomes>
+
+</section>

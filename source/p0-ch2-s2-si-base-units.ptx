@@ -5,9 +5,9 @@
   
   <blockquote>
     <p>
-      <q>-----</q>
+      <q>I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it.</q>
     </p>
-    <attribution>------</attribution>
+    <attribution>Lord Kelvin</attribution>
   </blockquote>
 
   <p>
@@ -17,7 +17,7 @@
     The units used in modern science are known as SI units. <term>SI</term> stands for the "International System of Units"
     (from the French <em>Système international d'unités</em>). These units were created by an organization called the <term>International
     Bureau of Weights and Measures</term> and is an agreed-upon standard that is officially used by almost every country in the world and
-    the entirety of the modern scientific community. We are going to take a brief tour of the seven base units, which form the foundation
+    the entirety of the modern scientific community. We are going to take a brief tour of a few of the units, which form the foundation
     for all other scientific units.
   </p>
 
@@ -29,7 +29,8 @@
 
       A <term>second</term> is a unit of time. Measuring the passage of time is something that we use in our daily lives and the second
       is the smallest common unit of time that we use for that purpose. But the technical definition of a second is somewhat surprising.
-      The statement below is taken from the <url href="https://www.bipm.org/utils/common/pdf/si-brochure/SI-Brochure-9.pdf">9th edition...</url>
+      The statement below is taken from the <url href="https://www.bipm.org/utils/common/pdf/si-brochure/SI-Brochure-9.pdf">9th edition
+      of the "SI brochure"</url>:
     </p>
     <blockquote>
       <p>
@@ -63,8 +64,119 @@
   
   </subsection>
 
+  <subsection xml:id="subsec-meters">
+    <title>Meters</title>
+
+    <p>
+      <idx><h>meter</h></idx>
+
+      A <term>meter</term> is a unit of distance, and it is the distance that light travels in <m>\frac{1}{299792458}</m> of a second. It turns out
+      that this is about 39 inches, or a few inches longer than a yard. But why would this be the definition? It turns out that one of the laws of
+      physics is that the speed of light is the same for all observers. This claim takes a bit to unpack, because it's a deeply unintuitive result
+      that leads to all sorts of interesting consequences. So for now, we'll just say that the speed of light is a universal constant, which makes
+      it a useful value for making measurements. The specific denominator of the fraction comes the speed of light being exactly 299,792,458 meters
+      per second. And this also presents a chicken-and-egg problem. We use the speed of light to define a distance, but then we can't make sense of
+      that distance that without measuring the speed of light.
+    </p>
+    <p>
+      Humans have been measuring distance for much longer than we have known the speed of light. And there were
+      multiple iterations of the distance of a meter, but each of those were found to be imprecise. For example, an early definition of a meter
+      was connected to the length of a particular pendulum to make it oscillate with a specific frequency, but that length turned out to be
+      different in different locations (due to the fact that gravity changes with altitude). Another attempted meter was to define it to be
+      one ten-millionth of the distance from the North Pole to the Equator, but that measurement assumes the earth is smooth enough to make
+      that meaningful. And while neither of those two methods were perfect, they did create an expectation for what a meter ought to be.
+      And so the choice of declaring that the speed of light is exactly 299,792,458 meters per second was to create an integer value that also
+      wouldn't significantly alter the existing meter. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-kilograms">
+    <title>Kilograms</title>
+
+    <p>
+      <idx><h>kilogram</h></idx>
+      <idx><h>mass</h></idx>
+      <idx><h>weight</h></idx>
+      <idx><h>force</h></idx>
+
+      A <term>kilogram</term> is a unit of mass. <term>Mass</term> is a somewhat complicated quantity to measure because it gets mixed up with a related
+      but different concept of <term>weight</term>. The mass is basically the amount of matter in the object. If there's more mass in one object than
+      another, it means that there's more matter in that object compared to the other. But how would we know how much matter there is? Our first intuition
+      might be to weight it, and then we can say that there's more matter in the one that weighs more. This leads to the correct conclusion, but it's
+      deceptive about the nature of matter.
+    </p>
+    <p>
+      <idx><h>gravity</h></idx>
+      <idx><h>intertia</h></idx>
+      <idx><h>International Space Station (ISS)</h></idx>
+
+      You might be familiar with the idea that objects weigh less on the moon than they do on earth, and this is related to the concept of <term>gravity</term>.
+      Since the gravity changes from one location to another, it makes it hard to really use gravity as the way to determine mass. In fact, if we were to
+      put objects into orbit on the <term>International Space Station</term> (or ISS), we could not use weight at all since everything would weigh nothing! So
+      a better concept of mass is to think about <term>inertia</term>, which is a measure of how hard it is to change the motion of something. Even though objects
+      have no weight in space, it still takes a certain amount of effort to move them. Objects with more mass are harder to move than objects with less mass.
+      And the difficulty of moving an object (not its weight) is what we should be thinking of when we think about mass.
+    </p>
+    <p>
+      You might have noticed that we haven't given the definition of a kilogram yet. That's because the definition is connected to a quantity known as
+      Planck's constant <m>h</m>. This is the number that relates the energy of a photon to its frequency. But to understand what that means, we would have
+      to get into quantum mechanics, and that's just a lot to take in. So it's better to just hold the concept of mass without worrying about its formal
+      definition.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-other-SI">
+    <title>The Other SI Units</title>
+
+    <p>
+      <idx><h>ampere</h></idx>
+      <idx><h>kelvin</h></idx>
+      <idx><h>mole</h></idx>
+      <idx><h>candela</h></idx>
+    
+      There are four other SI units.
+    </p>
+    <ul>
+      <li>
+        <p>
+          <term>Ampere</term>: A measure of electrical current
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Kelvin</term>: A measure of temperature
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Mole</term>: A measure of quantity
+        </p>
+      </li>
+      <li>
+        <p>
+          <term>Candela</term>: A measure of brightness of light
+        </p>
+      </li>
+    </ul>
+    <p>
+      Each of these units have their own histories and complexities, but we will leave it as an exercise to explore that.
+    </p>
+
+  </subsection>
+
 <outcomes>
   <ul>
+    <li>
+      <p>
+        <url href="https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-EN.pdf">The International System of Units (9th Edition)</url>: This is the
+        official document that defines all of the SI units.
+      </p>
+    </li>
+    <li>
+      <p>
+        <url href="https://www.nist.gov/pml/owm/metric-si/si-units">(The National Institute of Standards and Technology) SI Units</url>
+      </p>
+    </li>
     <li>
       <p>
         <url href="https://americanhistory.si.edu/ontime/expanding/seconds.html">(The National Museum of American History) On Time: Splitting Seconds</url>
