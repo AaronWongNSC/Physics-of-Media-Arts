@@ -34,7 +34,12 @@
   </objectives>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p>
+      This is a conceptual physics course, so we will try to avoid as much of the algebra as possible to keep our focus on the big ideas
+      and off of the computations that can sometimes obscure them. However, we cannot completely get rid of the mathematical toolbox because
+      the connection between math and physics runs extremely deep. The sections of this chapter will develop the bare minimum set of mathematical
+      skills and ideas that are needed to understand the ideas of this book.
+    </p>
   </introduction>
 
   <!-- include sections -->

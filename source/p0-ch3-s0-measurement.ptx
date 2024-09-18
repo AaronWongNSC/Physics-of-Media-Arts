@@ -23,9 +23,9 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="p0-ch2-s1-numbers-and-units.ptx" />
-  <xi:include href="p0-ch2-s2-si-base-units.ptx" />
-  <xi:include href="p0-ch2-s3-derived-units.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p0-ch3-s1-numbers-and-units.ptx" />
+  <xi:include href="p0-ch3-s2-si-base-units.ptx" />
+  <xi:include href="p0-ch3-s3-derived-units.ptx" />
+  <xi:include href="p0-ch3-s4-0-measurement-labs.ptx" />
 
 </chapter>
