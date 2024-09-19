@@ -100,18 +100,18 @@ var ptx_lunr_docs = [
   "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
 },
 {
-  "id": "sec-scientific-method-labs-worksheet",
+  "id": "lab-curious-thinker-worksheet",
   "level": "1",
-  "url": "sec-scientific-method-labs-worksheet.html",
-  "type": "Section",
+  "url": "lab-curious-thinker-worksheet.html",
+  "type": "Lab Activity",
   "number": "1.5",
-  "title": "Lab Activities: The Scientific Method",
-  "body": " Lab Activities: The Scientific Method   Becoming a Curious Thinker   Introduction   How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.     Procedure   We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:     Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.     Example 1    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Example 2    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.          Discussion   After you've completed the tasks, answer the following discussion questions:   Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?  What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?  What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?  Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?    Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.   Title and Header  What is the title of the lab and who was in the lab group?   Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.   Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.   Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.   Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.   Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?         The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.     "
+  "title": "Becoming a Curious Thinker",
+  "body": " Becoming a Curious Thinker   Introduction   How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.     Procedure   We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:     Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.     Example 1    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Example 2    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.          Discussion   After you've completed the tasks, answer the following discussion questions:   Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?  What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?  What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?  Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?    Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.   Title and Header  What is the title of the lab and who was in the lab group?   Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.   Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.   Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.   Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.   Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?    "
 },
 {
   "id": "lab-curious-thinker-worksheet-3-3",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-3-3",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-3-3",
   "type": "Worksheet Exercise",
   "number": "1.5.1",
   "title": "",
@@ -120,7 +120,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-3-4",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-3-4",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-3-4",
   "type": "Worksheet Exercise",
   "number": "1.5.2",
   "title": "",
@@ -129,7 +129,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-3-5",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-3-5",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-3-5",
   "type": "Worksheet Exercise",
   "number": "1.5.3",
   "title": "",
@@ -138,7 +138,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-3-6",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-3-6",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-3-6",
   "type": "Worksheet Exercise",
   "number": "1.5.4",
   "title": "",
@@ -147,7 +147,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-4-3",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-4-3",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-4-3",
   "type": "Worksheet Exercise",
   "number": "1.5.5",
   "title": "",
@@ -156,7 +156,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-4-4",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-4-4",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-4-4",
   "type": "Worksheet Exercise",
   "number": "1.5.6",
   "title": "",
@@ -165,7 +165,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-4-5",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-4-5",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-4-5",
   "type": "Worksheet Exercise",
   "number": "1.5.7",
   "title": "",
@@ -174,7 +174,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-4-6",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-4-6",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-4-6",
   "type": "Worksheet Exercise",
   "number": "1.5.8",
   "title": "",
@@ -183,7 +183,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-3",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-3",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-3",
   "type": "Worksheet Exercise",
   "number": "1.5.9",
   "title": "Title and Header.",
@@ -192,7 +192,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-4",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-4",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-4",
   "type": "Worksheet Exercise",
   "number": "1.5.10",
   "title": "Introduction.",
@@ -201,7 +201,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-5",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-5",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-5",
   "type": "Worksheet Exercise",
   "number": "1.5.11",
   "title": "Procedure.",
@@ -210,7 +210,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-6",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-6",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-6",
   "type": "Worksheet Exercise",
   "number": "1.5.12",
   "title": "Results and Data.",
@@ -219,7 +219,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-7",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-7",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-7",
   "type": "Worksheet Exercise",
   "number": "1.5.13",
   "title": "Discussion.",
@@ -228,34 +228,25 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-worksheet-6-8",
   "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#lab-curious-thinker-worksheet-6-8",
+  "url": "lab-curious-thinker-worksheet.html#lab-curious-thinker-worksheet-6-8",
   "type": "Worksheet Exercise",
   "number": "1.5.14",
   "title": "Conclusion.",
   "body": "Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?  "
 },
 {
-  "id": "sec-scientific-method-labs-worksheet-3",
-  "level": "2",
-  "url": "sec-scientific-method-labs-worksheet.html#sec-scientific-method-labs-worksheet-3",
-  "type": "Additional Resources",
-  "number": "1.5",
-  "title": "",
-  "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
-},
-{
-  "id": "sec-scientific-method-labs-subsections",
+  "id": "lab-curious-thinker-subsection",
   "level": "1",
-  "url": "sec-scientific-method-labs-subsections.html",
-  "type": "Section",
-  "number": "1.6",
-  "title": "Lab Activities: The Scientific Method",
-  "body": " Lab Activities: The Scientific Method   Becoming a Curious Thinker   Introduction  How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.    Procedure  We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.      Example 1    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Example 2    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.        Discussion   After you've completed the tasks, answer the following discussion questions:   Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?  What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?  What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?  Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?    Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.   Title and Header  What is the title of the lab and who was in the lab group?   Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.   Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.   Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.   Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.   Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?        The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.      "
+  "url": "lab-curious-thinker-subsection.html",
+  "type": "Lab Activity",
+  "number": "1.6.1",
+  "title": "Becoming a Curious Thinker",
+  "body": " Becoming a Curious Thinker   Introduction  How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.    Procedure  We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.      Example 1    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Example 2    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.        Discussion   After you've completed the tasks, answer the following discussion questions:   Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?  What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?  What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?  Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?    Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.   Title and Header  What is the title of the lab and who was in the lab group?   Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.   Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.   Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.   Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.   Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?        The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.     "
 },
 {
   "id": "lab-curious-thinker-subsection-6-3",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-6-3",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-3",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "",
@@ -264,7 +255,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-6-4",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-6-4",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-4",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "",
@@ -273,7 +264,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-6-5",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-6-5",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-5",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "",
@@ -282,7 +273,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-6-6",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-6-6",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-6",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "",
@@ -291,7 +282,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-3",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-3",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-3",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Title and Header.",
@@ -300,7 +291,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-4",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-4",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-4",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Introduction.",
@@ -309,7 +300,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-5",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-5",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-5",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Procedure.",
@@ -318,7 +309,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-6",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-6",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-6",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Results and Data.",
@@ -327,7 +318,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-7",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-7",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-7",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Discussion.",
@@ -336,7 +327,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-8-8",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-8-8",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-8",
   "type": "Checkpoint",
   "number": "[STRUCT].1",
   "title": "Conclusion.",
@@ -345,25 +336,61 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-subsection-9",
   "level": "2",
-  "url": "sec-scientific-method-labs-subsections.html#lab-curious-thinker-subsection-9",
+  "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-9",
   "type": "Additional Resources",
   "number": "1.6.1",
   "title": "",
   "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
 },
 {
-  "id": "sec-scientific-method-mix",
+  "id": "lab-curious-thinkerv2-subsection",
   "level": "1",
-  "url": "sec-scientific-method-mix.html",
-  "type": "Section",
-  "number": "1.7",
-  "title": "Lab Activities: The Scientific Method",
-  "body": " Lab Activities: The Scientific Method   Becoming a Curious Thinker   Becoming a Curious Thinker -- Lab Instructions   Introduction   How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.     Procedure   We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.     Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.          Discussion   After you've completed the tasks, answer the following discussion questions:    Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?    What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?    What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?    Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?       Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.     Title and Header  What is the title of the lab and who was in the lab group?      Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.      Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.      Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.      Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.      Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?            The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.      "
+  "url": "lab-curious-thinkerv2-subsection.html",
+  "type": "Lab Activity",
+  "number": "1.6.2",
+  "title": "Becoming a Curious Thinker",
+  "body": " Becoming a Curious Thinker   Introduction  How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.    Procedure  We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.      Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.        Discussion  After you've completed the tasks, answer the following discussion questions:    Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?    What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?    What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?    Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?      Conclusion  As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.    Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.    Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?         The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.     "
+},
+{
+  "id": "lab-curious-thinkerv2-subsection-4",
+  "level": "2",
+  "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-4",
+  "type": "Example",
+  "number": "1.2",
+  "title": "Bedroom Example.",
+  "body": " Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.      "
+},
+{
+  "id": "lab-curious-thinkerv2-subsection-5",
+  "level": "2",
+  "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-5",
+  "type": "Example",
+  "number": "1.3",
+  "title": "Parking Lot Example.",
+  "body": " Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.      "
+},
+{
+  "id": "lab-curious-thinkerv2-subsection-9",
+  "level": "2",
+  "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-9",
+  "type": "Additional Resources",
+  "number": "1.6.2",
+  "title": "",
+  "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
+},
+{
+  "id": "lab-curious-thinker",
+  "level": "1",
+  "url": "lab-curious-thinker.html",
+  "type": "Lab Activity",
+  "number": "1.7.1",
+  "title": "Becoming a Curious Thinker",
+  "body": " Becoming a Curious Thinker   Becoming a Curious Thinker -- Lab Instructions   Introduction   How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.     Procedure   We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.     Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.          Discussion   After you've completed the tasks, answer the following discussion questions:    Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?    What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?    What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?    Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?       Conclusion   As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.     Lab Write-Up Guidance   Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.    Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.    Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?           The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.     "
 },
 {
   "id": "lab-curious-thinker-2-3-3",
   "level": "2",
-  "url": "sec-scientific-method-mix.html#lab-curious-thinker-2-3-3",
+  "url": "lab-curious-thinker-2.html#lab-curious-thinker-2-3-3",
   "type": "Exercise",
   "number": "1.7.1.1",
   "title": "",
@@ -372,7 +399,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-2-3-4",
   "level": "2",
-  "url": "sec-scientific-method-mix.html#lab-curious-thinker-2-3-4",
+  "url": "lab-curious-thinker-2.html#lab-curious-thinker-2-3-4",
   "type": "Exercise",
   "number": "1.7.1.2",
   "title": "",
@@ -381,7 +408,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-2-3-5",
   "level": "2",
-  "url": "sec-scientific-method-mix.html#lab-curious-thinker-2-3-5",
+  "url": "lab-curious-thinker-2.html#lab-curious-thinker-2-3-5",
   "type": "Exercise",
   "number": "1.7.1.3",
   "title": "",
@@ -390,7 +417,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-2-3-6",
   "level": "2",
-  "url": "sec-scientific-method-mix.html#lab-curious-thinker-2-3-6",
+  "url": "lab-curious-thinker-2.html#lab-curious-thinker-2-3-6",
   "type": "Exercise",
   "number": "1.7.1.4",
   "title": "",
@@ -399,7 +426,7 @@ var ptx_lunr_docs = [
 {
   "id": "lab-curious-thinker-3",
   "level": "2",
-  "url": "sec-scientific-method-mix.html#lab-curious-thinker-3",
+  "url": "lab-curious-thinker.html#lab-curious-thinker-3",
   "type": "Additional Resources",
   "number": "1.7.1",
   "title": "",
@@ -451,45 +478,54 @@ var ptx_lunr_docs = [
   "body": "unit "
 },
 {
-  "id": "sec-si-base-units",
+  "id": "subsec-seconds",
   "level": "1",
-  "url": "sec-si-base-units.html",
-  "type": "Section",
-  "number": "3.2",
-  "title": "SI Base Units",
-  "body": " SI Base Units    I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it.   Lord Kelvin    SI  International Bureau of Weights and Measures The units used in modern science are known as SI units. SI stands for the \"International System of Units\" (from the French Système international d'unités ). These units were created by an organization called the International Bureau of Weights and Measures and is an agreed-upon standard that is officially used by almost every country in the world and the entirety of the modern scientific community. We are going to take a brief tour of a few of the units, which form the foundation for all other scientific units.   Seconds   second A second is a unit of time. Measuring the passage of time is something that we use in our daily lives and the second is the smallest common unit of time that we use for that purpose. But the technical definition of a second is somewhat surprising. The statement below is taken from the 9th edition of the \"SI brochure\" :   [The second] is defined by taking the fixed numerical value of the caesium frequency, , the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to .   What does this mean? Basically, it means that a second is defined by (basically) watching an atom and counting how quickly it bounces back and forth between two states. After about 9 billion of those transitions have occured, we say that a second has passed.  Historically, seconds have been a subdivision of a long unit of time. You would take a day, break it into 24 hours, break each hour into 60 minutes, and each minute into 60 seconds, and that would result in having a second be of a day. The problem with this definition is that a day is not a fixed unit of time. It turns out that the spin of the earth is decreasing at a rate of about 1.8 milliseconds every century (and this is only an average). This means that our measurements would be slowly shifting as well, and that's not what we want to see out of our science.  At a deeper level, it ties our concept of time to something that's not consistently measurable. If we were able to get a consistent and perfectly exact measurement of a day (and this time period is something that never changes), then we could theoretically tie our calculations to it. But we can't, and so scientists have tried to come up with something that they think would satisfy the requirements.   While this may seem random, we have used vibrations of quartz crystals to keep consistent time since the 1940s. And that was the start of the pathway that has taken us to where we are.     Meters   meter A meter is a unit of distance, and it is the distance that light travels in of a second. It turns out that this is about 39 inches, or a few inches longer than a yard. But why would this be the definition? It turns out that one of the laws of physics is that the speed of light is the same for all observers. This claim takes a bit to unpack, because it's a deeply unintuitive result that leads to all sorts of interesting consequences. So for now, we'll just say that the speed of light is a universal constant, which makes it a useful value for making measurements. The specific denominator of the fraction comes the speed of light being exactly 299,792,458 meters per second. And this also presents a chicken-and-egg problem. We use the speed of light to define a distance, but then we can't make sense of that distance that without measuring the speed of light.  Humans have been measuring distance for much longer than we have known the speed of light. And there were multiple iterations of the distance of a meter, but each of those were found to be imprecise. For example, an early definition of a meter was connected to the length of a particular pendulum to make it oscillate with a specific frequency, but that length turned out to be different in different locations (due to the fact that gravity changes with altitude). Another attempted meter was to define it to be one ten-millionth of the distance from the North Pole to the Equator, but that measurement assumes the earth is smooth enough to make that meaningful. And while neither of those two methods were perfect, they did create an expectation for what a meter ought to be. And so the choice of declaring that the speed of light is exactly 299,792,458 meters per second was to create an integer value that also wouldn't significantly alter the existing meter.    Kilograms   kilogram  mass  weight  force A kilogram is a unit of mass. Mass is a somewhat complicated quantity to measure because it gets mixed up with a related but different concept of weight . The mass is basically the amount of matter in the object. If there's more mass in one object than another, it means that there's more matter in that object compared to the other. But how would we know how much matter there is? Our first intuition might be to weight it, and then we can say that there's more matter in the one that weighs more. This leads to the correct conclusion, but it's deceptive about the nature of matter.   gravity  intertia  International Space Station (ISS) You might be familiar with the idea that objects weigh less on the moon than they do on earth, and this is related to the concept of gravity . Since the gravity changes from one location to another, it makes it hard to really use gravity as the way to determine mass. In fact, if we were to put objects into orbit on the International Space Station (or ISS), we could not use weight at all since everything would weigh nothing! So a better concept of mass is to think about inertia , which is a measure of how hard it is to change the motion of something. Even though objects have no weight in space, it still takes a certain amount of effort to move them. Objects with more mass are harder to move than objects with less mass. And the difficulty of moving an object (not its weight) is what we should be thinking of when we think about mass.  You might have noticed that we haven't given the definition of a kilogram yet. That's because the definition is connected to a quantity known as Planck's constant . This is the number that relates the energy of a photon to its frequency. But to understand what that means, we would have to get into quantum mechanics, and that's just a lot to take in. So it's better to just hold the concept of mass without worrying about its formal definition.    The Other SI Units   ampere  kelvin  mole  candela There are four other SI units.     Ampere : A measure of electrical current     Kelvin : A measure of temperature     Mole : A measure of quantity     Candela : A measure of brightness of light    Each of these units have their own histories and complexities, but we will leave it as an exercise to explore that.       The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     (The National Institute of Standards and Technology) SI Units      (The National Museum of American History) On Time: Splitting Seconds      "
-},
-{
-  "id": "sec-si-base-units-3",
-  "level": "2",
-  "url": "sec-si-base-units.html#sec-si-base-units-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "SI International Bureau of Weights and Measures "
+  "url": "subsec-seconds.html",
+  "type": "Lab Activity",
+  "number": "3.2.1",
+  "title": "Seconds",
+  "body": " Seconds   second A second is a unit of time. Measuring the passage of time is something that we use in our daily lives and the second is the smallest common unit of time that we use for that purpose. But the technical definition of a second is somewhat surprising. The statement below is taken from the 9th edition of the \"SI brochure\" :   [The second] is defined by taking the fixed numerical value of the caesium frequency, , the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9 192 631 770 when expressed in the unit Hz, which is equal to .   What does this mean? Basically, it means that a second is defined by (basically) watching an atom and counting how quickly it bounces back and forth between two states. After about 9 billion of those transitions have occured, we say that a second has passed.  Historically, seconds have been a subdivision of a long unit of time. You would take a day, break it into 24 hours, break each hour into 60 minutes, and each minute into 60 seconds, and that would result in having a second be of a day. The problem with this definition is that a day is not a fixed unit of time. It turns out that the spin of the earth is decreasing at a rate of about 1.8 milliseconds every century (and this is only an average). This means that our measurements would be slowly shifting as well, and that's not what we want to see out of our science.  At a deeper level, it ties our concept of time to something that's not consistently measurable. If we were able to get a consistent and perfectly exact measurement of a day (and this time period is something that never changes), then we could theoretically tie our calculations to it. But we can't, and so scientists have tried to come up with something that they think would satisfy the requirements.   While this may seem random, we have used vibrations of quartz crystals to keep consistent time since the 1940s. And that was the start of the pathway that has taken us to where we are.   "
 },
 {
   "id": "subsec-seconds-2",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-seconds-2",
+  "url": "subsec-seconds.html#subsec-seconds-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "second "
 },
 {
+  "id": "subsec-meters",
+  "level": "1",
+  "url": "subsec-meters.html",
+  "type": "Lab Activity",
+  "number": "3.2.2",
+  "title": "Meters",
+  "body": " Meters   meter A meter is a unit of distance, and it is the distance that light travels in of a second. It turns out that this is about 39 inches, or a few inches longer than a yard. But why would this be the definition? It turns out that one of the laws of physics is that the speed of light is the same for all observers. This claim takes a bit to unpack, because it's a deeply unintuitive result that leads to all sorts of interesting consequences. So for now, we'll just say that the speed of light is a universal constant, which makes it a useful value for making measurements. The specific denominator of the fraction comes the speed of light being exactly 299,792,458 meters per second. And this also presents a chicken-and-egg problem. We use the speed of light to define a distance, but then we can't make sense of that distance that without measuring the speed of light.  Humans have been measuring distance for much longer than we have known the speed of light. And there were multiple iterations of the distance of a meter, but each of those were found to be imprecise. For example, an early definition of a meter was connected to the length of a particular pendulum to make it oscillate with a specific frequency, but that length turned out to be different in different locations (due to the fact that gravity changes with altitude). Another attempted meter was to define it to be one ten-millionth of the distance from the North Pole to the Equator, but that measurement assumes the earth is smooth enough to make that meaningful. And while neither of those two methods were perfect, they did create an expectation for what a meter ought to be. And so the choice of declaring that the speed of light is exactly 299,792,458 meters per second was to create an integer value that also wouldn't significantly alter the existing meter.  "
+},
+{
   "id": "subsec-meters-2",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-meters-2",
+  "url": "subsec-meters.html#subsec-meters-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "meter "
 },
 {
+  "id": "subsec-kilograms",
+  "level": "1",
+  "url": "subsec-kilograms.html",
+  "type": "Lab Activity",
+  "number": "3.2.3",
+  "title": "Kilograms",
+  "body": " Kilograms   kilogram  mass  weight  force A kilogram is a unit of mass. Mass is a somewhat complicated quantity to measure because it gets mixed up with a related but different concept of weight . The mass is basically the amount of matter in the object. If there's more mass in one object than another, it means that there's more matter in that object compared to the other. But how would we know how much matter there is? Our first intuition might be to weight it, and then we can say that there's more matter in the one that weighs more. This leads to the correct conclusion, but it's deceptive about the nature of matter.   gravity  intertia  International Space Station (ISS) You might be familiar with the idea that objects weigh less on the moon than they do on earth, and this is related to the concept of gravity . Since the gravity changes from one location to another, it makes it hard to really use gravity as the way to determine mass. In fact, if we were to put objects into orbit on the International Space Station (or ISS), we could not use weight at all since everything would weigh nothing! So a better concept of mass is to think about inertia , which is a measure of how hard it is to change the motion of something. Even though objects have no weight in space, it still takes a certain amount of effort to move them. Objects with more mass are harder to move than objects with less mass. And the difficulty of moving an object (not its weight) is what we should be thinking of when we think about mass.  You might have noticed that we haven't given the definition of a kilogram yet. That's because the definition is connected to a quantity known as Planck's constant . This is the number that relates the energy of a photon to its frequency. But to understand what that means, we would have to get into quantum mechanics, and that's just a lot to take in. So it's better to just hold the concept of mass without worrying about its formal definition.  "
+},
+{
   "id": "subsec-kilograms-2",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-kilograms-2",
+  "url": "subsec-kilograms.html#subsec-kilograms-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -498,16 +534,25 @@ var ptx_lunr_docs = [
 {
   "id": "subsec-kilograms-3",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-kilograms-3",
+  "url": "subsec-kilograms.html#subsec-kilograms-3",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "gravity International Space Station inertia "
 },
 {
+  "id": "subsec-other-SI",
+  "level": "1",
+  "url": "subsec-other-SI.html",
+  "type": "Lab Activity",
+  "number": "3.2.4",
+  "title": "The Other SI Units",
+  "body": " The Other SI Units   ampere  kelvin  mole  candela There are four other SI units.     Ampere : A measure of electrical current     Kelvin : A measure of temperature     Mole : A measure of quantity     Candela : A measure of brightness of light    Each of these units have their own histories and complexities, but we will leave it as an exercise to explore that.  "
+},
+{
   "id": "subsec-other-SI-3-1-1",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-other-SI-3-1-1",
+  "url": "subsec-other-SI.html#subsec-other-SI-3-1-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -516,7 +561,7 @@ var ptx_lunr_docs = [
 {
   "id": "subsec-other-SI-3-2-1",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-other-SI-3-2-1",
+  "url": "subsec-other-SI.html#subsec-other-SI-3-2-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -525,7 +570,7 @@ var ptx_lunr_docs = [
 {
   "id": "subsec-other-SI-3-3-1",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-other-SI-3-3-1",
+  "url": "subsec-other-SI.html#subsec-other-SI-3-3-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -534,20 +579,11 @@ var ptx_lunr_docs = [
 {
   "id": "subsec-other-SI-3-4-1",
   "level": "2",
-  "url": "sec-si-base-units.html#subsec-other-SI-3-4-1",
+  "url": "subsec-other-SI.html#subsec-other-SI-3-4-1",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Candela "
-},
-{
-  "id": "sec-si-base-units-8",
-  "level": "2",
-  "url": "sec-si-base-units.html#sec-si-base-units-8",
-  "type": "Additional Resources",
-  "number": "3.2",
-  "title": "",
-  "body": "    The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     (The National Institute of Standards and Technology) SI Units      (The National Museum of American History) On Time: Splitting Seconds     "
 },
 {
   "id": "sec-derived-units",
