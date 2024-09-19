@@ -297,63 +297,51 @@
         </p>
         <ul>
           <li>
-            <paragraphs>
-              <title>Title and Header</title>
-              
-              <p>
-                What is the title of the lab and who was in the lab group?
-              </p>
-            </paragraphs>
+            <title>Title and Header</title>
+            
+            <p>
+              What is the title of the lab and who was in the lab group?
+            </p>
           </li>
           <li>
-            <paragraphs>
-              <title>Introduction</title>
+            <title>Introduction</title>
               
-              <p>
-                In your own words, what was the purpose of the lab activity? This should only take a
-                few sentences for this lab.
-              </p>
-            </paragraphs>
+            <p>
+              In your own words, what was the purpose of the lab activity? This should only take a
+              few sentences for this lab.
+            </p>
           </li>
           <li>
-            <paragraphs>
-              <title>Procedure</title>
+            <title>Procedure</title>
               
-              <p>
-                This lab has you executing the same procedure in a few different locations. You do not need to write out
-                the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.
-              </p>
-            </paragraphs>
+            <p>
+              This lab has you executing the same procedure in a few different locations. You do not need to write out
+              the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.
+            </p>
           </li>
           <li>
-            <paragraphs>
-              <title>Results and Data</title>
+            <title>Results and Data</title>
               
-              <p>
-                For this lab, the results and data consist of lists and sentences. You can use the examples in the lab
-                activity to give you some ideas for how to organize your work.
-              </p>
-            </paragraphs>
+            <p>
+              For this lab, the results and data consist of lists and sentences. You can use the examples in the lab
+              activity to give you some ideas for how to organize your work.
+            </p>
           </li>
           <li>
-            <paragraphs>
-              <title>Discussion</title>
+            <title>Discussion</title>
               
-              <p>
-                Answer the discussion questions. Be sure that you state the original question and organize it in a way that is
-                easy to follow.
-              </p>
-            </paragraphs>
+            <p>
+              Answer the discussion questions. Be sure that you state the original question and organize it in a way that is
+              easy to follow.
+            </p>
           </li>
           <li>
-            <paragraphs>
-              <title>Conclusion</title>
-              
-              <p>
-                Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything,
-                is there something that could have been done differently that would make the lab better?
-              </p>
-            </paragraphs>
+            <title>Conclusion</title>
+            
+            <p>
+              Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything,
+              is there something that could have been done differently that would make the lab better?
+            </p>
           </li>
         </ul>
       </introduction>
