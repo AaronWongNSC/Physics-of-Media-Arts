@@ -2,26 +2,29 @@
 
 <section xml:id="sec-si-base-units" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>SI Base Units</title>
-  
-  <blockquote>
+
+  <introduction>
+
+    <blockquote>
+      <p>
+        <q>I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it.</q>
+      </p>
+      <attribution>Lord Kelvin</attribution>
+    </blockquote>
+
     <p>
-      <q>I often say that when you can measure what you are speaking about, and express it in numbers, you know something about it.</q>
+      <idx><h>SI</h></idx>
+      <idx><h>International Bureau of Weights and Measures</h></idx>
+
+      The units used in modern science are known as SI units. <term>SI</term> stands for the "International System of Units"
+      (from the French <em>Système international d'unités</em>). These units were created by an organization called the <term>International
+      Bureau of Weights and Measures</term> and is an agreed-upon standard that is officially used by almost every country in the world and
+      the entirety of the modern scientific community. We are going to take a brief tour of a few of the units, which form the foundation
+      for all other scientific units.
     </p>
-    <attribution>Lord Kelvin</attribution>
-  </blockquote>
+  </introduction>
 
-  <p>
-    <idx><h>SI</h></idx>
-    <idx><h>International Bureau of Weights and Measures</h></idx>
-
-    The units used in modern science are known as SI units. <term>SI</term> stands for the "International System of Units"
-    (from the French <em>Système international d'unités</em>). These units were created by an organization called the <term>International
-    Bureau of Weights and Measures</term> and is an agreed-upon standard that is officially used by almost every country in the world and
-    the entirety of the modern scientific community. We are going to take a brief tour of a few of the units, which form the foundation
-    for all other scientific units.
-  </p>
-
-  <subsection xml:id="subsec-seconds">
+  <paragraphs>
     <title>Seconds</title>
 
     <p>
@@ -40,7 +43,7 @@
       </p>
     </blockquote>
     <p>
-      What does this mean? Basically, it means that a second is <em>defined</em> by (basically) watching an atom and counting how quickly it
+      What does this mean? Basically, it means that a second is <em>defined</em> by watching an atom and counting how quickly it
       bounces back and forth between two states. After about 9 billion of those transitions have occured, we say that a second has passed.
     </p>
     <p>
@@ -62,9 +65,9 @@
       </p>
     </aside>
   
-  </subsection>
+  </paragraphs>
 
-  <subsection xml:id="subsec-meters">
+  <paragraphs>
     <title>Meters</title>
 
     <p>
@@ -88,9 +91,9 @@
       And so the choice of declaring that the speed of light is exactly 299,792,458 meters per second was to create an integer value that also
       wouldn't significantly alter the existing meter. 
     </p>
-  </subsection>
+  </paragraphs>
 
-  <subsection xml:id="subsec-kilograms">
+  <paragraphs>
     <title>Kilograms</title>
 
     <p>
@@ -123,9 +126,9 @@
       to get into quantum mechanics, and that's just a lot to take in. So it's better to just hold the concept of mass without worrying about its formal
       definition.
     </p>
-  </subsection>
+  </paragraphs>
 
-  <subsection xml:id="subsec-other-SI">
+  <paragraphs>
     <title>The Other SI Units</title>
 
     <p>
@@ -162,7 +165,7 @@
       Each of these units have their own histories and complexities, but we will leave it as an exercise to explore that.
     </p>
 
-  </subsection>
+  </paragraphs>
 
 <outcomes>
   <ul>

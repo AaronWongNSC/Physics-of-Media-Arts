@@ -43,7 +43,7 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p0-ch2-s1-calculators.ptx" />
   <xi:include href="sec-section-labs.ptx" />
 
 </chapter>
