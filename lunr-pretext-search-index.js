@@ -23,7 +23,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scientific-method.html#sec-scientific-method-9",
   "type": "Definition",
-  "number": "1.1",
+  "number": "1",
   "title": "An Informal Scientific Method.",
   "body": " scientific method (informal)  informal scientific method  An Informal Scientific Method   Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can be used to refine those ideas.   "
 },
@@ -356,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-4",
   "type": "Example",
-  "number": "1.2",
+  "number": "2",
   "title": "Bedroom Example.",
   "body": " Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.      "
 },
@@ -365,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-5",
   "type": "Example",
-  "number": "1.3",
+  "number": "3",
   "title": "Parking Lot Example.",
   "body": " Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.      "
 },
