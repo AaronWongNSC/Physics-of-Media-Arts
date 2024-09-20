@@ -44,6 +44,10 @@
 
   <!-- include sections -->
   <xi:include href="p0-ch2-s1-calculators.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p0-ch2-s2-scientific-notation.ptx" />
+  <xi:include href="p0-ch2-s3-basic-algebra.ptx" />
+  <xi:include href="p0-ch2-s4-graphing.ptx" />
+  
+  <xi:include href="p0-ch2-sL-0-mathematics-labs.ptx" />
 
 </chapter>

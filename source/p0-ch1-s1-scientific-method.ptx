@@ -3,12 +3,14 @@
 <section xml:id="sec-scientific-method" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Scientific Method(s)</title>
   
-  <blockquote>
-    <p>
-      <q>The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.</q>
-    </p>
-    <attribution>Thomas Henry Huxley</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.</q>
+      </p>
+      <attribution>Thomas Henry Huxley</attribution>
+    </blockquote>
+  </introduction>
 
   <p>
     If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement

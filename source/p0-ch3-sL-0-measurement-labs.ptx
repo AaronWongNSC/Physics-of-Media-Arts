@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-measurement-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: Mathematics</title>
+
+  <xi:include href="./p0-ch3-sL-1-unit-conversion-practice.ptx" />
+  <xi:include href="./p0-ch3-sL-2-measuring-speed.ptx" />
+
+</section>

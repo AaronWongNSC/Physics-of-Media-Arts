@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-mathematics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: Mathematics</title>
+
+  <xi:include href="./p0-ch2-sL-1-calculator-practice.ptx" />
+  <xi:include href="./p0-ch2-sL-2-order-of-magnitude.ptx" />
+  <xi:include href="./p0-ch2-sL-3-variable-relationships.ptx" />
+  <xi:include href="./p0-ch2-sL-4-data-collection.ptx" />
+
+</section>
