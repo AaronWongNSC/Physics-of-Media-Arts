@@ -23,7 +23,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-scientific-method.html#sec-scientific-method-9",
   "type": "Definition",
-  "number": "1",
+  "number": "1.1.0.1",
   "title": "An Informal Scientific Method.",
   "body": " scientific method (informal)  informal scientific method  An Informal Scientific Method   Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can be used to refine those ideas.   "
 },
@@ -248,7 +248,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-3",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "",
   "body": "Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case? "
 },
@@ -257,7 +257,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-4",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "",
   "body": "What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it? "
 },
@@ -266,7 +266,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-5",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "",
   "body": "What was the most clever way you came up with for answering one of your questions? What did you think was clever about it? "
 },
@@ -275,7 +275,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-6-6",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "",
   "body": "Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know? "
 },
@@ -284,7 +284,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-3",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Title and Header.",
   "body": "Title and Header  What is the title of the lab and who was in the lab group?  "
 },
@@ -293,7 +293,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-4",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Introduction.",
   "body": "Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.  "
 },
@@ -302,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-5",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Procedure.",
   "body": "Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.  "
 },
@@ -311,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-6",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Results and Data.",
   "body": "Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.  "
 },
@@ -320,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-7",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Discussion.",
   "body": "Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.  "
 },
@@ -329,7 +329,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinker-subsection.html#lab-curious-thinker-subsection-8-8",
   "type": "Checkpoint",
-  "number": "[STRUCT].1",
+  "number": "[STRUCT].0",
   "title": "Conclusion.",
   "body": "Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?  "
 },
@@ -356,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-4",
   "type": "Example",
-  "number": "2",
+  "number": "1.6.2.1",
   "title": "Bedroom Example.",
   "body": " Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.      "
 },
@@ -365,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-5",
   "type": "Example",
-  "number": "3",
+  "number": "1.6.2.2",
   "title": "Parking Lot Example.",
   "body": " Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.      "
 },
@@ -375,6 +375,42 @@ var ptx_lunr_docs = [
   "url": "lab-curious-thinkerv2-subsection.html#lab-curious-thinkerv2-subsection-9",
   "type": "Additional Resources",
   "number": "1.6.2",
+  "title": "",
+  "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
+},
+{
+  "id": "lab-curious-thinkerv3-subsection",
+  "level": "1",
+  "url": "lab-curious-thinkerv3-subsection.html",
+  "type": "Lab Activity",
+  "number": "1.6.3",
+  "title": "Becoming a Curious Thinker",
+  "body": " Becoming a Curious Thinker   Introduction  How well do you understand the world around you? The first lab activity is designed to cultivate a mind that is curious and willing to ask questions, even if they seem mundane. Because it turns out that the world is a fascinating place if you're willing to explore it.  We are going to visit a few different locations and engage in the practice of asking deep questions and trying to think about how we might get answers to those questions. In some situations, the answer might be to just search the internet for an explanation. But try to push beyond internet searches and think about how you might try to answer the question in other ways. Try to be clever and unorthodox, if you can.  Note that some questions will be dependent upon the specific context, and a general answer won't be good enough. In those cases, maybe the way to get an answer is to gather samples or data, and then maybe conduct some type of experiment. In some cases, you might not even know what types of experiments you could run to answer the question, in which case you might want to do a little background research on the internet to see if there are any easy answers. Ultimately, this activity is not about actually doing the research to get the answers, just the practice of asking the questions and taking the first steps towards starting the research.    Procedure  We are going to explore the following locations: the classroom, the building, the world outside of the building, and your home. At each location, we're going to complete the following steps:    Identify 5-7 objects in the space.    Pick 1 object to ask questions about.    Write down a list of at least 5 questions about it. (Feel free to ask more!)    Pick 3 of those questions and determine how you might go about finding the answer to those questions.      Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.        Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.        Discussion  After you've completed the tasks, answer the following discussion questions:    Which location was it easiest to identify objects to ask questions about? And which location was it the most difficult? Why do you think that was the case?    What object was easiest to ask questions about? Were there any objects that you intentionally didn't pick because you thought it would be hard to come up with questions about it?    What was the most clever way you came up with for answering one of your questions? What did you think was clever about it?    Are there any questions that you actually want to know the answer to? If so, which ones? And why do you want to know?      Conclusion  As you went through the exercise, you should have found that some questions have answers that seem to be easily accessible, while others were complicated enough that you really need a lot of information to even begin the process of answering the question. The world we live in is extremely complex, and we take a lot of it for granted. And all it takes is a curious mind to begin to peel back the layers.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.    Procedure  This lab has you executing the same procedure in a few different locations. You do not need to write out the procedure multiple times. Find a nice way of organizing it so it's clear what you were expected to do.    Results and Data  For this lab, the results and data consist of lists and sentences. You can use the examples in the lab activity to give you some ideas for how to organize your work.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. What, if anything, did you learn from it? And if you didn't learn anything, is there something that could have been done differently that would make the lab better?         The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.     "
+},
+{
+  "id": "lab-curious-thinkerv3-subsection-4",
+  "level": "2",
+  "url": "lab-curious-thinkerv3-subsection.html#lab-curious-thinkerv3-subsection-4",
+  "type": "Example",
+  "number": "1.6.3.1",
+  "title": "Bedroom Example.",
+  "body": " Bedroom Example    Location: Bedroom    Objects of Interest: Light switch, mattress, dresser, lamp, sheets, carpet, T-shirt    Questions about the light switch:    How does it work?    How much electricity flows through it?    What is it made of?    How is it manufactured?    Are there other types of light switches? What makes them different?    How easy is it to fix or repair a broken light switch?      Finding answers:    How does it work? -- There's probably a YouTube video that explains this. We could also try to take it apart and see if we can see the mechanism.    How much electricity flows through it? -- We would need a device that can be used to measure the amount of electricity. A quick internet search shows that such a device is called a \"multimeter\".    What is it made of? -- The outside appears to be a type of plastic, and there might be a kit that can be used to determine the type of plastic it is. But the inside part probably has some metal in it because electricity doesn't flow through plastic. We might have to use a different type of kit to test for different types of metals.      "
+},
+{
+  "id": "lab-curious-thinkerv3-subsection-5",
+  "level": "2",
+  "url": "lab-curious-thinkerv3-subsection.html#lab-curious-thinkerv3-subsection-5",
+  "type": "Example",
+  "number": "1.6.3.2",
+  "title": "Parking Lot Example.",
+  "body": " Parking Lot Example    Location: Parking Lot    Objects of Interest: Cars, trees, birds, dumpster, painted stripes    Questions about the cars:    How many cars are in the parking lot?    How many cars are normally in the parking lot?    How many cars does the parking lot hold?    What is the most common type of car in the parking lot?    How much does a car weigh?    How many cars are hybrid or electric?    How many of the cars are not locked?      Finding Answers:    How many cars are in the parking lot? -- We can try to count them, but cars might come and go while we're doing that. So maybe it's better to take a pictures of the parking lot and count from the photos. Having a drone might be useful because then we could take an overhead view of the parking lot.    How many cars are normally in the parking lot? -- We could count the number of cars at different times and then create a graph of the results. Or we can have someone monitor the entrances and exits to see when cars come and go and use that information to count the cars throughout the day.    How many of the cars are not locked? -- We could go through the parking lot and try to open the car doors and see how many of them open. [Note: Do NOT do this! We're just speculating on ways we can find the answer.] We can also observe people as they walk to the car to see how many of them need to unlock the car before getting in. We would have to be close enough to hear the car locks in case someone has keyless car entry.      "
+},
+{
+  "id": "lab-curious-thinkerv3-subsection-9",
+  "level": "2",
+  "url": "lab-curious-thinkerv3-subsection.html#lab-curious-thinkerv3-subsection-9",
+  "type": "Additional Resources",
+  "number": "1.6.3",
   "title": "",
   "body": "    The Right Question Institute : A nonprofit that provides resources to help people ask better questions in order to support a more capable citizenry and promote a better society.    "
 },
@@ -439,7 +475,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Calculators",
-  "body": " Calculators    Calculators can only calculate - they cannot do mathematics.   John A. Van de Walle   One of the most basic tools of physics is the calculator. While it is certainly possible to do most of the calculations by hand, there's not a lot of value to that in the context of this course. But with that said, it puts an additional layer of importance for using your calculator correctly.  One of the challenges of this section is that there are many different types of calculators out there, and they don't all have the same set of features. In fact, not all calculators behave the same way, and it's possible for two calculators to give different results for the same button presses. Rather than going into      (Wikipedia) Calculator Input Methods)      "
+  "body": " Calculators     Calculators can only calculate - they cannot do mathematics.   John A. Van de Walle   One of the most basic tools of physics is the calculator. While it is certainly possible to do most of the calculations by hand, there's not a lot of value to that in the context of this course. But with that said, it puts an additional layer of importance for using your calculator correctly.  One of the challenges of this section is that there are many different types of calculators out there, and they don't all have the same set of features. In fact, not all calculators behave the same way, and it's possible for two calculators to give different results for the same button presses. Rather than going into the details of different brands, we're going to take a high level overview of calculators and develop some basic strategies for how to avoid errors, regardless of how your specific calculator works.    Order of Operations  One of the main errors (aside from pressing the wrong button) that can arise is when the desired calculation and the calculation that the calculator understands are not in alignment with each other. These are some of the most difficult errors to identify on the fly because your only indication that something went wrong is that the number is wrong. In some situations, the number you get is \"obviously\" wrong (such as getting a negative number when you know you should be getting a positive number). But the most common result is that a student dutifully copies the number the calculator gives them onto their paper, then moves forward from there without the slightest bit of hesitation.   order of operations Underneath this problem is an understanding of the order of operations . When used in the mathematical context, this is interpreted as PEMDAS (Please Excuse My Dear Aunt Sally) or BOMDAS, which is understood to be a set of rules for how to interpret a mathematical expression. More broadly, however, it just means the order in which you do things. For example, socks-before-shoes is an order of operations. The reason we need to think about this broader sense is because not all calculators understand the mathematical order of operations the way that it's set up in mathematics.  Consider the calculation . You would probably immediately recognize that you need to do the multiplication before the addition, and get the mathematically correct result of 7. But in order for you to know that, you had to see the whole problem before you strated. You had to know that the multiplication was at the end, and you used that information to determine how you were going to do the computation. Some calculators have this ability, but others do not.   immediate execution (calculator) Some calculators use the immediate execution method of computation. This means that it tries to do the calculation as you type it in. And even within this category, there are calculators that can hold values in memory and those that can't. Let's analyze how one of these calculators might see this calculation.     : The calculator understands that you're starting to type in a number. As long as you keep typing in digits, it will keep thinking that you're still typing in the number.     : You've now pressed a mathematical operation, so it knows that you're done with the first number. The next thing it is expecting is another number.     : Just as with the first step, as long as you're typing in numbers, it's waiting for you to finish telling it the number.     : At this point, things can go in one of two ways. Some calculators will understand that you're done with the second number of the sum and do that calculation right away. Then it will use that result with the multiplication that you're about to give it. On the other hand, some calculators know about the mathematical order of operations, and it will know that it needs to do this multiplication first, then go back and add the other result. But in order to do that, it will also need to hold that original 1 in memory.    While there is more to the calculation, this is the critical step where things can fall apart. And this is why it's critical for you to know how your calculator works. Lots of students get problems wrong because of something as simple as this.   infix notation (calculator) It's worth noting that there are some calculators that take the whole expression in before doing the calculation. These are sometimes called infix notation calculators. These behave more like how you would behave when looking at a calculation. You would use a logical system to determine which calculation needs to be performed first based on the order of operations, and then you would simplify from there. But infix notation also has order of operations pitfalls.  Consider the calculation . You can easily see that this is equal to 1. But if you don't type it into the calculator correctly, it won't give you the desired result. Here is the button sequences that students would typically press: . And some students might even see in the display and feel as though everything is correct. But how would the calculator see it?    Calculator Strategies  Avoid errors       (Wikipedia) Calculator Input Methods)      "
+},
+{
+  "id": "sec-calculators-3-3",
+  "level": "2",
+  "url": "sec-calculators.html#sec-calculators-3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "order of operations "
+},
+{
+  "id": "sec-calculators-3-5",
+  "level": "2",
+  "url": "sec-calculators.html#sec-calculators-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "immediate execution "
+},
+{
+  "id": "sec-calculators-3-8",
+  "level": "2",
+  "url": "sec-calculators.html#sec-calculators-3-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "infix notation "
 },
 {
   "id": "sec-calculators-5",
