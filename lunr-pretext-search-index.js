@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "The Scientific Method(s)",
-  "body": " The Scientific Method(s)    The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.   Thomas Henry Huxley   If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement on the steps. Here are a few examples:     Khan Academy's Introduction to Biology : (1) Make an observation; (2) Ask a question; (3) Form a hypothesis; (4) Make a prediction; (5) Test the prediction; (6) Iterate     University of Nevada Reno Extension's Fact Sheet on the Scientific Method : (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory     Your Dictionary's Article on the Scientific Method : (1) Define purpose; (2) Construct hypothesis; (3) Test hypothesis and collect data; (4) Analyze data; (5) Draw conclusion; (6) Communicate results    There are more examples in an article found in the CBE Life Sciences Education journal that explores the topic much more deeply and in the context of K-12 science education standards in Kansas from 2005.  So what's really happening here? Most science textbooks start off by teaching students the scientific method, as if there is one precise way to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue what is true. Unfortunately, this representation is wrong from both a historical perspective and from a practical perspective. It is probably most correct to say that there are many scientific methods, and that those methods vary from one field of study to the next. How you might try to study physics is different from how you might try to study biology.  That said, it's not as if the ideas behind \"the\" scientific method are completely wrong. There is still value to having a general framework as a guidepost, even if it's not completely general or completely accurate in every context.  In this book, we are interested in trying to make the study of physics both practical and conceptual, but without getting too bogged down in unnecessary details. And trying to provide a precise formulation of the scientific is one of those unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.   scientific method (informal)  informal scientific method  An Informal Scientific Method   Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can be used to refine those ideas.    This two-step understanding of the scientific method is probably the simplest way to think about the process of doing science. If we go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to advance our knowledge of physics.  More importantly, this framework helps to establish something that Thomas Huxley (the person quoted at the start of the section) was getting at with his ideas. Here's a longer quote from his essay \"On Our Knowledge of the Causes of the Phenomena of Organic Nature\":   The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind. It is simply the mode at which all phenomena are reasoned about, rendered precise and exact. There is no more difference, but there is just the same kind of difference, between the mental operations of a man of science and those of an ordinary person, as there is between the operations and methods of a baker or of a butcher weighing out his goods in common scales, and the operations of a chemist in performing a difficult and complex analysis by means of his balance and finely-graduated weights. It is not that the action of the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; but the beam of one is set on an infinitely finer axis than the other, and of course turns by the addition of a much smaller weight.  You will understand this better, perhaps, if I give you some familiar example. You have all heard it repeated, I dare say, that men of science work by means of induction and deduction, and that by the help of these operations, they, in a sort of sense, wring from Nature certain other things, which are called natural laws, and causes, and that out of these, by some cunning skill of their own, they build up hypotheses and theories. And it is imagined by many, that the operations of the common mind can be by no means compared with these processes, and that they have to be acquired by a sort of special apprenticeship to the craft. To hear all these large words, you would think that the mind of a man of science must be constituted differently from that of his fellow men; but if you will not be frightened by terms, you will discover that you are quite wrong, and that all these terrible apparatus are being used by yourselves every day and every hour of your lives.   In other words, the idea he's putting forward is that scientific thinking is just regular thinking, but more refined. There is no \"magic\" in the scientific method that is reserved only for scientists doing real science. It's just a way of learning that is very similar to how people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.      (UC Museum of Paleontology) Understanding Science 101: How Science Works      "
+  "body": " The Scientific Method(s)     The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.   Thomas Henry Huxley    If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement on the steps. Here are a few examples:     Khan Academy's Introduction to Biology : (1) Make an observation; (2) Ask a question; (3) Form a hypothesis; (4) Make a prediction; (5) Test the prediction; (6) Iterate     University of Nevada Reno Extension's Fact Sheet on the Scientific Method : (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory     Your Dictionary's Article on the Scientific Method : (1) Define purpose; (2) Construct hypothesis; (3) Test hypothesis and collect data; (4) Analyze data; (5) Draw conclusion; (6) Communicate results    There are more examples in an article found in the CBE Life Sciences Education journal that explores the topic much more deeply and in the context of K-12 science education standards in Kansas from 2005.  So what's really happening here? Most science textbooks start off by teaching students the scientific method, as if there is one precise way to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue what is true. Unfortunately, this representation is wrong from both a historical perspective and from a practical perspective. It is probably most correct to say that there are many scientific methods, and that those methods vary from one field of study to the next. How you might try to study physics is different from how you might try to study biology.  That said, it's not as if the ideas behind \"the\" scientific method are completely wrong. There is still value to having a general framework as a guidepost, even if it's not completely general or completely accurate in every context.  In this book, we are interested in trying to make the study of physics both practical and conceptual, but without getting too bogged down in unnecessary details. And trying to provide a precise formulation of the scientific is one of those unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.   scientific method (informal)  informal scientific method  An Informal Scientific Method   Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can be used to refine those ideas.    This two-step understanding of the scientific method is probably the simplest way to think about the process of doing science. If we go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to advance our knowledge of physics.  More importantly, this framework helps to establish something that Thomas Huxley (the person quoted at the start of the section) was getting at with his ideas. Here's a longer quote from his essay \"On Our Knowledge of the Causes of the Phenomena of Organic Nature\":   The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind. It is simply the mode at which all phenomena are reasoned about, rendered precise and exact. There is no more difference, but there is just the same kind of difference, between the mental operations of a man of science and those of an ordinary person, as there is between the operations and methods of a baker or of a butcher weighing out his goods in common scales, and the operations of a chemist in performing a difficult and complex analysis by means of his balance and finely-graduated weights. It is not that the action of the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; but the beam of one is set on an infinitely finer axis than the other, and of course turns by the addition of a much smaller weight.  You will understand this better, perhaps, if I give you some familiar example. You have all heard it repeated, I dare say, that men of science work by means of induction and deduction, and that by the help of these operations, they, in a sort of sense, wring from Nature certain other things, which are called natural laws, and causes, and that out of these, by some cunning skill of their own, they build up hypotheses and theories. And it is imagined by many, that the operations of the common mind can be by no means compared with these processes, and that they have to be acquired by a sort of special apprenticeship to the craft. To hear all these large words, you would think that the mind of a man of science must be constituted differently from that of his fellow men; but if you will not be frightened by terms, you will discover that you are quite wrong, and that all these terrible apparatus are being used by yourselves every day and every hour of your lives.   In other words, the idea he's putting forward is that scientific thinking is just regular thinking, but more refined. There is no \"magic\" in the scientific method that is reserved only for scientists doing real science. It's just a way of learning that is very similar to how people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.      (UC Museum of Paleontology) Understanding Science 101: How Science Works      "
 },
 {
   "id": "sec-scientific-method-9",
@@ -475,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Calculators",
-  "body": " Calculators     Calculators can only calculate - they cannot do mathematics.   John A. Van de Walle   One of the most basic tools of physics is the calculator. While it is certainly possible to do most of the calculations by hand, there's not a lot of value to that in the context of this course. But with that said, it puts an additional layer of importance for using your calculator correctly.  One of the challenges of this section is that there are many different types of calculators out there, and they don't all have the same set of features. In fact, not all calculators behave the same way, and it's possible for two calculators to give different results for the same button presses. Rather than going into the details of different brands, we're going to take a high level overview of calculators and develop some basic strategies for how to avoid errors, regardless of how your specific calculator works.    Order of Operations  One of the main errors (aside from pressing the wrong button) that can arise is when the desired calculation and the calculation that the calculator understands are not in alignment with each other. These are some of the most difficult errors to identify on the fly because your only indication that something went wrong is that the number is wrong. In some situations, the number you get is \"obviously\" wrong (such as getting a negative number when you know you should be getting a positive number). But the most common result is that a student dutifully copies the number the calculator gives them onto their paper, then moves forward from there without the slightest bit of hesitation.   order of operations Underneath this problem is an understanding of the order of operations . When used in the mathematical context, this is interpreted as PEMDAS (Please Excuse My Dear Aunt Sally) or BOMDAS, which is understood to be a set of rules for how to interpret a mathematical expression. More broadly, however, it just means the order in which you do things. For example, socks-before-shoes is an order of operations. The reason we need to think about this broader sense is because not all calculators understand the mathematical order of operations the way that it's set up in mathematics.  Consider the calculation . You would probably immediately recognize that you need to do the multiplication before the addition, and get the mathematically correct result of 7. But in order for you to know that, you had to see the whole problem before you strated. You had to know that the multiplication was at the end, and you used that information to determine how you were going to do the computation. Some calculators have this ability, but others do not.   immediate execution (calculator) Some calculators use the immediate execution method of computation. This means that it tries to do the calculation as you type it in. And even within this category, there are calculators that can hold values in memory and those that can't. Let's analyze how one of these calculators might see this calculation.     : The calculator understands that you're starting to type in a number. As long as you keep typing in digits, it will keep thinking that you're still typing in the number.     : You've now pressed a mathematical operation, so it knows that you're done with the first number. The next thing it is expecting is another number.     : Just as with the first step, as long as you're typing in numbers, it's waiting for you to finish telling it the number.     : At this point, things can go in one of two ways. Some calculators will understand that you're done with the second number of the sum and do that calculation right away. Then it will use that result with the multiplication that you're about to give it. On the other hand, some calculators know about the mathematical order of operations, and it will know that it needs to do this multiplication first, then go back and add the other result. But in order to do that, it will also need to hold that original 1 in memory.    While there is more to the calculation, this is the critical step where things can fall apart. And this is why it's critical for you to know how your calculator works. Lots of students get problems wrong because of something as simple as this.   infix notation (calculator) It's worth noting that there are some calculators that take the whole expression in before doing the calculation. These are sometimes called infix notation calculators. These behave more like how you would behave when looking at a calculation. You would use a logical system to determine which calculation needs to be performed first based on the order of operations, and then you would simplify from there. But infix notation also has order of operations pitfalls.  Consider the calculation . You can easily see that this is equal to 1. But if you don't type it into the calculator correctly, it won't give you the desired result. Here is the button sequences that students would typically press: . And some students might even see in the display and feel as though everything is correct. But how would the calculator see it?    Calculator Strategies  Avoid errors       (Wikipedia) Calculator Input Methods)      "
+  "body": " Calculators     Calculators can only calculate - they cannot do mathematics.   John A. Van de Walle   One of the most basic tools of physics is the calculator. While it is certainly possible to do most of the calculations by hand, there's not a lot of value to that in the context of this course. But with that said, it puts an additional layer of importance for using your calculator correctly.  One of the challenges of this section is that there are many different types of calculators out there, and they don't all have the same set of features. In fact, not all calculators behave the same way, and it's possible for two calculators to give different results for the same button presses. Rather than going into the details of different brands, we're going to take a high level overview of calculators and develop some basic strategies for how to avoid errors, regardless of how your specific calculator works.    Order of Operations  One of the main errors (aside from pressing the wrong button) that can arise is when the desired calculation and the calculation that the calculator understands are not in alignment with each other. These are some of the most difficult errors to identify on the fly because your only indication that something went wrong is that the number is wrong. In some situations, the number you get is \"obviously\" wrong (such as getting a negative number when you know you should be getting a positive number). But the most common result is that a student dutifully copies the number the calculator gives them onto their paper, then moves forward from there without the slightest bit of hesitation.   order of operations Underneath this problem is an understanding of the order of operations . When used in the mathematical context, this is interpreted as PEMDAS (Please Excuse My Dear Aunt Sally) or BOMDAS, which is understood to be a set of rules for how to interpret a mathematical expression. More broadly, however, it just means the order in which you do things. For example, socks-before-shoes is an order of operations. The reason we need to think about this broader sense is because not all calculators understand the mathematical order of operations the way that it's set up in mathematics.  Consider the calculation . You would probably immediately recognize that you need to do the multiplication before the addition, and get the mathematically correct result of 7. But in order for you to know that, you had to see the whole problem before you strated. You had to know that the multiplication was at the end, and you used that information to determine how you were going to do the computation. Some calculators have this ability, but others do not.   immediate execution (calculator) Some calculators use the immediate execution method of computation. This means that it tries to do the calculation as you type it in. And even within this category, there are calculators that can hold values in memory and those that can't. Let's analyze how one of these calculators might see this calculation.     : The calculator understands that you're starting to type in a number. As long as you keep typing in digits, it will keep thinking that you're still typing in the number.     : You've now pressed a mathematical operation, so it knows that you're done with the first number. The next thing it is expecting is another number.     : Just as with the first step, as long as you're typing in numbers, it's waiting for you to finish telling it the number.     : At this point, things can go in one of two ways. Some calculators will understand that you're done with the second number of the sum and do that calculation right away. Then it will use that result with the multiplication that you're about to give it. On the other hand, some calculators know about the mathematical order of operations, and it will know that it needs to do this multiplication first, then go back and add the other result. But in order to do that, it will also need to hold that original 1 in memory.    While there is more to the calculation, this is the critical step where things can fall apart. And this is why it's critical for you to know how your calculator works. Lots of students get problems wrong because of something as simple as this.   infix notation (calculator) It's worth noting that there are some calculators that take the whole expression in before doing the calculation. These are sometimes called infix notation calculators. These behave more like how you would behave when looking at a calculation. You would use a logical system to determine which calculation needs to be performed first based on the order of operations, and then you would simplify from there. But infix notation also has order of operations pitfalls.  Consider the calculation . You can easily see that this is equal to 1. But if you don't type it into the calculator correctly, it won't give you the desired result. Here is the button sequences that students would typically press: . And some students might even see in the display and feel as though everything is correct. But how would the calculator see it?    Calculator Strategies  Work in small chunks following the order of operations.  Calculate twice.       (Wikipedia) Calculator Input Methods)      "
 },
 {
   "id": "sec-calculators-3-3",
@@ -514,22 +514,166 @@ var ptx_lunr_docs = [
   "body": "    (Wikipedia) Calculator Input Methods)     "
 },
 {
-  "id": "sec-section-labs",
+  "id": "sec-scientific-notation",
   "level": "1",
-  "url": "sec-section-labs.html",
+  "url": "sec-scientific-notation.html",
   "type": "Section",
   "number": "2.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "title": "Scientific Notation",
+  "body": " Scientific Notation     -----   ----     SI Prefixes  ...    Working with Exponents  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "sec-scientific-notation-5",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-5",
+  "type": "Additional Resources",
+  "number": "2.2",
+  "title": "",
+  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+},
+{
+  "id": "sec-basic-algebra",
+  "level": "1",
+  "url": "sec-basic-algebra.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Basic Algebra",
+  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Unit Conversions  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+},
+{
+  "id": "sec-basic-algebra-5",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
+  "type": "Additional Resources",
+  "number": "2.3",
+  "title": "",
+  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+},
+{
+  "id": "sec-basic-algebra",
+  "level": "1",
+  "url": "sec-basic-algebra.html",
+  "type": "Section",
+  "number": "2.4",
+  "title": "Basic Algebra",
+  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Solving for a Variable  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+},
+{
+  "id": "sec-basic-algebra-5",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
+  "type": "Additional Resources",
+  "number": "2.4",
+  "title": "",
+  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+},
+{
+  "id": "lab-order-of-magnitude",
+  "level": "1",
+  "url": "lab-order-of-magnitude.html",
   "type": "Lab Activity",
-  "number": "2.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "2.5.1",
+  "title": "How Close is Close Enough?",
+  "body": " How Close is Close Enough?   Introduction  Students will practice using their calculators.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-order-of-magnitude-4",
+  "level": "2",
+  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-4",
+  "type": "Example",
+  "number": "2.5.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-order-of-magnitude-8",
+  "level": "2",
+  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-8",
+  "type": "Additional Resources",
+  "number": "2.5.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-order-of-magnitude",
+  "level": "1",
+  "url": "lab-order-of-magnitude.html",
+  "type": "Lab Activity",
+  "number": "2.5.2",
+  "title": "Powers of Ten",
+  "body": " Powers of Ten   Introduction  Students will watch the powers of 10 video and do something with it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-order-of-magnitude-4",
+  "level": "2",
+  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-4",
+  "type": "Example",
+  "number": "2.5.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-order-of-magnitude-8",
+  "level": "2",
+  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-8",
+  "type": "Additional Resources",
+  "number": "2.5.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-variable-relationships",
+  "level": "1",
+  "url": "lab-variable-relationships.html",
+  "type": "Lab Activity",
+  "number": "2.5.3",
+  "title": "Understanding Variable Relationships",
+  "body": " Understanding Variable Relationships   Introduction  Students will investigate direct and inverse relationships.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-variable-relationships-4",
+  "level": "2",
+  "url": "lab-variable-relationships.html#lab-variable-relationships-4",
+  "type": "Example",
+  "number": "2.5.3.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-variable-relationships-8",
+  "level": "2",
+  "url": "lab-variable-relationships.html#lab-variable-relationships-8",
+  "type": "Additional Resources",
+  "number": "2.5.3",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-data",
+  "level": "1",
+  "url": "lab-data.html",
+  "type": "Lab Activity",
+  "number": "2.5.4",
+  "title": "Interpreting Data",
+  "body": " Interpreting Data   Introduction  Students find data online and then interpret it. Soemtimes this will be extrapolation or interpolation.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-data-4",
+  "level": "2",
+  "url": "lab-data.html#lab-data-4",
+  "type": "Example",
+  "number": "2.5.4.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-data-8",
+  "level": "2",
+  "url": "lab-data.html#lab-data-8",
+  "type": "Additional Resources",
+  "number": "2.5.4",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-numbers-and-units",
@@ -667,22 +811,58 @@ var ptx_lunr_docs = [
   "body": "    Link : Description    "
 },
 {
-  "id": "sec-derived-units",
+  "id": "lab-unit-conversion",
   "level": "1",
-  "url": "sec-derived-units.html",
-  "type": "Section",
-  "number": "3.4",
-  "title": "Derived Units",
-  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  What else to say here?      Link : Description     "
+  "url": "lab-unit-conversion.html",
+  "type": "Lab Activity",
+  "number": "3.4.1",
+  "title": "The Metric System is the Tool of the Devil!",
+  "body": " The Metric System is the Tool of the Devil!   Introduction  Explain the Simpsons quote. Then do work with non-metric units.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-derived-units-8",
+  "id": "lab-unit-conversion-4",
   "level": "2",
-  "url": "sec-derived-units.html#sec-derived-units-8",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-4",
+  "type": "Example",
+  "number": "3.4.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-unit-conversion-8",
+  "level": "2",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-8",
   "type": "Additional Resources",
-  "number": "3.4",
+  "number": "3.4.1",
   "title": "",
-  "body": "    Link : Description    "
+  "body": "    Google     "
+},
+{
+  "id": "lab-measuring-speed",
+  "level": "1",
+  "url": "lab-measuring-speed.html",
+  "type": "Lab Activity",
+  "number": "3.4.2",
+  "title": "How Fast is That?",
+  "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-measuring-speed-4",
+  "level": "2",
+  "url": "lab-measuring-speed.html#lab-measuring-speed-4",
+  "type": "Example",
+  "number": "3.4.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-measuring-speed-8",
+  "level": "2",
+  "url": "lab-measuring-speed.html#lab-measuring-speed-8",
+  "type": "Additional Resources",
+  "number": "3.4.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -694,22 +874,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-animating-kinematics",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "4.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-animating-kinematics.html",
+  "type": "Lab Activity",
+  "number": "4.2.1",
+  "title": "Animating Kinematics",
+  "body": " Animating Kinematics   Introduction  Students make flipbooks demonstrating kinematic concepts in one dimension.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-animating-kinematics-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-animating-kinematics.html#lab-animating-kinematics-4",
+  "type": "Example",
+  "number": "4.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-animating-kinematics-8",
+  "level": "2",
+  "url": "lab-animating-kinematics.html#lab-animating-kinematics-8",
+  "type": "Additional Resources",
+  "number": "4.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-measuring-acceleration",
+  "level": "1",
+  "url": "lab-measuring-acceleration.html",
   "type": "Lab Activity",
-  "number": "4.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "4.2.2",
+  "title": "Measuring Acceleration",
+  "body": " Measuring Acceleration   Introduction  Students attempt to measure the acceleration due to gravity using various timing mechanisms.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-measuring-acceleration-4",
+  "level": "2",
+  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-4",
+  "type": "Example",
+  "number": "4.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-measuring-acceleration-8",
+  "level": "2",
+  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-8",
+  "type": "Additional Resources",
+  "number": "4.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1140,6 +1356,60 @@ var ptx_lunr_docs = [
   "url": "sec-section-labs.html#sec-section-labs-2",
   "type": "Lab Activity",
   "number": "20.1",
+  "title": "Physics Lab.",
+  "body": " Physics Lab  "
+},
+{
+  "id": "sec-section-name",
+  "level": "1",
+  "url": "sec-section-name.html",
+  "type": "Section",
+  "number": "21.1",
+  "title": "Section Title",
+  "body": " Section Title  Text of section.  "
+},
+{
+  "id": "sec-section-labs",
+  "level": "1",
+  "url": "sec-section-labs.html",
+  "type": "Section",
+  "number": "21.2",
+  "title": "Labs",
+  "body": " Labs   Physics Lab   Text of section.  "
+},
+{
+  "id": "sec-section-labs-2",
+  "level": "2",
+  "url": "sec-section-labs.html#sec-section-labs-2",
+  "type": "Lab Activity",
+  "number": "21.1",
+  "title": "Physics Lab.",
+  "body": " Physics Lab  "
+},
+{
+  "id": "sec-section-name",
+  "level": "1",
+  "url": "sec-section-name.html",
+  "type": "Section",
+  "number": "22.1",
+  "title": "Section Title",
+  "body": " Section Title  Text of section.  "
+},
+{
+  "id": "sec-section-labs",
+  "level": "1",
+  "url": "sec-section-labs.html",
+  "type": "Section",
+  "number": "22.2",
+  "title": "Labs",
+  "body": " Labs   Physics Lab   Text of section.  "
+},
+{
+  "id": "sec-section-labs-2",
+  "level": "2",
+  "url": "sec-section-labs.html#sec-section-labs-2",
+  "type": "Lab Activity",
+  "number": "22.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
 },
