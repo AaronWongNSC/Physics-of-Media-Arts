@@ -19,43 +19,49 @@
       <xi:include href="./p0-ch3-s0-measurement.ptx" />
     </part>
 
-    <part xml:id="part-dynamics-statics">
+    <part xml:id="part-dynamics">
       <title>I Do My Own Stunts!</title>
 
-      <xi:include href="./p1-ch4-one-dim.ptx" />
-      <xi:include href="./p1-ch5-constant-acceleration.ptx" />
-      <xi:include href="./p1-ch6-newton.ptx" />
-      <xi:include href="./p1-ch7-momentum.ptx" />
-      <xi:include href="./p1-ch8-rigid-structures.ptx" />
-      <xi:include href="./p1-ch9-tension.ptx" />
-      <!-- Add pressure? -->
+      <xi:include href="./p1-ch1-one-dim.ptx" />
+      <xi:include href="./p1-ch2-constant-acceleration.ptx" />
+      <xi:include href="./p1-ch3-newton.ptx" />
+      <xi:include href="./p1-ch4-momentum.ptx" />
+    </part>
+
+    <part xml:id="part-name-tbd">
+      <title>Something Cool</title>
+
+      <xi:include href="./p2-ch1-rigid-structures.ptx" />
+      <xi:include href="./p2-ch2-tension.ptx" />
+      <xi:include href="./p2-ch3-simple-machines.ptx" />
+      <xi:include href="./p2-ch4-pressure.ptx" />
     </part>
 
     <part xml:id="part-optics">
       <title>Lights... Camera... Optics!</title>
 
-      <xi:include href="./p2-ch10-light.ptx" />
-      <xi:include href="./p2-ch11-reflection-refraction.ptx" />
-      <xi:include href="./p2-ch12-lenses.ptx" />
-      <xi:include href="./p2-ch13-color-science.ptx" />
+      <xi:include href="./p3-ch1-light.ptx" />
+      <xi:include href="./p3-ch2-reflection-refraction.ptx" />
+      <xi:include href="./p3-ch3-lenses.ptx" />
+      <xi:include href="./p3-ch4-color-science.ptx" />
       <!-- Add shadows -->
     </part>
 
     <part xml:id="part-sound">
       <title>These Go to Eleven</title>
 
-      <xi:include href="./p3-ch14-sound.ptx" />
-      <xi:include href="./p3-ch15-resonance.ptx" />
-      <xi:include href="./p3-ch16-music.ptx" />
+      <xi:include href="./p4-ch1-sound.ptx" />
+      <xi:include href="./p4-ch2-resonance.ptx" />
+      <xi:include href="./p4-ch3-music.ptx" />
     </part>
 
     <part xml:id="part-electronics">
       <title>1.21 Gigawatts!?</title>
 
-      <xi:include href="./p4-ch17-electronics.ptx" />
-      <xi:include href="./p4-ch18-practical.ptx" />
-      <xi:include href="./p4-ch19-hacking.ptx" />
-      <xi:include href="./p4-ch20-building.ptx" />
+      <xi:include href="./p5-ch1-electronics.ptx" />
+      <xi:include href="./p5-ch2-practical.ptx" />
+      <xi:include href="./p5-ch3-hacking.ptx" />
+      <xi:include href="./p5-ch4-building.ptx" />
     </part>
 
     <!-- Include backmatter -->

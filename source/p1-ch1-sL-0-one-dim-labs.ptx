@@ -3,7 +3,7 @@
 <section xml:id="sec-mathematics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: One-Dimensional Motion</title>
 
-  <xi:include href="./p1-ch4-sL-1-animating-kinematics.ptx" />
-  <xi:include href="./p1-ch4-sL-2-measuring-acceleration.ptx" />
+  <xi:include href="./p1-ch1-sL-1-animating-kinematics.ptx" />
+  <xi:include href="./p1-ch1-sL-2-measuring-acceleration.ptx" />
 
 </section>

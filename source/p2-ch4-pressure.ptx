@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-pressure" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pressure</title>
+
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          Students will be able to...
+        </p>
+      </li>
+    </ul>
+  </objectives>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="sec-section-labs.ptx" />
+
+</chapter>
