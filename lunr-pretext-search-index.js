@@ -574,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "2.5.1",
   "title": "How Close is Close Enough?",
-  "body": " How Close is Close Enough?   Introduction  Students will practice using their calculators.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " How Close is Close Enough?   Introduction  Students will practice using their calculators. Get multiple calculators, compare their features, test them for rounding errors and things like that.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
   "id": "lab-order-of-magnitude-4",
@@ -655,7 +655,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "2.5.4",
   "title": "Interpreting Data",
-  "body": " Interpreting Data   Introduction  Students find data online and then interpret it. Soemtimes this will be extrapolation or interpolation.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " Interpreting Data   Introduction  Students find data online and then interpret it. Soemtimes this will be extrapolation or interpolation. Maybe this is the marble target experiment.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
   "id": "lab-data-4",
@@ -897,33 +897,6 @@ var ptx_lunr_docs = [
   "url": "lab-animating-kinematics.html#lab-animating-kinematics-8",
   "type": "Additional Resources",
   "number": "4.2.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-measuring-acceleration",
-  "level": "1",
-  "url": "lab-measuring-acceleration.html",
-  "type": "Lab Activity",
-  "number": "4.2.2",
-  "title": "Measuring Acceleration",
-  "body": " Measuring Acceleration   Introduction  Students attempt to measure the acceleration due to gravity using various timing mechanisms.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-measuring-acceleration-4",
-  "level": "2",
-  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-4",
-  "type": "Example",
-  "number": "4.2.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-measuring-acceleration-8",
-  "level": "2",
-  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-8",
-  "type": "Additional Resources",
-  "number": "4.2.2",
   "title": "",
   "body": "    Google     "
 },
