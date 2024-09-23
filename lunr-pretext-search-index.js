@@ -556,39 +556,39 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Basic Algebra",
-  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Solving for a Variable  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Basic Algebra     -----   ----     Representing Two-Dimensional Data  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
-  "id": "sec-basic-algebra-5",
+  "id": "sec-basic-algebra-4",
   "level": "2",
-  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-4",
   "type": "Additional Resources",
   "number": "2.4",
   "title": "",
   "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
 },
 {
-  "id": "lab-order-of-magnitude",
+  "id": "lab-calculators",
   "level": "1",
-  "url": "lab-order-of-magnitude.html",
+  "url": "lab-calculators.html",
   "type": "Lab Activity",
   "number": "2.5.1",
-  "title": "How Close is Close Enough?",
-  "body": " How Close is Close Enough?   Introduction  Students will practice using their calculators. Get multiple calculators, compare their features, test them for rounding errors and things like that.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "title": "Calculator Practice",
+  "body": " Calculator Practice   Introduction  Students will practice using their calculators. Get multiple calculators, compare their features, test them for rounding errors and things like that.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "lab-order-of-magnitude-4",
+  "id": "lab-calculators-4",
   "level": "2",
-  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-4",
+  "url": "lab-calculators.html#lab-calculators-4",
   "type": "Example",
   "number": "2.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
 {
-  "id": "lab-order-of-magnitude-8",
+  "id": "lab-calculators-8",
   "level": "2",
-  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-8",
+  "url": "lab-calculators.html#lab-calculators-8",
   "type": "Additional Resources",
   "number": "2.5.1",
   "title": "",
