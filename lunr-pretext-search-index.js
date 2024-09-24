@@ -532,18 +532,18 @@ var ptx_lunr_docs = [
   "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
 },
 {
-  "id": "sec-basic-algebra",
+  "id": "sec-graphing",
   "level": "1",
-  "url": "sec-basic-algebra.html",
+  "url": "sec-graphing.html",
   "type": "Section",
   "number": "2.3",
-  "title": "Basic Algebra",
-  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Unit Conversions  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "title": "Graphing Data",
+  "body": " Graphing Data     -----   ----     Representing Two-Dimensional Data  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
-  "id": "sec-basic-algebra-5",
+  "id": "sec-graphing-4",
   "level": "2",
-  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
+  "url": "sec-graphing.html#sec-graphing-4",
   "type": "Additional Resources",
   "number": "2.3",
   "title": "",
@@ -556,12 +556,12 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Basic Algebra",
-  "body": " Basic Algebra     -----   ----     Representing Two-Dimensional Data  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Unit Conversions  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
-  "id": "sec-basic-algebra-4",
+  "id": "sec-basic-algebra-5",
   "level": "2",
-  "url": "sec-basic-algebra.html#sec-basic-algebra-4",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
   "type": "Additional Resources",
   "number": "2.4",
   "title": "",
