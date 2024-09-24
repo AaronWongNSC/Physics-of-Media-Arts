@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Physics Labs",
-  "body": " Physics Labs    The difference between screwing around and science is writing it down.   Adam Savage (Mythbusters)   Physics labs are simply a formal structure that give us opportunities to practice making observations and formulating ideas. In this book, we set them up in a very formal way because it's the best way to really slow down the process and allow deeper insights to settle in.  Your lab report should be understood as a completely self-contained document that describes what happened in the lab and what you learned from it. You should not assume that the person reading your lab report has access to the textbook or the lab procedures. All of that information must be included in your report. If the lab procedure has reflection questions, you should copy those questions into the appropriate section, and not just write down a number and your answers.  A carefully written lab report is much more than just presenting experimental data. It's a reflection of your ability to communicate the ideas that you have been asked to consider. It's also important to understand that not all labs work out perfectly, and sometimes you get results that are different than what is expected. Part of your job as a scientific thinker is to try to understand and explain discrepancies between the anticipated results and the actual results. In many cases, there is more to learn when something goes wrong compared to when everything goes right.  The following outline should be used for all lab activities:    Title and Header: This section is mostly for organization purposes. You should use the title that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly add one in. The remainder of the header information is the name of the group members. Typically, lab groups will be limited to three members, but your instructor may decide differently.    Introduction: This is where you state the overall objectives of the experiment. You will also want to include a discussion of the relevant concepts associated with the objectives. In a sense, you should think about this as the section that teaches the reader everything they need to know in order to understand the experiment you are about to run.    Procedure: This is where you explain the step-by-step procedure that you were meant to follow, and indications of any times that you deviated from that. This part should be detailed enough that someone else can follow the instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of what happened should be written as paragraphs.    Results and Data: This section is where you record what happened. Typically, while you're actually running the experiment you'll be keeping your data recorded in a lab notebook or on other paper. When it comes to putting that data into a lab report, you are not simply copying over that information, but you are organizing it so that it is as legible and understandable as possible. This may mean that you put the data into tables and a graph, or maybe it's just a written description of observations at different times. This section also includes relevant calculations. This does not mean that you should include all of your scratch work. It should contain just the relevant calculations and a minimal amount of information or explanation (if needed) for what those calculations represent. It should not be a solid wall of formulas.    Discussion: This is where the heart of the report lives. All of the other work that you've done leads up to this section. Here is where you will respond to the questions that are contained in the lab. Your goal is to demonstrate that you've learned something from the observations you made while executing the lab. These questions should all revolve around the objectives that you presented in the introduction. When possible, you should make direct reference to the objectives for emphasis. In many cases, this may also include an error analysis, where you talk about the things that went wrong and how those things might be addressed if you were to do the experiment again.    Conclusion: Write a paragraph or two that summarizes the lab and what you learned from it.        (New Jersey Institute of Technology) Physics Lab Report Guidelines      (William and Mary Department of Physics) Tips for Writing a Good Lab Report [PDF]      "
+  "body": " Physics Labs    The difference between screwing around and science is writing it down.   Adam Savage (Mythbusters)   Physics labs are simply a formal structure that give us opportunities to practice making observations and formulating ideas. In this book, we set them up in a very formal way because it's the best way to really slow down the process and allow deeper insights to settle in.  Your lab report should be understood as a completely self-contained document that describes what happened in the lab and what you learned from it. You should not assume that the person reading your lab report has access to the textbook or the lab procedures. All of that information must be included in your report. If the lab procedure has reflection questions, you should copy those questions into the appropriate section, and not just write down a number and your answers.  A carefully written lab report is much more than just presenting experimental data. It's a reflection of your ability to communicate the ideas that you have been asked to consider. It's also important to understand that not all labs work out perfectly, and sometimes you get results that are different than what is expected. Part of your job as a scientific thinker is to try to understand and explain discrepancies between the anticipated results and the actual results. In many cases, there is more to learn when something goes wrong compared to when everything goes right.  The following outline should be used for all lab activities:    Title and Header: This section is mostly for organization purposes. You should use the title that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly add one in. The remainder of the header information is the name of the group members. Typically, lab groups will be limited to three members, but your instructor may decide differently.    Introduction: This is where you state the overall objectives of the experiment. You will also want to include a discussion of the relevant concepts associated with the objectives. In a sense, you should think about this as the section that teaches the reader everything they need to know in order to understand the experiment you are about to run.    Procedure: This is where you explain the step-by-step procedure that you were meant to follow, and indications of any times that you deviated from that. This part should be detailed enough that someone else can follow the instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of what happened should be written as paragraphs. Sometimes, a parts list will be provided at the beginning.    Results and Data: This section is where you record what happened. Typically, while you're actually running the experiment you'll be keeping your data recorded in a lab notebook or on other paper. When it comes to putting that data into a lab report, you are not simply copying over that information, but you are organizing it so that it is as legible and understandable as possible. This may mean that you put the data into tables and a graph, or maybe it's just a written description of observations at different times. This section also includes relevant calculations. This does not mean that you should include all of your scratch work. It should contain just the relevant calculations and a minimal amount of information or explanation (if needed) for what those calculations represent. It should not be a solid wall of formulas.    Discussion: This is where the heart of the report lives. All of the other work that you've done leads up to this section. Here is where you will respond to the questions that are contained in the lab. Your goal is to demonstrate that you've learned something from the observations you made while executing the lab. These questions should all revolve around the objectives that you presented in the introduction. When possible, you should make direct reference to the objectives for emphasis. In many cases, this may also include an error analysis, where you talk about the things that went wrong and how those things might be addressed if you were to do the experiment again.    Conclusion: Write a paragraph or two that summarizes the lab and what you learned from it.        (New Jersey Institute of Technology) Physics Lab Report Guidelines      (William and Mary Department of Physics) Tips for Writing a Good Lab Report [PDF]      "
 },
 {
   "id": "sec-physics-labs-8",
@@ -844,7 +844,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "3.4.2",
   "title": "How Fast is That?",
-  "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s. Also use stopwatch on the cellphone.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
   "id": "lab-measuring-speed-4",
@@ -910,22 +910,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-measuring-acceleration",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "5.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-measuring-acceleration.html",
+  "type": "Lab Activity",
+  "number": "5.2.1",
+  "title": "Measuring Acceleration",
+  "body": " Measuring Acceleration   Introduction  Students attempt to measure the acceleration due to gravity using various timing mechanisms.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-measuring-acceleration-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "5.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-4",
+  "type": "Example",
+  "number": "5.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-measuring-acceleration-8",
+  "level": "2",
+  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-8",
+  "type": "Additional Resources",
+  "number": "5.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -937,22 +946,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-equal-opposite",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "6.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-equal-opposite.html",
+  "type": "Lab Activity",
+  "number": "6.2.1",
+  "title": "Equal and Opposite Reaction",
+  "body": " Equal and Opposite Reaction   Introduction  Students experience third law of motion    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-equal-opposite-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "6.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-equal-opposite.html#lab-equal-opposite-4",
+  "type": "Example",
+  "number": "6.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-equal-opposite-8",
+  "level": "2",
+  "url": "lab-equal-opposite.html#lab-equal-opposite-8",
+  "type": "Additional Resources",
+  "number": "6.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -964,22 +982,13 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "sec-momentum-labs",
   "level": "1",
-  "url": "sec-section-labs.html",
+  "url": "sec-momentum-labs.html",
   "type": "Section",
   "number": "7.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
-  "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "7.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "title": "Lab Activities: Momentum",
+  "body": " Lab Activities: Momentum   "
 },
 {
   "id": "sec-section-name",
@@ -991,22 +1000,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-equal-opposite",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "8.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-equal-opposite.html",
+  "type": "Lab Activity",
+  "number": "8.2.1",
+  "title": "Equal and Opposite Reaction",
+  "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-equal-opposite-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "8.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-equal-opposite.html#lab-equal-opposite-4",
+  "type": "Example",
+  "number": "8.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-equal-opposite-8",
+  "level": "2",
+  "url": "lab-equal-opposite.html#lab-equal-opposite-8",
+  "type": "Additional Resources",
+  "number": "8.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
