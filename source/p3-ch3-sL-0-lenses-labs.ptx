@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-lenses-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: Lenses</title>
+
+  <xi:include href="./p2-ch3-sL-1-pulley-lab.ptx" />
+  <!-- Maybe shadows -->
+
+</section>
