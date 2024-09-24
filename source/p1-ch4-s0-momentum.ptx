@@ -29,6 +29,6 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p1-ch4-sL-0-momentum-labs.ptx" />
 
 </chapter>
