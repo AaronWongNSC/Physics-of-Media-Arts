@@ -3,8 +3,6 @@
 <section xml:id="sec-scientific-method-labs-subsections" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: The Scientific Method</title>
 
-  <xi:include href="./p0-ch1-s6-1-curious-thinker.ptx" />
-  <xi:include href="./p0-ch1-s6-2-curious-thinker.ptx" />
-  <xi:include href="./p0-ch1-s6-3-curious-thinker.ptx" />
+  <xi:include href="./p0-ch1-s4-1-curious-thinker.ptx" />
 
 </section>

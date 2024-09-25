@@ -42,9 +42,6 @@
   <xi:include href="p0-ch1-s1-scientific-method.ptx" />
   <xi:include href="p0-ch1-s2-hypothesis-theory-law-model.ptx" />
   <xi:include href="p0-ch1-s3-physics-labs.ptx" />
-  <xi:include href="p0-ch1-s4-scientific-method-labs.ptx" />
-  <xi:include href="p0-ch1-s5-scientific-method-labs-worksheet.ptx" />
-  <xi:include href="p0-ch1-s6-0-scientific-method-labs-subsection.ptx" />
-  <xi:include href="p0-ch1-s7-0-scientific-method-labs-mix.ptx" />
+  <xi:include href="p0-ch1-s4-0-scientific-method-labs.ptx" />
 
 </chapter>
