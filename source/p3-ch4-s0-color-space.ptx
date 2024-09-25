@@ -17,8 +17,14 @@
     <p> Text before the first section. </p>
   </introduction>
 
+    <!--
+  Color is just how the eyes interpret photons of different energy levels, combined with brain stuff.
+  RGB vs CMYK
+  Blackbody Kelvin scale
+  -->
+
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p3-ch4-sL-0-color-space-labs.ptx" />
 
 </chapter>

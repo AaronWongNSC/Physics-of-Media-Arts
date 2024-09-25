@@ -12,6 +12,11 @@
       </li>
       <li>
         <p>
+          Students will be able to describe the electromagnetic spectrum.
+        </p>
+      </li>
+      <li>
+        <p>
           Students will be able to explain the concept of the universal speed limit of light.
         </p>
       </li>
@@ -27,7 +32,12 @@
     <p> Text before the first section. </p>
   </introduction>
 
+  <!--
+  Prisms
+  Types of light sources
+  -->
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p3-ch1-sL-0-light-labs.ptx" />
+
 </chapter>

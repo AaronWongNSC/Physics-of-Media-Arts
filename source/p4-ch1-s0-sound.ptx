@@ -19,6 +19,6 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p4-ch1-sL-0-sound-labs.ptx" />
 
 </chapter>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-lenses-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Lab Activities: Lenses</title>
+<section xml:id="sec-color-space-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: Color Space</title>
 
-  <xi:include href="./p2-ch3-sL-1-pulley-lab.ptx" />
-  <!-- Maybe shadows -->
+  <xi:include href="./p3-ch4-sL-1-colored-light-shadows.ptx" />
+  <xi:include href="./p3-ch4-sL-2-paint-color-mixing.ptx" />
 
 </section>

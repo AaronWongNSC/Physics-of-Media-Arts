@@ -3,7 +3,8 @@
 <section xml:id="sec-lenses-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Lenses</title>
 
-  <xi:include href="./p2-ch3-sL-1-pulley-lab.ptx" />
+  <xi:include href="./p3-ch3-sL-1-analog-photography.ptx" />
+  <xi:include href="./p3-ch3-sL-2-pinhole-camera.ptx" />
   <!-- Maybe shadows -->
 
 </section>

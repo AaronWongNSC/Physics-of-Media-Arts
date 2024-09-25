@@ -17,8 +17,10 @@
     <p> Text before the first section. </p>
   </introduction>
 
+  <!-- Polarization -->
+
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
-  <xi:include href="sec-section-labs.ptx" />
+  <xi:include href="p3-ch3-sL-0-lenses-labs.ptx" />
 
 </chapter>
