@@ -865,6 +865,33 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
+  "id": "lab-human-body-measurement",
+  "level": "1",
+  "url": "lab-human-body-measurement.html",
+  "type": "Lab Activity",
+  "number": "3.4.3",
+  "title": "My Body My Measuring Device",
+  "body": " My Body My Measuring Device   Introduction  Learn how to use the human body as a tool for estimating measurements.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-human-body-measurement-4",
+  "level": "2",
+  "url": "lab-human-body-measurement.html#lab-human-body-measurement-4",
+  "type": "Example",
+  "number": "3.4.3.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-human-body-measurement-8",
+  "level": "2",
+  "url": "lab-human-body-measurement.html#lab-human-body-measurement-8",
+  "type": "Additional Resources",
+  "number": "3.4.3",
+  "title": "",
+  "body": "    Google     "
+},
+{
   "id": "sec-section-name",
   "level": "1",
   "url": "sec-section-name.html",
@@ -982,13 +1009,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-momentum-labs",
+  "id": "lab-egg-catch",
   "level": "1",
-  "url": "sec-momentum-labs.html",
-  "type": "Section",
-  "number": "7.2",
-  "title": "Lab Activities: Momentum",
-  "body": " Lab Activities: Momentum   "
+  "url": "lab-egg-catch.html",
+  "type": "Lab Activity",
+  "number": "7.2.1",
+  "title": "Egg Catch",
+  "body": " Egg Catch   Introduction  Impulse-momentum theorem relates impulse to acceleration, and large acceleration leads to broken eggs.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-egg-catch-4",
+  "level": "2",
+  "url": "lab-egg-catch.html#lab-egg-catch-4",
+  "type": "Example",
+  "number": "7.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-egg-catch-8",
+  "level": "2",
+  "url": "lab-egg-catch.html#lab-egg-catch-8",
+  "type": "Additional Resources",
+  "number": "7.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1027,6 +1072,33 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
+  "id": "lab-center-of-mass",
+  "level": "1",
+  "url": "lab-center-of-mass.html",
+  "type": "Lab Activity",
+  "number": "8.2.2",
+  "title": "Center of Mass and Balance",
+  "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-center-of-mass-4",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-4",
+  "type": "Example",
+  "number": "8.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-center-of-mass-8",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-8",
+  "type": "Additional Resources",
+  "number": "8.2.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
   "id": "sec-section-name",
   "level": "1",
   "url": "sec-section-name.html",
@@ -1036,22 +1108,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-tensegrity-structure",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "9.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-tensegrity-structure.html",
+  "type": "Lab Activity",
+  "number": "9.2.1",
+  "title": "Tensegrity Structures",
+  "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-tensegrity-structure-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "9.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
+  "type": "Example",
+  "number": "9.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-tensegrity-structure-8",
+  "level": "2",
+  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
+  "type": "Additional Resources",
+  "number": "9.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1063,22 +1144,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-pulley",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "10.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-pulley.html",
+  "type": "Lab Activity",
+  "number": "10.2.1",
+  "title": "Pulleys",
+  "body": " Pulleys   Introduction  Pulleys help in difefrent ways.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-pulley-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "10.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-pulley.html#lab-pulley-4",
+  "type": "Example",
+  "number": "10.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-pulley-8",
+  "level": "2",
+  "url": "lab-pulley.html#lab-pulley-8",
+  "type": "Additional Resources",
+  "number": "10.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1090,22 +1180,31 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-hydraulics",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "11.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-hydraulics.html",
+  "type": "Lab Activity",
+  "number": "11.2.1",
+  "title": "Hydraulics",
+  "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-hydraulics-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
-  "number": "11.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "lab-hydraulics.html#lab-hydraulics-4",
+  "type": "Example",
+  "number": "11.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-hydraulics-8",
+  "level": "2",
+  "url": "lab-hydraulics.html#lab-hydraulics-8",
+  "type": "Additional Resources",
+  "number": "11.2.1",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1117,22 +1216,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-ray-tracing",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "12.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-ray-tracing.html",
+  "type": "Lab Activity",
+  "number": "12.2.1",
+  "title": "Ray Tracing",
+  "body": " Ray Tracing   Introduction  Something with ray-tracing. Maybe sketching forced perspective 3D scenes or something    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-ray-tracing-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-ray-tracing.html#lab-ray-tracing-4",
+  "type": "Example",
+  "number": "12.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-ray-tracing-8",
+  "level": "2",
+  "url": "lab-ray-tracing.html#lab-ray-tracing-8",
+  "type": "Additional Resources",
+  "number": "12.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-prisms",
+  "level": "1",
+  "url": "lab-prisms.html",
   "type": "Lab Activity",
-  "number": "12.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "12.2.2",
+  "title": "Prisms",
+  "body": " Prisms   Introduction  Light bending and color    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-prisms-4",
+  "level": "2",
+  "url": "lab-prisms.html#lab-prisms-4",
+  "type": "Example",
+  "number": "12.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-prisms-8",
+  "level": "2",
+  "url": "lab-prisms.html#lab-prisms-8",
+  "type": "Additional Resources",
+  "number": "12.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1144,22 +1279,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-ray-tracing",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "13.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-ray-tracing.html",
+  "type": "Lab Activity",
+  "number": "13.2.1",
+  "title": "Optical Illusions",
+  "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-ray-tracing-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-ray-tracing.html#lab-ray-tracing-4",
+  "type": "Example",
+  "number": "13.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-ray-tracing-8",
+  "level": "2",
+  "url": "lab-ray-tracing.html#lab-ray-tracing-8",
+  "type": "Additional Resources",
+  "number": "13.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-light-and-shadow",
+  "level": "1",
+  "url": "lab-light-and-shadow.html",
   "type": "Lab Activity",
-  "number": "13.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "13.2.2",
+  "title": "Light and Shadow",
+  "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-light-and-shadow-4",
+  "level": "2",
+  "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
+  "type": "Example",
+  "number": "13.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-light-and-shadow-8",
+  "level": "2",
+  "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
+  "type": "Additional Resources",
+  "number": "13.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1171,22 +1342,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-analog-photography",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "14.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-analog-photography.html",
+  "type": "Lab Activity",
+  "number": "14.2.1",
+  "title": "Analog Photography",
+  "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-analog-photography-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-analog-photography.html#lab-analog-photography-4",
+  "type": "Example",
+  "number": "14.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-analog-photography-8",
+  "level": "2",
+  "url": "lab-analog-photography.html#lab-analog-photography-8",
+  "type": "Additional Resources",
+  "number": "14.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-pinhole-camera",
+  "level": "1",
+  "url": "lab-pinhole-camera.html",
   "type": "Lab Activity",
-  "number": "14.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "14.2.2",
+  "title": "Pinhole Camera",
+  "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-pinhole-camera-4",
+  "level": "2",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
+  "type": "Example",
+  "number": "14.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-pinhole-camera-8",
+  "level": "2",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
+  "type": "Additional Resources",
+  "number": "14.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1198,22 +1405,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-colored-light-shadows",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "15.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-colored-light-shadows.html",
+  "type": "Lab Activity",
+  "number": "15.2.1",
+  "title": "Colored Lights and Shadows",
+  "body": " Colored Lights and Shadows   Introduction   Colored Lights and Shadows demonstration     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-colored-light-shadows-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-4",
+  "type": "Example",
+  "number": "15.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-colored-light-shadows-8",
+  "level": "2",
+  "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-8",
+  "type": "Additional Resources",
+  "number": "15.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-paint-color-mixing",
+  "level": "1",
+  "url": "lab-paint-color-mixing.html",
   "type": "Lab Activity",
-  "number": "15.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "15.2.2",
+  "title": "Mixing Paint Colors",
+  "body": " Mixing Paint Colors   Introduction  Students try to mix paint to match colors    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-paint-color-mixing-4",
+  "level": "2",
+  "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-4",
+  "type": "Example",
+  "number": "15.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-paint-color-mixing-8",
+  "level": "2",
+  "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-8",
+  "type": "Additional Resources",
+  "number": "15.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
@@ -1225,22 +1468,58 @@ var ptx_lunr_docs = [
   "body": " Section Title  Text of section.  "
 },
 {
-  "id": "sec-section-labs",
+  "id": "lab-chladni-plate",
   "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "16.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
+  "url": "lab-chladni-plate.html",
+  "type": "Lab Activity",
+  "number": "16.2.1",
+  "title": "Chladni Plates",
+  "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "sec-section-labs-2",
+  "id": "lab-chladni-plate-4",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
+  "url": "lab-chladni-plate.html#lab-chladni-plate-4",
+  "type": "Example",
+  "number": "16.2.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-chladni-plate-8",
+  "level": "2",
+  "url": "lab-chladni-plate.html#lab-chladni-plate-8",
+  "type": "Additional Resources",
+  "number": "16.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-oscilloscope",
+  "level": "1",
+  "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "16.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "number": "16.2.2",
+  "title": "Oscilloscope",
+  "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-oscilloscope-4",
+  "level": "2",
+  "url": "lab-oscilloscope.html#lab-oscilloscope-4",
+  "type": "Example",
+  "number": "16.2.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-oscilloscope-8",
+  "level": "2",
+  "url": "lab-oscilloscope.html#lab-oscilloscope-8",
+  "type": "Additional Resources",
+  "number": "16.2.2",
+  "title": "",
+  "body": "    Google     "
 },
 {
   "id": "sec-section-name",
