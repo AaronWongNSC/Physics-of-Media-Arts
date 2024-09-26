@@ -23,7 +23,10 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p1-ch3-s1-first-law.ptx" />
+  <xi:include href="p1-ch3-s2-second-law.ptx" />
+  <xi:include href="p1-ch3-s3-third-law.ptx" />
+
   <xi:include href="p1-ch3-sL-0-newton-labs.ptx" />
 
 </chapter>

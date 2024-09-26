@@ -29,7 +29,10 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p1-ch2-s1-one-dimension.ptx" />
+  <xi:include href="p1-ch2-s2-projectile.ptx" />
+  <xi:include href="p1-ch2-s3-gravity.ptx" />
+  
   <xi:include href="p1-ch2-sL-0-constant-acceleration-labs.ptx" />
 
 </chapter>
