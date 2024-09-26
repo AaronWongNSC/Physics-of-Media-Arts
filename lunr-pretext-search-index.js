@@ -457,7 +457,16 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "3.4.1",
   "title": "The Metric System is the Tool of the Devil!",
-  "body": " The Metric System is the Tool of the Devil!   Introduction  Explain the Simpsons quote. Then do work with non-metric units.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " The Metric System is the Tool of the Devil!   Introduction     The metric system is the tool of the devil! My car gets forty rods to the hogshead, and that's the way I like it!   Grandpa Simpson    imperial system While most of the world and all of science operates using the metric system, daily life in the US usually revolves around the imperial system of measurement. This is the system of quarts, gallons, feet, and miles that you're probably most accustomed to seeing. In fact, there are only three countries in the world that officially operate on the imperial system! (The other two countries are Liberia and Myanmar.)  The reason the imperial system is called that is because it was originally the system of units imposed on countries by the British Empire during the time of colonialism (imperial means \"of the empire\"). Somewhat confusingly, the imperial system wasn't formalized until the 1820s. Before that, there was a vast array of customary measures used in various locations, some of which date back to the 1500s (and potentially even earlier).  The actual origins of individual measurements were often rather arbitrary. For example, the length we call a foot today was originally the length of King Henry I's foot. And an inch has been defined muliple ways, including the length of three grains of barley laid end-to-end and the length of twelve poppy seeds. There are also other historical measurements that are similarly arbitrary, such as a cubit (the length from your elbow to the tip of your outstretched middle finger) and a league (the distance a person can walk in an hour). Of course, differences in individual human bodies made these measurements to be rough estimates at best. And the convoluted history and origins of these measurements have led to the equally convoluted relationships between them, such as 5280 feet in a mile.  For this lab, we are going to explore some more of the history of different units and practice making unit conversions using the imperial system.    Procedure  This lab consists of doing a little bit of research and a lot of calculations. The examples below show how unit your conversion calculations should be organized.    Converting Yards to Feet  ...    Converting Meters per Second to Miles per Hour  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-unit-conversion-2-4",
+  "level": "2",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "imperial system "
 },
 {
   "id": "lab-unit-conversion-4",
@@ -465,13 +474,22 @@ var ptx_lunr_docs = [
   "url": "lab-unit-conversion.html#lab-unit-conversion-4",
   "type": "Example",
   "number": "3.4.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "title": "Converting Yards to Feet.",
+  "body": " Converting Yards to Feet  ...  "
 },
 {
-  "id": "lab-unit-conversion-8",
+  "id": "lab-unit-conversion-5",
   "level": "2",
-  "url": "lab-unit-conversion.html#lab-unit-conversion-8",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-5",
+  "type": "Example",
+  "number": "3.4.1.2",
+  "title": "Converting Meters per Second to Miles per Hour.",
+  "body": " Converting Meters per Second to Miles per Hour  ...  "
+},
+{
+  "id": "lab-unit-conversion-9",
+  "level": "2",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-9",
   "type": "Additional Resources",
   "number": "3.4.1",
   "title": "",
