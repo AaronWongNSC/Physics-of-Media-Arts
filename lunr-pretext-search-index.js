@@ -595,20 +595,38 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-one-dim-const-acceleration",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-one-dim-const-acceleration.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "One-Dimensional Motion with Constant Acceleration",
+  "body": " One-Dimensional Motion with Constant Acceleration    -----   ------   ...  "
+},
+{
+  "id": "sec-gravity",
+  "level": "1",
+  "url": "sec-gravity.html",
+  "type": "Section",
+  "number": "5.2",
+  "title": "Planetary Gravity",
+  "body": " Planetary Gravity    -----   ------   Gravity on different planets  "
+},
+{
+  "id": "sec-position-and-velocity",
+  "level": "1",
+  "url": "sec-position-and-velocity.html",
+  "type": "Section",
+  "number": "5.3",
+  "title": "Position and Velocity",
+  "body": " Position and Velocity    -----   ------   ...  "
 },
 {
   "id": "lab-measuring-acceleration",
   "level": "1",
   "url": "lab-measuring-acceleration.html",
   "type": "Lab Activity",
-  "number": "5.2.1",
+  "number": "5.4.1",
   "title": "Measuring Acceleration",
   "body": " Measuring Acceleration   Introduction  Students attempt to measure the acceleration due to gravity using various timing mechanisms.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -617,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-4",
   "type": "Example",
-  "number": "5.2.1.1",
+  "number": "5.4.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -626,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-8",
   "type": "Additional Resources",
-  "number": "5.2.1",
+  "number": "5.4.1",
   "title": "",
   "body": "    Google     "
 },
@@ -635,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-moon-physics.html",
   "type": "Lab Activity",
-  "number": "5.2.2",
+  "number": "5.4.2",
   "title": "Moon Physics",
   "body": " Moon Physics   Introduction  Students attempt to fake a moon landing by slowing down time.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -644,7 +662,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-moon-physics.html#lab-moon-physics-4",
   "type": "Example",
-  "number": "5.2.2.1",
+  "number": "5.4.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -653,25 +671,43 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-moon-physics.html#lab-moon-physics-8",
   "type": "Additional Resources",
-  "number": "5.2.2",
+  "number": "5.4.2",
   "title": "",
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-newton-first-law",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-newton-first-law.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "Newton’s First Law of Motion",
+  "body": " Newton's First Law of Motion    -----   ------   ...  "
+},
+{
+  "id": "sec-newton-second-law",
+  "level": "1",
+  "url": "sec-newton-second-law.html",
+  "type": "Section",
+  "number": "6.2",
+  "title": "Newton’s Second Law of Motion",
+  "body": " Newton's Second Law of Motion    -----   ------   ...  "
+},
+{
+  "id": "sec-newton-third-law",
+  "level": "1",
+  "url": "sec-newton-third-law.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "Newton’s Third Law of Motion",
+  "body": " Newton's Third Law of Motion    -----   ------   ...  "
 },
 {
   "id": "lab-equal-opposite",
   "level": "1",
   "url": "lab-equal-opposite.html",
   "type": "Lab Activity",
-  "number": "6.2.1",
+  "number": "6.4.1",
   "title": "Equal and Opposite Reaction",
   "body": " Equal and Opposite Reaction   Introduction  Students experience third law of motion    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -680,7 +716,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-4",
   "type": "Example",
-  "number": "6.2.1.1",
+  "number": "6.4.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -689,7 +725,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-8",
   "type": "Additional Resources",
-  "number": "6.2.1",
+  "number": "6.4.1",
   "title": "",
   "body": "    Google     "
 },
