@@ -48,7 +48,11 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p1-ch1-s1-position-velocity.ptx" />
+  <xi:include href="p1-ch1-s2-position-graphs.ptx" />
+  <xi:include href="p1-ch1-s3-acceleration.ptx" />
+  <xi:include href="p1-ch1-s4-calculus.ptx" />
+  
   <xi:include href="p1-ch1-sL-0-one-dim-labs.ptx" />
 
 </chapter>
