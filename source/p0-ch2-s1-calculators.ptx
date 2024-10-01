@@ -105,19 +105,39 @@
       <m>\boxed{\strut 5}\boxed{\div}\boxed{2}\boxed{+}\boxed{3}</m>. And some students might even see <m>5/2+3</m> in the display and feel as though
       everything is correct. But how would the calculator see it?
     </p>
+    <p>
+      The calculator is programmed to try to follow the order of operations, and so it will scan through the different operations to help it determine
+      the order in which it will do the calculations. Based on this, it will see the division symbol and prioritize that one. This would lead to the
+      first calculation being <m>5 \div 2 = 2.5</m>. This will be added to 3, giving 5.5 as the result.
+    </p>
+    <p>
+      The problem is now clear. You need to tell the calculator that the <m>2+3</m> is all in the denominator for the division calculation. The way
+      to do this is to use parentheses (which most infix calculators have). Once you type it as
+      <m>\boxed{\strut 5}\boxed{\div}\boxed{(}\boxed{2}\boxed{+}\boxed{3}\boxed{)}</m>, it will give you the correct result.
+    </p>
     
   </paragraphs>
 
   <paragraphs>
-    <title>Calculator Strategies</title>
+    <title>A Basic Calculator Strategy</title>
 
     <p>
-      Work in small chunks following the order of operations.
+      One of the best calculator strategies to develop is to get in the habit of only doing a few calculations at a time. As the expressions being evaluated
+      become increasingly complex, the chances of making a mistake increase significantly. These errors can be as simple as pressing the wrong button (or
+      failing to press a button) while typing in the calculation to errors related to the discussion above. As mentioned before, these are the types of errors
+      that can be difficult to identify because you can hit the equal key and never realize that there was an error.
     </p>
     <p>
-      Calculate twice.
+      The technique is to use the order of operations to scan the expression for groups of calculations that can be executed together. In physics courses,
+      this often reduces to one of two strategies: (1) Calculating the numerator and denominator of a fraction separately before taking the quotient; (2)
+      Calculating all of the products before adding them together.
     </p>
-    
+    <p>
+      When you do this, you will need to write down the intermediate results. This is because you will need to reference the results you get in future
+      calculations. This also provides you an opportunity to check your work by checking that you get a consistent result on the shorter calculations.
+      It is generally good to keep at least 4 decimals in the middle of the calculation in order to avoid rounding errors. This is especially true for
+      division calculations, where errors can quickly become magnified (typically when dividing by a small value).
+    </p>
   </paragraphs>
 
   <outcomes>
@@ -125,6 +145,16 @@
       <li>
         <p>
           <url href="https://en.wikipedia.org/wiki/Calculator_input_methods">(Wikipedia) Calculator Input Methods)</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.desmos.com/scientific">The Desmos Scientific Calculator</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.geogebra.org/scientific?lang=en">The Geogebra Scientific Calculator</url>
         </p>
       </li>
     </ul>
