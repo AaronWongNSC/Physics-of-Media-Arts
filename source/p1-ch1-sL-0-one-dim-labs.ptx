@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-mathematics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-one-dim-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: One-Dimensional Motion</title>
 
   <xi:include href="./p1-ch1-sL-1-animating-kinematics.ptx" />
