@@ -52,11 +52,17 @@
     </li>
     <li>
       <p>
+        Equipment List: If the lab requires the use of specific pieces of equipment, these will be listed in this section
+        to help with organization and preparation. This section is sometimes omitted if the lab doesn't need anything
+        (other than perhaps some paper and a writing implement).
+      </p>
+    </li>
+    <li>
+      <p>
         Procedure: This is where you explain the step-by-step procedure that you were meant to follow, and indications
         of any times that you deviated from that. This part should be detailed enough that someone else can follow the
         instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of
-        what happened should be written as paragraphs. Sometimes, a parts list will be provided at the beginning,
-        especially if the lab requires multiple pieces of equipment.
+        what happened should be written as paragraphs.
       </p>
     </li>
     <li>
