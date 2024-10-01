@@ -12,13 +12,31 @@
       </p>
       <attribution>Stephen Hawking</attribution>
     </blockquote>
+
+    <p>
+      Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the
+      numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try
+      to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might
+      have tried to count the number of digits in each number, and that's the basic insight of scientific notation.
+    </p>
+    <p>
+      <idx><h>scientific notation</h></idx>
+      <idx><h>coefficient (scientific notation)</h></idx>
+      <idx><h>exponent (scientific notation)</h></idx>
+
+      <term>Scientific notation</term> is a way of writing numbers that are either too large or too small to be easily written and understood when
+      written in standard form (the way we normally write numbers). Technically, we would say that a number is written in scientific notation if
+      it is of the form <m>N \times 10^m</m>, where <m>1 \leq N &lt; 10</m> and <m>m</m> is an integer. We call <m>N</m> the <term>coefficient</term>
+      and <m>m</m> the <term>exponent</term>.
+    </p>
+    
   </introduction>
 
   <paragraphs>
     <title>Working with Exponents</title>
 
     <p>
-      ...
+      
     </p>
     
   </paragraphs>

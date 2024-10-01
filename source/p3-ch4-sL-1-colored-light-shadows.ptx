@@ -5,7 +5,8 @@
     <title>Introduction</title>
 
     <p>
-      
+      This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand
+      what colors are being created and why.
     </p>
   </paragraphs>
 
@@ -39,7 +40,7 @@
       </li>
       <li>
         <p>
-          [Optional] A cell phone camera
+          [Optional] Camera (photo or video) for capturing visual data.
         </p>
       </li>
     </ul>
@@ -85,25 +86,25 @@
       </li>
       <li>
         <p>
-          Hold one of the strips of paper between the lights and the wall. You should see three lines of light of different colors if
-          you move it close enough to the wall. Identify the colors. Think about why you see the colors that you see in the order that
-          they are in.
+          Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if
+          you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.
         </p>
       </li>
       <li>
         <p>
-          Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the
-          colors. Now add a second pencil to create more shadows. Explore the interactions of different shadows with each other
-          and record 
+          Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about
+          why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the
+          three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think
+          about what is causing these outcomes.
         </p>
       </li>
       <li>
         <p>
-          Put the two shadow papers end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate
-          the two papers to reveal a thin slit. You should see three light lines. Continue pulling the papers apart and watch how the
-          lines spread out. When they touch each other, make a note of the colors that are created. As they continue to get further apart,
-          you will eventually have just two shadows, one from each piece of paper. You may want to make a video recording of this for future
-          reference.
+          Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate
+          the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart
+          and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get
+          further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows,
+          one from each piece of paper. Think about what is causing these outcomes.
         </p>
       </li>
     </ol>
@@ -125,8 +126,19 @@
       </li>
       <li>
         <p>
-          In the second phase, you started by creating a set of three colored shadows. Explain why you see the colors that you saw in the
-          order that you saw them.
+          In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw
+          in the order that you saw them.
+        </p>
+      </li>
+      <li>
+        <p>
+          In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship
+          between the color of the shadow and which line disappeared.
+        </p>
+      </li>
+      <li>
+        <p>
+          In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.
         </p>
       </li>
     </ol>
@@ -137,7 +149,10 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to
+      be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing
+      certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors
+      from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.
     </p>
   </paragraphs>
 
@@ -154,42 +169,56 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity? You should be able to condense the core
+          purpose to just a few sentences.
+        </p>
+      </li>
+      <li>
+        <title>Equipment List</title>
+          
+        <p>
+          List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else?
+          How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out
+          of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your
+          actual activity.
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include
+          those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to
+          understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some
+          form. Be sure to include information about any particular moments of insight (or intrigue) that you had.
         </p>
       </li>
     </ul>
