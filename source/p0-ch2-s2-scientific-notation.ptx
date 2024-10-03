@@ -21,20 +21,127 @@
     </p>
     <p>
       <idx><h>scientific notation</h></idx>
+      <idx><h>standard notation</h></idx>
       <idx><h>coefficient (scientific notation)</h></idx>
       <idx><h>exponent (scientific notation)</h></idx>
 
-      <term>Scientific notation</term> is a way of writing numbers that are either too large or too small to be easily written and understood when
-      written in standard form (the way we normally write numbers). Technically, we would say that a number is written in scientific notation if
-      it is of the form <m>N \times 10^m</m>, where <m>1 \leq N &lt; 10</m> and <m>m</m> is an integer. We call <m>N</m> the <term>coefficient</term>
-      and <m>m</m> the <term>exponent</term>.
+      A number is in <term>scientific notation</term> if it is of the form <m>N \times 10^m</m>, where <m>1 \leq N &lt; 10</m> and <m>m</m> is an integer.
+      We call <m>N</m> the <term>coefficient</term> and <m>m</m> the <term>exponent</term>. In contrast to scientific notation is <term>standard notation</term>,
+      which is simply writing numbers the way we normally do.      
     </p>
+    <p>
+      A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically "big" numbers
+      and numbers with negative exponents are typically "small" numbers. The words "big" and "small" in quotes because we need to keep in mind that some
+      of the work of the "size" consideration is being done by the units, and there's no absolute scale that we can use.
+    </p>
+    <example>
+      <title>Standard Notation and Scientific Notation</title>
+
+      <md>
+        <mrow>12345 \amp = 1.2345 \times 10^4</mrow>
+        <mrow>230000000000 \amp = 2.3 \times 10^{11}</mrow>
+        <mrow>0.000000579 \amp = 5.79 \times 10^{-7}</mrow>
+      </md>
+    </example>
     
   </introduction>
 
   <paragraphs>
-    <title>Working with Exponents</title>
+    <title>Converting To and From Scientific Notation</title>
 
+    <p>
+      The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the
+      left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.
+    </p>
+    <example>
+      <title>Multiplying and Dividing by 10</title>
+
+      <md>
+        <mrow>123.456 \times 10 \amp = 1234.56 \quad \text{Move the decimal one space right}</mrow>
+        <mrow>123.456 \times 10^{-1} \amp = 12.3456 \quad \text{Move the decimal one space left}</mrow>
+      </md>
+    </example>
+    <p>
+      When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and
+      the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal
+      to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you
+      may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents
+      represent repeated multiplication, so that (for example) multiplying by <m>10^3</m> means multiplying by 10 three times, which would move the decimal
+      three spaces to the right (one for each multiplication by 10).
+    </p>
+    <example>
+      <title>From Scientific Notation to Standard Notation</title>
+
+      <md>
+        <mrow>1.234 \times 10^7 \amp = 12340000 \quad \text{Move the decimal seven spaces right}</mrow>
+        <mrow>1.234 \times 10^{-5} \amp = 0.00001234 \quad \text{Move the decimal five spaces left}</mrow>
+      </md>
+    </example>
+
+    <p>
+      When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the
+      given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit)
+      and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the
+      original number, and use the corresponding value.
+    </p>
+    <example>
+      <title>From Standard Notation to Scientific Notation</title>
+
+      <p>
+        Converting 1234000 to scientific notation:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234
+          </p>
+        </li>
+        <li>
+          <p>
+            Determine how the decimal must move to restore the original number: 1.234 <m>\rightarrow</m> 1234000 requires moving the decimal point
+            6 places to the right.
+          </p>
+        </li>
+        <li>
+          <p>
+            Write the number with the corresponding exponent: <m>1234000 = 1.234 \times 10^6</m>
+          </p>
+        </li>
+      </ul>
+
+      <p>
+        Converting 0.000056789 to scientific notation:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789
+          </p>
+        </li>
+        <li>
+          <p>
+            Determine how the decimal must move to restore the original number: 5.6789 <m>\rightarrow</m> 0.000056789 requires moving the decimal point
+            5 places to the left.
+          </p>
+        </li>
+        <li>
+          <p>
+            Write the number with the corresponding exponent: <m>0.000056789 = 5.6789 \times 10^{-5}</m>
+          </p>
+        </li>
+      </ul>
+    </example>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Calculations with Scientific Notation</title>
+
+    <p>
+      Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want
+      to find a tutorial (or experiment with the calculator) to make sure that you understand how to use it properly. But while you could use such a
+      calculator to do your calculations, it is still important to understand the basic logic that goes on behind it.
+    </p>
     <p>
       
     </p>
