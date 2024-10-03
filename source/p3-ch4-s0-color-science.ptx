@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-color-space" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Color Space</title>
+<chapter xml:id="ch-color-science" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Color Science</title>
 
   <objectives>
     <ul>
@@ -24,7 +24,11 @@
   -->
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
-  <xi:include href="p3-ch4-sL-0-color-space-labs.ptx" />
+  <xi:include href="p3-ch4-s1-photons.ptx" />
+  <xi:include href="p3-ch4-s2-kelvin-scale.ptx" />
+  <xi:include href="p3-ch4-s3-rgb-cmyk.ptx" />
+  <xi:include href="p3-ch4-s4-color-space.ptx" />
+
+  <xi:include href="p3-ch4-sL-0-color-science-labs.ptx" />
 
 </chapter>

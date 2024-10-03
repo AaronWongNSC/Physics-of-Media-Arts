@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-rgb-cmyk" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>RGB and CMYK</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    RGB starts from black and adds colors. CMYK starts from white and subtracts colors. It's a complementary system
+  </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

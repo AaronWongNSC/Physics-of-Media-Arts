@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-kelvin-scale" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Photons</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    Blackbody radiation. Kelvin scale is an absolute measure of color.
+  </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>
