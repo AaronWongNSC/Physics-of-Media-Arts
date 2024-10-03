@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Scientific Notation",
-  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  coefficient (scientific notation)  exponent (scientific notation)  Scientific notation is a way of writing numbers that are either too large or too small to be easily written and understood when written in standard form (the way we normally write numbers). Technically, we would say that a number is written in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent .    Working with Exponents      SI Prefixes  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  standard notation  coefficient (scientific notation)  exponent (scientific notation) A number is in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent . In contrast to scientific notation is standard notation , which is simply writing numbers the way we normally do.  A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically \"big\" numbers and numbers with negative exponents are typically \"small\" numbers. The words \"big\" and \"small\" in quotes because we need to keep in mind that some of the work of the \"size\" consideration is being done by the units, and there's no absolute scale that we can use.   Standard Notation and Scientific Notation      Converting To and From Scientific Notation  The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.   Multiplying and Dividing by 10    When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents represent repeated multiplication, so that (for example) multiplying by means multiplying by 10 three times, which would move the decimal three spaces to the right (one for each multiplication by 10).   From Scientific Notation to Standard Notation    When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit) and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the original number, and use the corresponding value.   From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:        Calculations with Scientific Notation  Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want to find a tutorial (or experiment with the calculator) to make sure that you understand how to use it properly. But while you could use such a calculator to do your calculations, it is still important to understand the basic logic that goes on behind it.      SI Prefixes  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
   "id": "sec-scientific-notation-2-3",
@@ -169,12 +169,48 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Scientific notation coefficient exponent "
+  "body": "scientific notation coefficient exponent standard notation "
 },
 {
-  "id": "sec-scientific-notation-5",
+  "id": "sec-scientific-notation-2-5",
   "level": "2",
-  "url": "sec-scientific-notation.html#sec-scientific-notation-5",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-2-5",
+  "type": "Example",
+  "number": "2.2.0.1",
+  "title": "Standard Notation and Scientific Notation.",
+  "body": " Standard Notation and Scientific Notation   "
+},
+{
+  "id": "sec-scientific-notation-3-3",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-3-3",
+  "type": "Example",
+  "number": "2.2.0.2",
+  "title": "Multiplying and Dividing by 10.",
+  "body": " Multiplying and Dividing by 10   "
+},
+{
+  "id": "sec-scientific-notation-3-5",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-3-5",
+  "type": "Example",
+  "number": "2.2.0.3",
+  "title": "From Scientific Notation to Standard Notation.",
+  "body": " From Scientific Notation to Standard Notation   "
+},
+{
+  "id": "sec-scientific-notation-3-7",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-3-7",
+  "type": "Example",
+  "number": "2.2.0.4",
+  "title": "From Standard Notation to Scientific Notation.",
+  "body": " From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:     "
+},
+{
+  "id": "sec-scientific-notation-6",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-6",
   "type": "Additional Resources",
   "number": "2.2",
   "title": "",
@@ -1153,20 +1189,83 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-photons",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-photons.html",
   "type": "Section",
   "number": "15.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "Photons",
+  "body": " Photons     -----   -----    Light is photons. Photons have frequencies levels. Detectors can detector photons within a certain frequency range. Eyes are detectors. Three detectors, actually.      Google      "
+},
+{
+  "id": "sec-photons-4",
+  "level": "2",
+  "url": "sec-photons.html#sec-photons-4",
+  "type": "Additional Resources",
+  "number": "15.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "sec-kelvin-scale",
+  "level": "1",
+  "url": "sec-kelvin-scale.html",
+  "type": "Section",
+  "number": "15.2",
+  "title": "Kelvin Scale",
+  "body": " Kelvin Scale     -----   -----    Blackbody radiation. Kelvin scale is an absolute measure of color.      Google      "
+},
+{
+  "id": "sec-kelvin-scale-4",
+  "level": "2",
+  "url": "sec-kelvin-scale.html#sec-kelvin-scale-4",
+  "type": "Additional Resources",
+  "number": "15.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "sec-rgb-cmyk",
+  "level": "1",
+  "url": "sec-rgb-cmyk.html",
+  "type": "Section",
+  "number": "15.3",
+  "title": "RGB and CMYK",
+  "body": " RGB and CMYK     -----   -----    RGB starts from black and adds colors. CMYK starts from white and subtracts colors. It's a complementary system      Google      "
+},
+{
+  "id": "sec-rgb-cmyk-4",
+  "level": "2",
+  "url": "sec-rgb-cmyk.html#sec-rgb-cmyk-4",
+  "type": "Additional Resources",
+  "number": "15.3",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "sec-color-space",
+  "level": "1",
+  "url": "sec-color-space.html",
+  "type": "Section",
+  "number": "15.4",
+  "title": "Color Space",
+  "body": " Color Space     -----   -----    Reality to collection apparatus to approximation of reality. How do we make the ends meet?      Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
+},
+{
+  "id": "sec-color-space-4",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-4",
+  "type": "Additional Resources",
+  "number": "15.4",
+  "title": "",
+  "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
 },
 {
   "id": "lab-colored-light-shadows",
   "level": "1",
   "url": "lab-colored-light-shadows.html",
   "type": "Lab Activity",
-  "number": "15.2.1",
+  "number": "15.5.1",
   "title": "Colored Lights and Shadows",
   "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         Colored Lights and Shadows demonstration      "
 },
@@ -1175,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-8",
   "type": "Additional Resources",
-  "number": "15.2.1",
+  "number": "15.5.1",
   "title": "",
   "body": "    Colored Lights and Shadows demonstration     "
 },
@@ -1184,7 +1283,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-paint-color-mixing.html",
   "type": "Lab Activity",
-  "number": "15.2.2",
+  "number": "15.5.2",
   "title": "Mixing Paint Colors",
   "body": " Mixing Paint Colors   Introduction  This lab is an exploration of how paint colors mix together to create new colors. We will use a color-picking tool to help us develop and objective measure of how close or far two colors are from each other.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1193,7 +1292,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-4",
   "type": "Example",
-  "number": "15.2.2.1",
+  "number": "15.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1202,7 +1301,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-8",
   "type": "Additional Resources",
-  "number": "15.2.2",
+  "number": "15.5.2",
   "title": "",
   "body": "    Google     "
 },
