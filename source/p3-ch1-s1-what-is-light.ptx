@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-what-is-light" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What is Light?</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          What I am going to tell you about is what we teach our physics students in the third or fourth year of graduate school...
+          It is my task to convince you not to turn away because you don't understand it. You see my physics students don't understand it...
+          That is because I don't understand it. Nobody does.
+        </q>
+      </p>
+      <attribution>Richard Feynman (QED, The Strange Theory of Light and Matter)</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    It turns out that light is among the most complicated topics in physics to talk about. It is utterly unique in so many ways, and it defies
+    many of our expectations for how we think the universe ought to work. If there is a single lesson to take away from this section, it's that
+    all of the intuitive ideas that we will develop about light are wrong at some level. But unless you're a physicist doing research on light,
+    the ways that our basic models are wrong aren't important enough to worry about.
+  </p>
+  <p>
+    <idx><h>electromagnetic radiation</h></idx>
+
+    Light is <term>electromagnetic radiation</term>. Before the term radiation scares you, it's important to understand that everything in the
+    universe that has a temperature above aboslute zero emits some form of electromagnetic radiation. The sun emits electromagnetic radiation, some of it
+    that we can see and some of it we can't, such as ultraviolet radiation, which causes sun burns and skin cancer. Cell phones emit electromagnetic radiation,
+    which is how they communicate with each other. You emit electromagnetic radiation, which is how night vision goggles can see you. And all light
+    bulbs, regardless of the type (incandescent, fluorescent, or LED) emit electromagnetic radiation.
+  </p>
+  <p>
+    <idx><h>electromagnetic spectrum</h></idx>
+
+    It might seem strange to say that you emit light, and that is because what we normally call "light" is electromagnetic radiation that our eyes can detect.
+    However, in physics, we try to be more precise and call that "visible light" to avoid confusion. The reason for this is that the only difference between
+    the radiation that our eyes can detect and the radiation that we need technology to detect is the amount of energy contained in that radiation. If we were
+    to organize all of the types of electromagnetic radiation and order them by how much energy they each have, we would have a diagram known as the
+    <term>electromagnetic spectrum</term>. Below is a diagram that labels the different energy levels.
+  </p>
+  <p>
+    <idx><h>photon</h></idx>
+    <idx><h>wave (light)</h></idx>
+
+    There are two main ways to think about what light is. The first is that light is a <term>photon</term>, or a packet of energy. In this perspective,
+    light is a particle. That means that it has a specific location that is traveling in a specific direction at a certain speed. In this framework, the
+    energy of a photon is an intrinsic property that defines what type of light it is. Alternatively, we can think of light as a <term>wave</term>. In this
+    perspective, we think of light traveling through the universe the way that a wave travels across water. The wave does not have a specific location, but
+    is kind of spread out over a region. The wave may be moving in a specific direction and speed, but it's less clear what, exactly, is the thing that's moving.
+  </p>
+  <p>
+    <idx><h>wave-particle duality</h></idx>
+
+    This mixed identity of light is often called <term>wave-particle duality</term>, which is a catchy-but-imprecise name that tries to capture the idea that
+    a wave is somehow both of these things, while also being neither one. There is some history behind this, which is why the term sticks around. It turns out
+    that physicists debated about whether light was a wave or a particle, with different scientists proposing different experiments to try to prove it one
+    way or the other. Eventually, it was discovered that both sides could be right, depending on how the experiment was set up. 
+  </p>
+  <p>
+    The importance of wave-particle duality is that it allows us to mix the two concepts together. For example, we often think of a photon as a ball of light that
+    can bounce off of surfaces (reflect) in particle-like ways. At the same time, the way we perceive the color of light is based on the "wavelength" of light
+    (the distance between consecutive peaks), which is a wave-like language to use. And we often don't think twice about it when we go back and forth like that.
+  </p>
+  
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

@@ -133,20 +133,44 @@
     </example>
     
   </paragraphs>
+  <paragraphs>
+    <title>Working with Exponents</title>
 
+    <p>
+      <idx><h>exponents</h></idx>
+
+      To work with scientific notation, you need to understand a few basic concepts about <term>exponents</term>. The first is that an exponent
+      represents repeated multiplication. For example, <m>10^3 = 10 \cdot 10 \cdot 10</m>. The second is that negative exponents represent a reciprocal,
+      so that <m>10^{-3} = \frac{1}{10^3} = \frac{1}{10 \cdot 10 \cdot 10}</m>. Lastly, when you have a fraction involving exponents on the top and bottom
+      of the fraction, you can cancel out pairs of terms (one on top and one on bottom).
+    </p>
+    
+  </paragraphs>
+
+  <!--
   <paragraphs>
     <title>Calculations with Scientific Notation</title>
 
     <p>
       Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want
       to find a tutorial (or experiment with the calculator) to make sure that you understand how to use it properly. But while you could use such a
-      calculator to do your calculations, it is still important to understand the basic logic that goes on behind it.
+      calculator to do your calculations, it is still important to understand the basic algebra that goes on behind it.
     </p>
     <p>
-      
+      You will most often run into scientific notation using multiplication and division. And the key facts you will need to work with are that exponents
+      represent repeated multiplication and that you can multiply a string of numbers in any order you want. (Technically the last fact is a combination of
+      two algebraic properties known as the <term>commutative property</term> and the <term>associative property</term> of multiplication.) The procedure is
+      to multiply and/or divide all of the coefficients and all of the exponents separately.
     </p>
-    
+    <example>
+      <title>Multiplying in Scientific Notation</title>
+
+      <p>
+        We are going to calculate <m>(2.54 \times 10^4) \cdot 
+      </p>
+    </example>
   </paragraphs>
+  -->
 
   <paragraphs>
     <title>SI Prefixes</title>
