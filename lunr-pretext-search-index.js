@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Scientific Notation",
-  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  standard notation  coefficient (scientific notation)  exponent (scientific notation) A number is in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent . In contrast to scientific notation is standard notation , which is simply writing numbers the way we normally do.  A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically \"big\" numbers and numbers with negative exponents are typically \"small\" numbers. The words \"big\" and \"small\" in quotes because we need to keep in mind that some of the work of the \"size\" consideration is being done by the units, and there's no absolute scale that we can use.   Standard Notation and Scientific Notation      Converting To and From Scientific Notation  The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.   Multiplying and Dividing by 10    When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents represent repeated multiplication, so that (for example) multiplying by means multiplying by 10 three times, which would move the decimal three spaces to the right (one for each multiplication by 10).   From Scientific Notation to Standard Notation    When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit) and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the original number, and use the corresponding value.   From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:        Calculations with Scientific Notation  Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want to find a tutorial (or experiment with the calculator) to make sure that you understand how to use it properly. But while you could use such a calculator to do your calculations, it is still important to understand the basic logic that goes on behind it.      SI Prefixes  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  standard notation  coefficient (scientific notation)  exponent (scientific notation) A number is in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent . In contrast to scientific notation is standard notation , which is simply writing numbers the way we normally do.  A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically \"big\" numbers and numbers with negative exponents are typically \"small\" numbers. The words \"big\" and \"small\" in quotes because we need to keep in mind that some of the work of the \"size\" consideration is being done by the units, and there's no absolute scale that we can use.   Standard Notation and Scientific Notation      Converting To and From Scientific Notation  The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.   Multiplying and Dividing by 10    When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents represent repeated multiplication, so that (for example) multiplying by means multiplying by 10 three times, which would move the decimal three spaces to the right (one for each multiplication by 10).   From Scientific Notation to Standard Notation    When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit) and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the original number, and use the corresponding value.   From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:        Working with Exponents   exponents To work with scientific notation, you need to understand a few basic concepts about exponents . The first is that an exponent represents repeated multiplication. For example, . The second is that negative exponents represent a reciprocal, so that . Lastly, when you have a fraction involving exponents on the top and bottom of the fraction, you can cancel out pairs of terms (one on top and one on bottom).     SI Prefixes  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
   "id": "sec-scientific-notation-2-3",
@@ -206,6 +206,15 @@ var ptx_lunr_docs = [
   "number": "2.2.0.4",
   "title": "From Standard Notation to Scientific Notation.",
   "body": " From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:     "
+},
+{
+  "id": "sec-scientific-notation-4-2",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "exponents "
 },
 {
   "id": "sec-scientific-notation-6",
@@ -1000,20 +1009,209 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-what-is-light",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-what-is-light.html",
   "type": "Section",
   "number": "12.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "What is Light?",
+  "body": " What is Light?     What I am going to tell you about is what we teach our physics students in the third or fourth year of graduate school... It is my task to convince you not to turn away because you don't understand it. You see my physics students don't understand it... That is because I don't understand it. Nobody does.   Richard Feynman (QED, The Strange Theory of Light and Matter)    It turns out that light is among the most complicated topics in physics to talk about. It is utterly unique in so many ways, and it defies many of our expectations for how we think the universe ought to work. If there is a single lesson to take away from this section, it's that all of the intuitive ideas that we will develop about light are wrong at some level. But unless you're a physicist doing research on light, the ways that our basic models are wrong aren't important enough to worry about.   electromagnetic radiation Light is electromagnetic radiation . Before the term radiation scares you, it's important to understand that everything in the universe that has a temperature above aboslute zero emits some form of electromagnetic radiation. The sun emits electromagnetic radiation, some of it that we can see and some of it we can't, such as ultraviolet radiation, which causes sun burns and skin cancer. Cell phones emit electromagnetic radiation, which is how they communicate with each other. You emit electromagnetic radiation, which is how night vision goggles can see you. And all light bulbs, regardless of the type (incandescent, fluorescent, or LED) emit electromagnetic radiation.   electromagnetic spectrum It might seem strange to say that you emit light, and that is because what we normally call \"light\" is electromagnetic radiation that our eyes can detect. However, in physics, we try to be more precise and call that \"visible light\" to avoid confusion. The reason for this is that the only difference between the radiation that our eyes can detect and the radiation that we need technology to detect is the amount of energy contained in that radiation. If we were to organize all of the types of electromagnetic radiation and order them by how much energy they each have, we would have a diagram known as the electromagnetic spectrum . Below is a diagram that labels the different energy levels.   photon  wave (light) There are two main ways to think about what light is. The first is that light is a photon , or a packet of energy. In this perspective, light is a particle. That means that it has a specific location that is traveling in a specific direction at a certain speed. In this framework, the energy of a photon is an intrinsic property that defines what type of light it is. Alternatively, we can think of light as a wave . In this perspective, we think of light traveling through the universe the way that a wave travels across water. The wave does not have a specific location, but is kind of spread out over a region. The wave may be moving in a specific direction and speed, but it's less clear what, exactly, is the thing that's moving.   wave-particle duality This mixed identity of light is often called wave-particle duality , which is a catchy-but-imprecise name that tries to capture the idea that a wave is somehow both of these things, while also being neither one. There is some history behind this, which is why the term sticks around. It turns out that physicists debated about whether light was a wave or a particle, with different scientists proposing different experiments to try to prove it one way or the other. Eventually, it was discovered that both sides could be right, depending on how the experiment was set up.  The importance of wave-particle duality is that it allows us to mix the two concepts together. For example, we often think of a photon as a ball of light that can bounce off of surfaces (reflect) in particle-like ways. At the same time, the way we perceive the color of light is based on the \"wavelength\" of light (the distance between consecutive peaks), which is a wave-like language to use. And we often don't think twice about it when we go back and forth like that.      (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-what-is-light-4",
+  "level": "2",
+  "url": "sec-what-is-light.html#sec-what-is-light-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electromagnetic radiation "
+},
+{
+  "id": "sec-what-is-light-5",
+  "level": "2",
+  "url": "sec-what-is-light.html#sec-what-is-light-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "electromagnetic spectrum "
+},
+{
+  "id": "sec-what-is-light-6",
+  "level": "2",
+  "url": "sec-what-is-light.html#sec-what-is-light-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "photon wave "
+},
+{
+  "id": "sec-what-is-light-7",
+  "level": "2",
+  "url": "sec-what-is-light.html#sec-what-is-light-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "wave-particle duality "
+},
+{
+  "id": "sec-what-is-light-9",
+  "level": "2",
+  "url": "sec-what-is-light.html#sec-what-is-light-9",
+  "type": "Additional Resources",
+  "number": "12.1",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
+  "id": "sec-special-relativity",
+  "level": "1",
+  "url": "sec-special-relativity.html",
+  "type": "Section",
+  "number": "12.2",
+  "title": "Special Relativity",
+  "body": " Special Relativity     -----   -----     special relativity (the theory of) Albert Einstein is known for developing a theory of light known as the theory of special relativity . Through a series of thought experiments, he deduced one of the most unusual quirks about light. Light always appears to be traveling the same speed, regardless of who is measuring it and the speed and direction they are going. Although the words that describe this phenomenon seem quite striaght-forward, the reality of this is utterly bizarre.   classical velocity addition To start to understand what this means, we need to do some simple thought experiments. Let's say that you have a gun that shoots a pellet at a speed of 20 miles per hour. And let's say that you're shooting this from a car that is traveling at 50 miles per hour. If you are shooting the gun forward, how fast will the pellet go (ignoring air resistance)? You would likely say that it's traveling at 70 miles per hour, 50 miles per hour from the car plus 20 miles per hour from the gun. This is know as classical velocity addition .  But light doesn't behave that way. If we replace the pellet with a photon, something unusual happens. The photon will always be traveling at the same speed, regardless of how fast the car is going. Even if the car were traveling at 99% of the speed of light, the photon will still be traveling the same speed.  The implications of this are quite surprising. Here are some examples:     time dilation Time appears to be moving slower for objects that are in motion. This is called time dilation .     length contraction Objects appear to be compressed in the direction of motion. This is called length contraction .     relativity of simultaneity If two events appear simultaneous for you, then they will not be simultaneous for a person in motion. This is known as the relativity of simultaneity .    We will do a thought experiment to understand the last of these. Suppose you are standing in the exact middle of a dark railroad car with a light bulb. If the light bulb is turned on, the light from the bulb will reach the front and the back of the car at the same time. This is because you are in the exact middle of the car. And this remains true if the car is moving along the tracks since your relative position between the front and the back stay the same.  But now suppose your friend is watching you go by, and the light is turned on at the exact moment you pass them. What will they see? Since the speed of light is not influenced by the speed of the train, he will see the light moving the same speed towards the front and back of the car. However, as time moves forward, the back of the car is moving towards the light and the front of the car is moving away from it. In other words, they won't see the light hitting the front and back at the same time, even though it was the same time for you.   classical velocity addition The formulas that describe all of this have an interesting property, which is that it is impossible to accelerate an object with mass to reach the speed of light. We're going to return to the pellet gun example, except that we're going to have a very powerful gun and a very powerful car. Let's suppose that the car is moving at half of the speed of light, and that the gun shoots at half of the speed of light. If we were to use classical velocity addition, we would say that the pellet must be moving at the speed of light. But this is impossible! It turns out that relativistic velocity addition is more complicated than that, and it results in a speed that is slower than classical velocity addition.      (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42      "
+},
+{
+  "id": "sec-special-relativity-3",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "the theory of special relativity "
+},
+{
+  "id": "sec-special-relativity-4",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "classical velocity addition "
+},
+{
+  "id": "sec-special-relativity-7-1-1",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-7-1-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "time dilation "
+},
+{
+  "id": "sec-special-relativity-7-2-1",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-7-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "length contraction "
+},
+{
+  "id": "sec-special-relativity-7-3-1",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-7-3-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "relativity of simultaneity "
+},
+{
+  "id": "sec-special-relativity-10",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-10",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "relativistic velocity addition "
+},
+{
+  "id": "sec-special-relativity-11",
+  "level": "2",
+  "url": "sec-special-relativity.html#sec-special-relativity-11",
+  "type": "Additional Resources",
+  "number": "12.2",
+  "title": "",
+  "body": "    (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42     "
+},
+{
+  "id": "sec-the-speed-of-light",
+  "level": "1",
+  "url": "sec-the-speed-of-light.html",
+  "type": "Section",
+  "number": "12.3",
+  "title": "The Speed of Light",
+  "body": " The Speed of Light     Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own special laws.   Douglas Adams (Mostly Harmless)    We know that the speed of light is constant for all observers, but what is that constant? Today, we know the speed of light (which is denoted by the letter ) is exactly 299,792,458 meters per second (approximately meters per second), which is fast enough to go around the earth about 7.5 times in a single second. But the definition of a meter is defined by the speed of light, and so this is a circular definition. What we really want to think about is how people tried to determine this value before we knew what it was. The pursuit of the answer to this question is an interesting story of ingenuity and creativity. The challenge, of course, is that the speed of light is very, very fast. How do you even begin to measure such a thing?  The speed of light is so fast that it was assumed to be instantaneous all the way until the late 1600s. Galileo was among the first to postulate that perhaps the speed of light is finite, and even devised an experiment to try to measure it. The experiment was quite simple. Two people stand on opposite sides of a valley, and each one has a latern with a shutter that blocks the light. When both are ready and in position, one of them would remove the shutter and reveal the light to the other. When that person sees the light, they will open their shutter and reveal the light back to the first person. By measuring how long it took for the light to reach the first person, you could theoretically estimate how fast the light is traveling. However, when this experiment was conducted, it turned out that the time was the same regardless of the distances between the two people. In fact, what they were basically measuring was the reaction time for the preson to see the light and remove the shutter.  In 1676, the Danish astronomer Ole Christensen Rømer was the first person to get an actual estimate of the speed of light. This was based on observing the differences in the timing of the eclipses of the moons of Jupiter when the earth was approaching it and when the earth was moving away from it. Based on his calculations, he estimated that the speed of light was approximately meters per second. Even though the tools at the time were relatively crude, it is quite amazing that he was able to get the right order of magnitude for the speed of light at that time.   stellar aberration The next estimate for the speed of light was also derived from looking at the sky. There is a visual artifact called stellar aberration which makes the positions of stars shift slightly due to the movement of the earth around the sun. This can be understood by imagining a ball falling straight down from the sky. If you're standing still, you will see that the ball is falling vertically. But if you are walking towards the ball as it's falling, it will appear to be falling at an angle towards you. The English astronomer James Bradley was monitoring the position of a star called Eltanin and noticed that it moved in a way that the current theories did not correctly predict. Bradley theorized the concept of stellar aberration to explain this, and used it to estimate the speed of light to be approximately meters per second.  In 1849, the French physicist Armand Hippolyte Louis Fizeau used a mirror and a cogwheel to measure the speed of light without needing the night sky. His device shined a light through the teeth of a spinning cogwheel, which would hit a mirror about 8 kilometers away, which would return back. By spinning the wheel, he could create individual beams of light that would shoot down to the mirror and back again. Then by controlling the speed that the wheel was spinning at, he would be able to time it so that the beam of light would either hit a tooth of the cogwheel or hit a gap between the teeth. From this information, he was able to estimate that the speed of light to be about meters per second. While this was slightly worse, the major accomplishment was that this measured the speed of light using a very short distance (relatively speaking).  There were a more innovations, such as using rotating mirrors and using intereference of light waves that slowly improved the estimates for the speed of light. The science behind those methods gets increasingly complex, and so we're not going to delve any deeper into it. The main takeaway from this section is mostly to appreciate the progression of ideas that allowed us to get better and better approximations of the speed of light.      (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration      "
+},
+{
+  "id": "sec-the-speed-of-light-6",
+  "level": "2",
+  "url": "sec-the-speed-of-light.html#sec-the-speed-of-light-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "stellar aberration "
+},
+{
+  "id": "sec-the-speed-of-light-9",
+  "level": "2",
+  "url": "sec-the-speed-of-light.html#sec-the-speed-of-light-9",
+  "type": "Additional Resources",
+  "number": "12.3",
+  "title": "",
+  "body": "    (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration     "
+},
+{
+  "id": "sec-polarized-light",
+  "level": "1",
+  "url": "sec-polarized-light.html",
+  "type": "Section",
+  "number": "12.4",
+  "title": "Polarized Light",
+  "body": " Polarized Light     -----   -----    If we think about the wave-like properties of light, we might start to wonder exactly what direction the waves are vibrating in. Our best analogy for thinking about waves is water, and in that situation the waves vibrate in the direction perpendicular to the wave's motion. That picture is somewhat limiting because there are really only two dimensions of motion, but it does give us the right concept. Light waves also vibrate perpendicular to its motion, but now it's a lot more complicated because there are many directions that this could be.   unpolarized light  polarized light The vibrations of light are typically oriented randomly. That is, each photon that arrives is vibrating in its own random direction, so that when you have lots of photons there is no coherence to the vibrations you are seeing. This is known as unpolarized light . Most of the light you encounter is unpolarized. It takes special conditions to get the light waves to become oriented in some type of meaningful pattern to become polarized light The most common types of polarized light in applications are linearly and circularly polarized light.   linearly polarized light  Linearly polarized light vibrates back and forth in a flat line pattern. This can be visualized as light that needs to pass through a series of parallel bars. Only the light that is aligned with the bars can make it through, and the rest of it gets blocked. And this is basically what a polarizing filters do. Our eyes cannot detect polarlized light directly, but we can test whether light is polarized by rotating a polarizing filter. If the light is polarized, the brightness will change depending on the angle. In fact, if all of the light is polarized, you will block all of the light if you hold the filter perpendicular to the polarization.  Polarized light can be formed off the reflection of surfaces, but only at certain angles (and the angle depends on the surface). In these situations, polarized filters can be used to block just the light off of that surface without blocking the rest of the light (which is typically unpolarized). This is why polarized sunglasses are able to reduce the glare off of the road and why polarized lenses can be used to reduce the glare off of water.   circularly polarized light  Circularly polarized light creates a spinning pattern, and it can be spinning either clockwise or counter-clockwise. To create circularly polarized light, you start with linearly polarized light and run it through a special filter that allows light to vibrate at two different speeds in two different (perpendicular) directions. But why would you want to convert linearly polarized light to circularly polarized light? Some electronics (TVs, monitors, smart phones) produce linearly polarized light, and research suggests that by adding an extra layer of polarizing filter to convert it to circularly polarized light, that it reduces eye strain.      (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia      "
+},
+{
+  "id": "sec-polarized-light-4",
+  "level": "2",
+  "url": "sec-polarized-light.html#sec-polarized-light-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "unpolarized light polarized light "
+},
+{
+  "id": "sec-polarized-light-5",
+  "level": "2",
+  "url": "sec-polarized-light.html#sec-polarized-light-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Linearly polarized light "
+},
+{
+  "id": "sec-polarized-light-7",
+  "level": "2",
+  "url": "sec-polarized-light.html#sec-polarized-light-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Circularly polarized light "
+},
+{
+  "id": "sec-polarized-light-8",
+  "level": "2",
+  "url": "sec-polarized-light.html#sec-polarized-light-8",
+  "type": "Additional Resources",
+  "number": "12.4",
+  "title": "",
+  "body": "    (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia     "
 },
 {
   "id": "lab-ray-tracing",
   "level": "1",
   "url": "lab-ray-tracing.html",
   "type": "Lab Activity",
-  "number": "12.2.1",
+  "number": "12.5.1",
   "title": "Ray Tracing",
   "body": " Ray Tracing   Introduction  Something with ray-tracing. Maybe sketching forced perspective 3D scenes or something    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1022,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-4",
   "type": "Example",
-  "number": "12.2.1.1",
+  "number": "12.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1031,7 +1229,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-8",
   "type": "Additional Resources",
-  "number": "12.2.1",
+  "number": "12.5.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1040,7 +1238,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-prisms.html",
   "type": "Lab Activity",
-  "number": "12.2.2",
+  "number": "12.5.2",
   "title": "Prisms",
   "body": " Prisms   Introduction  Light bending and color    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1049,7 +1247,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-4",
   "type": "Example",
-  "number": "12.2.2.1",
+  "number": "12.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1058,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-8",
   "type": "Additional Resources",
-  "number": "12.2.2",
+  "number": "12.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1189,22 +1387,49 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-photons",
+  "id": "sec-color",
   "level": "1",
-  "url": "sec-photons.html",
+  "url": "sec-color.html",
   "type": "Section",
   "number": "15.1",
-  "title": "Photons",
-  "body": " Photons     -----   -----    Light is photons. Photons have frequencies levels. Detectors can detector photons within a certain frequency range. Eyes are detectors. Three detectors, actually.      Google      "
+  "title": "Color",
+  "body": " Color     -----   -----     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light, called rods) and one for bright light, called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, blue, and green.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
 },
 {
-  "id": "sec-photons-4",
+  "id": "sec-color-3",
   "level": "2",
-  "url": "sec-photons.html#sec-photons-4",
+  "url": "sec-color.html#sec-color-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Visible light "
+},
+{
+  "id": "sec-color-4",
+  "level": "2",
+  "url": "sec-color.html#sec-color-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ROYGBIV "
+},
+{
+  "id": "sec-color-8",
+  "level": "2",
+  "url": "sec-color.html#sec-color-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "photoreceptors "
+},
+{
+  "id": "sec-color-11",
+  "level": "2",
+  "url": "sec-color.html#sec-color-11",
   "type": "Additional Resources",
   "number": "15.1",
   "title": "",
-  "body": "    Google     "
+  "body": "    (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra     "
 },
 {
   "id": "sec-kelvin-scale",
@@ -1267,7 +1492,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "15.5.1",
   "title": "Colored Lights and Shadows",
-  "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         Colored Lights and Shadows demonstration      "
+  "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         (color.nerd on TikTok) Color Theory with Shadows      "
 },
 {
   "id": "lab-colored-light-shadows-8",
@@ -1276,7 +1501,7 @@ var ptx_lunr_docs = [
   "type": "Additional Resources",
   "number": "15.5.1",
   "title": "",
-  "body": "    Colored Lights and Shadows demonstration     "
+  "body": "    (color.nerd on TikTok) Color Theory with Shadows     "
 },
 {
   "id": "lab-paint-color-mixing",
@@ -1390,7 +1615,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "17.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
@@ -1417,7 +1642,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "18.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
@@ -1444,7 +1669,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "19.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
@@ -1471,7 +1696,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "20.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
@@ -1498,7 +1723,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "21.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
@@ -1525,7 +1750,7 @@ var ptx_lunr_docs = [
   "id": "sec-section-labs-2",
   "level": "2",
   "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Lab Activity",
+  "type": "Exploration",
   "number": "22.1",
   "title": "Physics Lab.",
   "body": " Physics Lab  "
