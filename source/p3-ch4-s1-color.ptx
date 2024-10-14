@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-color" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Color</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    <idx><h>visible light</h></idx>
+
+    <term>Visible light</term> is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire
+    electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is
+    important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world
+    that can detect wavelengths that go outside of what we can see, and so their "visible light" would be a different range.
+  </p>
+  <p>
+    <idx><h>ROYGBIV</h></idx>
+
+    The order of the colors from long to short wavelengths is typically described using the mnemonic <term>ROYGBIV</term>. This stands for the following
+    colors (and their approximate range of wavelengths):
+  </p>
+  <ul>
+    <li>
+      <p>
+        Red: 620 to 750 nm
+      </p>
+    </li>
+    <li>
+      <p>
+        Orange: 590 to 620 nm
+      </p>
+    </li>
+    <li>
+      <p>
+        Yellow: 570 to 590 nm
+      </p>
+    </li>
+    <li>
+      <p>
+        Green: 495 to 570 nm
+      </p>
+    </li>
+    <li>
+      <p>
+        Blue: 450 to 495 nm
+      </p>
+    </li>
+    <li>
+      <p>
+        Violet: 380 to 450 nm
+      </p>
+    </li>
+  </ul>
+  <p>
+    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue
+    or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change
+    something once it has been established. 
+  </p>
+  <p>
+    None of these colors are "real" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex
+    biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in
+    bringing us color, our brains play a gigantic role in how we actually perceive it.
+  </p>
+  <p>
+    <idx><h>photoreceptors</h></idx>
+
+    Basically, your eyes have two different photon detectors (<term>photoreceptors</term>), one for low light, called rods) and one for bright light, called
+    cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted
+    color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors
+    red, blue, and green.
+  </p>
+  <p>
+    But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one.
+    The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to
+    interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that
+    activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no
+    guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the
+    case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are
+    typically able to do.
+  </p>
+  <p>
+    So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated
+    than that.
+  </p>
+
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://science.nasa.gov/ems/09_visiblelight/">(Nasa.gov) Visible Light</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.thoughtco.com/understand-the-visible-spectrum-608329/">(Thought.co) The Visible Spectrum: Wavelengths and Colors</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.datacolor.com/business-solutions/blog/the-science-behind-color-perception/">
+            (Datacolor.com) The Science Behind Color Perception
+          </url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.unm.edu/~toolson/human_cone_response.htm">
+            (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra
+          </url>
+        </p>
+      </li>
+      
+    </ul>
+  </outcomes>
+
+  
+</section>

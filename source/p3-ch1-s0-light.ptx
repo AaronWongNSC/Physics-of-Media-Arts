@@ -38,7 +38,9 @@
   -->
   <!-- include sections -->
   <xi:include href="p3-ch1-s1-what-is-light.ptx" />
-  <xi:include href="p3-ch1-s2-the-speed-of-light.ptx" />
+  <xi:include href="p3-ch1-s2-special-relativity.ptx" />
+  <xi:include href="p3-ch1-s3-the-speed-of-light.ptx" />
+  <xi:include href="p3-ch1-s4-polarized-light.ptx" />
   <xi:include href="p3-ch1-sL-0-light-labs.ptx" />
 
 </chapter>

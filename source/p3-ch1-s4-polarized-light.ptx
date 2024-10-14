@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-polarized-light" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Polarized Light</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          -----
+        </q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    If we think about the wave-like properties of light, we might start to wonder exactly what direction the waves are vibrating in. Our best analogy
+    for thinking about waves is water, and in that situation the waves vibrate in the direction perpendicular to the wave's motion. That picture is
+    somewhat limiting because there are really only two dimensions of motion, but it does give us the right concept. Light waves also vibrate perpendicular
+    to its motion, but now it's a lot more complicated because there are many directions that this could be.
+  </p>
+  <p>
+    <idx><h>unpolarized light</h></idx>
+    <idx><h>polarized light</h></idx>
+
+    The vibrations of light are typically oriented randomly. That is, each photon that arrives is vibrating in its own random direction, so that when you have
+    lots of photons there is no coherence to the vibrations you are seeing. This is known as <term>unpolarized light</term>. Most of the light you encounter
+    is unpolarized. It takes special conditions to get the light waves to become oriented in some type of meaningful pattern to become <term>polarized light</term>  
+    The most common types of polarized light in applications are linearly and circularly polarized light. 
+  </p>
+  <p>
+    <idx><h>linearly polarized light</h></idx>
+
+    <term>Linearly polarized light</term> vibrates back and forth in a flat line pattern. This can be visualized as light that needs to pass through a series of parallel bars.
+    Only the light that is aligned with the bars can make it through, and the rest of it gets blocked. And this is basically what a polarizing filters do. Our
+    eyes cannot detect polarlized light directly, but we can test whether light is polarized by rotating a polarizing filter. If the light is polarized, the
+    brightness will change depending on the angle. In fact, if all of the light is polarized, you will block all of the light if you hold the filter perpendicular
+    to the polarization.
+  </p>
+  <p>
+    Polarized light can be formed off the reflection of surfaces, but only at certain angles (and the angle depends on the surface). In these situations, polarized
+    filters can be used to block just the light off of that surface without blocking the rest of the light (which is typically unpolarized). This is why
+    polarized sunglasses are able to reduce the glare off of the road and why polarized lenses can be used to reduce the glare off of water.
+  </p>
+  <p>
+    <idx><h>circularly polarized light</h></idx>
+
+    <term>Circularly polarized light</term> creates a spinning pattern, and it can be spinning either clockwise or counter-clockwise. To create circularly
+    polarized light, you start with linearly polarized light and run it through a special filter that allows light to vibrate at two different speeds in two
+    different (perpendicular) directions. But why would you want to convert linearly polarized light to circularly polarized light? Some electronics (TVs,
+    monitors, smart phones) produce linearly polarized light, and research suggests that by adding an extra layer of polarizing filter to convert it to
+    circularly polarized light, that it reduces eye strain.
+  </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.edmundoptics.com/knowledge-center/application-notes/optics/introduction-to-polarization/">
+            (Edmund Optics) Introduction to Polarization
+          </url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9010255/">
+            (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye
+            symptoms and asthenopia
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

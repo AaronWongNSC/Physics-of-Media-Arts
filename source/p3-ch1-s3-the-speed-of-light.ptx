@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-the-speed-of-light" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Speed of Light</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own special laws.
+        </q>
+      </p>
+      <attribution>Douglas Adams (Mostly Harmless)</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    We know that the speed of light is constant for all observers, but what is that constant? Today, we know the speed of light (which is denoted
+    by the letter <m>c</m>) is exactly 299,792,458 meters per second (approximately <m>3 \times 10^8</m> meters per second), which is fast enough to go
+    around the earth about 7.5 times in a single second. But the definition of a meter is defined by the speed of light, and so this is a circular definition.
+    What we really want to think about is how people tried to determine this value before we knew what it was. The pursuit of the answer to this question is an
+    interesting story of ingenuity and creativity. The challenge, of course, is that the speed of light is very, very fast. How do you even begin to measure such
+    a thing? 
+  </p>
+  <p>
+    The speed of light is so fast that it was assumed to be instantaneous all the way until the late 1600s. Galileo was among the first to postulate
+    that perhaps the speed of light is finite, and even devised an experiment to try to measure it. The experiment was quite simple. Two people stand
+    on opposite sides of a valley, and each one has a latern with a shutter that blocks the light. When both are ready and in position, one of them
+    would remove the shutter and reveal the light to the other. When that person sees the light, they will open their shutter and reveal the light
+    back to the first person. By measuring how long it took for the light to reach the first person, you could theoretically estimate how fast the
+    light is traveling. However, when this experiment was conducted, it turned out that the time was the same regardless of the distances between
+    the two people. In fact, what they were basically measuring was the reaction time for the preson to see the light and remove the shutter.
+  </p>
+  <p>
+    In 1676, the Danish astronomer Ole Christensen Rømer was the first person to get an actual estimate of the speed of light. This was based on observing the
+    differences in the timing of the eclipses of the moons of Jupiter when the earth was approaching it and when the earth was moving away from it. Based
+    on his calculations, he estimated that the speed of light was approximately <m>2 \times 10^8</m> meters per second. Even though the tools at the time
+    were relatively crude, it is quite amazing that he was able to get the right order of magnitude for the speed of light at that time.
+  </p>
+  <p>
+    <idx><h>stellar aberration</h></idx>
+
+    The next estimate for the speed of light was also derived from looking at the sky. There is a visual artifact called <term>stellar aberration</term>
+    which makes the positions of stars shift slightly due to the movement of the earth around the sun. This can be understood by imagining a ball falling
+    straight down from the sky. If you're standing still, you will see that the ball is falling vertically. But if you are walking towards the ball as it's
+    falling, it will appear to be falling at an angle towards you. The English astronomer James Bradley was monitoring the position of a star called Eltanin
+    and noticed that it moved in a way that the current theories did not correctly predict. Bradley theorized the concept of stellar aberration to explain
+    this, and used it to estimate the speed of light to be approximately <m>3.1 \times 10^8</m> meters per second.
+  </p>
+  <p>
+    In 1849, the French physicist Armand Hippolyte Louis Fizeau used a mirror and a cogwheel to measure the speed of light without needing the night sky.
+    His device shined a light through the teeth of a spinning cogwheel, which would hit a mirror about 8 kilometers away, which would return back. By
+    spinning the wheel, he could create individual beams of light that would shoot down to the mirror and back again. Then by controlling the speed that
+    the wheel was spinning at, he would be able to time it so that the beam of light would either hit a tooth of the cogwheel or hit a gap between
+    the teeth. From this information, he was able to estimate that the speed of light to be about <m>3.13 \times 10^8</m> meters per second. While this was
+    slightly worse, the major accomplishment was that this measured the speed of light using a very short distance (relatively speaking).
+  </p>
+  <p>
+    There were a more innovations, such as using rotating mirrors and using intereference of light waves that slowly improved the estimates for the speed of
+    light. The science behind those methods gets increasingly complex, and so we're not going to delve any deeper into it. The main takeaway from this section
+    is mostly to appreciate the progression of ideas that allowed us to get better and better approximations of the speed of light.
+  </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://scienceready.com.au/pages/determination-of-speed-of-light">(Science Ready) Measuring Light's Speed:Key Experiments Explained</url>
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://explainingscience.org/2019/05/28/stellar-aberration/">(Explaining Science) Stellar Aberration</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

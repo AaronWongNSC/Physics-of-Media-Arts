@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-special-relativity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Special Relativity</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          -----
+        </q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+  </introduction>
+
+  <p>
+    <idx><h>special relativity (the theory of)</h></idx>
+
+    Albert Einstein is known for developing a theory of light known as <term>the theory of special relativity</term>. Through a series of thought
+    experiments, he deduced one of the most unusual quirks about light. Light always appears to be traveling the same speed, regardless of who is measuring it
+    and the speed and direction they are going. Although the words that describe this phenomenon seem quite striaght-forward, the reality of this is utterly
+    bizarre.
+  </p>
+  <p>
+    <idx><h>classical velocity addition</h></idx>
+
+    To start to understand what this means, we need to do some simple thought experiments. Let's say that you have a gun that shoots a pellet at a
+    speed of 20 miles per hour. And let's say that you're shooting this from a car that is traveling at 50 miles per hour. If you are shooting
+    the gun forward, how fast will the pellet go (ignoring air resistance)? You would likely say that it's traveling at 70 miles per hour, 
+    50 miles per hour from the car plus 20 miles per hour from the gun. This is know as <term>classical velocity addition</term>.
+  </p>
+  <p>
+    But light doesn't behave that way. If we replace the pellet with a photon, something unusual happens. The photon will always be traveling at the same
+    speed, regardless of how fast the car is going. Even if the car were traveling at 99% of the speed of light, the photon will still be traveling the same
+    speed.
+  </p>
+  <p>
+    The implications of this are quite surprising. Here are some examples:
+  </p>
+  <ul>
+    <li>
+      <p>
+        <idx><h>time dilation</h></idx>
+
+        Time appears to be moving slower for objects that are in motion. This is called <term>time dilation</term>.
+      </p>
+    </li>
+    <li>
+      <p>
+        <idx><h>length contraction</h></idx>
+
+        Objects appear to be compressed in the direction of motion. This is called <term>length contraction</term>.
+      </p>
+    </li>
+    <li>
+      <p>
+        <idx><h>relativity of simultaneity</h></idx>
+
+        If two events appear simultaneous for you, then they will not be simultaneous for a person in motion. This is known as the
+        <term>relativity of simultaneity</term>.
+      </p>
+    </li>
+  </ul>
+  <p>
+    We will do a thought experiment to understand the last of these. Suppose you are standing in the exact middle of a dark railroad car with a light bulb. If
+    the light bulb is turned on, the light from the bulb will reach the front and the back of the car at the same time. This is because you are in the exact
+    middle of the car. And this remains true if the car is moving along the tracks since your relative position between the front and the back stay the same.
+  </p>
+  <p>
+    But now suppose your friend is watching you go by, and the light is turned on at the exact moment you pass them. What will they see? Since the speed of light
+    is not influenced by the speed of the train, he will see the light moving the same speed towards the front and back of the car. However, as time moves
+    forward, the back of the car is moving towards the light and the front of the car is moving away from it. In other words, they won't see the light hitting
+    the front and back at the same time, even though it was the same time for you.
+  </p>
+  <p>
+    <idx><h>classical velocity addition</h></idx>
+
+    The formulas that describe all of this have an interesting property, which is that it is impossible to accelerate an object with mass to reach the speed of
+    light. We're going to return to the pellet gun example, except that we're going to have a very powerful gun and a very powerful car. Let's suppose that
+    the car is moving at half of the speed of light, and that the gun shoots at half of the speed of light. If we were to use classical velocity addition,
+    we would say that the pellet must be moving at the speed of light. But this is impossible! It turns out that <term>relativistic velocity addition</term>
+    is more complicated than that, and it results in a speed that is slower than classical velocity addition.
+  </p>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.youtube.com/watch?v=AInCqm5nCzw/">(CrashCourse on YouTube) Special Relativity: Crash Course Physics #42</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>
