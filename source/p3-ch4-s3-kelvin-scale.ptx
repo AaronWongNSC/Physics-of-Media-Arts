@@ -12,17 +12,49 @@
     </blockquote>
   </introduction>
 
-  <p>
-    <idx><h>temperature (color)</h></idx>
+  <paragraphs>
+    <title>Blackbody Radiation</title>
 
-    <term>Color temperature</term> is a way of describing the appearance of colors. They can be thought of as modifiers 
-  </p>
-  <p>
-    <idx><h>Kelvin (color)</h></idx>
+    <p>
+      When we introduced the topic of photons and the electromagnetic spectrum, we stated that every object whose temperature is above zero emits radiation. This
+      phenomenon is known as <term>blackbody radiation</term>. When we look at an object, there are two types of radiation that come from it. The most common type that
+      we see is reflected light. An example of this is that sunlight hits the tree, and the tree reflects some of that light to our eyes so we can see it. But there's
+      another type of radiation that comes from the object itself. The most common example of this that we see is a flame. The flame's light is coming from itself, not a
+      reflection off of something else. Specifically, the light that we see is the blackbody radiation of tiny particles of soot. But what does that mean?
+    </p>
+    <p>
+      If we were to put a heated particle inside of a perfect vacuum, over time it will slowly release its energy in the form of photons. You can think of this as the sun
+      slowly burning itself out in space. That release of energy in the form of photons that follow a specific mathematical formula that describes the spectral distribution,
+      and the formula only depends on the temperature of the object (which is measured in Kelvin). In other words, you can know the temperature of a blackbody object by
+      looking at what color it is.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>The Kelvin Scale of Color</title>
 
-    There is a more precise 
-  </p>
+    <p>
+      Since we have a mathematical model of the distribution of photons from blackbody radiation, and we have a model for what colors our brains create when we detect
+      a range of photons, it's possible to roll the two concepts together into a graph. This graph shows us the color that we expect to see with our eyes based on the
+      temperature of an object's blackbody radiation.
+    </p>
+    <figure>
+      <image source="images/KelvinColorSpace" width="50%" />
+      <caption>Image taken from https://upload.wikimedia.org/wikipedia/commons/b/ba/PlanckianLocus.png</caption>
+    </figure>
+    <p>
+      Under this framework, lower temperatures tend to be more red and orange, and then the colors work their way up through yellows and whites, and if the temperature keeps
+      rising it starts to tip into the blues. Note that this is the opposite direction of traditional "color temperatures" (where blue is cool and red is warm). The
+      difference is mostly historical, as artists were describing colors long before the science of blackbody radiation was developed.
+    </p>
+    <p>
+      The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.
+    </p>
+    <figure>
+      <image source="images/KelvinBulbs.jpg" />
+      <caption>Image taken from https://www.larsonelectronics.com/blog/2019/04/19/led-lighting/understanding-kelvin-ranges-in-lighting-and-their-best-applications</caption>
+    </figure>
 
+  </paragraphs>
   <outcomes>
     <ul>
       <li>

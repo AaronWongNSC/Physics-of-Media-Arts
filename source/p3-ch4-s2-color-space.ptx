@@ -82,7 +82,7 @@
     </p>
     <figure>
       <image source="images/ColorSpace" width="50%" />
-      <caption>Image taken from https://www.studiobinder.com/blog/what-is-color-space-definition/</caption>
+      <caption>Image taken from https://www.studiobinder.com/blog/what-is-color-space-definition</caption>
     </figure>
     <p>
       There are actually lots of graphs that can be generated, and they are all different ways of trying to conceptualize the same thing. The main features
@@ -106,7 +106,7 @@
 
   </paragraphs>
   <paragraphs>
-    <title>Using Color Spaces</title>
+    <title>Gamuts</title>
     
     <p>
       The purpose of color spaces is that provides us a framework for understanding how colors can be translated through the in-between layer.
@@ -119,8 +119,30 @@
       but it is an important conceptual point to help understand the next part.
     </p>
     <p>
-      On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes.
+      On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes, which are
+      used for electronic monitor displays (desktops, phones, tablets). These displays can really only create three distinct colors of light, namely red, green, and
+      blue. But exactly which colors it generates depends on the specifics of how the electronics are set up. You might be familiar with trying to calibrate a monitor by
+      turning the brightness up or down, or adjusting the contrast. Regardless of the specifics, there is a particular color of red, green, and blue that are generated,
+      and those colors are located somewhere on thee color space. Once those three colors are identified, the only colors that can be displayed live inside of the triangle
+      formed by those three points.
+    </p>
+    <p>
+      The goal is to have the colors collected by the recording end to be perfectly matched up with the colors generaeted on the reproducing end. And the only way this
+      can happen is if there is agreement about what the colors are. And this is where the various standards came from. The following diagram shows three common color
+      spaces:
+    </p>
+    <figure>
+      <image source="images/ColorSpace" width="50%" />
+      <caption>Image taken from https://stephaniebryanphoto.com/myblog/understanding-color-space</caption>
+    </figure>
+    <p>
+      <h><idx>gamut</idx></h>
 
+      The triangles are known as <term>gamuts</term>, and they represent the range of colors that can be represented under the different color concepts, and this is based
+      on the specific red, blue, and green that is used by that gamut. It also shows how using the wrong standard on your display relative to the camera can lead to poor
+      results. For example, if your camera is set to Adobe RGB but your computer is set to interpret the data as sRGB, you will find that your greens are a little more
+      yellow. This is because the camera's concept of green is more green than green of sRGB. And this is why it is important to make sure that you are using the same
+      settings on both sides of the process.
     </p>
   </paragraphs>
 
