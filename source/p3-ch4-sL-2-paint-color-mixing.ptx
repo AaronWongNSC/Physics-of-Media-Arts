@@ -5,16 +5,43 @@
     <title>Introduction</title>
 
     <p>
-      This lab is an exploration of how paint colors mix together to create new colors. We will use a color-picking tool to help us develop
-      and objective measure of how close or far two colors are from each other.
+      This lab is an exploration of how paint colors mix together to create new colors. We will use a colorimeter to help us objectively measure of how close or far two
+      colors are from each other.
     </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          Colored paints (including cyan, magenta, yellow, and black)
+        </p>
+      </li>
+      <li>
+        <p>
+          Brushes
+        </p>
+      </li>
+      <li>
+        <p>
+          Paper
+        </p>
+      </li>
+      <li>
+        <p>
+          Colorimeter capable of producing CYMK values (and its corresponding software)
+        </p>
+      </li>
+    </ul>
   </paragraphs>
 
   <paragraphs>
     <title>Procedure</title>
 
     <p>
-        ...
+        
     </p>
   </paragraphs>
 

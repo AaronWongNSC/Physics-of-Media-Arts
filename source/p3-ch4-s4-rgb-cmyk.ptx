@@ -6,21 +6,82 @@
   <introduction>
     <blockquote>
       <p>
-        <q>-----</q>
+        <q>To attain knowledge, add things every day. To attain wisdom, subtract things every day.</q>
       </p>
-      <attribution>-----</attribution>
+      <attribution>Lao Tzu</attribution>
     </blockquote>
+
+    <p>
+      Within the media arts, there are two complementary color schemes that have been developed, and these are based on the underlying physics of how those
+      colors are created. If you think about a computer monitor, the default state is black and colors are added in to make the screen brighter. If you think
+      about a sheet of paper, the default state is white and colors are subtracted away to make the paper darker. This basic framework sets us up for understanding 
+      of the RGB and CYMK color schemes.
+    </p>
   </introduction>
 
-  <p>
-    RGB starts from black and adds colors. CMYK starts from white and subtracts colors. It's a complementary system
-  </p>
+  <paragraphs>
+    <title>RGB</title>
+
+    <p>
+      <idx><h>additive color</h></idx>
+
+      RGB is the color scheme whose primary colors are red, green, and blue. The reason for this color combination is a matter of our human biology, and not some underlying
+      physical principle. Our eyes simply have receptors that are mostly sensitive to those colors, and so this maximizes our responsiveness to this color scheme. Most
+      importantly, this is an <term>additive color</term> scheme, which means that we are starting from black (no photons) and increasing the number of photons that reach
+      our eyes when we add these colors into the mix.
+    </p>
+    <p>
+      If you were to take a very close look at your computer monitor or cellphone screen, you would see that each pixel is constructed from three subpixels. Unsurprisingly,
+      the colors of those subpixels are red, green, and blue. The way that colors are produced is that those subpixels display at different levels of intensity. The itensity
+      levels are usually given as a number from 0 to 255, where lower numbers mean lower levels of intensity. (If you have ever seen hex color codes, such as #A72EBD, you
+      have seen this color system. The only difference is that the numbers are being represented in hexadecimal instead of using our usual decimal number system. If this
+      were a math class, we'd talk about how hexadecmial works. But it's not, so we'll just direct you to search for a hexademical to decimal converter online.)
+    </p>
+    <p>
+      <idx><h>Technicolor</h></idx>
+
+      The ideas for this system go back to the 1920s when Technicolor developed their three strip system. At that time, film was only able to capture black-and-white. How
+      can you use black-and-white film to capture color? The basic idea was to capture the footage three times, with one film capturing the reds, one film capturing the
+      greens, and one film capturing the blues. Then the three layers can be put back together using red, green, and blue lights to reproduce the original image. 
+    </p>
+
+  </paragraphs>
+  <paragraphs>
+    <title>CMYK</title>
+
+    <p>
+      CMYK is the color scheme whose primary colors are cyan, magenta, yellow, and black. This is also built around human biology, but moving in the opposite direction
+      as RGB. Instead of starting with black and turning up the colors, this starts with white and removes colors. This is used for pigment-based colors, like paint and
+      ink, where the illumination source is external and the colors that are seen are only from reflected light.
+    </p>
+    <p>
+      <idx><h>subtractive color</h></idx>
+
+      The reason a white piece of paper looks white is because it's reflecting red, green, and blue photons back at us. If we add red ink to the paper, the reason that
+      we see red is because the ink is absorbing the green and blue photons, and is only reflecting back the red ones. And this is what is meant by
+      <term>subtractive color</term>. However, when it comes to pigments, thinking in terms of red, green, and blue turns out to be more complicated when you mix them.
+      The underlying reason for this is that generating red means absorbing green and blue, and it makes more sense to have the primary colors absorb single colors
+      rather than pairs of colors.
+    </p>
+    <p>
+      And this is where we get the cyan, magenta, and yellow base colors. Cyan is the color you get when you absorb only red light. Magenta comes from absorbing green.
+      Yellow is the result of absorbing blue. Then you can mix two of these colors together to get the secondary colors of red, green, and blue. For example, red is a
+      mixture of magenta (which absorbs green) and yellow (which absorbs blue).
+    </p>
+    <p>
+      The role of black in this system is because there's a gap between theory and practice. In theory, if you mix cyan, magenta, and yellow together, you should get
+      black. However, in practice, the pigments are not perfect. That is, cyan doesn't absorb all of the blue, and so on. This means that mixing the colors together usually
+      results in a brown color. So adding black as a separate color sidesteps the challenge of needing to make perfect cyan, magenta, and yellow colors in order to mix
+      them together to get black.
+    </p>
+    
+  </paragraphs>
 
   <outcomes>
     <ul>
       <li>
         <p>
-          <url href="https://google.com/">Google</url>
+          <url href="https://www.eastman.org/technicolor/technology/three-strip-camera">(The George Eastman Museum) Three-Strip Camera</url>
         </p>
       </li>
     </ul>
