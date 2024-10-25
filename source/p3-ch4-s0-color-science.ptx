@@ -7,21 +7,30 @@
     <ul>
       <li>
         <p>
-          Students will be able to...
+          Students will be able to explain the basics of color space and color gamuts.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to describe the relationship between the Kelvin temperature scale and the Kelvin color scale.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to describe additive and subtractive colors.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to describe the theory of mixing colors in the context of both RGB and CMYK.
         </p>
       </li>
     </ul>
   </objectives>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> Color is a physical phenomenon, psychological phenomenon, and a biological phenomenon. </p>
   </introduction>
-
-    <!--
-  Color is just how the eyes interpret photons of different energy levels, combined with brain stuff.
-  RGB vs CMYK
-  Blackbody Kelvin scale
-  -->
 
   <!-- include sections -->
   <xi:include href="p3-ch4-s1-color.ptx" />

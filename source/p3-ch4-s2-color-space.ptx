@@ -6,9 +6,9 @@
   <introduction>
     <blockquote>
       <p>
-        <q>Color is the place where our brain and the universe meet.</q>
+        <q>-----</q>
       </p>
-      <attribution>Paul Klee</attribution>
+      <attribution>-----</attribution>
     </blockquote>
 
     <p>
@@ -94,9 +94,13 @@
           The boundary of the shape represents the visible light spectrum. In this specific example, the wavelengths are specifically indicated, but not
           all graphs will have this feature.
         </p>
+      </li>
+      <li>
         <p>
           The colors that you see represent colors that are perceived. These colors are based on both theoretical and empirical data. 
         </p>
+      </li>
+      <li>
         <p>
           If we mix two wavelengths of light, we perceive a color that is somewhere on the line connecting them. Exactly where along the line it is
           depends on the relative intensity of the two wavelengths. In general, the perceived color is the weighted average of the wavelengths.
@@ -132,7 +136,7 @@
       spaces:
     </p>
     <figure>
-      <image source="images/ColorSpace" width="50%" />
+      <image source="images/ColorSpaceComparison.jpeg" width="100%" />
       <caption>Image taken from https://stephaniebryanphoto.com/myblog/understanding-color-space</caption>
     </figure>
     <p>
