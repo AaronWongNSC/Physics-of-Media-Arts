@@ -1393,7 +1393,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "15.1",
   "title": "Color",
-  "body": " Color     -----   -----     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light, called rods) and one for bright light, called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, blue, and green.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
+  "body": " Color     -----   -----     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light called rods, and one for bright light called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, blue, and green.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
 },
 {
   "id": "sec-color-3",
@@ -1432,20 +1432,110 @@ var ptx_lunr_docs = [
   "body": "    (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra     "
 },
 {
+  "id": "sec-color-space",
+  "level": "1",
+  "url": "sec-color-space.html",
+  "type": "Section",
+  "number": "15.2",
+  "title": "Color Space",
+  "body": " Color Space     Color is the place where our brain and the universe meet.   Paul Klee   Color space is a topic that students of digital visual media need to understand. But it can often be a difficult topic because there are a lot of pieces that go into it. The goal of this section is to help you understand and interpret what color space is without getting too bogged down in the details.    The Perception of Color  In the previous section, we talked about how different wavelengths of light generate different colors. However, we did not say that every color that we see is the result of a particular wavelength of light. You will not find pink or brown in the rainbow. So where does it come from?   spectrophotometer A device known as a spectrophotometer can be used to measure the amounts of all of the incoming wavelengths of light. These can generate graphs (called the \"spectral power distribution\") that will show peaks around the wavelengths of light that are the most common when viewing an object. While we could say that these graphs can \"define\" colors for us, and this would be a very scientific and concrete way to understand colors, this isn't what actually happens in our heads. Our eyes are simply not as sophisticated, and we aren't able to isolate the exact wavelengths of lights in that way. All we have are our three colors of cones. This means that our understanding of color is going to be much simpler.  The solution our brains have developed is that it invents new colors for us to see when we're seeing mixtures of wavelengths at the same time in the same spot. So if the red and blue cones are being activated in the same spot, our brains create a color that we call magenta to try to tell us that this is a mixture of colors.  An important fact about our color perception is that it depends on the level of activation of the cones, and not the actual wavelengths of light that are hitting them. So we might perceive two colors to be the same even if the spectral power distributions are different.    The In-Between Layer  Imagine that you're watching a sunset. What is the physical process that's happening to allow you to experience it? The sun is generating photons, which are bouncing around all through the atmosphere and off of the ground, the clouds, the trees, and anything else that you see. Those photons then reach your eyes, which causes your brain to generate a picture that you interpret as watching the sunset.  Now imagine that you want to take a picture of this sunset so that you can see it again at some point in the future. This will introduce (at least) two more steps into the process. The first thing you need to do is to try to capture the photons (you do this with your camera), and then you need to find a way to reproduce those photons using a medium of some sort (your cell phone, your computer monitor, or your printer). We are going to focus on digital images because it presents a distinct set of challenges from analog images.  In this in-between layer, we create opportunities for errors to occur. Some of the errors are generated from things like an out-of-focus camera or corrupted data. But even if all of that were perfect, we still have a significant challenge. How do we capture reality and then reproduce it? The concept of color space is specifically focused on trying to figure out how to get colors as \"correct\" as possible.   photosite The challenge is that cameras, like our eyes, are limited in the information they can capture. They aren't capturing all of the information like a photospectrometer would. What is typically happening is that there is a sensor called a photosite which converts photons into voltages, which are converted to digital information. And then that digital information will need to be re-translated back into colors generated by a monitor, which can only generate three distinct colors with different levels of intensity. So the broad spectrum of photons that you started with gets boiled down to essentially three specific wavelengths, which somehow needs to capture our experience of color.    Color Space  Color space is our attempt to take what we can understand about human perception and do what we can to recreate as closely as possible an experience of reality within the limitations of the equipment that we have. The first thing we need to do is to chart our experience of colors. It starts with a graph that looks something like this:    Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition   There are actually lots of graphs that can be generated, and they are all different ways of trying to conceptualize the same thing. The main features of each of these graphs are the following:    The boundary of the shape represents the visible light spectrum. In this specific example, the wavelengths are specifically indicated, but not all graphs will have this feature.  The colors that you see represent colors that are perceived. These colors are based on both theoretical and empirical data.  If we mix two wavelengths of light, we perceive a color that is somewhere on the line connecting them. Exactly where along the line it is depends on the relative intensity of the two wavelengths. In general, the perceived color is the weighted average of the wavelengths.      Gamuts  The purpose of color spaces is that provides us a framework for understanding how colors can be translated through the in-between layer.  On the recording end, we need to be able to understand and interpret the data we are collecting. If we had two color sensors where each one only detected a single wavelength of light, then the only colors that we would be able to record would be on the line connecting the two points on the boundary corresponding to those wavelengths. In other words, the color space that the camera could access is limited, and it will be unable to reproduce colors outside of that range. This example is mostly theoretical because modern technology doesn't have this type of limitation, but it is an important conceptual point to help understand the next part.  On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes, which are used for electronic monitor displays (desktops, phones, tablets). These displays can really only create three distinct colors of light, namely red, green, and blue. But exactly which colors it generates depends on the specifics of how the electronics are set up. You might be familiar with trying to calibrate a monitor by turning the brightness up or down, or adjusting the contrast. Regardless of the specifics, there is a particular color of red, green, and blue that are generated, and those colors are located somewhere on thee color space. Once those three colors are identified, the only colors that can be displayed live inside of the triangle formed by those three points.  The goal is to have the colors collected by the recording end to be perfectly matched up with the colors generaeted on the reproducing end. And the only way this can happen is if there is agreement about what the colors are. And this is where the various standards came from. The following diagram shows three common color spaces:    Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space    gamut The triangles are known as gamuts , and they represent the range of colors that can be represented under the different color concepts, and this is based on the specific red, blue, and green that is used by that gamut. It also shows how using the wrong standard on your display relative to the camera can lead to poor results. For example, if your camera is set to Adobe RGB but your computer is set to interpret the data as sRGB, you will find that your greens are a little more yellow. This is because the camera's concept of green is more green than green of sRGB. And this is why it is important to make sure that you are using the same settings on both sides of the process.       Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
+},
+{
+  "id": "sec-color-space-3-3",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "spectrophotometer "
+},
+{
+  "id": "sec-color-space-4-5",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-4-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "photosite "
+},
+{
+  "id": "sec-color-space-5-3",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-5-3",
+  "type": "Figure",
+  "number": "15.2.0.1",
+  "title": "",
+  "body": "  Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition  "
+},
+{
+  "id": "sec-color-space-6-6",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-6-6",
+  "type": "Figure",
+  "number": "15.2.0.2",
+  "title": "",
+  "body": "  Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space  "
+},
+{
+  "id": "sec-color-space-6-7",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-6-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "gamuts "
+},
+{
+  "id": "sec-color-space-7",
+  "level": "2",
+  "url": "sec-color-space.html#sec-color-space-7",
+  "type": "Additional Resources",
+  "number": "15.2",
+  "title": "",
+  "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
+},
+{
   "id": "sec-kelvin-scale",
   "level": "1",
   "url": "sec-kelvin-scale.html",
   "type": "Section",
-  "number": "15.2",
+  "number": "15.3",
   "title": "Kelvin Scale",
-  "body": " Kelvin Scale     -----   -----    Blackbody radiation. Kelvin scale is an absolute measure of color.      Google      "
+  "body": " Kelvin Scale     -----   -----     Blackbody Radiation  When we introduced the topic of photons and the electromagnetic spectrum, we stated that every object whose temperature is above zero emits radiation. This phenomenon is known as blackbody radiation . When we look at an object, there are two types of radiation that come from it. The most common type that we see is reflected light. An example of this is that sunlight hits the tree, and the tree reflects some of that light to our eyes so we can see it. But there's another type of radiation that comes from the object itself. The most common example of this that we see is a flame. The flame's light is coming from itself, not a reflection off of something else. Specifically, the light that we see is the blackbody radiation of tiny particles of soot. But what does that mean?  If we were to put a heated particle inside of a perfect vacuum, over time it will slowly release its energy in the form of photons. You can think of this as the sun slowly burning itself out in space. That release of energy in the form of photons that follow a specific mathematical formula that describes the spectral distribution, and the formula only depends on the temperature of the object (which is measured in Kelvin). In other words, you can know the temperature of a blackbody object by looking at what color it is.    The Kelvin Scale of Color  Since we have a mathematical model of the distribution of photons from blackbody radiation, and we have a model for what colors our brains create when we detect a range of photons, it's possible to roll the two concepts together into a graph. This graph shows us the color that we expect to see with our eyes based on the temperature of an object's blackbody radiation.    Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png   Under this framework, lower temperatures tend to be more red and orange, and then the colors work their way up through yellows and whites, and if the temperature keeps rising it starts to tip into the blues. Note that this is the opposite direction of traditional \"color temperatures\" (where blue is cool and red is warm). The difference is mostly historical, as artists were describing colors long before the science of blackbody radiation was developed.  The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.    Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications        Google      "
 },
 {
-  "id": "sec-kelvin-scale-4",
+  "id": "sec-kelvin-scale-3-2",
   "level": "2",
-  "url": "sec-kelvin-scale.html#sec-kelvin-scale-4",
+  "url": "sec-kelvin-scale.html#sec-kelvin-scale-3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "blackbody radiation "
+},
+{
+  "id": "sec-kelvin-scale-4-3",
+  "level": "2",
+  "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-3",
+  "type": "Figure",
+  "number": "15.3.0.1",
+  "title": "",
+  "body": "  Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png  "
+},
+{
+  "id": "sec-kelvin-scale-4-6",
+  "level": "2",
+  "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-6",
+  "type": "Figure",
+  "number": "15.3.0.2",
+  "title": "",
+  "body": "  Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications  "
+},
+{
+  "id": "sec-kelvin-scale-5",
+  "level": "2",
+  "url": "sec-kelvin-scale.html#sec-kelvin-scale-5",
   "type": "Additional Resources",
-  "number": "15.2",
+  "number": "15.3",
   "title": "",
   "body": "    Google     "
 },
@@ -1454,7 +1544,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-rgb-cmyk.html",
   "type": "Section",
-  "number": "15.3",
+  "number": "15.4",
   "title": "RGB and CMYK",
   "body": " RGB and CMYK     -----   -----    RGB starts from black and adds colors. CMYK starts from white and subtracts colors. It's a complementary system      Google      "
 },
@@ -1463,27 +1553,9 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rgb-cmyk.html#sec-rgb-cmyk-4",
   "type": "Additional Resources",
-  "number": "15.3",
+  "number": "15.4",
   "title": "",
   "body": "    Google     "
-},
-{
-  "id": "sec-color-space",
-  "level": "1",
-  "url": "sec-color-space.html",
-  "type": "Section",
-  "number": "15.4",
-  "title": "Color Space",
-  "body": " Color Space     -----   -----    Reality to collection apparatus to approximation of reality. How do we make the ends meet?      Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
-},
-{
-  "id": "sec-color-space-4",
-  "level": "2",
-  "url": "sec-color-space.html#sec-color-space-4",
-  "type": "Additional Resources",
-  "number": "15.4",
-  "title": "",
-  "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
 },
 {
   "id": "lab-colored-light-shadows",
