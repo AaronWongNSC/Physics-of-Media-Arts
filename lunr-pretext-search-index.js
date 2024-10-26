@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Scientific Notation",
-  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  standard notation  coefficient (scientific notation)  exponent (scientific notation) A number is in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent . In contrast to scientific notation is standard notation , which is simply writing numbers the way we normally do.  A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically \"big\" numbers and numbers with negative exponents are typically \"small\" numbers. The words \"big\" and \"small\" in quotes because we need to keep in mind that some of the work of the \"size\" consideration is being done by the units, and there's no absolute scale that we can use.   Standard Notation and Scientific Notation      Converting To and From Scientific Notation  The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.   Multiplying and Dividing by 10    When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents represent repeated multiplication, so that (for example) multiplying by means multiplying by 10 three times, which would move the decimal three spaces to the right (one for each multiplication by 10).   From Scientific Notation to Standard Notation    When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit) and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the original number, and use the corresponding value.   From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:        Working with Exponents   exponents To work with scientific notation, you need to understand a few basic concepts about exponents . The first is that an exponent represents repeated multiplication. For example, . The second is that negative exponents represent a reciprocal, so that . Lastly, when you have a fraction involving exponents on the top and bottom of the fraction, you can cancel out pairs of terms (one on top and one on bottom).  There are some formulas that you can use for this, but the formulas tend to obscure the ideas, rather than adding clarity. So you will need to go out on the internet if you want to find and use the formulas. The examples will show you the logic, and if you understand the logic then you won't need the formulas.   Exponent Practice  Calculate    Calculate        SI Prefixes  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Scientific Notation     We are very very small. But we are profoundly capable of very very big things.   Stephen Hawking   Scientific notation is a way of representing numbers that are very large or very small in a way that helps us to work with and interpret the numbers much more easily. This is best exhibited by an example. Which number is larger: 705745422424033592 or 70574542424033591? As you try to compare the digits, you can start to see the difficulty of working with very large numbers in this form. If you were clever, you might have tried to count the number of digits in each number, and that's the basic insight of scientific notation.   scientific notation  standard notation  coefficient (scientific notation)  exponent (scientific notation) A number is in scientific notation if it is of the form , where and is an integer. We call the coefficient and the exponent . In contrast to scientific notation is standard notation , which is simply writing numbers the way we normally do.  A quick way to interpret a number in scientific notation is to look at the exponent. Numbers with positive exponents are typically \"big\" numbers and numbers with negative exponents are typically \"small\" numbers. The words \"big\" and \"small\" in quotes because we need to keep in mind that some of the work of the \"size\" consideration is being done by the units, and there's no absolute scale that we can use.   Standard Notation and Scientific Notation      Converting To and From Scientific Notation  The conversion to and from scientific notation follows from the fact that multiplying and dividing by 10 simply moves the decimal point to the left or to the right. However, we will want to avoid using the division symbol, so we will write division using negative exponents.   Multiplying and Dividing by 10    When converting a number from scientific notation to standard notation, the size of the exponent tells you how many places to move the decimal and the sign (positive or negative) of the exponent tells you which direction you need to move the decimal point. Positive exponents move the decimal to the right (it makes the number bigger) and negative exponents move the decimal to the left (it makes the number smaller). When you do this, you may need to insert zeros between the decimal point and the digits you started with as placeholders. We're using the fact that exponents represent repeated multiplication, so that (for example) multiplying by means multiplying by 10 three times, which would move the decimal three spaces to the right (one for each multiplication by 10).   From Scientific Notation to Standard Notation    When converting a number from standard notation to scientific notation, we will follow a mechanical process. To get the coefficient, think of the given number as string of digits without a decimal point, and put the decimal point to the right of the leading digit (the left-most non-zero digit) and drop all the unnecessary zeros. Then to determine the exponent, think about where the decimal point you created would need to go to get back the original number, and use the corresponding value.   From Standard Notation to Scientific Notation  Converting 1234000 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 1.234    Determine how the decimal must move to restore the original number: 1.234 1234000 requires moving the decimal point 6 places to the right.    Write the number with the corresponding exponent:     Converting 0.000056789 to scientific notation:    Place the decimal to the right of the leading digit and drop the unnecessary zeros: 5.6789    Determine how the decimal must move to restore the original number: 5.6789 0.000056789 requires moving the decimal point 5 places to the left.    Write the number with the corresponding exponent:        Working with Exponents   exponents To work with scientific notation, you need to understand a few basic concepts about exponents . The first is that an exponent represents repeated multiplication. For example, . The second is that negative exponents represent a reciprocal, so that . Also notice that this works when the negative exponent is in the denominator, so that . Lastly, when you have a fraction involving exponents on the top and bottom of the fraction, you can cancel out pairs of terms (one on top and one on bottom).  There are some formulas that you can use for this, but the formulas tend to obscure the ideas, rather than adding clarity. So you will need to go out on the internet if you want to find and use the formulas. The examples will show you the logic, and if you understand the logic then you won't need the formulas.   Exponent Practice  Calculate .   Calculate .   Calculate .   Calculate .      Products and Quotients with Scientific Notation  Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want to find a tutorial (or experiment with the calculator) to make sure that you understand how to use it properly. But while you could use such a calculator to do your calculations, it is still important to understand the basic algebra that goes on behind it.  The key idea that we use is that when we have products and quotients (but not sums and differences), we can do the arithmetic in any order we want and still get the same answer. (Technically the last fact is a combination of two algebraic properties known as the commutative property and the associative property of multiplication.) The procedure we will follow is to multiply and\/or divide all of the coefficients and all of the exponent terms separately, and then combine the results in the end.   significant figures This is a good time to raise a point about significant figures. A system of significant figures represents a method for tracking the level of meaningful accuracy of the digits in a calculation. One of the great challenges in empirical work is that measurements are inherently imprecise. (We'll talk a little more about this in a later section.) If your digital scale might read 13 grams, but you won't really know whether the weight is closer to 12.6 grams or 13.4 grams. And so the 13 grams is actually just an estimate. When multiple values in a calculation are estimates, it can often be useful to keep track of the level of the estimate, and this is done through significant figures.  The general idea is that you can track significant figures in scientific notation by counting the number of decimal points there are in the representations and doing some bookkeeping with those values. For our purposes, we're going to skip this and just generally aim to keep at least 4 decimals. Although there are some useful ideas that can be developed in terms of really thinking through the concept of computational errors, it's a little bit off target for the big picture goals that we're looking for. (If you wish to pursue this further, there is a link below.)   Multiplying and Dividing in Scientific Notation  Calculate .    We will first multiply the coefficients (using a calculator):     Then we will multiply the exponent terms:     We then combine the results and rewrite the final expression in scientific notation:     Calculate .    We will first calculate the result for the coefficients: .    Then we will calculate the result for the exponent terms:     We then combine the results and rewrite the final expression in scientific notation:           (Britannica) Significant Figures      "
 },
 {
   "id": "sec-scientific-notation-2-3",
@@ -223,7 +223,34 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.2.0.5",
   "title": "Exponent Practice.",
-  "body": " Exponent Practice  Calculate    Calculate    "
+  "body": " Exponent Practice  Calculate .   Calculate .   Calculate .   Calculate .   "
+},
+{
+  "id": "sec-scientific-notation-5-3",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-5-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "commutative property associative property "
+},
+{
+  "id": "sec-scientific-notation-5-4",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-5-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "significant figures "
+},
+{
+  "id": "sec-scientific-notation-5-6",
+  "level": "2",
+  "url": "sec-scientific-notation.html#sec-scientific-notation-5-6",
+  "type": "Example",
+  "number": "2.2.0.6",
+  "title": "Multiplying and Dividing in Scientific Notation.",
+  "body": " Multiplying and Dividing in Scientific Notation  Calculate .    We will first multiply the coefficients (using a calculator):     Then we will multiply the exponent terms:     We then combine the results and rewrite the final expression in scientific notation:     Calculate .    We will first calculate the result for the coefficients: .    Then we will calculate the result for the exponent terms:     We then combine the results and rewrite the final expression in scientific notation:     "
 },
 {
   "id": "sec-scientific-notation-6",
@@ -232,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Additional Resources",
   "number": "2.2",
   "title": "",
-  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+  "body": "    (Britannica) Significant Figures     "
 },
 {
   "id": "sec-graphing",
@@ -496,11 +523,29 @@ var ptx_lunr_docs = [
   "body": "    The International System of Units (9th Edition) : This is the official document that defines all of the SI units.     (The National Institute of Standards and Technology) SI Units      (The National Museum of American History) On Time: Splitting Seconds     "
 },
 {
+  "id": "sec-si-base-units",
+  "level": "1",
+  "url": "sec-si-base-units.html",
+  "type": "Section",
+  "number": "3.3",
+  "title": "SI Base Units",
+  "body": " SI Base Units     -----   -----   Intro    Something       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+},
+{
+  "id": "sec-si-base-units-4",
+  "level": "2",
+  "url": "sec-si-base-units.html#sec-si-base-units-4",
+  "type": "Additional Resources",
+  "number": "3.3",
+  "title": "",
+  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+},
+{
   "id": "sec-derived-units",
   "level": "1",
   "url": "sec-derived-units.html",
   "type": "Section",
-  "number": "3.3",
+  "number": "3.4",
   "title": "Derived Units",
   "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  What else to say here?      Link : Description     "
 },
@@ -509,7 +554,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-derived-units.html#sec-derived-units-8",
   "type": "Additional Resources",
-  "number": "3.3",
+  "number": "3.4",
   "title": "",
   "body": "    Link : Description    "
 },
@@ -518,7 +563,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-unit-conversion.html",
   "type": "Lab Activity",
-  "number": "3.4.1",
+  "number": "3.5.1",
   "title": "The Metric System is the Tool of the Devil!",
   "body": " The Metric System is the Tool of the Devil!   Introduction     The metric system is the tool of the devil! My car gets forty rods to the hogshead, and that's the way I like it!   Grandpa Simpson    imperial system While most of the world and all of science operates using the metric system, daily life in the US usually revolves around the imperial system of measurement. This is the system of quarts, gallons, feet, and miles that you're probably most accustomed to seeing. In fact, there are only three countries in the world that officially operate on the imperial system! (The other two countries are Liberia and Myanmar.)  The reason the imperial system is called that is because it was originally the system of units imposed on countries by the British Empire during the time of colonialism (imperial means \"of the empire\"). Somewhat confusingly, the imperial system wasn't formalized until the 1820s. Before that, there was a vast array of customary measures used in various locations, some of which date back to the 1500s (and potentially even earlier).  The actual origins of individual measurements were often rather arbitrary. For example, the length we call a foot today was originally the length of King Henry I's foot. And an inch has been defined muliple ways, including the length of three grains of barley laid end-to-end and the length of twelve poppy seeds. There are also other historical measurements that are similarly arbitrary, such as a cubit (the length from your elbow to the tip of your outstretched middle finger) and a league (the distance a person can walk in an hour). Of course, differences in individual human bodies made these measurements to be rough estimates at best. And the convoluted history and origins of these measurements have led to the equally convoluted relationships between them, such as 5280 feet in a mile.  For this lab, we are going to explore some more of the history of different units and practice making unit conversions using the imperial system.    Procedure  This lab consists of doing a little bit of research and a lot of calculations. The examples below show how unit your conversion calculations should be organized.    Converting Yards to Feet  ...    Converting Meters per Second to Miles per Hour  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -536,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-unit-conversion.html#lab-unit-conversion-4",
   "type": "Example",
-  "number": "3.4.1.1",
+  "number": "3.5.1.1",
   "title": "Converting Yards to Feet.",
   "body": " Converting Yards to Feet  ...  "
 },
@@ -545,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-unit-conversion.html#lab-unit-conversion-5",
   "type": "Example",
-  "number": "3.4.1.2",
+  "number": "3.5.1.2",
   "title": "Converting Meters per Second to Miles per Hour.",
   "body": " Converting Meters per Second to Miles per Hour  ...  "
 },
@@ -554,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-unit-conversion.html#lab-unit-conversion-9",
   "type": "Additional Resources",
-  "number": "3.4.1",
+  "number": "3.5.1",
   "title": "",
   "body": "    Google     "
 },
@@ -563,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-measuring-speed.html",
   "type": "Lab Activity",
-  "number": "3.4.2",
+  "number": "3.5.2",
   "title": "How Fast is That?",
   "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s. Also use stopwatch on the cellphone.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -572,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-speed.html#lab-measuring-speed-4",
   "type": "Example",
-  "number": "3.4.2.1",
+  "number": "3.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -581,7 +626,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-speed.html#lab-measuring-speed-8",
   "type": "Additional Resources",
-  "number": "3.4.2",
+  "number": "3.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -590,7 +635,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-human-body-measurement.html",
   "type": "Lab Activity",
-  "number": "3.4.3",
+  "number": "3.5.3",
   "title": "My Body My Measuring Device",
   "body": " My Body My Measuring Device   Introduction  Learn how to use the human body as a tool for estimating measurements.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -599,7 +644,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-human-body-measurement.html#lab-human-body-measurement-4",
   "type": "Example",
-  "number": "3.4.3.1",
+  "number": "3.5.3.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -608,7 +653,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-human-body-measurement.html#lab-human-body-measurement-8",
   "type": "Additional Resources",
-  "number": "3.4.3",
+  "number": "3.5.3",
   "title": "",
   "body": "    Google     "
 },
