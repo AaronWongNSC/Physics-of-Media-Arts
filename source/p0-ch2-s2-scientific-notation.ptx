@@ -144,7 +144,42 @@
       so that <m>10^{-3} = \frac{1}{10^3} = \frac{1}{10 \cdot 10 \cdot 10}</m>. Lastly, when you have a fraction involving exponents on the top and bottom
       of the fraction, you can cancel out pairs of terms (one on top and one on bottom).
     </p>
+    <p>
+      There are some formulas that you can use for this, but the formulas tend to obscure the ideas, rather than adding clarity. So you will need to go out
+      on the internet if you want to find and use the formulas. The examples will show you the logic, and if you understand the logic then you won't need
+      the formulas.
+    </p>
     
+    <example>
+      <title>Exponent Practice</title>
+
+      <p>
+        Calculate <m>10^3 \cdot 10^4</m>.
+      </p>
+      <md>
+        <mrow>10^3 \cdot 10^4 \amp = (10 \cdot 10 \cdot 10) \cdot (10 \cdot 10 \cdot 10 \cdot 10)</mrow>
+        <mrow>\amp = 10^7</mrow>
+      </md>
+      <p>
+        Calculate <m>10^{-3} \cdot 10^5</m>.
+      </p>
+      <md>
+        <mrow> 10^{-3} \cdot 10^4 \amp = \frac{1}{10 \cdot 10 \cdot 10} \cdot (10 \cdot 10 \cdot 10 \cdot 10 \cdot 10) </mrow>
+        <mrow> \amp = \frac{10 \cdot 10 \cdot 10 \cdot 10 \cdot 10}{10 \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{\cancel{10} \cdot \cancel{10} \cdot \cancel{10} \cdot 10 \cdot 10}{\cancel{10} \cdot \cancel{10} \cdot \cancel{10}} </mrow>
+        <mrow> \amp = 10^2 </mrow>
+      </md>
+      <p>
+        Calculate <m>10^{2} \cdot 10^{-4}</m> START HERE
+      </p>
+      <md>
+        <mrow> 10^{-3} \cdot 10^4 \amp = \frac{1}{10 \cdot 10 \cdot 10} \cdot (10 \cdot 10 \cdot 10 \cdot 10 \cdot 10) </mrow>
+        <mrow> \amp = \frac{10 \cdot 10 \cdot 10 \cdot 10 \cdot 10}{10 \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{\cancel{10} \cdot \cancel{10} \cdot \cancel{10} \cdot 10 \cdot 10}{\cancel{10} \cdot \cancel{10} \cdot \cancel{10}} </mrow>
+        <mrow> \amp = 10^2 </mrow>
+      </md>
+      
+    </example>
   </paragraphs>
 
   <!--
