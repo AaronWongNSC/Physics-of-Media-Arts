@@ -141,7 +141,8 @@
 
       To work with scientific notation, you need to understand a few basic concepts about <term>exponents</term>. The first is that an exponent
       represents repeated multiplication. For example, <m>10^3 = 10 \cdot 10 \cdot 10</m>. The second is that negative exponents represent a reciprocal,
-      so that <m>10^{-3} = \frac{1}{10^3} = \frac{1}{10 \cdot 10 \cdot 10}</m>. Lastly, when you have a fraction involving exponents on the top and bottom
+      so that <m>10^{-3} = \frac{1}{10^3} = \frac{1}{10 \cdot 10 \cdot 10}</m>. Also notice that this works when the negative exponent is in the
+      denominator, so that <m>\frac{1}{10^{-3}} = 10^3</m>. Lastly, when you have a fraction involving exponents on the top and bottom
       of the fraction, you can cancel out pairs of terms (one on top and one on bottom).
     </p>
     <p>
@@ -170,21 +171,30 @@
         <mrow> \amp = 10^2 </mrow>
       </md>
       <p>
-        Calculate <m>10^{2} \cdot 10^{-4}</m> START HERE
+        Calculate <m>10^{2} \cdot 10^{-4}</m>.
       </p>
       <md>
-        <mrow> 10^{-3} \cdot 10^4 \amp = \frac{1}{10 \cdot 10 \cdot 10} \cdot (10 \cdot 10 \cdot 10 \cdot 10 \cdot 10) </mrow>
-        <mrow> \amp = \frac{10 \cdot 10 \cdot 10 \cdot 10 \cdot 10}{10 \cdot 10 \cdot 10} </mrow>
-        <mrow> \amp = \frac{\cancel{10} \cdot \cancel{10} \cdot \cancel{10} \cdot 10 \cdot 10}{\cancel{10} \cdot \cancel{10} \cdot \cancel{10}} </mrow>
-        <mrow> \amp = 10^2 </mrow>
+        <mrow> 10^{2} \cdot 10^{-4} \amp = (10 \cdot 10) \cdot \frac{1}{10 \cdot 10 \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{10 \cdot 10}{10 \cdot 10 \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{\cancel{10} \cdot \cancel{10}}{\cancel{10} \cdot \cancel{10} \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{1}{10^2} </mrow>
+        <mrow> \amp = 10^{-2} </mrow>
       </md>
       
+      <p>
+        Calculate <m>10^{-3} \cdot 10^{-2}</m>.
+      </p>
+      <md>
+        <mrow> 10^{-3} \cdot 10^{-2} \amp = \frac{1}{10 \cdot 10 \cdot 10} \cdot \frac{1}{10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{1}{10 \cdot 10 \cdot 10 \cdot 10 \cdot 10} </mrow>
+        <mrow> \amp = \frac{1}{10^5} </mrow>
+        <mrow> \amp = 10^{-5} </mrow>
+      </md>
     </example>
   </paragraphs>
 
-  <!--
   <paragraphs>
-    <title>Calculations with Scientific Notation</title>
+    <title>Products and Quotients with Scientific Notation</title>
 
     <p>
       Some calculators are capable of handling scientific notation. You would want to look for a button that has an EE or EXP on it, and you would want
@@ -192,35 +202,95 @@
       calculator to do your calculations, it is still important to understand the basic algebra that goes on behind it.
     </p>
     <p>
-      You will most often run into scientific notation using multiplication and division. And the key facts you will need to work with are that exponents
-      represent repeated multiplication and that you can multiply a string of numbers in any order you want. (Technically the last fact is a combination of
-      two algebraic properties known as the <term>commutative property</term> and the <term>associative property</term> of multiplication.) The procedure is
-      to multiply and/or divide all of the coefficients and all of the exponents separately.
+      The key idea that we use is that when we have products and quotients (but not sums and differences), we can do the arithmetic in any order we want
+      and still get the same answer. (Technically the last fact is a combination of two algebraic properties known as the <term>commutative property</term>
+      and the <term>associative property</term> of multiplication.) The procedure we will follow is to multiply and/or divide all of the coefficients and
+      all of the exponent terms separately, and then combine the results in the end.
+    </p>
+    <p>
+      <idx><h>significant figures</h></idx>
+
+      This is a good time to raise a point about significant figures. A system of <term>significant figures</term> represents a method for tracking the level
+      of meaningful accuracy of the digits in a calculation. One of the great challenges in empirical work is that measurements are inherently imprecise.
+      (We'll talk a little more about this in a later section.) If your digital scale might read 13 grams, but you won't really know whether the weight is
+      closer to 12.6 grams or 13.4 grams. And so the 13 grams is actually just an estimate. When multiple values in a calculation are estimates, it can
+      often be useful to keep track of the level of the estimate, and this is done through significant figures.
+    </p>
+    <p>
+      The general idea is that you can track significant figures in scientific notation by counting the number of decimal points there are in the representations
+      and doing some bookkeeping with those values. For our purposes, we're going to skip this and just generally aim to keep at least 4 decimals. Although there
+      are some useful ideas that can be developed in terms of really thinking through the concept of computational errors, it's a little bit off target for the
+      big picture goals that we're looking for. (If you wish to pursue this further, there is a link below.)
     </p>
     <example>
-      <title>Multiplying in Scientific Notation</title>
+      <title>Multiplying and Dividing in Scientific Notation</title>
 
       <p>
-        We are going to calculate <m>(2.54 \times 10^4) \cdot 
+        Calculate <m>(2.54 \times 10^4) \cdot (7.97 \times 10^{-6})</m>.
       </p>
+      <ul>
+        <li>
+          <p>
+            We will first multiply the coefficients (using a calculator): <m>(2.54) \cdot (7.97) = 20.2483</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            Then we will multiply the exponent terms:
+            <md>
+              <mrow> 10^4 \cdot 10^{-6} \amp = \frac{10 \cdot 10 \cdot 10 \cdot 10}{10 \cdot 10 \cdot 10 \cdot 10 \cdot 10 \cdot 10} </mrow>
+              <mrow> \amp = \frac{1}{10^2} </mrow>
+              <mrow> \amp = 10^{-2}</mrow>
+            </md>
+          </p>
+        </li>
+        <li>
+          <p>
+            We then combine the results and rewrite the final expression in scientific notation:
+            <md>
+              <mrow> (2.54 \times 10^4) \cdot (7.97 \times 10^{-6}) \amp = 20.2483 \times 10^{-2}</mrow>
+              <mrow> \amp = 2.02483 \times 10^{-1} </mrow>
+              <mrow> \amp \approx 2.0248 \times 10^{-1} </mrow>
+            </md>
+          </p>
+        </li>
+      </ul>
+
+      <p>
+        Calculate <m>\frac{(3.47 \times 10^3) \cdot (4.87 \times 10^{4})}{5.22 \times 10^{5}}</m>.
+      </p>
+      <ul>
+        <li>
+          <p>
+            We will first calculate the result for the coefficients: <m>\frac{(3.47) \cdot (4.87)}{5.22} \approx 3.2373 </m>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Then we will calculate the result for the exponent terms:
+            <md>
+              <mrow> \frac{10^3 \cdot 10^4}{10^5} \amp = \frac{10^7}{10^5}</mrow>
+              <mrow> \amp = 10^{2}</mrow>
+            </md>
+          </p>
+        </li>
+        <li>
+          <p>
+            We then combine the results and rewrite the final expression in scientific notation:
+            <md>
+              <mrow> \frac{(3.47 \times 10^3) \cdot (4.87 \times 10^{4})}{5.22 \times 10^{5}} \approx 3.2373 \times 10^2</mrow>
+            </md>
+          </p>
+        </li>
+      </ul>
     </example>
-  </paragraphs>
-  -->
-
-  <paragraphs>
-    <title>SI Prefixes</title>
-
-    <p>
-      ...
-    </p>
-    
   </paragraphs>
 
   <outcomes>
     <ul>
       <li>
         <p>
-          <url href="https://www.nist.gov/pml/owm/metric-si-prefixes">(National Institute of Standards and Technology) Metric (SI) Prefixes</url>
+          <url href="https://www.britannica.com/science/significant-figures">(Britannica) Significant Figures</url>
         </p>
       </li>
     </ul>
