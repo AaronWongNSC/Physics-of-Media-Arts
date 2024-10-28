@@ -18,8 +18,22 @@
     <title>Representing Two-Dimensional Data</title>
 
     <p>
-      ...
+      Much of physics is about understanding the relationship between different variables. One of the ways we can identify such relationships is by graphing.
+      While graphs may not be as precise as formulas, it gives us a language that we can use to try to understand certain types of relationships intuitively.
+      We will specifically be focusing on the relationship between two variables, though many of these ideas can be extended to more variables.
     </p>
+
+  </paragraphs>
+  <paragraphs>
+    <title>Graphing Basics</title>
+    
+    <p>
+      Coordinate axes. Plotting points.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Interpolation and Extrapolation</title>
     
   </paragraphs>
 
