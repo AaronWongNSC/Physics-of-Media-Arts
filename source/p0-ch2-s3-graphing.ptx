@@ -28,12 +28,65 @@
     <title>Graphing Basics</title>
     
     <p>
-      Coordinate axes. Plotting points.
+      A graph consists of points, lines, and curves plotted in a two-dimensional grid. Each direction represents a different variable. Points are named using
+      the convention of an ordered pair <m>(x,y)</m>, where the horizontal variable is listed first, followed by the vertical variable. Although the variables
+      <m>x</m> and <m>y</m> were used in this example, we are not limited to that choice of variable. In many cases, we will have time on the horizontal axis,
+      which is usually denoted with the variable <m>t</m>.
     </p>
+    <p>
+      There are two types of data that we will be working with: discrete and continuous. Discrete data means that we are picking specific values of the variables
+      to plot. For example, we might be measuring the position of an object after 0 seconds, 1 second, 2 seconds, and 3 seconds. This leaves a gap of time where
+      we don't have data. For example, we would have to guess the position of the object at 1.5 seconds. Continuous data means that the data does not have those gaps.
+      Technically, any time we gather data we will have discrete data, but there are certainly situations where the data points are close enough that we treat the
+      data as being practically continuous.
+    </p>
+    <p>
+      <idx><h>arrow paradox</h></idx>
+
+      The challenge of continuous data has been explored from at least the time of the ancient Greeks. There is a thought experiment known as the <term>Arrow Paradox</term>
+      that highlights the challenge of this. But we can think of this in terms of using a camera to film a moving object. Each frame of video captures a specific moment in
+      time. But in each frame, the object is frozen in place. This means that in that moment, it doesn't make sense to say that the object is moving because it has specific
+      location at that time. If we have a faster camera, we can capture more moments of time in the movement, but even then there's not a single moment where the motion
+      is being captured, because each frame is still stationary. So there's no way to actually capture movement at any moment in time, and so if you have no movements at
+      all moments of time, then how does anything actually move? (A modern physics resolution is that motion is not what happens at a specific moment in time, but what
+      happens between the moments of time.)
+    </p>
+    <example>
+      <title>Graphing Data</title>
+      
+      <p>
+        The first chart represents the height of a ball as it is dropped. The positions are captured with a digital camera capturing 4 frames per second. The data is
+        then plotted in a graph.
+      </p>
+      <p>
+        INSERT IMAGE
+      </p>
+      <p>
+        The second chart represents the current measured across a circuit for various resistances. (The volatge is kept constant.) This data is then plotted in a graph.
+      </p>
+      <p>
+        INSERT IMAGE
+      </p>
+    </example>
   </paragraphs>
 
   <paragraphs>
+    <idx><h>interpolation</h></idx>
+    <idx><h>extrapolation</h></idx>
+
     <title>Interpolation and Extrapolation</title>
+
+    <p>
+      When working with discrete data, there are two important concepts to understand for trying to interpret the graph. Interpolation is the process of
+      estimating the values in between measured points in the data, and extrapolation is the process of estimating the values beyond the measured points
+      in the data. Interpolation is often accomplished by using "straight-line" estimates, meaning that you imagine drawing a straight line between the
+      data points and then using that line to estimate the values of the function.
+    </p>
+    <p>
+      Extrapolation is much more complicated. It requires a sense of how the function behaves. Using a straight line to estimate a function that is more
+      parabolic can lead to significant errors. It can also lead to answers that do not make sense. This is a place where graphs give way to formulas and
+      theoretical considerations. We will not encounter these types of situations too frequently in this course, but it's important to understand the idea.
+    </p>
     
   </paragraphs>
 
