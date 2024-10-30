@@ -268,16 +268,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Graphing Data",
-  "body": " Graphing Data     -----   ----     Representing Two-Dimensional Data  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Graphing Data     -----   ----     Representing Two-Dimensional Data  Much of physics is about understanding the relationship between different variables. One of the ways we can identify such relationships is by graphing. While graphs may not be as precise as formulas, it gives us a language that we can use to try to understand certain types of relationships intuitively. We will specifically be focusing on the relationship between two variables, though many of these ideas can be extended to more variables.    Graphing Basics  A graph consists of points, lines, and curves plotted in a two-dimensional grid. Each direction represents a different variable. Points are named using the convention of an ordered pair , where the horizontal variable is listed first, followed by the vertical variable. Although the variables and were used in this example, we are not limited to that choice of variable. In many cases, we will have time on the horizontal axis, which is usually denoted with the variable .  There are two types of data that we will be working with: discrete and continuous. Discrete data means that we are picking specific values of the variables to plot. For example, we might be measuring the position of an object after 0 seconds, 1 second, 2 seconds, and 3 seconds. This leaves a gap of time where we don't have data. For example, we would have to guess the position of the object at 1.5 seconds. Continuous data means that the data does not have those gaps. Technically, any time we gather data we will have discrete data, but there are certainly situations where the data points are close enough that we treat the data as being practically continuous.   arrow paradox The challenge of continuous data has been explored from at least the time of the ancient Greeks. There is a thought experiment known as the Arrow Paradox that highlights the challenge of this. But we can think of this in terms of using a camera to film a moving object. Each frame of video captures a specific moment in time. But in each frame, the object is frozen in place. This means that in that moment, it doesn't make sense to say that the object is moving because it has specific location at that time. If we have a faster camera, we can capture more moments of time in the movement, but even then there's not a single moment where the motion is being captured, because each frame is still stationary. So there's no way to actually capture movement at any moment in time, and so if you have no movements at all moments of time, then how does anything actually move? (A modern physics resolution is that motion is not what happens at a specific moment in time, but what happens between the moments of time.)   Graphing Data  The first chart represents the height of a ball as it is dropped. The positions are captured with a digital camera capturing 4 frames per second. The data is then plotted in a graph.  INSERT IMAGE  The second chart represents the current measured across a circuit for various resistances. (The volatge is kept constant.) This data is then plotted in a graph.  INSERT IMAGE     interpolation  extrapolation  Interpolation and Extrapolation  When working with discrete data, there are two important concepts to understand for trying to interpret the graph. Interpolation is the process of estimating the values in between measured points in the data, and extrapolation is the process of estimating the values beyond the measured points in the data. Interpolation is often accomplished by using \"straight-line\" estimates, meaning that you imagine drawing a straight line between the data points and then using that line to estimate the values of the function.  Extrapolation is much more complicated. It requires a sense of how the function behaves. Using a straight line to estimate a function that is more parabolic can lead to significant errors. It can also lead to answers that do not make sense. This is a place where graphs give way to formulas and theoretical considerations. We will not encounter these types of situations too frequently in this course, but it's important to understand the idea.       (Google) Google      "
 },
 {
-  "id": "sec-graphing-4",
+  "id": "sec-graphing-4-4",
   "level": "2",
-  "url": "sec-graphing.html#sec-graphing-4",
+  "url": "sec-graphing.html#sec-graphing-4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Arrow Paradox "
+},
+{
+  "id": "sec-graphing-4-5",
+  "level": "2",
+  "url": "sec-graphing.html#sec-graphing-4-5",
+  "type": "Example",
+  "number": "2.3.0.1",
+  "title": "Graphing Data.",
+  "body": " Graphing Data  The first chart represents the height of a ball as it is dropped. The positions are captured with a digital camera capturing 4 frames per second. The data is then plotted in a graph.  INSERT IMAGE  The second chart represents the current measured across a circuit for various resistances. (The volatge is kept constant.) This data is then plotted in a graph.  INSERT IMAGE  "
+},
+{
+  "id": "sec-graphing-6",
+  "level": "2",
+  "url": "sec-graphing.html#sec-graphing-6",
   "type": "Additional Resources",
   "number": "2.3",
   "title": "",
-  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+  "body": "    (Google) Google     "
 },
 {
   "id": "sec-basic-algebra",
@@ -286,16 +304,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Basic Algebra",
-  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  ...    Unit Conversions  ...       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  Although this is a course in conceptual physics, there will still be equations that you will need to navigate. However, we will not be doing many complicated algebraic manipulations. Instead, we will be focusing on the ideas that are hidden in the equations.  The main intuitive concept that you need to understand is how variables change relative to one another. Specifically, if you focus on just two variables, what happens if one of them gets larger? Does the other one also get larger, or does it become smaller? This will ultimately depend on where the variables are relative to each other in the equation. But there are some situations where your intuition will be enough to tell you the answer. For a fixed distance, the amount of time it takes to travel that distance goes down as your speed goes up.  A more precise version of this is identifying the algebraic relationship between the variables. This is where you get into the prototypical shapes of curves, such as a linear relationship, a quadratic relationship, an inverse relationship, or an inverse square relationship. (There are others, but these are the more commone ones). This will be explored more deeply in one of the lab activities.    Solving Equations  Although we won't be doing a lot with equations, we will still need to do some basic calculations with them. This is not meant to be a full general lesson on solving equations, but rather just an overview of the more common ways we will need to solve equations for this course. The general principle that we use is that whatever we do to one side of the equation, we must do to the other side of the equation. This keeps the equation (the relationship between the variables) in balance.  The only mathematical operations we will be using to solve equations in this class are addition, subtraction, multiplication, division, squaring, and square roots. Typically, you will be given the values of all of the variables except for one, and the task will be to solve for the last one. You will need to pay attention to both the number and the units. Even if you're not entirely sure of what the units mean, you should be able to follow the algebra to get the correct results.   Solving Problems  The formula is the relationship between constant velocity ( ), time ( ), and distance ( ). Here are a couple typical problems for this equation and their solutions.  Problem 1: Suppose a car is traveling at 70 miles per hour for 3 hours. How far will it travel?    Notice that the problem gives us a velocity (70 miles per hour) and a time (3 hours), and the question is asking us about a distance (\"How far...?\"). The first step is to plug the values into the equation.     We will simplify the left side of the equation. Notice that the units of hours cancel out, leaving just the unit of miles. Also notice that the arithmetic that is indicated is to calculate , which gives 210.     In this case, the equation is already solved for , so there is nothing more to do. This means that the answer is that the car will travel 210 miles.    Problem 2: A person is running towards a door that closes in 5 seconds. They are 20 meters from the door. How fast must they run in order to get to the door before it closes?    This problem gives you time (5 seconds) and distance (20 meters), and you need to determine speed (\"How fast...?\"). We will plug these values into the equation.     There is no arithmetic to do in this equation, so we will go straight into solving. The velocity variable is being multiplied by 5 seconds, and so we must divide both sides by 5 seconds to undo that and isolate the velocity variable.     We will now simplify the fraction on the right side. Notice that the number part of the calculation is , which is 4. And there is no cancellation in the units. This gives us the following:     This tells us that if the person runs at a speed of 4 meters per second, they will reach the door just as it closes. This means that in order for them to get to the door before it closes, they must run faster than 4 meters per second.       Unit Conversions   conversion factor Unit conversions are a particular manipulation that is important to understand and execute. The main concept is that any relationship between two units can be expressed as a ratio that is equivalent to the number 1 (which is called a conversion factor ), and then multiplying any quantity by 1 does not change it. From here, it's just a matter of doing algebra on the units to complete the conversion  Creating a conversion factor simply requires us to write a relationship as an equation, and then writing a fraction with one side as the numerator and the other side as the denominator. The arrangement that you will want will depend on the calculation you are doing.   Creating Conversion Factors  Consider the relationship \"12 inches is a foot.\" If we were to write this as an equation, it would look like this: . This means that the two conversion factors we could create are and .  Another example would be the relationship \"60 seconds in a minute.\" The equation would be , so that the conversion factors are and .   To choose which conversion factor to use, you need to think about how you would cancel the units. It turns out that units cancel out like numbers and variables in fractions. This means setting up the fraction so that the unit you want to eliminate is on the opposite side of the fraction (numerator and denominator) of the original.  Once the conversion factor has been chosen, it is an exercise in multiplying by fractions to complete the calculation. You can treat the number parts independently of the units. If you are converting multiple units, you can either do them all at once, or do it one step at a time. If you are less confident with your mathematical skills, it's probably better to do one unit at a time. (Note: We treat the singular and plural of a unit to be the same thing, so that, for example, second would cancel with seconds.)   Single Unit Conversion Calculations  Suppose we wanted to convert 144 inches to feet. We would start by identifying the relationship . Then we would need to decide how to get the inches to cancel out. Since inches are currently in the numerator, we would want our conversion factor to have the inches in the denominator. That leads us to pick . The rest is just arithmetic and algebra.         (Google) Search      "
 },
 {
-  "id": "sec-basic-algebra-5",
+  "id": "sec-basic-algebra-4-4",
   "level": "2",
-  "url": "sec-basic-algebra.html#sec-basic-algebra-5",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-4-4",
+  "type": "Example",
+  "number": "2.4.0.1",
+  "title": "Solving <span class=\"process-math\">\\(vt = d\\)<\/span> Problems.",
+  "body": " Solving Problems  The formula is the relationship between constant velocity ( ), time ( ), and distance ( ). Here are a couple typical problems for this equation and their solutions.  Problem 1: Suppose a car is traveling at 70 miles per hour for 3 hours. How far will it travel?    Notice that the problem gives us a velocity (70 miles per hour) and a time (3 hours), and the question is asking us about a distance (\"How far...?\"). The first step is to plug the values into the equation.     We will simplify the left side of the equation. Notice that the units of hours cancel out, leaving just the unit of miles. Also notice that the arithmetic that is indicated is to calculate , which gives 210.     In this case, the equation is already solved for , so there is nothing more to do. This means that the answer is that the car will travel 210 miles.    Problem 2: A person is running towards a door that closes in 5 seconds. They are 20 meters from the door. How fast must they run in order to get to the door before it closes?    This problem gives you time (5 seconds) and distance (20 meters), and you need to determine speed (\"How fast...?\"). We will plug these values into the equation.     There is no arithmetic to do in this equation, so we will go straight into solving. The velocity variable is being multiplied by 5 seconds, and so we must divide both sides by 5 seconds to undo that and isolate the velocity variable.     We will now simplify the fraction on the right side. Notice that the number part of the calculation is , which is 4. And there is no cancellation in the units. This gives us the following:     This tells us that if the person runs at a speed of 4 meters per second, they will reach the door just as it closes. This means that in order for them to get to the door before it closes, they must run faster than 4 meters per second.    "
+},
+{
+  "id": "sec-basic-algebra-5-2",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conversion factor "
+},
+{
+  "id": "sec-basic-algebra-5-4",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5-4",
+  "type": "Example",
+  "number": "2.4.0.2",
+  "title": "Creating Conversion Factors.",
+  "body": " Creating Conversion Factors  Consider the relationship \"12 inches is a foot.\" If we were to write this as an equation, it would look like this: . This means that the two conversion factors we could create are and .  Another example would be the relationship \"60 seconds in a minute.\" The equation would be , so that the conversion factors are and .  "
+},
+{
+  "id": "sec-basic-algebra-5-7",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-5-7",
+  "type": "Example",
+  "number": "2.4.0.3",
+  "title": "Single Unit Conversion Calculations.",
+  "body": " Single Unit Conversion Calculations  Suppose we wanted to convert 144 inches to feet. We would start by identifying the relationship . Then we would need to decide how to get the inches to cancel out. Since inches are currently in the numerator, we would want our conversion factor to have the inches in the denominator. That leads us to pick . The rest is just arithmetic and algebra.   "
+},
+{
+  "id": "sec-basic-algebra-6",
+  "level": "2",
+  "url": "sec-basic-algebra.html#sec-basic-algebra-6",
   "type": "Additional Resources",
   "number": "2.4",
   "title": "",
-  "body": "    (National Institute of Standards and Technology) Metric (SI) Prefixes     "
+  "body": "    (Google) Search     "
 },
 {
   "id": "lab-calculators",
