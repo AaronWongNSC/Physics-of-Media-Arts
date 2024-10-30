@@ -22,18 +22,162 @@
       complicated algebraic manipulations. Instead, we will be focusing on the ideas that are hidden in the equations.
     </p>
     <p>
-      The first piece to understand is that an equation represents a relationship between variables. There are two primary concepts to keep in mind when
-      looking at an equation. The first is just 
+      The main intuitive concept that you need to understand is how variables change relative to one another. Specifically, if you focus on just two variables,
+      what happens if one of them gets larger? Does the other one also get larger, or does it become smaller? This will ultimately depend on where the variables
+      are relative to each other in the equation. But there are some situations where your intuition will be enough to tell you the answer. For a fixed distance,
+      the amount of time it takes to travel that distance goes down as your speed goes up. 
+    </p>
+    <p>
+      A more precise version of this is identifying the algebraic relationship between the variables. This is where you get into the prototypical shapes of curves,
+      such as a linear relationship, a quadratic relationship, an inverse relationship, or an inverse square relationship. (There are others, but these are the more
+      commone ones). This will be explored more deeply in one of the lab activities.
     </p>
     
+  </paragraphs>
+
+  <paragraphs>
+    <title>Solving Equations</title>
+    
+    <p>
+      Although we won't be doing a lot with equations, we will still need to do some basic calculations with them. This is not meant to be a full general lesson on
+      solving equations, but rather just an overview of the more common ways we will need to solve equations for this course. The general principle that we use is that
+      whatever we do to one side of the equation, we must do to the other side of the equation. This keeps the equation (the relationship between the variables) in
+      balance.
+    </p>
+    <p>
+      The only mathematical operations we will be using to solve equations in this class are addition, subtraction, multiplication, division, squaring, and square roots.
+      Typically, you will be given the values of all of the variables except for one, and the task will be to solve for the last one. You will need to pay attention to
+      both the number and the units. Even if you're not entirely sure of what the units mean, you should be able to follow the algebra to get the correct results.
+    </p>
+    <example>
+      <title>Solving <m>vt = d</m> Problems</title>
+
+      <p>
+        The formula <m>vt = d</m> is the relationship between constant velocity (<m>v</m>), time (<m>t</m>), and distance (<m>d</m>). Here are a couple typical problems
+        for this equation and their solutions.
+      </p>
+      <p>
+        Problem 1: Suppose a car is traveling at 70 miles per hour for 3 hours. How far will it travel?
+      </p>
+      <ul>
+        <li>
+          <p>
+            Notice that the problem gives us a velocity (70 miles per hour) and a time (3 hours), and the question is asking us about a distance ("How far...?").
+            The first step is to plug the values into the equation.
+          </p>
+          <me>
+            \left( 70 \frac{\text{miles}}{hr} \right) \cdot (3 \text{ hr}) = d
+          </me>
+        </li>
+        <li>
+          <p>
+            We will simplify the left side of the equation. Notice that the units of hours cancel out, leaving just the unit of miles. Also notice that the arithmetic that
+            is indicated is to calculate <m>70 \cdot 3</m>, which gives 210.
+          </p>
+          <me>
+            210 \text{ miles} = d
+          </me>
+        </li>
+        <li>
+          <p>
+            In this case, the equation is already solved for <m>d</m>, so there is nothing more to do. This means that the answer is that the car will travel 210 miles.
+          </p>
+        </li>
+      </ul>
+      <p>
+        Problem 2: A person is running towards a door that closes in 5 seconds. They are 20 meters from the door. How fast must they run in order to get to the door
+        before it closes?
+      </p>
+      <ul>
+        <li>
+          <p>
+            This problem gives you time (5 seconds) and distance (20 meters), and you need to determine speed ("How fast...?"). We will plug these values into the
+            equation.
+          </p>
+          <me>
+            v \cdot (5 \text{ s}) = 20 \text{ m}
+          </me>
+        </li>
+        <li>
+          <p>
+            There is no arithmetic to do in this equation, so we will go straight into solving. The velocity variable is being multiplied by 5 seconds, and so we must
+            divide both sides by 5 seconds to undo that and isolate the velocity variable.
+          </p>
+          <me>
+            v = \frac{20 \text{ m}}{5 \text{ s}}
+          </me>
+        </li>
+        <li>
+          <p>
+            We will now simplify the fraction on the right side. Notice that the number part of the calculation is <m>\frac{20}{5}</m>, which is 4. And there is no
+            cancellation in the units. This gives us the following:
+          </p>
+          <me>
+            v = 4 \frac{\text{m}}{\text{s}}
+          </me>
+        </li>
+        <li>
+          <p>
+            This tells us that if the person runs at a speed of 4 meters per second, they will reach the door just as it closes. This means that in order for them to
+            get to the door before it closes, they must run faster than 4 meters per second.
+          </p>
+        </li>
+      </ul>
+      
+    </example>
   </paragraphs>
 
   <paragraphs>
     <title>Unit Conversions</title>
 
     <p>
-      ...
+      <idx><h>conversion factor</h></idx>
+
+      Unit conversions are a particular manipulation that is important to understand and execute. The main concept is that any relationship between two units
+      can be expressed as a ratio that is equivalent to the number 1 (which is called a <term>conversion factor</term>), and then multiplying any quantity by
+      1 does not change it. From here, it's just a matter of doing algebra on the units to complete the conversion
     </p>
+    <p>
+      Creating a conversion factor simply requires us to write a relationship as an equation, and then writing a fraction with one side as the numerator and
+      the other side as the denominator. The arrangement that you will want will depend on the calculation you are doing.
+    </p>
+    <example>
+      <title>Creating Conversion Factors</title>
+      
+      <p>
+        Consider the relationship "12 inches is a foot." If we were to write this as an equation, it would look like this: <m>12 \text{ inches} = 1 \text{ foot}</m>.
+        This means that the two conversion factors we could create are <m>\frac{12 \text{ inches}}{1 \text{ foot}}</m> and <m>\frac{1 \text{ foot}}{12 \text{ inches}}</m>.
+      </p>
+      <p>
+        Another example would be the relationship "60 seconds in a minute." The equation would be <m>60 \text{ seconds} = 1 \text{ minute}</m>, so that the conversion
+        factors are <m>\frac{60 \text{ seconds}}{1 \text{ minute}}</m> and <m>\frac{1 \text{ minute}}{60 \text{ seconds}}</m>.
+      </p>
+    </example>
+    <p>
+      To choose which conversion factor to use, you need to think about how you would cancel the units. It turns out that units cancel out like numbers and variables
+      in fractions. This means setting up the fraction so that the unit you want to eliminate is on the opposite side of the fraction (numerator and denominator) of
+      the original.
+    </p>
+    <p>
+      Once the conversion factor has been chosen, it is an exercise in multiplying by fractions to complete the calculation. You can treat the number parts independently
+      of the units. If you are converting multiple units, you can either do them all at once, or do it one step at a time. If you are less confident with your
+      mathematical skills, it's probably better to do one unit at a time. (Note: We treat the singular and plural of a unit to be the same thing, so that, for example, second
+      would cancel with seconds.)
+    </p>
+    <example>
+      <title>Single Unit Conversion Calculations</title>
+
+      <p>
+        Suppose we wanted to convert 144 inches to feet. We would start by identifying the relationship <m>12 \text{ inches} = 1 \text{ foot}</m>. Then we would
+        need to decide how to get the inches to cancel out. Since inches are currently in the numerator, we would want our conversion factor to have the inches
+        in the denominator. That leads us to pick <m>\frac{1 \text{ foot}}{12 \text{ inches}}</m>. The rest is just arithmetic and algebra.
+      </p>
+      <md>
+        <mrow>144 \text{ inches} \amp = 144 \text{ inches} \cdot \frac{1 \text{ foot}}{12 \text{ inches}}</mrow>
+        <mrow> \amp = \frac{144 \cdot 1}{12} \frac{\text{inches} \cdot \text{ foot}}{\text{inches}}</mrow>
+        <mrow> \amp = 12 \text{ feet}</mrow>
+      </md>
+    </example>
     
   </paragraphs>
 
@@ -41,7 +185,7 @@
     <ul>
       <li>
         <p>
-          <url href="https://www.nist.gov/pml/owm/metric-si-prefixes">(National Institute of Standards and Technology) Metric (SI) Prefixes</url>
+          <url href="https://www.google.com">(Google) Search</url>
         </p>
       </li>
     </ul>
