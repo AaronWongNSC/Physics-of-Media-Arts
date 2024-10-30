@@ -178,6 +178,77 @@
         <mrow> \amp = 12 \text{ feet}</mrow>
       </md>
     </example>
+    <example>
+      <title>Multiple Unit Conversion Calculations</title>
+      
+      <p>
+        Suppose we wanted to convert 10 kilometers per hour to meters per second. We would need two relationships. One to convert kilometers to meters, and another to
+        convert hours to seconds. The first relationship is <m>1000 \text{ meters} = 1 \text{ km}</m>. (We will talk about the system of prefixes in the next chapter.)
+        Perhaps you know how many seconds there are in an hour, but how would you do it if you didn't? This will require multiple conversions.
+      </p>
+      <p>
+        The two relevant relationships are that there are 60 seconds in a minute and 60 minutes in an hour. We can see that seconds and hours can be related to each other
+        through minutes. The key idea here is that we can multiply conversion factors together to get another conversion factor. Specifically, we have the following:
+      </p>
+      <me>
+        \frac{60 \text{ s}}{1 \text{ min}} \cdot \frac{60 \text{ min}}{1 \text{ hr}} = \frac{3600 \text{ s}}{1 \text{ hr}}
+      </me>
+      <p>
+        This conversion factor tells us that there are 3600 seconds in an hour. This gives us the second conversion factor we need. We will do the calculation in steps,
+        and then do it all at once. We will first convert km/hr to m/hr.
+      </p>
+      <md>
+        <mrow> 10 \frac{\text{km}}{\text{hr}} \amp = 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} </mrow>
+        <mrow> \amp = (10 \cdot 1000) \frac{\text{km} \cdot \text{m}}{\text{km} \cdot \text{hr}} </mrow>
+        <mrow> \amp = 10000 \frac{\text{m}}{\text{hr}} </mrow>
+      </md>
+      <p>
+        Now we will convert m/hr to m/s.
+      </p>
+      <md>
+        <mrow> 10000 \frac{\text{m}}{\text{hr}} \amp = 10000 \frac{\text{m}}{\text{hr}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} </mrow>
+        <mrow> \amp = \frac{10000}{3600} \frac{\text{m} \cdot \text{hr}}{\text{hr} \cdot \text{s}} </mrow>
+        <mrow> \amp \approx 2.7778 \frac{\text{m}}{\text{s}} </mrow>
+      </md>
+      <p>
+        Doing the calculation all at once looks like this:
+      </p>
+      <md>
+        <mrow> 10 \frac{\text{km}}{\text{hr}} \amp 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} </mrow>
+        <mrow> \amp = \frac{10 \cdot 1000}{3600} \frac{\text{km} \cdot \text{m} \cdot \text{hr}}{\text{hr} \cdot \text{km} \cdot \text{s}} </mrow>
+        <mrow> \amp \approx 2.7778 \frac{\text{m}}{\text{s}} </mrow>
+      </md>
+      
+    </example>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Powers of Units</title>
+
+    <p>
+      In some cases, you will see units raised to powers. The most common example of this is that area is in units of length squared, such as <m>\text{m}^2</m> or
+      <m>\text{ft}^2</m>. We will also encounter units such as squared seconds (<m>\text{s}^2</m>). When doing a unit conversion of a unit raised to a power, you
+      need to include a conversion factor for each power of the unit you see. The easiest way to think about this is to just write out the product of the units
+      without an exponent and convert them one at a time.
+    </p>
+    <example>
+      <title>Unit Conversion with Exponents</title>
+
+      <p>
+        Suppose you wanted to know how many cubic inches there are in a cubic foot. We would need to use three conversion factors to convert each of the feet
+        into inches.
+      </p>
+      <md>
+        <mrow>1 \text{ ft}^3 \amp = 1 \text{ ft} \cdot \text{ft} \cdot \text{ft}</mrow>
+        <mrow>
+          \amp = 1 \text{ ft} \cdot \text{ft} \cdot \text{ft} \cdot
+          \frac{12 \text{ in}}{1 \text{ ft}} \cdot \frac{12 \text{ in}}{1 \text{ ft}} \cdot \frac{12 \text{ in}}{1 \text{ ft}}
+        </mrow>
+        <mrow> \amp = (12 \cdot 12 \cdot 12) \text{ in} \cdot \text{in} \cdot \text{in}</mrow>
+        <mrow> \amp = 1728 \text{ in}^3</mrow>
+      </md>
+    </example>
     
   </paragraphs>
 
@@ -185,7 +256,7 @@
     <ul>
       <li>
         <p>
-          <url href="https://www.google.com">(Google) Search</url>
+          <url href="https://aaronwongnsc.github.io/FoundationsTextbook/chapter-unit-conversions.html">(Foundations Textbook) Unit Conversions</url>
         </p>
       </li>
     </ul>
