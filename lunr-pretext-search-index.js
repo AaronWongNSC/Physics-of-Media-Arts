@@ -304,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.4",
   "title": "Basic Algebra",
-  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  Although this is a course in conceptual physics, there will still be equations that you will need to navigate. However, we will not be doing many complicated algebraic manipulations. Instead, we will be focusing on the ideas that are hidden in the equations.  The main intuitive concept that you need to understand is how variables change relative to one another. Specifically, if you focus on just two variables, what happens if one of them gets larger? Does the other one also get larger, or does it become smaller? This will ultimately depend on where the variables are relative to each other in the equation. But there are some situations where your intuition will be enough to tell you the answer. For a fixed distance, the amount of time it takes to travel that distance goes down as your speed goes up.  A more precise version of this is identifying the algebraic relationship between the variables. This is where you get into the prototypical shapes of curves, such as a linear relationship, a quadratic relationship, an inverse relationship, or an inverse square relationship. (There are others, but these are the more commone ones). This will be explored more deeply in one of the lab activities.    Solving Equations  Although we won't be doing a lot with equations, we will still need to do some basic calculations with them. This is not meant to be a full general lesson on solving equations, but rather just an overview of the more common ways we will need to solve equations for this course. The general principle that we use is that whatever we do to one side of the equation, we must do to the other side of the equation. This keeps the equation (the relationship between the variables) in balance.  The only mathematical operations we will be using to solve equations in this class are addition, subtraction, multiplication, division, squaring, and square roots. Typically, you will be given the values of all of the variables except for one, and the task will be to solve for the last one. You will need to pay attention to both the number and the units. Even if you're not entirely sure of what the units mean, you should be able to follow the algebra to get the correct results.   Solving Problems  The formula is the relationship between constant velocity ( ), time ( ), and distance ( ). Here are a couple typical problems for this equation and their solutions.  Problem 1: Suppose a car is traveling at 70 miles per hour for 3 hours. How far will it travel?    Notice that the problem gives us a velocity (70 miles per hour) and a time (3 hours), and the question is asking us about a distance (\"How far...?\"). The first step is to plug the values into the equation.     We will simplify the left side of the equation. Notice that the units of hours cancel out, leaving just the unit of miles. Also notice that the arithmetic that is indicated is to calculate , which gives 210.     In this case, the equation is already solved for , so there is nothing more to do. This means that the answer is that the car will travel 210 miles.    Problem 2: A person is running towards a door that closes in 5 seconds. They are 20 meters from the door. How fast must they run in order to get to the door before it closes?    This problem gives you time (5 seconds) and distance (20 meters), and you need to determine speed (\"How fast...?\"). We will plug these values into the equation.     There is no arithmetic to do in this equation, so we will go straight into solving. The velocity variable is being multiplied by 5 seconds, and so we must divide both sides by 5 seconds to undo that and isolate the velocity variable.     We will now simplify the fraction on the right side. Notice that the number part of the calculation is , which is 4. And there is no cancellation in the units. This gives us the following:     This tells us that if the person runs at a speed of 4 meters per second, they will reach the door just as it closes. This means that in order for them to get to the door before it closes, they must run faster than 4 meters per second.       Unit Conversions   conversion factor Unit conversions are a particular manipulation that is important to understand and execute. The main concept is that any relationship between two units can be expressed as a ratio that is equivalent to the number 1 (which is called a conversion factor ), and then multiplying any quantity by 1 does not change it. From here, it's just a matter of doing algebra on the units to complete the conversion  Creating a conversion factor simply requires us to write a relationship as an equation, and then writing a fraction with one side as the numerator and the other side as the denominator. The arrangement that you will want will depend on the calculation you are doing.   Creating Conversion Factors  Consider the relationship \"12 inches is a foot.\" If we were to write this as an equation, it would look like this: . This means that the two conversion factors we could create are and .  Another example would be the relationship \"60 seconds in a minute.\" The equation would be , so that the conversion factors are and .   To choose which conversion factor to use, you need to think about how you would cancel the units. It turns out that units cancel out like numbers and variables in fractions. This means setting up the fraction so that the unit you want to eliminate is on the opposite side of the fraction (numerator and denominator) of the original.  Once the conversion factor has been chosen, it is an exercise in multiplying by fractions to complete the calculation. You can treat the number parts independently of the units. If you are converting multiple units, you can either do them all at once, or do it one step at a time. If you are less confident with your mathematical skills, it's probably better to do one unit at a time. (Note: We treat the singular and plural of a unit to be the same thing, so that, for example, second would cancel with seconds.)   Single Unit Conversion Calculations  Suppose we wanted to convert 144 inches to feet. We would start by identifying the relationship . Then we would need to decide how to get the inches to cancel out. Since inches are currently in the numerator, we would want our conversion factor to have the inches in the denominator. That leads us to pick . The rest is just arithmetic and algebra.     Multiple Unit Conversion Calculations  Suppose we wanted to convert 10 kilometers per hour to meters per second. We would need two relationships. One to convert kilometers to meters, and another to convert hours to seconds. The first relationship is . (We will talk about the system of prefixes in the next chapter.) Perhaps you know how many seconds there are in an hour, but how would you do it if you didn't? This will require multiple conversions.  The two relevant relationships are that there are 60 seconds in a minute and 60 minutes in an hour. We can see that seconds and hours can be related to each other through minutes. The key idea here is that we can multiply conversion factors together to get another conversion factor. Specifically, we have the following:   This conversion factor tells us that there are 3600 seconds in an hour. This gives us the second conversion factor we need. We will do the calculation in steps, and then do it all at once. We will first convert km\/hr to m\/hr.   Now we will convert m\/hr to m\/s.   Doing the calculation all at once looks like this:      Powers of Units  In some cases, you will see units raised to powers. The most common example of this is that area is in units of length squared, such as or . We will also encounter units such as squared seconds ( ). When doing a unit conversion of a unit raised to a power, you need to include a conversion factor for each power of the unit you see. The easiest way to think about this is to just write out the product of the units without an exponent and convert them one at a time.   Unit Conversion with Exponents  Suppose you wanted to know how many cubic inches there are in a cubic foot. We would need to use three conversion factors to convert each of the feet into inches.         (Foundations Textbook) Unit Conversions      "
+  "body": " Basic Algebra     -----   ----     Equations Represent Relationships  Although this is a course in conceptual physics, there will still be equations that you will need to navigate. However, we will not be doing many complicated algebraic manipulations. Instead, we will be focusing on the ideas that are hidden in the equations.  The main intuitive concept that you need to understand is how variables change relative to one another. Specifically, if you focus on just two variables, what happens if one of them gets larger? Does the other one also get larger, or does it become smaller? This will ultimately depend on where the variables are relative to each other in the equation. But there are some situations where your intuition will be enough to tell you the answer. For a fixed distance, the amount of time it takes to travel that distance goes down as your speed goes up.  A more precise version of this is identifying the algebraic relationship between the variables. This is where you get into the prototypical shapes of curves, such as a linear relationship, a quadratic relationship, an inverse relationship, or an inverse square relationship. (There are others, but these are the more common ones.)    Solving Equations  Although we won't be doing a lot with equations, we will still need to do some basic calculations with them. This is not meant to be a full general lesson on solving equations, but rather just an overview of the more common ways we will need to solve equations for this course. The general principle that we use is that whatever we do to one side of the equation, we must do to the other side of the equation. This keeps the equation (the relationship between the variables) in balance.  The only mathematical operations we will be using to solve equations in this class are addition, subtraction, multiplication, division, squaring, and square roots. Typically, you will be given the values of all of the variables except for one, and the task will be to solve for the last one. You will need to pay attention to both the number and the units. Even if you're not entirely sure of what the units mean, you should be able to follow the algebra to get the correct results.   Solving Problems  The formula is the relationship between constant velocity ( ), time ( ), and distance ( ). Here are a couple typical problems for this equation and their solutions.  Problem 1: Suppose a car is traveling at 70 miles per hour for 3 hours. How far will it travel?    Notice that the problem gives us a velocity (70 miles per hour) and a time (3 hours), and the question is asking us about a distance (\"How far...?\"). The first step is to plug the values into the equation.     We will simplify the left side of the equation. Notice that the units of hours cancel out, leaving just the unit of miles. Also notice that the arithmetic that is indicated is to calculate , which gives 210.     In this case, the equation is already solved for , so there is nothing more to do. This means that the answer is that the car will travel 210 miles.    Problem 2: A person is running towards a door that closes in 5 seconds. They are 20 meters from the door. How fast must they run in order to get to the door before it closes?    This problem gives you time (5 seconds) and distance (20 meters), and you need to determine speed (\"How fast...?\"). We will plug these values into the equation.     There is no arithmetic to do in this equation, so we will go straight into solving. The velocity variable is being multiplied by 5 seconds, and so we must divide both sides by 5 seconds to undo that and isolate the velocity variable.     We will now simplify the fraction on the right side. Notice that the number part of the calculation is , which is 4. And there is no cancellation in the units. This gives us the following:     This tells us that if the person runs at a speed of 4 meters per second, they will reach the door just as it closes. This means that in order for them to get to the door before it closes, they must run faster than 4 meters per second.       Unit Conversions   conversion factor Unit conversions are a particular manipulation that is important to understand and execute. The main concept is that any relationship between two units can be expressed as a ratio that is equivalent to the number 1 (which is called a conversion factor ), and then multiplying any quantity by 1 does not change it. From here, it's just a matter of doing algebra on the units to complete the conversion  Creating a conversion factor simply requires us to write a relationship as an equation, and then writing a fraction with one side as the numerator and the other side as the denominator. The arrangement that you will want will depend on the calculation you are doing.   Creating Conversion Factors  Consider the relationship \"12 inches is a foot.\" If we were to write this as an equation, it would look like this: . This means that the two conversion factors we could create are and .  Another example would be the relationship \"60 seconds in a minute.\" The equation would be , so that the conversion factors are and .   To choose which conversion factor to use, you need to think about how you would cancel the units. It turns out that units cancel out like numbers and variables in fractions. This means setting up the fraction so that the unit you want to eliminate is on the opposite side of the fraction (numerator and denominator) of the original.  Once the conversion factor has been chosen, it is an exercise in multiplying by fractions to complete the calculation. You can treat the number parts independently of the units. If you are converting multiple units, you can either do them all at once, or do it one step at a time. If you are less confident with your mathematical skills, it's probably better to do one unit at a time. (Note: We treat the singular and plural of a unit to be the same thing, so that, for example, second would cancel with seconds.)   Single Unit Conversion Calculations  Suppose we wanted to convert 144 inches to feet. We would start by identifying the relationship . Then we would need to decide how to get the inches to cancel out. Since inches are currently in the numerator, we would want our conversion factor to have the inches in the denominator. That leads us to pick . The rest is just arithmetic and algebra.     Multiple Unit Conversion Calculations  Suppose we wanted to convert 10 kilometers per hour to meters per second. We would need two relationships. One to convert kilometers to meters, and another to convert hours to seconds. The first relationship is . (We will talk about the system of prefixes in the next chapter.) Perhaps you know how many seconds there are in an hour, but how would you do it if you didn't? This will require multiple conversions.  The two relevant relationships are that there are 60 seconds in a minute and 60 minutes in an hour. We can see that seconds and hours can be related to each other through minutes. The key idea here is that we can multiply conversion factors together to get another conversion factor. Specifically, we have the following:   This conversion factor tells us that there are 3600 seconds in an hour. This gives us the second conversion factor we need. We will do the calculation in steps, and then do it all at once. We will first convert km\/hr to m\/hr.   Now we will convert m\/hr to m\/s.   Doing the calculation all at once looks like this:      Powers of Units  In some cases, you will see units raised to powers. The most common example of this is that area is in units of length squared, such as or . We will also encounter units such as squared seconds ( ). When doing a unit conversion of a unit raised to a power, you need to include a conversion factor for each power of the unit you see. The easiest way to think about this is to just write out the product of the units without an exponent and convert them one at a time.   Unit Conversion with Exponents  Suppose you wanted to know how many cubic inches there are in a cubic foot. We would need to use three conversion factors to convert each of the feet into inches.         (Foundations Textbook) Unit Conversions      "
 },
 {
   "id": "sec-basic-algebra-4-4",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "2.5.1",
   "title": "Calculator Practice",
-  "body": " Calculator Practice   Introduction  Math teachers used to tell students that they needed to learn their arithmetic because they wouldn't always have a calculator in their pocket. But it turns out that those teachers were wrong. However, this doesn't mean that everyone really understands how to use their calculator, or that every calculator is the same. This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.    Equipment List    At least two different cellphone calculators    Internet access to use following online calculators:     (TheOnlineCalculator.com) Basic Calculator      (Online-Calculator.com) Standard Calculator      (Dosmos.com) Scientific Calculator         Procedure  We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout so that you will be able to remember the information you need for the write-up.    Determine the following information about the two cellphone calculators and three online calculators:    Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The calculator might just be called \"calculator.\" The version information might be difficult to find, but it's there somewhere. You might find the information in the app store.)    Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the rest of the lab.)    Execution style: Infix or immediate execution    Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.    Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function, then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)      We will now test some of the limits of the calculators. Perform the following tasks on each calculator.    Calculate and count the total number of digits that are displayed (including the leading zero). Then calculate and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.    Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or scientific notation. If it does not have these features, it will be helpful to use the \"Ans\" feature (uses the answer of the last calculation as part of the next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.    If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that . (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators, just indicate this.)      We will now engage in some \"stress tests\" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction says to \"calculate\" a quantity, it means to have the calculator evaluate the result as a decimal.    Calculate . The correct answer is 7, but some calculators will give 9 as the answer.    Calculate and then multiply that result by . The correct answer is 1, but not all calculators will give this result.    Calculate with as many 9s are needed to give a result of 1. Then square the result. The correct answer is with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.    For calculators with a squaring function and a square root function, start with and square as many times as needed to get a result of 0. Then take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.    For calculators that have parentheses and inline notation (so that fractions appear as or instead of ), calculate . If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on the internet, and it is known that different calculators give different answers. What the \"right\" answer is and whether there even a \"right\" answer depends on who you ask.)        Discussion  Answer the following questions.    Based on your experiences, which calculator would you say is the \"best\" one? The \"worst\" one? (Note: It's possible for multiple calculators to tie for best or worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.    Did any of the stress test results surprise you? What about them was surprising?      Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " Calculator Practice   Introduction  Math teachers used to tell students that they needed to learn their arithmetic because they wouldn't always have a calculator in their pocket. But it turns out that those teachers were wrong. However, this doesn't mean that everyone really understands how to use their calculator, or that every calculator is the same. This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.    Equipment List    At least two different cellphone calculators    Internet access to use following online calculators:     (TheOnlineCalculator.com) Basic Calculator      (Online-Calculator.com) Standard Calculator      (Dosmos.com) Scientific Calculator         Procedure  We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout so that you will be able to remember the information you need for the write-up.    Determine the following information about the two cellphone calculators and three online calculators:    Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The calculator might just be called \"calculator.\" The version information might be difficult to find, but it's there somewhere. You might find the information in the app store.)    Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the rest of the lab.)    Execution style: Infix or immediate execution    Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.    Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function, then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)      We will use the calculators to calculate some values. The purpose is to compare the relative difficulty of getting the correct answers. In some cases, you might be able to perform the entire calculation in a single step. But in other cases, you may need to perform multiple separate calculations to get the correct result. Be sure to make note of any challenges you encounter.    Calculate . The correct result is 10.    Calculate . The correct result is 7.    Calculate . The correct result is 7.      We will now calculate values using actual physics formulas with physically appropriate values. This will help us to see the types of challenges these calculators may face in actual practice. (Descriptions of the formulas are given, but it's okay if you don't understand them right now.)    FILL THIS IN AFTER COMPLETING MORE OF THE TEXT      We will now test some of the limits of the calculators. Perform the following tasks on each calculator.    Calculate and count the total number of digits that are displayed (including the leading zero). Then calculate and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.    Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or scientific notation. If it does not have these features, it will be helpful to use the \"Ans\" feature (uses the answer of the last calculation as part of the next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.    If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that . (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators, just indicate this.)      We will now engage in some \"stress tests\" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction says to \"calculate\" a quantity, it means to have the calculator evaluate the result by pressing the equal sign (or equivalent button).    Calculate . Do not add parentheses or make other adjustments to force the calculator to get the right answer. We want to see how the calculator interprets this. The correct answer is 7, but some calculators will give 9 as the answer.    Calculate and then multiply that result by . The correct answer is 1, but not all calculators will give this result.    Calculate with as many 9s are needed to give a result of 1. Then square the result. The correct answer is with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.    For calculators with a squaring function and a square root function, start with and square as many times as needed to get a result of 0. Then take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.    For calculators that have parentheses and inline notation (so that fractions appear as or instead of ), calculate . If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on the internet, and it is known that different calculators give different answers. What the \"right\" answer is and whether there even a \"right\" answer depends on who you ask.)        Discussion  Answer the following questions.    Based on your experiences, which calculator would you say is the \"best\" one? The \"worst\" one? (Note: It's possible for multiple calculators to tie for best or worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.    Did any of the stress test results surprise you? What about them was surprising?      Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
   "id": "lab-calculators-8",
@@ -388,83 +388,29 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "lab-order-of-magnitude",
+  "id": "lab-unit-conversion",
   "level": "1",
-  "url": "lab-order-of-magnitude.html",
+  "url": "lab-unit-conversion.html",
   "type": "Lab Activity",
   "number": "2.5.2",
-  "title": "Powers of Ten",
-  "body": " Powers of Ten   Introduction  Students will watch the powers of 10 video and do something with it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "title": "The Metric System is the Tool of the Devil!",
+  "body": " The Metric System is the Tool of the Devil!   Introduction     The metric system is the tool of the devil! My car gets forty rods to the hogshead, and that's the way I likes it!   Abraham Simpson (Grandpa Simpson)    imperial system While most of the world and all of science operates using the metric system, daily life in the US usually revolves around the imperial system of measurement. This is the system of quarts, gallons, feet, and miles that you're probably most accustomed to seeing. In fact, there are only three countries in the world that officially operate on the imperial system! (The other two countries are Liberia and Myanmar.)  The reason the imperial system is called that is because it was originally the system of units imposed on countries by the British Empire during the time of colonialism (imperial means \"of the empire\"). Somewhat confusingly, the imperial system wasn't formalized until the 1820s. Before that, there was a vast array of customary measures used in various locations, some of which date back to the 1500s (and potentially even earlier).  The actual origins of individual measurements were often rather arbitrary. For example, the length we call a foot today was originally the length of King Henry I's foot. And an inch has been defined muliple ways, including the length of three grains of barley laid end-to-end and the length of twelve poppy seeds. There are also other historical measurements that are similarly arbitrary, such as a cubit (the length from your elbow to the tip of your outstretched middle finger) and a league (the distance a person can walk in an hour). Of course, differences in individual human bodies made these measurements to be rough estimates at best. And the convoluted history and origins of these measurements have led to the equally convoluted relationships between them, such as 5280 feet in a mile.  For this lab, we are going to explore some more of the history of different units and practice making unit conversions using the imperial system.    Procedure  This lab consists of doing a little bit of research and a lot of calculations. When doing your calculations, show the multiplication by the appropriate conversion factors and make sure that the units cancel appropriately.    As noted above, an inch has been interpreted as being the length of three grains of barley laid end-to-end and as the length of twelve poppy seeds. From this information, estimate the average length of a grain of barley and the average length of a poppy seed. (Use a three digit decimal approximation.)    Research the size of grains of barley and poppy seeds. How close are your calculations in the previous step to the values you found?    Sticking with the historical relationships, we can establish two length equalities: and . Use these relationships to perform the following unit conversions:    Convert 5 feet to poppy seeds.    Convert 12 yards to grains of barley.    Convert 2 miles to poppy seeds.    Convert 600 poppy seeds miles to grains of barley.      Another set of linear units were used for agricultural purposes. These are rods, chains, and furlongs. A chain is 4 rods, and a furlong is 10 chains. If you are familiar with horse racing, you probably know that there are 8 furlongs in a mile. From this information, determine the length of rods, chains, and furlongs in feet.    Another set of linear units were used for agricultural purposes. These are rods, chains, and furlongs. A chain is 4 rods, and a furlong is 10 chains. If you are familiar with horse racing, you probably know that there are 8 furlongs in a mile. From this information, determine the length of rods, chains, and furlongs in feet.      Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "lab-order-of-magnitude-4",
+  "id": "lab-unit-conversion-2-4",
   "level": "2",
-  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-4",
-  "type": "Example",
-  "number": "2.5.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "url": "lab-unit-conversion.html#lab-unit-conversion-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "imperial system "
 },
 {
-  "id": "lab-order-of-magnitude-8",
+  "id": "lab-unit-conversion-7",
   "level": "2",
-  "url": "lab-order-of-magnitude.html#lab-order-of-magnitude-8",
+  "url": "lab-unit-conversion.html#lab-unit-conversion-7",
   "type": "Additional Resources",
   "number": "2.5.2",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-variable-relationships",
-  "level": "1",
-  "url": "lab-variable-relationships.html",
-  "type": "Lab Activity",
-  "number": "2.5.3",
-  "title": "Understanding Variable Relationships",
-  "body": " Understanding Variable Relationships   Introduction  Students will investigate direct and inverse relationships.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-variable-relationships-4",
-  "level": "2",
-  "url": "lab-variable-relationships.html#lab-variable-relationships-4",
-  "type": "Example",
-  "number": "2.5.3.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-variable-relationships-8",
-  "level": "2",
-  "url": "lab-variable-relationships.html#lab-variable-relationships-8",
-  "type": "Additional Resources",
-  "number": "2.5.3",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-data",
-  "level": "1",
-  "url": "lab-data.html",
-  "type": "Lab Activity",
-  "number": "2.5.4",
-  "title": "Interpreting Data",
-  "body": " Interpreting Data   Introduction  Students find data online and then interpret it. Soemtimes this will be extrapolation or interpolation. Maybe this is the marble target experiment.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-data-4",
-  "level": "2",
-  "url": "lab-data.html#lab-data-4",
-  "type": "Example",
-  "number": "2.5.4.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-data-8",
-  "level": "2",
-  "url": "lab-data.html#lab-data-8",
-  "type": "Additional Resources",
-  "number": "2.5.4",
   "title": "",
   "body": "    Google     "
 },
@@ -622,56 +568,11 @@ var ptx_lunr_docs = [
   "body": "    Link : Description    "
 },
 {
-  "id": "lab-unit-conversion",
-  "level": "1",
-  "url": "lab-unit-conversion.html",
-  "type": "Lab Activity",
-  "number": "3.5.1",
-  "title": "The Metric System is the Tool of the Devil!",
-  "body": " The Metric System is the Tool of the Devil!   Introduction     The metric system is the tool of the devil! My car gets forty rods to the hogshead, and that's the way I like it!   Grandpa Simpson    imperial system While most of the world and all of science operates using the metric system, daily life in the US usually revolves around the imperial system of measurement. This is the system of quarts, gallons, feet, and miles that you're probably most accustomed to seeing. In fact, there are only three countries in the world that officially operate on the imperial system! (The other two countries are Liberia and Myanmar.)  The reason the imperial system is called that is because it was originally the system of units imposed on countries by the British Empire during the time of colonialism (imperial means \"of the empire\"). Somewhat confusingly, the imperial system wasn't formalized until the 1820s. Before that, there was a vast array of customary measures used in various locations, some of which date back to the 1500s (and potentially even earlier).  The actual origins of individual measurements were often rather arbitrary. For example, the length we call a foot today was originally the length of King Henry I's foot. And an inch has been defined muliple ways, including the length of three grains of barley laid end-to-end and the length of twelve poppy seeds. There are also other historical measurements that are similarly arbitrary, such as a cubit (the length from your elbow to the tip of your outstretched middle finger) and a league (the distance a person can walk in an hour). Of course, differences in individual human bodies made these measurements to be rough estimates at best. And the convoluted history and origins of these measurements have led to the equally convoluted relationships between them, such as 5280 feet in a mile.  For this lab, we are going to explore some more of the history of different units and practice making unit conversions using the imperial system.    Procedure  This lab consists of doing a little bit of research and a lot of calculations. The examples below show how unit your conversion calculations should be organized.    Converting Yards to Feet  ...    Converting Meters per Second to Miles per Hour  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-unit-conversion-2-4",
-  "level": "2",
-  "url": "lab-unit-conversion.html#lab-unit-conversion-2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "imperial system "
-},
-{
-  "id": "lab-unit-conversion-4",
-  "level": "2",
-  "url": "lab-unit-conversion.html#lab-unit-conversion-4",
-  "type": "Example",
-  "number": "3.5.1.1",
-  "title": "Converting Yards to Feet.",
-  "body": " Converting Yards to Feet  ...  "
-},
-{
-  "id": "lab-unit-conversion-5",
-  "level": "2",
-  "url": "lab-unit-conversion.html#lab-unit-conversion-5",
-  "type": "Example",
-  "number": "3.5.1.2",
-  "title": "Converting Meters per Second to Miles per Hour.",
-  "body": " Converting Meters per Second to Miles per Hour  ...  "
-},
-{
-  "id": "lab-unit-conversion-9",
-  "level": "2",
-  "url": "lab-unit-conversion.html#lab-unit-conversion-9",
-  "type": "Additional Resources",
-  "number": "3.5.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
   "id": "lab-measuring-speed",
   "level": "1",
   "url": "lab-measuring-speed.html",
   "type": "Lab Activity",
-  "number": "3.5.2",
+  "number": "3.5.1",
   "title": "How Fast is That?",
   "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s. Also use stopwatch on the cellphone.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -680,7 +581,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-speed.html#lab-measuring-speed-4",
   "type": "Example",
-  "number": "3.5.2.1",
+  "number": "3.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -689,7 +590,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-measuring-speed.html#lab-measuring-speed-8",
   "type": "Additional Resources",
-  "number": "3.5.2",
+  "number": "3.5.1",
   "title": "",
   "body": "    Google     "
 },
@@ -698,7 +599,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-human-body-measurement.html",
   "type": "Lab Activity",
-  "number": "3.5.3",
+  "number": "3.5.2",
   "title": "My Body My Measuring Device",
   "body": " My Body My Measuring Device   Introduction  Learn how to use the human body as a tool for estimating measurements.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -707,7 +608,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-human-body-measurement.html#lab-human-body-measurement-4",
   "type": "Example",
-  "number": "3.5.3.1",
+  "number": "3.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -716,7 +617,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-human-body-measurement.html#lab-human-body-measurement-8",
   "type": "Additional Resources",
-  "number": "3.5.3",
+  "number": "3.5.2",
   "title": "",
   "body": "    Google     "
 },
