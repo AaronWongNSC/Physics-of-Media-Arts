@@ -93,8 +93,41 @@
       </li>
       <li>
         <p>
-          We will use the calculators to calculate some values using actual physics equations. START HERE
+          We will use the calculators to calculate some values. The purpose is to compare the relative difficulty of getting the correct answers. In some cases,
+          you might be able to perform the entire calculation in a single step. But in other cases, you may need to perform multiple separate calculations to get
+          the correct result. Be sure to make note of any challenges you encounter.
         </p>
+        <ul>
+          <li>
+            <p>
+              Calculate <m>\frac{10}{5+5}</m>. The correct result is 10.
+            </p>
+          </li>
+          <li>
+            <p>
+              Calculate <m>1 + 2 \cdot 3</m>. The correct result is 7.
+            </p>
+          </li>
+          <li>
+            <p>
+              Calculate <m>2 + \frac{6}{3} + 3</m>. The correct result is 7.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          We will now calculate values using actual physics formulas with physically appropriate values. This will help us to see the types of
+          challenges these calculators may face in actual practice. (Descriptions of the formulas are given, but it's okay if you don't understand them
+          right now.)
+        </p>
+        <ul>
+          <li>
+            <p>
+              FILL THIS IN AFTER COMPLETING MORE OF THE TEXT
+            </p>
+          </li>
+        </ul>
       </li>
       <li>
         <p>
@@ -126,12 +159,13 @@
       <li>
         <p>
           We will now engage in some "stress tests" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction
-          says to "calculate" a quantity, it means to have the calculator evaluate the result as a decimal.
+          says to "calculate" a quantity, it means to have the calculator evaluate the result by pressing the equal sign (or equivalent button).
         </p>
         <ul>
           <li>
             <p>
-              Calculate <m>1 + 2 \times 3</m>. The correct answer is 7, but some calculators will give 9 as the answer.
+              Calculate <m>1 + 2 \times 3</m>. Do not add parentheses or make other adjustments to force the calculator to get the right answer. We want to see
+              how the calculator interprets this. The correct answer is 7, but some calculators will give 9 as the answer.
             </p>
           </li>
           <li>
