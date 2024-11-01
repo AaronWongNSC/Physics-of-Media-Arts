@@ -476,9 +476,51 @@ v = 4 \frac{\text{m}}{\text{s}}
 \amp = \frac{144 \cdot 1}{12} \frac{\text{inches} \cdot \text{ foot}}{\text{inches}}\\
 \amp = 12 \text{ feet}
 \end{align*}
-</div></article></details></section><article class="outcomes goal-like" id="sec-basic-algebra-6"><h1 class="heading"><span class="type">Additional Resources</span></h1>
-<ul class="disc"><li id="sec-basic-algebra-6-1-1"><div class="para" id="sec-basic-algebra-6-1-1-1">
-<a class="external" href="https://www.google.com" target="_blank">(Google) Search</a><details class="ptx-footnote" aria-live="polite" id="sec-basic-algebra-6-1-1-1-2"><summary class="ptx-footnote__number" title="Footnote 2.6"><sup> 6 </sup></summary><div class="ptx-footnote__contents" id="sec-basic-algebra-6-1-1-1-2"><code class="code-inline tex2jax_ignore">www.google.com</code></div></details>
+</div></article></details> <details id="sec-basic-algebra-5-8" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h2 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">2.4.0.4</span><span class="period">.</span><span class="space"> </span><span class="title">Multiple Unit Conversion Calculations.</span>
+</h2></summary><article class="example example-like knowl__content"> <div class="para" id="sec-basic-algebra-5-8-2">Suppose we wanted to convert 10 kilometers per hour to meters per second. We would need two relationships. One to convert kilometers to meters, and another to convert hours to seconds. The first relationship is <span class="process-math">\(1000 \text{ meters} = 1 \text{ km}\text{.}\)</span> (We will talk about the system of prefixes in the next chapter.) Perhaps you know how many seconds there are in an hour, but how would you do it if you didn’t? This will require multiple conversions.</div> <div class="para" id="sec-basic-algebra-5-8-3">The two relevant relationships are that there are 60 seconds in a minute and 60 minutes in an hour. We can see that seconds and hours can be related to each other through minutes. The key idea here is that we can multiply conversion factors together to get another conversion factor. Specifically, we have the following:</div>
+<div class="displaymath process-math">
+\begin{equation*}
+\frac{60 \text{ s}}{1 \text{ min}} \cdot \frac{60 \text{ min}}{1 \text{ hr}} = \frac{3600 \text{ s}}{1 \text{ hr}}
+\end{equation*}
+</div>
+<div class="para" id="sec-basic-algebra-5-8-5">This conversion factor tells us that there are 3600 seconds in an hour. This gives us the second conversion factor we need. We will do the calculation in steps, and then do it all at once. We will first convert km/hr to m/hr.</div>
+<div class="displaymath process-math" id="sec-basic-algebra-5-8-6">
+\begin{align*}
+10 \frac{\text{km}}{\text{hr}} \amp = 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} \\
+\amp = (10 \cdot 1000) \frac{\text{km} \cdot \text{m}}{\text{km} \cdot \text{hr}} \\
+\amp = 10000 \frac{\text{m}}{\text{hr}} 
+\end{align*}
+</div>
+<div class="para" id="sec-basic-algebra-5-8-7">Now we will convert m/hr to m/s.</div>
+<div class="displaymath process-math" id="sec-basic-algebra-5-8-8">
+\begin{align*}
+10000 \frac{\text{m}}{\text{hr}} \amp = 10000 \frac{\text{m}}{\text{hr}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} \\
+\amp = \frac{10000}{3600} \frac{\text{m} \cdot \text{hr}}{\text{hr} \cdot \text{s}} \\
+\amp \approx 2.7778 \frac{\text{m}}{\text{s}} 
+\end{align*}
+</div>
+<div class="para" id="sec-basic-algebra-5-8-9">Doing the calculation all at once looks like this:</div>
+<div class="displaymath process-math" id="sec-basic-algebra-5-8-10">
+\begin{align*}
+10 \frac{\text{km}}{\text{hr}} \amp 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} \\
+\amp = \frac{10 \cdot 1000}{3600} \frac{\text{km} \cdot \text{m} \cdot \text{hr}}{\text{hr} \cdot \text{km} \cdot \text{s}} \\
+\amp \approx 2.7778 \frac{\text{m}}{\text{s}} 
+\end{align*}
+</div></article></details></section><section class="paragraphs" id="sec-basic-algebra-6"><h1 class="heading"><span class="title">Powers of Units.</span></h1> <div class="para" id="sec-basic-algebra-6-2">In some cases, you will see units raised to powers. The most common example of this is that area is in units of length squared, such as <span class="process-math">\(\text{m}^2\)</span> or <span class="process-math">\(\text{ft}^2\text{.}\)</span> We will also encounter units such as squared seconds (<span class="process-math">\(\text{s}^2\)</span>). When doing a unit conversion of a unit raised to a power, you need to include a conversion factor for each power of the unit you see. The easiest way to think about this is to just write out the product of the units without an exponent and convert them one at a time.</div> <details id="sec-basic-algebra-6-3" class="example example-like born-hidden-knowl"><summary class="knowl__link"><h2 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">2.4.0.5</span><span class="period">.</span><span class="space"> </span><span class="title">Unit Conversion with Exponents.</span>
+</h2></summary><article class="example example-like knowl__content"> <div class="para" id="sec-basic-algebra-6-3-2">Suppose you wanted to know how many cubic inches there are in a cubic foot. We would need to use three conversion factors to convert each of the feet into inches.</div>
+<div class="displaymath process-math" id="sec-basic-algebra-6-3-3">
+\begin{align*}
+1 \text{ ft}^3 \amp = 1 \text{ ft} \cdot \text{ft} \cdot \text{ft}\\
+\amp = 1 \text{ ft} \cdot \text{ft} \cdot \text{ft} \cdot
+\frac{12 \text{ in}}{1 \text{ ft}} \cdot \frac{12 \text{ in}}{1 \text{ ft}} \cdot \frac{12 \text{ in}}{1 \text{ ft}}\\
+\amp = (12 \cdot 12 \cdot 12) \text{ in} \cdot \text{in} \cdot \text{in}\\
+\amp = 1728 \text{ in}^3
+\end{align*}
+</div></article></details></section><article class="outcomes goal-like" id="sec-basic-algebra-7"><h1 class="heading"><span class="type">Additional Resources</span></h1>
+<ul class="disc"><li id="sec-basic-algebra-7-1-1"><div class="para" id="sec-basic-algebra-7-1-1-1">
+<a class="external" href="https://aaronwongnsc.github.io/FoundationsTextbook/chapter-unit-conversions.html" target="_blank">(Foundations Textbook) Unit Conversions</a><details class="ptx-footnote" aria-live="polite" id="sec-basic-algebra-7-1-1-1-2"><summary class="ptx-footnote__number" title="Footnote 2.6"><sup> 6 </sup></summary><div class="ptx-footnote__contents" id="sec-basic-algebra-7-1-1-1-2"><code class="code-inline tex2jax_ignore">aaronwongnsc.github.io/FoundationsTextbook/chapter-unit-conversions.html</code></div></details>
 </div></li></ul></article></section></div>
 <div class="ptx-content-footer">
 <a class="previous-button button" href="sec-graphing.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="sec-mathematics-labs.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>

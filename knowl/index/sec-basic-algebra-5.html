@@ -24,6 +24,37 @@
 \amp = \frac{144 \cdot 1}{12} \frac{\text{inches} \cdot \text{ foot}}{\text{inches}}\\
 \amp = 12 \text{ feet}
 \end{align*}
+</div></article></details> <details class="example example-like born-hidden-knowl"><summary class="knowl__link"><h2 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">2.4.0.4</span><span class="period">.</span><span class="space"> </span><span class="title">Multiple Unit Conversion Calculations.</span>
+</h2></summary><article class="example example-like knowl__content"> <div class="para">Suppose we wanted to convert 10 kilometers per hour to meters per second. We would need two relationships. One to convert kilometers to meters, and another to convert hours to seconds. The first relationship is <span class="process-math">\(1000 \text{ meters} = 1 \text{ km}\text{.}\)</span> (We will talk about the system of prefixes in the next chapter.) Perhaps you know how many seconds there are in an hour, but how would you do it if you didn’t? This will require multiple conversions.</div> <div class="para">The two relevant relationships are that there are 60 seconds in a minute and 60 minutes in an hour. We can see that seconds and hours can be related to each other through minutes. The key idea here is that we can multiply conversion factors together to get another conversion factor. Specifically, we have the following:</div>
+<div class="displaymath process-math">
+\begin{equation*}
+\frac{60 \text{ s}}{1 \text{ min}} \cdot \frac{60 \text{ min}}{1 \text{ hr}} = \frac{3600 \text{ s}}{1 \text{ hr}}
+\end{equation*}
+</div>
+<div class="para">This conversion factor tells us that there are 3600 seconds in an hour. This gives us the second conversion factor we need. We will do the calculation in steps, and then do it all at once. We will first convert km/hr to m/hr.</div>
+<div class="displaymath process-math">
+\begin{align*}
+10 \frac{\text{km}}{\text{hr}} \amp = 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} \\
+\amp = (10 \cdot 1000) \frac{\text{km} \cdot \text{m}}{\text{km} \cdot \text{hr}} \\
+\amp = 10000 \frac{\text{m}}{\text{hr}} 
+\end{align*}
+</div>
+<div class="para">Now we will convert m/hr to m/s.</div>
+<div class="displaymath process-math">
+\begin{align*}
+10000 \frac{\text{m}}{\text{hr}} \amp = 10000 \frac{\text{m}}{\text{hr}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} \\
+\amp = \frac{10000}{3600} \frac{\text{m} \cdot \text{hr}}{\text{hr} \cdot \text{s}} \\
+\amp \approx 2.7778 \frac{\text{m}}{\text{s}} 
+\end{align*}
+</div>
+<div class="para">Doing the calculation all at once looks like this:</div>
+<div class="displaymath process-math">
+\begin{align*}
+10 \frac{\text{km}}{\text{hr}} \amp 10 \frac{\text{km}}{\text{hr}} \cdot \frac{1000 \text{ m}}{1 \text{ km}} \cdot \frac{1 \text{ hr}}{3600 \text{ s}} \\
+\amp = \frac{10 \cdot 1000}{3600} \frac{\text{km} \cdot \text{m} \cdot \text{hr}}{\text{hr} \cdot \text{km} \cdot \text{s}} \\
+\amp \approx 2.7778 \frac{\text{m}}{\text{s}} 
+\end{align*}
 </div></article></details></section><span class="incontext"><a class="internal" href="sec-basic-algebra.html#sec-basic-algebra-5">in-context</a></span>
 </body>
 </html>
