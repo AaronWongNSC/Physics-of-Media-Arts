@@ -5,34 +5,185 @@
     <title>Introduction</title>
 
     <p>
-      Students will practice using their calculators. Get multiple calculators, compare their features, test them for rounding errors and
-      things like that.
+      Math teachers used to tell students that they needed to learn their arithmetic because they wouldn't always have a calculator in their pocket. But it turns out
+      that those teachers were wrong. However, this doesn't mean that everyone really understands how to use their calculator, or that every calculator is the same.
+      This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.
     </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          At least two different cellphone calculators
+        </p>
+      </li>
+      <li>
+        <p>
+          Internet access to use following online calculators:
+        </p>
+        <ul>
+          <li>
+            <p>
+              <url href="https://www.theonlinecalculator.com/">(TheOnlineCalculator.com) Basic Calculator</url>
+            </p>
+          </li>
+          <li>
+            <p>
+              <url href="https://www.online-calculator.com/">(Online-Calculator.com) Standard Calculator</url>
+            </p>
+          </li>
+          <li>
+            <p>
+              <url href="https://www.desmos.com/scientific/">(Dosmos.com) Scientific Calculator</url>
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+
   </paragraphs>
 
   <paragraphs>
     <title>Procedure</title>
 
     <p>
-        ...
+      We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout
+      so that you will be able to remember the information you need for the write-up.
     </p>
-  </paragraphs>
-
-  <example>
-    <title>Example</title>
     
-    <p>
-      ...
-    </p>
-
-  </example>
+    <ul>
+      <li>
+        <p>
+          Determine the following information about the two cellphone calculators and three online calculators:
+        </p>
+        <ul>
+          <li>
+            <p>
+              Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The
+              calculator might just be called "calculator." The version information might be difficult to find, but it's there somewhere. You might find the
+              information in the app store.)
+            </p>
+          </li>
+          <li>
+            <p>
+              Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the
+              rest of the lab.)
+            </p>
+          </li>
+          <li>
+            <p>
+              Execution style: Infix or immediate execution
+            </p>
+          </li>
+          <li>
+            <p>
+              Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.
+            </p>
+          </li>
+          <li>
+            <p>
+              Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function,
+              then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          We will use the calculators to calculate some values using actual physics equations. START HERE
+        </p>
+      </li>
+      <li>
+        <p>
+          We will now test some of the limits of the calculators. Perform the following tasks on each calculator.
+        </p>
+        <ul>
+          <li>
+            <p>
+              Calculate <m>1 \div 3</m> and count the total number of digits that are displayed (including the leading zero). Then calculate <m>1,000,000 \div 3</m>
+              and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.
+            </p>
+          </li>
+          <li>
+            <p>
+              Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or
+              scientific notation. If it does not have these features, it will be helpful to use the "Ans" feature (uses the answer of the last calculation as part of the
+              next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.
+            </p>
+          </li>
+          <li>
+            <p>
+              If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that <m>\sqrt{0.999\ldots9} = 1</m>.
+              (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators,
+              just indicate this.)
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          We will now engage in some "stress tests" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction
+          says to "calculate" a quantity, it means to have the calculator evaluate the result as a decimal.
+        </p>
+        <ul>
+          <li>
+            <p>
+              Calculate <m>1 + 2 \times 3</m>. The correct answer is 7, but some calculators will give 9 as the answer.
+            </p>
+          </li>
+          <li>
+            <p>
+              Calculate <m>1 \div 3</m> and then multiply that result by <m>3</m>. The correct answer is 1, but not all calculators will give this result.
+            </p>
+          </li>
+          <li>
+            <p>
+              Calculate <m>\sqrt{0.999\ldots9}</m> with as many 9s are needed to give a result of 1. Then square the result. The correct answer is <m>0.999\ldots9</m>
+              with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.
+            </p>
+          </li>
+          <li>
+            <p>
+              For calculators with a squaring function and a square root function, start with <m>0.1</m> and square as many times as needed to get a result of 0. Then
+              take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number
+              square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.
+            </p>
+          </li>
+          <li>
+            <p>
+              For calculators that have parentheses and inline notation (so that fractions appear as <m>1 \div 3</m> or <m>1 / 3 </m> instead of <m>\frac{1}{3}</m>), 
+              calculate <m>6 \div 2 (1 + 2)</m>. If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on
+              the internet, and it is known that different calculators give different answers. What the "right" answer is and whether there even a "right" answer
+              depends on who you ask.)
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </paragraphs>
 
   <paragraphs>
     <title>Discussion</title>
       
     <p>
-      ...
+      Answer the following questions.
     </p>
+    <ol>
+      <li>
+        <p>
+          Based on your experiences, which calculator would you say is the "best" one? The "worst" one? (Note: It's possible for multiple calculators to tie for best or
+          worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Did any of the stress test results surprise you? What about them was surprising?
+        </p>
+      </li>
+    </ol>
 
   </paragraphs>
 
