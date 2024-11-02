@@ -1,11 +1,28 @@
 <subsection xml:id="lab-human-body-measurement" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>My Body My Measuring Device</title>
+  <title>My Body is My Measuring Device</title>
 
   <paragraphs>
     <title>Introduction</title>
 
+    <blockquote>
+      <p>
+        <q>
+          Liberals get angry and tell us that the metric system is more "rational" than the measurements everyone understands. This is ridiculous. An inch is
+          the width of a man's thumb, a foot the length of his foot, a yard the length of his belt. That's easy to visualize. How do you visualize 147.2 centimeters?
+        </q>
+      </p>
+      <attribution>Ann Coulter</attribution>
+    </blockquote>
+
     <p>
-      Learn how to use the human body as a tool for estimating measurements.
+      Ignoring the politics beind an op-ed that was written by a political firebrand in 2014, there's an interesting point about understanding measurements. All measurements
+      are grounded in a history of trying to relate quantities to each other. In particular, lengths are historically related to lengths of things that people encounter all
+      of the time, such as the length of an adult male foot or the size of a thumb. That said, these heuristic measurements are inaccurate because different people have
+      different bodies.
+    </p>
+    <p>
+      This lab is about coming to understand your own body and learning how to estimate measurements with it. More specifically, you are going to develop metric intuition
+      with your body. Familiarity with units comes with experience, and we're going to develop a set of experiences to help you become familiar with these values.
     </p>
   </paragraphs>
 
