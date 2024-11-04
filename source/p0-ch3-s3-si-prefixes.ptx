@@ -19,64 +19,91 @@
     </p>
   </introduction>
 
-  <p>
-    SI prefixes are letters or words that are placed before a unit in order to modify its meaning. This gives us the ability to scale our units up or down so that
-    the quantities we use in a particular setting are simpler. This is similar to other unit decisions, where we pick the unit to be convenient for the problem
-    that we are attempting to solve or the the situation that we find ourselves in. For example, it's more sensible to talk about 2 kilometers of distance instead of
-    2,000,000 millimeters. Another way to think about this is that these prefixes allow us to "hide" some of the scientific notation in the units in order to
-    simplify the communication of values.
-  </p>
-  <p>
-    Here is a chart of some of the SI prefixes:
-  </p>
+  <paragraphs>
+    <title>What are the SI Prefixes?</title>
+        
+    <p>
+      SI prefixes are letters or words that are placed before a unit in order to modify its meaning. This gives us the ability to scale our units up or down so that
+      the quantities we use in a particular setting are simpler. This is similar to other unit decisions, where we pick the unit to be convenient for the problem
+      that we are attempting to solve or the the situation that we find ourselves in. For example, it's more sensible to talk about 2 kilometers of distance instead of
+      2,000,000 millimeters. Another way to think about this is that these prefixes allow us to "hide" some of the scientific notation in the units in order to
+      simplify the communication of values.
+    </p>
+    <p>
+      Here is a chart of some of the SI prefixes:
+    </p>
 
-  <table>
-    <title>SI Prefixes and Multipliers</title>
-    <tabular>
-      <row>
-        <cell>Prefix</cell> <cell>Symbol</cell> <cell>Exponent Form</cell> <cell>Standard Form</cell>
-      </row>
-      <row>
-        <cell>tera</cell> <cell>T</cell> <cell><m>10^{12}</m></cell> <cell><m>1\,000\,000\,000\,000</m></cell>
-      </row>
-      <row>
-        <cell>giga</cell> <cell>G</cell> <cell><m>10^{9}</m></cell> <cell><m>1\,000\,000\,000</m></cell>
-      </row>
-      <row>
-        <cell>mega</cell> <cell>M</cell> <cell><m>10^{6}</m></cell> <cell><m>1\,000\,000</m></cell>
-      </row>
-      <row>
-        <cell>kilo</cell> <cell>k</cell> <cell><m>10^{3}</m></cell> <cell><m>1\,000</m></cell>
-      </row>
-      <row>
-        <cell>hecto</cell> <cell>h</cell> <cell><m>10^{2}</m></cell> <cell><m>100</m></cell>
-      </row>
-      <row>
-        <cell>deca</cell> <cell>da</cell> <cell><m>10^{1}</m></cell> <cell><m>10</m></cell>
-      </row>
-      <row>
-        <cell>--</cell> <cell>--</cell> <cell><m>10^0</m></cell> <cell><m>1</m></cell>
-      </row>
-      <row>
-        <cell>deci</cell> <cell>d</cell> <cell><m>10^{-1}</m></cell> <cell><m>0.1</m></cell>
-      </row>
-      <row>
-        <cell>centi</cell> <cell>c</cell> <cell><m>10^{-2}</m></cell> <cell><m>0.01</m></cell>
-      </row>
-      <row>
-        <cell>milli</cell> <cell>m</cell> <cell><m>10^{-3}</m></cell> <cell><m>0.001</m></cell>
-      </row>
-      <row>
-        <cell>micro</cell> <cell>μ</cell> <cell><m>10^{-6}</m></cell> <cell><m>0.000\,001</m></cell>
-      </row>
-      <row>
-        <cell>nano</cell> <cell>n</cell> <cell><m>10^{-9}</m></cell> <cell><m>0.000\,000\,001</m></cell>
-      </row>
-      <row>
-        <cell>pico</cell> <cell>p</cell> <cell><m>10^{-12}</m></cell> <cell><m>0.000\,000\,000\,001</m></cell>
-      </row>
-    </tabular>
-  </table>
+    <table>
+      <title>SI Prefixes and Multipliers</title>
+      <tabular>
+        <row>
+          <cell>Prefix</cell> <cell>Symbol</cell> <cell>Exponent Form</cell> <cell>Standard Form</cell>
+        </row>
+        <row>
+          <cell>tera</cell> <cell>T</cell> <cell><m>10^{12}</m></cell> <cell><m>1\,000\,000\,000\,000</m></cell>
+        </row>
+        <row>
+          <cell>giga</cell> <cell>G</cell> <cell><m>10^{9}</m></cell> <cell><m>1\,000\,000\,000</m></cell>
+        </row>
+        <row>
+          <cell>mega</cell> <cell>M</cell> <cell><m>10^{6}</m></cell> <cell><m>1\,000\,000</m></cell>
+        </row>
+        <row>
+          <cell>kilo</cell> <cell>k</cell> <cell><m>10^{3}</m></cell> <cell><m>1\,000</m></cell>
+        </row>
+        <row>
+          <cell>hecto</cell> <cell>h</cell> <cell><m>10^{2}</m></cell> <cell><m>100</m></cell>
+        </row>
+        <row>
+          <cell>deca</cell> <cell>da</cell> <cell><m>10^{1}</m></cell> <cell><m>10</m></cell>
+        </row>
+        <row>
+          <cell>--</cell> <cell>--</cell> <cell><m>10^0</m></cell> <cell><m>1</m></cell>
+        </row>
+        <row>
+          <cell>deci</cell> <cell>d</cell> <cell><m>10^{-1}</m></cell> <cell><m>0.1</m></cell>
+        </row>
+        <row>
+          <cell>centi</cell> <cell>c</cell> <cell><m>10^{-2}</m></cell> <cell><m>0.01</m></cell>
+        </row>
+        <row>
+          <cell>milli</cell> <cell>m</cell> <cell><m>10^{-3}</m></cell> <cell><m>0.001</m></cell>
+        </row>
+        <row>
+          <cell>micro</cell> <cell>μ</cell> <cell><m>10^{-6}</m></cell> <cell><m>0.000\,001</m></cell>
+        </row>
+        <row>
+          <cell>nano</cell> <cell>n</cell> <cell><m>10^{-9}</m></cell> <cell><m>0.000\,000\,001</m></cell>
+        </row>
+        <row>
+          <cell>pico</cell> <cell>p</cell> <cell><m>10^{-12}</m></cell> <cell><m>0.000\,000\,000\,001</m></cell>
+        </row>
+      </tabular>
+    </table>
+  </paragraphs>
+
+  <paragraphs>
+    <title>How to Use the SI Prefixes</title>
+
+    <p>
+      The prefixes allow you to easily relate values back to the base unit. For example, <m>1 \text{ megavolt}</m> is equivalent to
+      <m>10^6 \text{ volts}</m>. Similarly, <m>1 \text{millivolt}</m> is equivalent to <m>10^{-3} \text{ volts}</m>. However, if you're
+      going from the base unit to the prefix, you will need to change the sign of the exponent. So <m> 1 \text{ volt}</m> is the same
+      as <m>10^{-6} \text{ megavolts}</m> and is equivalent to <m>10^3 \text{ millivolts}</m>.
+    </p>
+    <p>
+      You can also create conversion factors by using two prefixes and the base unit. For example, to convert megavolts to millivolts, you
+      would start with <m>1 \text{ volt} = 1 \text{ volt}</m> and simply replace both sides with the appropriate equivalent:
+      <m>10^{-6} \text{ megavolts} = 10^3 \text{ millivolts}</m>. From here, it's just a matter of building the correct fraction for the
+      desired outcome.
+    </p>
+    <p>
+      In these examples, we've used the full names of the units. But in practice, the units have abbreviations. For example, instead of writing
+      "volts" we would just use "V". So a 5V batter is a "5 volt" battery. When using the abbreviated units, you also use the abbreviated symbol
+      for the prefix. So "MV" is "megavolt" and "mV" is millivolt. Notice that the capitalization matters.
+    </p>
+    
+  </paragraphs>
 
 <outcomes>
   <ul>
