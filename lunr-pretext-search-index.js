@@ -538,21 +538,21 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "SI Prefixes",
-  "body": " SI Prefixes     -----   -----   One of the key values to the SI system is that there is a corresponding system of prefixes that scale the units up and down by powers of 10. All of this helps to make these values mathematically easier to work with when performing unit conversions, especially when compared to the unit conversions of the imperial system.   SI prefixes are letters or words that are placed before a unit in order to modify its meaning. This gives us the ability to scale our units up or down so that the quantities we use in a particular setting are simpler. This is similar to other unit decisions, where we pick the unit to be convenient for the problem that we are attempting to solve or the the situation that we find ourselves in. For example, it's more sensible to talk about 2 kilometers of distance instead of 2,000,000 millimeters. Another way to think about this is that these prefixes allow us to \"hide\" some of the scientific notation in the units in order to simplify the communication of values.  Here is a chart of some of the SI prefixes:   SI Prefixes and Multipliers    Prefix  Symbol  Exponent Form  Standard Form    tera  T      giga  G      mega  M      kilo  k      hecto  h      deca  da      --  --      deci  d      centi  c      milli  m      micro  μ      nano  n      pico  p           (National Institute of Standards and Technology) Metric (SI) Prefixes      "
+  "body": " SI Prefixes     -----   -----   One of the key values to the SI system is that there is a corresponding system of prefixes that scale the units up and down by powers of 10. All of this helps to make these values mathematically easier to work with when performing unit conversions, especially when compared to the unit conversions of the imperial system.    What are the SI Prefixes?  SI prefixes are letters or words that are placed before a unit in order to modify its meaning. This gives us the ability to scale our units up or down so that the quantities we use in a particular setting are simpler. This is similar to other unit decisions, where we pick the unit to be convenient for the problem that we are attempting to solve or the the situation that we find ourselves in. For example, it's more sensible to talk about 2 kilometers of distance instead of 2,000,000 millimeters. Another way to think about this is that these prefixes allow us to \"hide\" some of the scientific notation in the units in order to simplify the communication of values.  Here is a chart of some of the SI prefixes:   SI Prefixes and Multipliers    Prefix  Symbol  Exponent Form  Standard Form    tera  T      giga  G      mega  M      kilo  k      hecto  h      deca  da      --  --      deci  d      centi  c      milli  m      micro  μ      nano  n      pico  p         How to Use the SI Prefixes  The prefixes allow you to easily relate values back to the base unit. For example, is equivalent to . Similarly, is equivalent to . However, if you're going from the base unit to the prefix, you will need to change the sign of the exponent. So is the same as and is equivalent to .  You can also create conversion factors by using two prefixes and the base unit. For example, to convert megavolts to millivolts, you would start with and simply replace both sides with the appropriate equivalent: . From here, it's just a matter of building the correct fraction for the desired outcome.  In these examples, we've used the full names of the units. But in practice, the units have abbreviations. For example, instead of writing \"volts\" we would just use \"V\". So a 5V batter is a \"5 volt\" battery. When using the abbreviated units, you also use the abbreviated symbol for the prefix. So \"MV\" is \"megavolt\" and \"mV\" is millivolt. Notice that the capitalization matters.       (National Institute of Standards and Technology) Metric (SI) Prefixes      "
 },
 {
-  "id": "sec-si-prefixes-5",
+  "id": "sec-si-prefixes-3-4",
   "level": "2",
-  "url": "sec-si-prefixes.html#sec-si-prefixes-5",
+  "url": "sec-si-prefixes.html#sec-si-prefixes-3-4",
   "type": "Table",
   "number": "3.3.0.1",
   "title": "SI Prefixes and Multipliers",
   "body": " SI Prefixes and Multipliers    Prefix  Symbol  Exponent Form  Standard Form    tera  T      giga  G      mega  M      kilo  k      hecto  h      deca  da      --  --      deci  d      centi  c      milli  m      micro  μ      nano  n      pico  p      "
 },
 {
-  "id": "sec-si-prefixes-6",
+  "id": "sec-si-prefixes-5",
   "level": "2",
-  "url": "sec-si-prefixes.html#sec-si-prefixes-6",
+  "url": "sec-si-prefixes.html#sec-si-prefixes-5",
   "type": "Additional Resources",
   "number": "3.3",
   "title": "",
@@ -565,7 +565,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.4",
   "title": "Derived Units",
-  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  What else to say here?      Link : Description     "
+  "body": " Derived Units    -----   -----   We can think of the SI units as the building blocks for more complicated concepts. For example, speed is the measure of how far an object travels in a particular amount of time. This means that we can't have speed unless we have both distance and time. The purpose of the SI base units is that it gives us the foundation upon which we can build all of the other physics concepts. Everything from here forward will involve some combination of those units.  Here are some examples of some physics concepts and their associated units:    Speed ( ): A measure of how far an object travels in a particular amount of time.    Acceleration ( ): A measure of the change of speed over a period of time.    Force ( ): A measure of the push or pull applied to an object.    Some of the units are given names to simplify the concepts. For example, the unit of force is a Newton, and it can be understood as the amount of force needed to accelerate a one kilogram mass at the the rate of one meter per second squared. There are also some concepts that have units that are easily calculated, but are extremely challenging to describe directly. For example, momentum is calculated as the product of mass and velocity, but what it measures might be described as the amount of stored motion within a mass.  It would be good to review for multiple unit conversions and unit conversions involving exponents.      (Wikipedia) Derived Units      "
 },
 {
   "id": "sec-derived-units-8",
@@ -574,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Additional Resources",
   "number": "3.4",
   "title": "",
-  "body": "    Link : Description    "
+  "body": "    (Wikipedia) Derived Units     "
 },
 {
   "id": "lab-measuring-speed",
@@ -583,21 +583,21 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "3.5.1",
   "title": "How Fast is That?",
-  "body": " How Fast is That?   Introduction  Using cellphones to measure speed by translating FPS to m\/s. Also use stopwatch on the cellphone.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " How Fast is That?   Introduction  It used to be difficult to take videos, but pretty much everyone has a video camera on their cellphone. Furthermore, most cellphones are even capable of slow motion videos (as fast as 240 frames per second), which is far more technology than what was available just a decade ago. We are going to take advantage of this to use cellphones to record video in order to calculate speeds. We can also use the stopwatch feature to capture even more data.    Equipment List    A cellphone capable of slow motion video    100 foot tape measure (or access to a football field with yard markings)    At least one of the following measuring boards:    4 ft x 8 ft plywood with stripes every 25 cm in the long direction (painted stripes, colored duct tape, etc.)    1\" x 6\" x 8 ft board with stripes every 25 cm (pained stripes, colored duct tape, etc.)     Tennis ball (or other ball that can be thrown safely)    Paper\/pen\/pencil to write down the times.       Procedure  The general task is to determine the speed of various objects by either using slow motion video or a stopwatch. The different tasks will be grouped by how they will be measured.    Mark out a 25-meter straight-line course and time the following behaviors with a stopwatch. Each person in the lab group should participate (if possible), and each measurement should be taken three times.    The time it takes for a person to cover the distance while walking at a \"normal\" pace (whatever feels natural to them).    The time it takes for a person to cover the distance starting from standing still and running as fast as they are comfortable. (Please take care not to injure yourself!)      Set up the measuring board in a safe area. Use the slow-motion video option on the cellphone to capture the object in motion. Your field of view for the camera should around twice as wide as the board. If you are too close, there will be too much distortion of distances due to the gap between the object and the board. If you are too far, you won't be able to see when the object clears the markings very well.    Throw a ball as fast as you can. It may take several attempts to capture usable footage. The ball should go past at about the same height as the measuring board. The goal is to get three successful attempts. (Try not to damage the phone or the person holding the phone!)    Run past the measuring board at your fastest comfortable speed. The measuring board should be between waist and neck level.        Sample Charts   25-Meter Timing (in Seconds)    Walk #1  Walk #2  Walk #3  Average Walk  Run #1  Run #2  Run #3  Average Run    Student A    Student B    Student C      Measuring Board (in Frames)    Throw #1  Throw #2  Throw #3  Average Throw  Run #1  Run #2  Run #3  Average Run    Student A    Student B    Student C       Discussion    The average walking speed for an adult is typically between 1.2 and 1.4 m\/s, but there are lots of variables that contribute to this, such as age, height, and individual characteristics. Did anyone in the group walk faster or slower than typical? Was that person aware of this before this lab?    Determine the framerate for the camera that was used for the slow motion footage. How much time does one frame represent?    Determine the framerate for the camera that was used for the slow motion footage. How much time does one frame represent?      Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "lab-measuring-speed-4",
+  "id": "lab-measuring-speed-5",
   "level": "2",
-  "url": "lab-measuring-speed.html#lab-measuring-speed-4",
+  "url": "lab-measuring-speed.html#lab-measuring-speed-5",
   "type": "Example",
   "number": "3.5.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "title": "Sample Charts.",
+  "body": " Sample Charts   25-Meter Timing (in Seconds)    Walk #1  Walk #2  Walk #3  Average Walk  Run #1  Run #2  Run #3  Average Run    Student A    Student B    Student C      Measuring Board (in Frames)    Throw #1  Throw #2  Throw #3  Average Throw  Run #1  Run #2  Run #3  Average Run    Student A    Student B    Student C     "
 },
 {
-  "id": "lab-measuring-speed-8",
+  "id": "lab-measuring-speed-9",
   "level": "2",
-  "url": "lab-measuring-speed.html#lab-measuring-speed-8",
+  "url": "lab-measuring-speed.html#lab-measuring-speed-9",
   "type": "Additional Resources",
   "number": "3.5.1",
   "title": "",
