@@ -5,34 +5,221 @@
     <title>Introduction</title>
 
     <p>
-      Using cellphones to measure speed by translating FPS to m/s. Also use stopwatch on the cellphone.
+      It used to be difficult to take videos, but pretty much everyone has a video camera on their cellphone. Furthermore, most cellphones are even capable of
+      slow motion videos (as fast as 240 frames per second), which is far more technology than what was available just a decade ago. We are going to take advantage
+      of this to use cellphones to record video in order to calculate speeds. We can also use the stopwatch feature to capture even more data.
     </p>
   </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          A cellphone capable of slow motion video
+        </p>
+      </li>
+      <li>
+        <p>
+          100 foot tape measure (or access to a football field with yard markings)
+        </p>
+      </li>
+    <li>
+        <p>
+          At least one of the following measuring boards:
+        </p>
+        <ul>
+          <li>
+            <p>
+              4 ft x 8 ft plywood with stripes every 25 cm in the long direction (painted stripes, colored duct tape, etc.)
+            </p>
+          </li>
+          <li>
+            <p>
+              1" x 6" x 8 ft board with stripes every 25 cm (pained stripes, colored duct tape, etc.)
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Tennis ball (or other ball that can be thrown safely)
+        </p>
+      </li>
+      <li>
+        <p>
+          Paper/pen/pencil to write down the times.
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
 
   <paragraphs>
     <title>Procedure</title>
 
     <p>
-        ...
+      The general task is to determine the speed of various objects by either using slow motion video or a stopwatch. The different tasks will be grouped
+      by how they will be measured.
     </p>
+    <ul>
+      <li>
+        <p>
+          Mark out a 25-meter straight-line course and time the following behaviors with a stopwatch. Each person in the lab group should participate
+          (if possible), and each measurement should be taken three times.
+        </p>
+        <ul>
+          <li>
+            <p>
+              The time it takes for a person to cover the distance while walking at a "normal" pace (whatever feels natural to them).
+            </p>
+          </li>
+          <li>
+            <p>
+              The time it takes for a person to cover the distance starting from standing still and running as fast as they are comfortable. (Please take care not
+              to injure yourself!)
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Set up the measuring board in a safe area. Use the slow-motion video option on the cellphone to capture the object in motion. Your field of view for the
+          camera should around twice as wide as the board. If you are too close, there will be too much distortion of distances due to the gap between the object
+          and the board. If you are too far, you won't be able to see when the object clears the markings very well.
+        </p>
+        <ul>
+          <li>
+            <p>
+              Throw a ball as fast as you can. It may take several attempts to capture usable footage. The ball should go past at about the same height as the
+              measuring board. The goal is to get three successful attempts. (Try not to damage the phone or the person holding the phone!)
+            </p>
+          </li>
+          <li>
+            <p>
+              Run past the measuring board at your fastest comfortable speed. (In theory, this should be the same as the 25-meter run.) The measuring
+              board should be about waist level, and you should try to focus on the same part of the body for each measurement.
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
   </paragraphs>
 
   <example>
-    <title>Example</title>
+    <title>Sample Charts</title>
     
-    <p>
-      ...
-    </p>
+    <table>
+      <title>25-Meter Walk (in Seconds)</title>
+      <tabular>
+        <row>
+          <cell>Walk #1</cell> <cell>Walk #2</cell> <cell>Walk #3</cell> <cell>Average Walk</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>25-Meter Run (in Seconds)</title>
+      <tabular>
+        <row>
+          <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>25-cm Throw (in Frames)</title>
+      <tabular>
+        <row>
+          <cell>Throw #1</cell> <cell>Throw #2</cell> <cell>Throw #3</cell> <cell>Average Throw</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>25-cm Run (in Frames)</title>
+      <tabular>
+        <row>
+          <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
 
   </example>
 
   <paragraphs>
     <title>Discussion</title>
       
-    <p>
-      ...
-    </p>
-
+    <ol>
+      <li>
+        <p>
+          Explain how you can convert the table of times for the 25-meter walk or run into speed in meters per second. Then convert the values to speed.
+        </p>
+      </li>
+      <li>
+        <p>
+          The average walking speed for an adult is typically between 1.2 and 1.4 m/s, but there are lots of variables that contribute to this, such as
+          age, height, and individual characteristics. Did anyone in the group walk faster or slower than typical? Was that person aware of this before
+          this lab?
+        </p>
+      </li>
+      <li>
+        <p>
+          Determine the framerate for the camera that was used for the slow motion footage. How much time does one frame represent?
+        </p>
+      </li>
+      <li>
+        <p>
+          Convert the average frame count for ball throw into seconds, and then convert those values to speed in meters per second. Organize
+          these values into a table. Which student has the fastest and slowest average speeds? Is there any relevant information that might explain
+          why these individuals' are what they are?
+        </p>
+      </li>
+      <li>
+        <p>
+          Convert the average frame count for the run into seconds, and then convert those values to speed in meters per second. Organize
+          these values into a table. Compare these results with the times attained from the 25-meter run. Explain why it should make sense that the
+          25-meter speed is slower than the 25-cm speed.
+        </p>
+      </li>
+    </ol>
   </paragraphs>
 
   <paragraphs>
