@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-accuracy-precision" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Accuracy and Precision</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+
+    <p>
+      Physics is built upon measurements, and the quality of the work is often related to the quality of the measurements. However, there are multiple ways to interpret
+      the question of quality. The two primary concepts to keep in mind are accuracy and precision.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Accuracy</title>
+    
+    <p>
+      <idx><h>accuracy</h></idx>
+
+      Accuracy refers to how close the measurement is to the "true" value. 
+    </p>
+    <p>
+      Incidentally, it's not always clear that there is a "true" value when it comes to measurements. For example, your height is different at different times of the day,
+      so you have no "true" height. Similarly, the weight of objects may change slightly over time. When you smell a steak, you are smelling molecules that are leaving
+      that steak, and those lost molecules remove some of the weight from the steak (albeit a very small amount).
+    </p>
+  </paragraphs>
+
+<outcomes>
+  <ul>
+    <li>
+      <p>
+        <url href="https://www.bellevuecollege.edu/physics/resources/measure-sigfigsintro/b-acc-prec-unc/">
+          (Bellevue College) Accuracy vs. Precision, and Error vs. Uncertainty
+        </url>
+      </p>
+    </li>
+  </ul>
+</outcomes>
+
+</section>
