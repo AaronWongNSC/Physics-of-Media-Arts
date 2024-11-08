@@ -27,28 +27,246 @@
   </paragraphs>
 
   <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          30-cm ruler
+        </p>
+      </li>
+      <li>
+        <p>
+          Meter stick
+        </p>
+      </li>
+      <li>
+        <p>
+          30 m (100 ft) tape measure
+        </p>
+      </li>
+      <li>
+        <p>
+          Cones or other markers that can be used to indicate positions on the ground
+        </p>
+      </li>
+      <li>
+        <p>
+          Tape
+        </p>
+      </li>
+      <li>
+        <p>
+          Paper and scissors
+        </p>
+      </li>
+      <li>
+        <p>
+          Objects and locations to measure.
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <paragraphs>
     <title>Procedure</title>
 
     <p>
-        ...
+        Every member of the group will perform a series of measurements to understand the dimensions of their body, and then practice making measurements
+        with them.
     </p>
+    <ul>
+      <li>
+        <p>
+          Using the ruler, perform the following measurements:
+        </p>
+        <ul>
+          <li>
+            <p>
+              Thumb width: Press your thumb onto the ruler to determine its width in cm. Note that different thumbs have different amounts of "squishiness" and so
+              consistency of how you press your thumb matters. It works best to press you thumb in a way that "feels natural" to you. Don't try to "remember" how hard
+              you have to press in order to achieve a certain dimension, because that's something you're unlikely to remember.
+            </p>
+          </li>
+          <li>
+            <p>
+              Hand span: Open your hand with your thumb and pinky finger spread out, and measure the distance from the tip of one to the tip of the other in cm. Just as with
+              the thumb width, you want to do it in a way that is consistent, and whatever "feels natural" when you're doing this is probably the best option. You should not
+              be trying to get the maximum possible distance. 
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Using the meter stick, perform the following measurements:
+        </p>
+        <ul>
+          <li>
+            <p>
+              Cubit: A cubit is the distance from the tip of the elbow to the tip of the middle finger when the fingers are held straight out. Measure this directly
+              on the meter stick. Give the result in cm.
+            </p>
+          </li>
+          <li>
+            <p>
+              Shoe length: Directly measure the length of your shoe. Give the result in cm.
+            </p>
+          </li>
+          <li>
+            <p>
+              Heel-to-toe step length: Using the meter stick, mark off a distance of 50 cm and 100 cm on the ground from a fixed starting point. Count the number of
+              heel-to-toe steps that are needed to get to either the 50 cm mark or 100 cm mark. The mark you pick should be the one that ends the closest to an exact
+              number of for your shoe size. It's likely that you will be "just a little" long or short. Try to estimate this to the quarter-shoe length. Give the result
+              in cm.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Using the 30 meter tape measure, perform the following measurements:
+        </p>
+        <ul>
+          <li>
+            <p>
+              Arm span: The arm span is the distance from finger tip to finger tip when both arms are held out to the side. This should be measurable directly, but it
+              might be difficult to do by yourself. Give the result in meters.
+            </p>
+          </li>
+          <li>
+            <p>
+              Single step length: We will call a "single step" a step where you start with your feet side-by-side and take a single step forward, and then bringing your
+              feet back to the side-by-side position. Using tape or other markings on the ground, create a starting line and line your toes up with it. Then take a single
+              step and mark the final position of your feet. Then use those to measure your "single step" length. Give the result in meters
+            </p>
+          </li>
+          <li>
+            <p>
+              Pacing step length: A "pacing step" is a step that you make while walking normally. This is difficult to measure directly since you would need to focus
+              on your feet a lot to get a good measurable step (starting in the right place and ending in a way that is easily measurable). Instead, we will take an
+              average pacing step by walking out a measured distance and counting the steps. Using the cones, mark off a starting position, then a 20-meter mark, a 25-meter
+              mark, and a 30 meter mark. From the starting position, walk as naturally as you can while counting your steps. Pick the mark that most accurately captures
+              an exact number of steps and use that information to calculate your "pacing step" length. Give the result in meters.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Now that you have some measurements to work with, you will now practice using your body to measure various objects. Use multiple measurements
+          where it's reasonable to do so. Be sure to indicate the measurement in terms of the method (arm span, etc.) and give the final estimate
+          in either cm or m, depending on which is more appropriate.
+        </p>
+        <ul>
+          <li>
+            <p>
+              Take a piece of regular office paper and try to cut a rectangle whose dimensions are 10 cm by 15 cm. Then measure the rectangles with a ruler, and
+              write down the results.
+            </p>
+          </li>
+          <li>
+            <p>
+              Estimate the width and height of a doorway. (You may require a step stool or chair to reach the top of the doorway.) Write down the estimates,
+              then measure it directly.
+            </p>
+          </li>
+          <li>
+            <p>
+              Estimate the length and width of a room. Write down the estimatse, then measure it directly.
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
   </paragraphs>
 
   <example>
-    <title>Example</title>
+    <title>Sample Charts</title>
     
-    <p>
-      ...
-    </p>
+    <table>
+      <title>Hand and Arm Measurements</title>
+      <tabular>
+        <row>
+          <cell> </cell> <cell>Thumb width (cm)</cell> <cell>Hand Span (cm)</cell> <cell>Cubit (cm)</cell> <cell>Arm Span (m)</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Foot Measurements</title>
+      <tabular>
+        <row>
+          <cell> </cell> <cell>Shoe (cm)</cell> <cell>Heel-to-Toe (cm)</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Walking Measurements</title>
+      <tabular>
+        <row>
+          <cell> </cell> <cell>Single Step</cell> <cell>Pacing Step</cell>
+        </row>
+        <row>
+          <cell>Student A</cell>
+        </row>
+        <row>
+          <cell>Student B</cell>
+        </row>
+        <row>
+          <cell>Student C</cell>
+        </row>
+      </tabular>
+    </table>
 
   </example>
 
   <paragraphs>
     <title>Discussion</title>
       
-    <p>
-      ...
-    </p>
+    <ol>
+      <li>
+        <p>
+          How effective were you in using your body as a measuring tool? Were the estimates close to the actual values?
+        </p>
+      </li>
+      <li>
+        <p>
+          How close were the shoe length measurement and heel-to-toe measurements? Were you surprised by this result? If they seemed somewhat different, is there
+          an explanation for why you got this result?
+        </p>
+      </li>
+      <li>
+        <p>
+          How close were the single step and pacing step measurements? Were you surprised by this result? If they seemed somewhat different, is there
+          an explanation for why you got this result?
+        </p>
+      </li>
+      <li>
+        <p>
+          Did anyone seem to get consistently long or short estimates? How could that be addressed so that they can get better results?
+        </p>
+      </li>
+    </ol>
 
   </paragraphs>
 
@@ -56,7 +274,9 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      The use of the human body to make measurements is deeply grounded in history, and the results are grounded in experience. Although there is value
+      to having standardized measurements and tools to make those measurements, it's not always the case that there is access to those tools. In those
+      situations, it can be helpful to understand the size of your own body and use that to make estimates.
     </p>
   </paragraphs>
 
@@ -73,55 +293,46 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          Explain what the various measurements were and how they were taken. Then describe the estimations that you did.
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Organize your measurements into charts such as the sample charts provided
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising? Do you have any practical uses for your newly
+          developed skill?
         </p>
       </li>
     </ul>
   </paragraphs>
-
-  <outcomes>
-    <ul>
-      <li>
-        <p>
-          <url href="https://www.google.com/">Google</url>
-        </p>
-      </li>
-    </ul>
-  </outcomes>
 
 </subsection>

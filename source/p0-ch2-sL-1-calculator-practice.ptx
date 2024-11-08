@@ -37,7 +37,7 @@
           </li>
           <li>
             <p>
-              <url href="https://www.desmos.com/scientific/">(Dosmos.com) Scientific Calculator</url>
+              <url href="https://www.desmos.com/scientific/">(Desmos.com) Scientific Calculator</url>
             </p>
           </li>
         </ul>
@@ -287,15 +287,5 @@
       </li>
     </ul>
   </paragraphs>
-
-  <outcomes>
-    <ul>
-      <li>
-        <p>
-          <url href="https://www.google.com/">Google</url>
-        </p>
-      </li>
-    </ul>
-  </outcomes>
 
 </subsection>

@@ -22,7 +22,7 @@
       </li>
       <li>
         <p>
-          100 foot tape measure
+          30 m (100 ft) tape measure
         </p>
       </li>
       <li>
@@ -119,7 +119,7 @@
       <title>25-Meter Walk (in Seconds)</title>
       <tabular>
         <row>
-          <cell>Walk #1</cell> <cell>Walk #2</cell> <cell>Walk #3</cell> <cell>Average Walk</cell>
+          <cell> </cell> <cell>Walk #1</cell> <cell>Walk #2</cell> <cell>Walk #3</cell> <cell>Average Walk</cell>
         </row>
         <row>
           <cell>Student A</cell>
@@ -137,7 +137,7 @@
       <title>25-Meter Run (in Seconds)</title>
       <tabular>
         <row>
-          <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
+          <cell> </cell> <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
         </row>
         <row>
           <cell>Student A</cell>
@@ -155,7 +155,7 @@
       <title>25-cm Throw (in Frames)</title>
       <tabular>
         <row>
-          <cell>Throw #1</cell> <cell>Throw #2</cell> <cell>Throw #3</cell> <cell>Average Throw</cell>
+          <cell> </cell> <cell>Throw #1</cell> <cell>Throw #2</cell> <cell>Throw #3</cell> <cell>Average Throw</cell>
         </row>
         <row>
           <cell>Student A</cell>
@@ -173,7 +173,7 @@
       <title>25-cm Run (in Frames)</title>
       <tabular>
         <row>
-          <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
+          <cell> </cell> <cell>Run #1</cell> <cell>Run #2</cell> <cell>Run #3</cell> <cell>Average Run</cell>
         </row>
         <row>
           <cell>Student A</cell>
@@ -231,7 +231,10 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      We have explored two methods of measuring speed in this lab. Both methods come down to directly measuring the amount of time required for an
+      object to travel a specific distance, which is the basic definition of the concept of speed. And while speeds were the ultimate result of our
+      calculations, the activity of the lab was more about making measurements. We measured out markers to indicate distances and we used different
+      both a stopwatch and digital video to measure time.
     </p>
   </paragraphs>
 
@@ -248,55 +251,46 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          This lab had you measuring the amount of time required for a few different types of behaviors. Describe the measurements you took.
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Present your measurements in an organized manner. You can use the sample charts as a guide.
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising? Are there other things whose speeds you might
+          want to measure with the skills you practiced in this lab?
         </p>
       </li>
     </ul>
   </paragraphs>
-
-  <outcomes>
-    <ul>
-      <li>
-        <p>
-          <url href="https://www.google.com/">Google</url>
-        </p>
-      </li>
-    </ul>
-  </outcomes>
 
 </subsection>
