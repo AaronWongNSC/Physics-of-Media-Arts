@@ -610,7 +610,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Position and Velocity",
-  "body": " Position and Velocity    -----   ------   ...  "
+  "body": " Position and Velocity    If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious sh--.   Dr. Emmett Brown (Back to the Future)   ...  "
 },
 {
   "id": "sec-position-graphs",
@@ -685,13 +685,13 @@ var ptx_lunr_docs = [
   "body": " Planetary Gravity    -----   ------   Gravity on different planets  "
 },
 {
-  "id": "sec-position-and-velocity",
+  "id": "sec-gravity",
   "level": "1",
-  "url": "sec-position-and-velocity.html",
+  "url": "sec-gravity.html",
   "type": "Section",
   "number": "5.3",
-  "title": "Position and Velocity",
-  "body": " Position and Velocity    -----   ------   ...  "
+  "title": "Gravity",
+  "body": " Gravity    -----   ------   ...  "
 },
 {
   "id": "lab-measuring-acceleration",
