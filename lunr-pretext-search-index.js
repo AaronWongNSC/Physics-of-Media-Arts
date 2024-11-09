@@ -604,13 +604,13 @@ var ptx_lunr_docs = [
   "body": " Sample Charts   Hand and Arm Measurements      Thumb width (cm)  Hand Span (cm)  Cubit (cm)  Arm Span (m)    Student A    Student B    Student C      Foot Measurements      Shoe (cm)  Heel-to-Toe (cm)    Student A    Student B    Student C      Walking Measurements      Single Step  Pacing Step    Student A    Student B    Student C     "
 },
 {
-  "id": "sec-position-and-velocity",
+  "id": "sec-position",
   "level": "1",
-  "url": "sec-position-and-velocity.html",
+  "url": "sec-position.html",
   "type": "Section",
   "number": "4.1",
-  "title": "Position and Velocity",
-  "body": " Position and Velocity    If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious sh--.   Dr. Emmett Brown (Back to the Future)   ...  "
+  "title": "Position",
+  "body": " Position     Where am I? Who am I? How did I come to be here?   Søren Kierkegaard   \"Where am I?\" It seems like a simple question. But the concept of position in physics is not trivial, and it is at the base of a number of other physics concepts that we are going to develop. So it is important for us to have a firm foundation on this before we move forward.    Reference Point    Position and Time    One-Dimensional Position Graphs   "
 },
 {
   "id": "sec-position-graphs",
