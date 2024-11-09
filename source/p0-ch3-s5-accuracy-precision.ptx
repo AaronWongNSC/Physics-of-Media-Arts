@@ -12,8 +12,14 @@
     </blockquote>
 
     <p>
-      Physics is built upon measurements, and the quality of the work is often related to the quality of the measurements. However, there are multiple ways to interpret
-      the question of quality. The two primary concepts to keep in mind are accuracy and precision.
+      Physics is built upon measurements, and the quality of the work is often related to the quality of the measurements. When we make measurements, we would like to
+      imagine that we're getting the right value. But there are all sorts of places that errors can creep into a measurement. A timing measurement can be affected by 
+      a person's reflexes. And length measurements may be slightly different for the same object depending on the precise angle the ruler is held at. There may also be
+      errors in the measurement device itself, such as a poorly calibrated scale. All of these introduce errors into our measurements, which in turn impact the
+      calculations that we make, and the conclusions that we draw.
+    </p>
+    <p>
+      The two primary concepts we will be focusing on are accuracy and precision. Each of these gives us a sense in which we can think about the quality of a measurement.
     </p>
   </introduction>
 
@@ -23,7 +29,9 @@
     <p>
       <idx><h>accuracy</h></idx>
 
-      Accuracy refers to how close the measurement is to the "true" value. 
+      <term>Accuracy</term> refers to how close the measurement is to the "true" value. It is important to understand that this is not necessarily a measure of the quality of a
+      measuring device. It is possible for high quality tools to give systematically wrong values. Sometimes this is the result of human error (using the device
+      incorrectly) or improper calibration.
     </p>
     <p>
       Incidentally, it's not always clear that there is a "true" value when it comes to measurements. For example, your height is different at different times of the day,
@@ -32,7 +40,44 @@
     </p>
   </paragraphs>
 
-<outcomes>
+  <paragraphs>
+    <title>Precision</title>
+
+    <p>
+      <idx><h>precision</h></idx>
+
+      <term>Precision</term> refers to how consistent the measurement is relative to itself. Ideally, if you measured the same object repeatedly, you should get the
+      same result every time. If it is, then your tool has a high level of precision. Otherwise, it has a lower level of precision. However, precision is not related
+      to accuracy. You might measure an object to be 20 cm in length and get the same value over and over again with the same ruler, but the ruler might not have been
+      made accurately and the object is actually longer or shorter.
+    </p>
+    <p>
+      <idx><h>resolution</h></idx>
+
+      Precision also includes the concept of resolution, which is a measure of the smallest quantity that can be detected. A scale that measures in grams is only
+      precise up to the gram. That is, if you see than an object weighs 100 g, you don't know if this is 99.5 grams being rounded up, or 100.4 grams being rounded down.
+      However, a scale with a higher resolution might be able to tell you that the object weighs 99.748 grams, but then you wouldn't know whether it's 99.7475 grams or
+      99.7484 grams. No matter how precise the tool, unless you are counting whole numbers of objects (like counting oranges), there will always be a level of
+      uncertainty in the measurement.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Bullseye Analogy</title>
+
+    <p>
+      The concepts of accuracy and precision are independent of each other. That is, you can have both accuracy and precision, neither of them, or just one of them.
+      The way that this is often framed is using the image of a bullseye. The center of the bullseye is the "true" measurement. If you are both accurate and precise,
+      then your measurements should cluster close to the center. If you are only accurate but not precise, then your measurements will still be around the center, but
+      more spread out. If you are precise but not accurate, then your measurements will be clustered together, but not at the center. And if you are neither,
+      then the measurements are going to be spread out around a point that isn't the center. If you wanted to add resolution to the image, you can imagine that the
+      bullseye is smaller and that there are more rings.
+    </p>
+    
+  </paragraphs>
+
+  <outcomes>
   <ul>
     <li>
       <p>

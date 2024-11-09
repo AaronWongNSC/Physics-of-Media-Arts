@@ -17,7 +17,12 @@
       </li>
       <li>
         <p>
-          Students will be interpret the SI prefixes and use them to convert between related units.
+          Students will be able to interpret the SI prefixes and use them to convert between related units.
+        </p>
+      </li>
+      <li>
+        <p>
+          Students will be able to describe the difference between accurate and precise measurements.
         </p>
       </li>
     </ul>
@@ -25,7 +30,10 @@
 
   <introduction>
     <p>
-      While physics concepts 
+      Without measurements, it is hard to do physics. You can have some conceptual ideas for how different concepts relate to each other, but it will not be
+      very clear how you would communicate them. For example, you can know that a "big" object weighs more than a "small" object, but if I give you an object,
+      you won't be able to describe its weight without referencing some other objects. And those comparisons will likely be very loose. So it is important for
+      us to spend a little time talking about measurements and getting some more experience with them.
     </p>
   </introduction>
 
