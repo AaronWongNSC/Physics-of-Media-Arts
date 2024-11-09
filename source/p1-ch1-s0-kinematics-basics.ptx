@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-kinematics-basics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Basics of Kinematics</title>
+
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          ASDASD
+        </p>
+      </li>
+    </ul>
+  </objectives>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="p1-ch1-s1-position.ptx" />
+  <xi:include href="p1-ch1-s2-position-graphs.ptx" />
+  <xi:include href="p1-ch1-s3-acceleration.ptx" />
+  <xi:include href="p1-ch1-s4-calculus.ptx" />
+  
+  <xi:include href="p1-ch1-sL-0-one-dim-labs.ptx" />
+
+</chapter>

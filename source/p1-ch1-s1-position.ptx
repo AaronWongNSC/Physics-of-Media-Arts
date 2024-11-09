@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-position" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Position</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>Where am I? Who am I? How did I come to be here?</q>
+      </p>
+      <attribution>Søren Kierkegaard</attribution>
+    </blockquote>
+
+    <p>
+      "Where am I?" It seems like a simple question. But the concept of position in physics is not trivial, and it is at the base of a number of other
+      physics concepts that we are going to develop. So it is important for us to have a firm foundation on this before we move forward.
+    </p>
+  
+  </introduction>
+
+  <paragraphs>
+    <title>Reference Point</title>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Position and Time</title>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>One-Dimensional Position Graphs</title>
+    
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

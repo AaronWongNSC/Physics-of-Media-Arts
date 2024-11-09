@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<introduction xml:id="ch-scientific-method" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <p>
+    <idx><h>kinematics</h></idx>
+
+    <term>Kinematics</term> is the branch of physics that focuses on the motion of objects, but without reference to the underlying causes of that motion.
+  </p>
+</introduction>
