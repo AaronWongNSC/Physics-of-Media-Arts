@@ -19,17 +19,68 @@
   </introduction>
 
   <paragraphs>
-    <title>Reference Point</title>
+    <title>Reference Points</title>
     
+    <p>
+      How would you answer the question, "Where am I?" You might say you are in a particular classroom. Or perhaps you're in your bedroom. Regardless of how you
+      describe your position, it will always be relative to something else. Your classroom is a specific room inside of a specific building. You could avoid
+      referencing a building by giving your GPS position, but that position is relative to the earth. There is no such thing as an "absolute" position. Position
+      is always measured relative to something else.
+    </p>
+    <p>
+      <idx><h>origin</h></idx>
+
+      In mathematics, whenever we plot a point on the <m>xy</m> plane, we always start from a point that's called the <term>origin</term>. This is the point
+      from which you originate your movement to locate the point. The same concept applies to physics. There will always be some position that is considered
+      the origin for the particular problem, and that's the point from which all other positions are measured.For example, if we are thinking about a runner in a 
+      straight-line race, we might have the starting line be the origin and then measure distances towards the finish line. If we are thinking about the motion
+      of the planets, it might make sense for us to take the sun as the origin.
+    </p>
   </paragraphs>
 
   <paragraphs>
     <title>Position and Time</title>
-    
+
+    <p>
+      For kinematics, we are interested in the position of an object at any moment in time. We will start with the one-dimensional problem of the straight-line
+      race runner. When we say that this is a one-dimensional problem, we mean we can describe the position of the runner using just a single number <m>x</m>,
+      which in this case is the distance from the starting line to the runner (in meters). Let's say that the race begins at time <m>t = 0</m>. The position of the
+      runner is <m>x = 0</m> at the start, and it increases over time. Let's say that at time <m>t = 1</m> (in seconds) the runner is at <m>x = 5</m> (meters from
+      the starting line).
+    </p>
+    <p>
+      If we continue to chart the position of the runner every second, we would get a table of data that gives us an indication of where the runner is at any
+      time. It is important to note that this table only tells us where the runner is at specific instants of time, and we have to try to infer the locations
+      at other times. For example, if the runner is at <m>x = 0</m> at <m>t = 0</m> and at <m>x = 5</m> at <m>t = 1</m>, we might guess that the runner is at
+      <m>x = 2.5</m> at time <m>t = 0.5</m>. However, you might also guess that the value of <m>x</m> might be a little smaller than 2.5 because the runner is
+      still speeding up. While we can make arguments about exactly what that should be, it's ultimately just an educated guess.
+    </p>
+    <p>
+      In more complex problems, we might need to track the position of the object using two or three numbers. For example, if we were tracking the location
+      of a car in a city, we might have one number (<m>x</m>) for the east-west position of the car and another number (<m>y</m>) for the north-south position. Or
+      if we were tracking the position of a drone, we might need three coordinates because we would also need to keep track of the height (<m>z</m>).
+    </p>    
   </paragraphs>
 
   <paragraphs>
     <title>One-Dimensional Position Graphs</title>
+
+    <p>
+      One way to represent the position of an object at different moments in time is to use a graph. Typically, the horizontal axis is the time axis and the vertical
+      axis is the position variable (or one of the position variables, if working in multiple dimensions). As noted above, the only times at which we know the position
+      of the object are the times where we have measurements. What happens in between is a guess.
+    </p>
+    <p>
+      This means that when we plot the graph, the points we have from the chart of data are exact, and if we were to try to sketch a curve that fits those points, we
+      would be doing an interpolation, which means that we are guessing about the shape of the curve. Some students are in the habit of just connecting the dots with
+      straight lines. This is an okay method, but it's not great. Usually, we try to fit the points with a smooth curve because that tends to give a more realistic
+      model.
+    </p>
+    <example>
+      <title></title>
+      
+      
+    </example>
     
   </paragraphs>
 
