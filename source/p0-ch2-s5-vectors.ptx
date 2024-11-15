@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vectors</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          -----
+        </q>
+      </p>
+      <attribution>----</attribution>
+    </blockquote>
+
+    <p>
+      <idx><h>vector</h></idx>
+
+      The language of physics includes a number of important mathematical objects. Vectors are among the most central type of mathematical object because it
+      is used to represent everything from forces to positions to electric fields. A <term>vector</term> is a mathematical quantity that includes information
+      about both a direction and a magnitude (or length). This section is just a brief, minimally mathematical introduction to the topic. It's not uncommon
+      for people studying physics to take an entire course to help them understand what vectors are and how to do calculations with them. We are not going to
+      need much more than the basic ideas and a minimal amount of vector algebra.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Two Representations of Vectors</title>
+
+    <p>
+      There are two ways that we represent vectors in physics classes. The first is a geometric representation and the second is an algebraic one. The geometric
+      representation is great for building up intuition and an understandig of certain concepts, but it's not so good for actually performing calculations.
+      The algebraic representation is great for doing calculations, but it's easy to lose track of the big picture when working with them. In the end, you will
+      want to be familiar with both perspectives.
+    </p>
+    <p>
+      The most natural way to geometrically capture the concepts of direction and magnitude in a picture is by drawing an arrow. If we think about the arrow as
+      an instruction that tells us which way to push an object, we can match our push so that it goes in the same direction as the arrow, and then the length of
+      the arrow is  an indicator of how hard to push. A short arrow is a light push and a long arrow is a strong push. We can also translate this concept into the
+      velocity of an object. The arrow says that the object is moving in that direction and we use its length to indicate how fast it's going.
+    </p>
+    <p>
+      <idx><h>head, vector</h></idx>
+      <idx><h>tail, vector</h></idx>
+
+      We call the starting point of the arrow the <term>tail</term> of the vector, and the tip of the arrow the <term>head</term> of the vector. It's important
+      to note that the vector itself does not have a location. It only tells us about the relative positions of the starting and ending locations of the vector.
+      In other words, we can slide the vector around the plane (without rotating it) and it doesn't change the vector itself.
+    </p>
+    <p>
+      <idx><h>components, vector</h></idx>
+
+      The algebraic notation feels a lot like how we plot points in the <m>xy</m> plane. A vector that points <m>x</m> spaces to the right and <m>y</m> spaces
+      up is denoted by <m>\langle x, y \rangle</m>. Notice that the brackets are pointed rather than being round. This small shift in notation gives is what indicates
+      the difference between a vector and a point. The <m>x</m> and <m>y</m> values are called the <term>components</term> of the vector (or
+      <term>vector components</term>). More specifically, if the diagram is oriented in the "traditional" manner, the first component corresponds to the part of the
+      vector that points in the horizontal direction, and the second component corresponds to the part of the vector that points in the vertical direction. There are
+      more complicated ways to interpret the components of a vector, but we won't be needing them for this class.
+    </p>
+    <p>
+      <idx><h>standard position, vector</h></idx>
+      
+      If draw the vector with its tail at the origin, we say that the vector is in <term>standard position</term>. In this case, the algebraic notation for the vector
+      "matches" with the coordinates of the head. That is, when the vector <m>\langle x, y \rangle</m> is drawn in standard position, the head of the vector will be
+      located at the point <m>(x,y)</m>. However, this only happens when the vector is in standard position. If the tail is somewhere else, then the head of the vector
+      is found relative to the tail, and it will no longer correspond to the point.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Vector Addition</title>
+
+    <p>
+      The geometric picture of vector addition is to think about a triangle. If we are given two vectors, you draw them "tail-to-head"
+      
+      
+      often intuitively framed as combining movements back-to-back. In other words, we think of the vectors as representing
+      motion, and follow the motions in sequence. This is precisely what position vectors do for us, but it's not necessarily the best image if the vectors represented
+      something else, like forces or electric fields. In those cases, the core concept isn't motion, and so this doesn't create the best picture. So the more general way
+      of thinking about geometric vector addition is known as the  method of adding vectors. This accomplishes the same thing, but avoids the concept of
+      "movement" in the process.
+    </p>
+    <p>
+      Algebraically, vector addition is accomplished by performing "component-wise" addition. That is, if we wanted to calculate <m> \langle x_1, y_1 \rangle + \langle
+      x_2, y_2 \rangle </m>, the result is attained by adding the components that are in the same position, which gives <m> \langle x_1 + x_2, y_1 + y_2 \rangle </m>.
+      The good news is that this is what most students would naturally end up doing. It's not hard to see that this gives the same result as the geometric method because
+      the horizontal and vertical directions are independent of each other. 
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Scalar Multiplication</title>
+    
+    <p>
+      Multiplying a vector by a scalar (a number) results in stretching the vector by the scalar value and flipping the direction if the scalar is negative. Geometrically,
+      this is straight-forward. Algebraically, this is accomplished by multiplying each of the components by the scalar. It turns out that the underlying mathematics is
+      nothing more than the distributive property, but those are details that we don't need to get into here.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Vectors in Context</title>
+
+    <p>
+      One of the most important ideas to keep in mind with vectors is that (at least in physics) they always exist in a specific context. In other words, the vectors mean
+      something about the physical world, and so when we add vectors or multiply vectors by a scalar, it will correspond to some sort of physical outcome. Without going into
+      detail, here are some examples.
+    </p>
+    <example>
+      <title>Position Vectors</title>
+
+      <p>
+        Vectors can be used to represent position. More precisely, they are used to represent the position relative to some location. In this case, the addition of vectors
+        corresponds to sequential movement. So if the first vector is the vector corresponding to 3 meters north (<m>\langle 0, 3\rangle</m>, assuming north is up) and
+        the second vector is the vector corresponding to 1 meter east and 2 meters south (<m>\langle 1, -2\rangle</m>), then after doing those movements back-to-back you 
+        will end up in a location that is 1 meter east and 1 meter north of where you started. In other words,
+        <me>\langle 0, 3\rangle + \langle 1, -2\rangle = \langle 1, 1 \rangle</me>
+      </p>
+    </example>
+
+    <example>
+      <title>Velocity Vectors</title>
+
+      <p>
+        Vectors can be used to represent velocity. The direction of the vector is the direction of motion, and the length of the vector is the speed. The addition
+        of vectors represents the combined speed when both types of motion are considered. If a train is moving at 150 km/hr and you're on the train walking towards
+        the front at 3 km/hr, then you would be moving at 153 km/hr relative to the ground.
+      </p>
+      <p>
+        Similarly, if a plane is flying north at 900 km/hr (<m>\langle 0, 900\rangle</m>) and a wind is blowing to the east at 150 km/hr (<m>\langle 150, 0\rangle</m>),
+        then we can add those vectors together to get the velocity of the plane relative to the ground.
+        <me>\langle 0, 900\rangle + \langle 150, 0\rangle = \langle 150, 900 \rangle</me>
+      </p>
+    </example>
+
+    <example>
+      <title>Force Vectors</title>
+
+      <p>
+        Vectors can be also used to represent forces. If multiple forces are being applied to an object, the net force that the object experiences is the vector sum of
+        all of the forces that are acting on it. If two people were each pushing a block with 250 N force in the same direction, we would expect the block to behave as
+        if a single 500 N force were acting on it. But if they were pushing in opposite directions, then the two vectors are now pointing in opposite directions, and
+        the two forces cancel each other out.
+      </p>
+    </example>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://mathinsight.org/vector_introduction">(MathInsight.com) An Introduction to Vectors</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+  
+</section>
+  

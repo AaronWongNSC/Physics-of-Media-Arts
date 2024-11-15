@@ -3,110 +3,114 @@
 <section xml:id="sec-physics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Physics Labs</title>
   
-  <blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>The difference between screwing around and science is writing it down.</q>
+      </p>
+      <attribution>Adam Savage (Mythbusters)</attribution>
+    </blockquote>
+  </introduction>
+
+  <paragraphs>
     <p>
-      <q>The difference between screwing around and science is writing it down.</q>
+      Physics labs are simply a formal structure that give us opportunities to practice making observations and
+      formulating ideas. In this book, we set them up in a very formal way because it's the best way to really
+      slow down the process and allow deeper insights to settle in.
     </p>
-    <attribution>Adam Savage (Mythbusters)</attribution>
-  </blockquote>
+    <p>
+      Your lab report should be understood as a completely self-contained document that describes what happened
+      in the lab and what you learned from it. You should not assume that the person reading your lab report has
+      access to the textbook or the lab procedures. All of that information must be included in your report. If
+      the lab procedure has reflection questions, you should copy those questions into the appropriate section,
+      and not just write down a number and your answers.
+    </p>
+    <p>
+      A carefully written lab report is much more than just presenting experimental data. It's a reflection of
+      your ability to communicate the ideas that you have been asked to consider. It's also important to understand
+      that not all labs work out perfectly, and sometimes you get results that are different than what is expected.
+      Part of your job as a scientific thinker is to try to understand and explain discrepancies between the
+      anticipated results and the actual results. In many cases, there is more to learn when something goes wrong
+      compared to when everything goes right.
+    </p>
+    <p>
+      The following outline should be used for all lab activities:
+    </p>
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          This section is mostly for organization purposes. You should use the title
+          that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly
+          add one in. The remainder of the header information is the name of the group members. Typically, lab groups
+          will be limited to three members, but your instructor may decide differently.
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
 
-  <p>
-    Physics labs are simply a formal structure that give us opportunities to practice making observations and
-    formulating ideas. In this book, we set them up in a very formal way because it's the best way to really
-    slow down the process and allow deeper insights to settle in.
-  </p>
-  <p>
-    Your lab report should be understood as a completely self-contained document that describes what happened
-    in the lab and what you learned from it. You should not assume that the person reading your lab report has
-    access to the textbook or the lab procedures. All of that information must be included in your report. If
-    the lab procedure has reflection questions, you should copy those questions into the appropriate section,
-    and not just write down a number and your answers.
-  </p>
-  <p>
-    A carefully written lab report is much more than just presenting experimental data. It's a reflection of
-    your ability to communicate the ideas that you have been asked to consider. It's also important to understand
-    that not all labs work out perfectly, and sometimes you get results that are different than what is expected.
-    Part of your job as a scientific thinker is to try to understand and explain discrepancies between the
-    anticipated results and the actual results. In many cases, there is more to learn when something goes wrong
-    compared to when everything goes right.
-  </p>
-  <p>
-    The following outline should be used for all lab activities:
-  </p>
-  <ul>
-    <li>
-      <title>Title and Header</title>
-      
-      <p>
-        This section is mostly for organization purposes. You should use the title
-        that is stated in the lab procedures, but if you want to come up with a clever subtitle, you may certainly
-        add one in. The remainder of the header information is the name of the group members. Typically, lab groups
-        will be limited to three members, but your instructor may decide differently.
-      </p>
-    </li>
-    <li>
-      <title>Introduction</title>
+        <p>
+          This is where you state the overall objectives of the experiment. You will also want to include
+          a discussion of the relevant concepts associated with the objectives. In a sense, you should think about this
+          as the section that teaches the reader everything they need to know in order to understand the experiment you
+          are about to run.
+        </p>
+      </li>
+      <li>
+        <title>Equipment List</title>
 
-      <p>
-        This is where you state the overall objectives of the experiment. You will also want to include
-        a discussion of the relevant concepts associated with the objectives. In a sense, you should think about this
-        as the section that teaches the reader everything they need to know in order to understand the experiment you
-        are about to run.
-      </p>
-    </li>
-    <li>
-      <title>Equipment List</title>
+        <p>
+          If the lab requires the use of specific pieces of equipment, these will be listed in this section
+          to help with organization and preparation. This section is sometimes omitted if the lab doesn't need anything
+          (other than perhaps some paper and a writing implement).
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
 
-      <p>
-        If the lab requires the use of specific pieces of equipment, these will be listed in this section
-        to help with organization and preparation. This section is sometimes omitted if the lab doesn't need anything
-        (other than perhaps some paper and a writing implement).
-      </p>
-    </li>
-    <li>
-      <title>Procedure</title>
+        <p>
+          This is where you explain the step-by-step procedure that you were meant to follow, and indications
+          of any times that you deviated from that. This part should be detailed enough that someone else can follow the
+          instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of
+          what happened should be written as paragraphs.
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
 
-      <p>
-        This is where you explain the step-by-step procedure that you were meant to follow, and indications
-        of any times that you deviated from that. This part should be detailed enough that someone else can follow the
-        instructions to attempt to replicate your experiment. Your steps should be numbered, but your explanations of
-        what happened should be written as paragraphs.
-      </p>
-    </li>
-    <li>
-      <title>Results and Data</title>
+        <p>
+          This section is where you record what happened. Typically, while you're actually running the
+          experiment you'll be keeping your data recorded in a lab notebook or on other paper. When it comes to putting
+          that data into a lab report, you are not simply copying over that information, but you are organizing it so that
+          it is as legible and understandable as possible. This may mean that you put the data into tables and a graph,
+          or maybe it's just a written description of observations at different times. This section also includes relevant
+          calculations. This does not mean that you should include all of your scratch work. It should contain just the
+          relevant calculations and a minimal amount of information or explanation (if needed) for what those calculations
+          represent. It should not be a solid wall of formulas.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
 
-      <p>
-        This section is where you record what happened. Typically, while you're actually running the
-        experiment you'll be keeping your data recorded in a lab notebook or on other paper. When it comes to putting
-        that data into a lab report, you are not simply copying over that information, but you are organizing it so that
-        it is as legible and understandable as possible. This may mean that you put the data into tables and a graph,
-        or maybe it's just a written description of observations at different times. This section also includes relevant
-        calculations. This does not mean that you should include all of your scratch work. It should contain just the
-        relevant calculations and a minimal amount of information or explanation (if needed) for what those calculations
-        represent. It should not be a solid wall of formulas.
-      </p>
-    </li>
-    <li>
-      <title>Discussion</title>
+        <p>
+          This is where the heart of the report lives. All of the other work that you've done leads up to this
+          section. Here is where you will respond to the questions that are contained in the lab. Your goal is to demonstrate
+          that you've learned something from the observations you made while executing the lab. These questions should all
+          revolve around the objectives that you presented in the introduction. When possible, you should make direct reference
+          to the objectives for emphasis. In many cases, this may also include an error analysis, where you talk about the
+          things that went wrong and how those things might be addressed if you were to do the experiment again.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
 
-      <p>
-        This is where the heart of the report lives. All of the other work that you've done leads up to this
-        section. Here is where you will respond to the questions that are contained in the lab. Your goal is to demonstrate
-        that you've learned something from the observations you made while executing the lab. These questions should all
-        revolve around the objectives that you presented in the introduction. When possible, you should make direct reference
-        to the objectives for emphasis. In many cases, this may also include an error analysis, where you talk about the
-        things that went wrong and how those things might be addressed if you were to do the experiment again.
-      </p>
-    </li>
-    <li>
-      <title>Conclusion</title>
-
-      <p>
-        Write a paragraph or two that summarizes the lab and what you learned from it.
-      </p>
-    </li>
-  </ul>
+        <p>
+          Write a paragraph or two that summarizes the lab and what you learned from it.
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
 
   <outcomes>
     <ul>

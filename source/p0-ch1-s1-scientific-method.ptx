@@ -12,106 +12,108 @@
     </blockquote>
   </introduction>
 
-  <p>
-    If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement
-    on the steps. Here are a few examples:
-  </p>
-  <ul>
-    <li>
-      <p>
-        <url href="https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology">Khan Academy's
-        Introduction to Biology</url>: (1) Make an observation; (2) Ask a question; (3) Form a hypothesis; (4) Make a prediction;
-        (5) Test the prediction; (6) Iterate
-      </p>
-    </li>
-    <li>
-      <p>
-        <url href="https://extension.unr.edu/publication.aspx?PubID=4239">University of Nevada Reno Extension's Fact Sheet on the Scientific
-        Method</url>: (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory
-      </p>
-    </li>
-    <li>
-      <p>
-        <url href="https://www.yourdictionary.com/articles/scientific-method-steps">Your Dictionary's Article on the Scientific Method</url>:
-        (1) Define purpose; (2) Construct hypothesis; (3) Test hypothesis and collect data; (4) Analyze data; (5) Draw conclusion; (6) Communicate
-        results
-      </p>
-    </li>
-  </ul>
-  <aside>
-    There are more examples in an <url href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1635141/">article</url> found in the
-    <url href="https://www.ncbi.nlm.nih.gov/pmc/journals/421/">CBE Life Sciences Education</url> journal that explores the topic much
-    more deeply and in the context of K-12 science education standards in Kansas from 2005.
-  </aside>
-  <p>
-    So what's really happening here? Most science textbooks start off by teaching students the scientific method, as if there is
-    one precise way to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
-    trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
-    what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
-    practical perspective. It is probably most correct to say that there are many scientific methods, and that
-    those methods vary from one field of study to the next. How you might try to study physics is different from how
-    you might try to study biology.
-  </p>
-  <p>
-    That said, it's not as if the ideas behind "the" scientific method are completely wrong. There is still value
-    to having a general framework as a guidepost, even if it's not completely general or completely accurate in
-    every context.
-  </p>
-  <p>
-    In this book, we are interested in trying to make the study of physics both practical and conceptual, but without getting too
-    bogged down in unnecessary details. And trying to provide a precise formulation of the scientific is one of those
-    unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.
-  </p>
-  <definition>
-    <idx><h>scientific method (informal)</h></idx>
-    <idx><h>informal scientific method</h></idx>
+  <paragraphs>
+    <p>
+      If you search around the internet for explanations of the scientific method, you'll find that there isn't an agreement
+      on the steps. Here are a few examples:
+    </p>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology">Khan Academy's
+          Introduction to Biology</url>: (1) Make an observation; (2) Ask a question; (3) Form a hypothesis; (4) Make a prediction;
+          (5) Test the prediction; (6) Iterate
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://extension.unr.edu/publication.aspx?PubID=4239">University of Nevada Reno Extension's Fact Sheet on the Scientific
+          Method</url>: (1) Make an observation; (2) Define the problem; (3) Form a hypothesis; (4) Conduct the experiment; (5) Derive a theory
+        </p>
+      </li>
+      <li>
+        <p>
+          <url href="https://www.yourdictionary.com/articles/scientific-method-steps">Your Dictionary's Article on the Scientific Method</url>:
+          (1) Define purpose; (2) Construct hypothesis; (3) Test hypothesis and collect data; (4) Analyze data; (5) Draw conclusion; (6) Communicate
+          results
+        </p>
+      </li>
+    </ul>
+    <aside>
+      There are more examples in an <url href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1635141/">article</url> found in the
+      <url href="https://www.ncbi.nlm.nih.gov/pmc/journals/421/">CBE Life Sciences Education</url> journal that explores the topic much
+      more deeply and in the context of K-12 science education standards in Kansas from 2005.
+    </aside>
+    <p>
+      So what's really happening here? Most science textbooks start off by teaching students the scientific method, as if there is
+      one precise way to do science. One of the main reasons for this is to try to establish the concept of scientific rigor. By
+      trying to put everything into a simple box, it is possible to portray science as the ultimate way to pursue
+      what is true. Unfortunately, this representation is wrong from both a historical perspective and from a
+      practical perspective. It is probably most correct to say that there are many scientific methods, and that
+      those methods vary from one field of study to the next. How you might try to study physics is different from how
+      you might try to study biology.
+    </p>
+    <p>
+      That said, it's not as if the ideas behind "the" scientific method are completely wrong. There is still value
+      to having a general framework as a guidepost, even if it's not completely general or completely accurate in
+      every context.
+    </p>
+    <p>
+      In this book, we are interested in trying to make the study of physics both practical and conceptual, but without getting too
+      bogged down in unnecessary details. And trying to provide a precise formulation of the scientific is one of those
+      unnecessary details. Instead, we will opt for a much more informal presentation of what the scientific method is.
+    </p>
+    <definition>
+      <idx><h>scientific method (informal)</h></idx>
+      <idx><h>informal scientific method</h></idx>
 
-    <title>An Informal Scientific Method</title>
-    <statement>
+      <title>An Informal Scientific Method</title>
+      <statement>
+        <p>
+          Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many
+          cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can
+          be used to refine those ideas.
+        </p>
+      </statement>
+    </definition>
+    <p>
+      This two-step understanding of the scientific method is probably the simplest way to think about the process of doing science. If we
+      go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and
+      formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to
+      advance our knowledge of physics.
+    </p>
+    <p>
+      More importantly, this framework helps to establish something that Thomas Huxley (the person quoted at the start of the section) was
+      getting at with his ideas. Here's a longer quote from his essay "On Our Knowledge of the Causes of the Phenomena of Organic Nature":
+    </p>
+    <blockquote>
       <p>
-        Scientific methodology is a two-step process of making observations and formulating ideas based on those observations. In many
-        cases, the ideas that are formulated lead to the creation of experiments in order to generate additional observations that can
-        be used to refine those ideas.
+        The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind. It is simply
+        the mode at which all phenomena are reasoned about, rendered precise and exact. There is no more difference, but there is just the
+        same kind of difference, between the mental operations of a man of science and those of an ordinary person, as there is between the
+        operations and methods of a baker or of a butcher weighing out his goods in common scales, and the operations of a chemist in performing
+        a difficult and complex analysis by means of his balance and finely-graduated weights. It is not that the action of the scales in the
+        one case, and the balance in the other, differ in the principles of their construction or manner of working; but the beam of one is
+        set on an infinitely finer axis than the other, and of course turns by the addition of a much smaller weight.
       </p>
-    </statement>
-  </definition>
-  <p>
-    This two-step understanding of the scientific method is probably the simplest way to think about the process of doing science. If we
-    go back to the examples of the scientific method found on the internet, we can see that the two steps of making observations and
-    formulating ideas are well-represented. Throughout this book, we will be referring back to these two steps as part of how we try to
-    advance our knowledge of physics.
-  </p>
-  <p>
-    More importantly, this framework helps to establish something that Thomas Huxley (the person quoted at the start of the section) was
-    getting at with his ideas. Here's a longer quote from his essay "On Our Knowledge of the Causes of the Phenomena of Organic Nature":
-  </p>
-  <blockquote>
+      <p>
+        You will understand this better, perhaps, if I give you some familiar example. You have all heard it repeated, I dare say, that men of
+        science work by means of induction and deduction, and that by the help of these operations, they, in a sort of sense, wring from Nature
+        certain other things, which are called natural laws, and causes, and that out of these, by some cunning skill of their own, they build
+        up hypotheses and theories. And it is imagined by many, that the operations of the common mind can be by no means compared with these
+        processes, and that they have to be acquired by a sort of special apprenticeship to the craft. To hear all these large words, you would
+        think that the mind of a man of science must be constituted differently from that of his fellow men; but if you will not be frightened by
+        terms, you will discover that you are quite wrong, and that all these terrible apparatus are being used by yourselves every day and every
+        hour of your lives.
+      </p>
+    </blockquote>
     <p>
-      The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind. It is simply
-      the mode at which all phenomena are reasoned about, rendered precise and exact. There is no more difference, but there is just the
-      same kind of difference, between the mental operations of a man of science and those of an ordinary person, as there is between the
-      operations and methods of a baker or of a butcher weighing out his goods in common scales, and the operations of a chemist in performing
-      a difficult and complex analysis by means of his balance and finely-graduated weights. It is not that the action of the scales in the
-      one case, and the balance in the other, differ in the principles of their construction or manner of working; but the beam of one is
-      set on an infinitely finer axis than the other, and of course turns by the addition of a much smaller weight.
+      In other words, the idea he's putting forward is that scientific thinking is just regular thinking, but more refined. There is no "magic" in
+      the scientific method that is reserved only for scientists doing real science. It's just a way of learning that is very similar to how
+      people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see
+      how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.
     </p>
-    <p>
-      You will understand this better, perhaps, if I give you some familiar example. You have all heard it repeated, I dare say, that men of
-      science work by means of induction and deduction, and that by the help of these operations, they, in a sort of sense, wring from Nature
-      certain other things, which are called natural laws, and causes, and that out of these, by some cunning skill of their own, they build
-      up hypotheses and theories. And it is imagined by many, that the operations of the common mind can be by no means compared with these
-      processes, and that they have to be acquired by a sort of special apprenticeship to the craft. To hear all these large words, you would
-      think that the mind of a man of science must be constituted differently from that of his fellow men; but if you will not be frightened by
-      terms, you will discover that you are quite wrong, and that all these terrible apparatus are being used by yourselves every day and every
-      hour of your lives.
-    </p>
-  </blockquote>
-  <p>
-    In other words, the idea he's putting forward is that scientific thinking is just regular thinking, but more refined. There is no "magic" in
-    the scientific method that is reserved only for scientists doing real science. It's just a way of learning that is very similar to how
-    people all over the world learn things. We pay attention to what's going on around us, we have ideas for what's happening, and then we see
-    how those ideas play out in reality, and we allow that reality to refine our thinking a little bit more.
-  </p>
+  </paragraphs>
 
   <outcomes>
     <ul>
