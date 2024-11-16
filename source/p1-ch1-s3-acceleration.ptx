@@ -3,16 +3,136 @@
 <section xml:id="sec-acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Acceleration</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>I think my acceleration is very good. That's the key for me.</q>
+      </p>
+      <attribution>Usain Bolt</attribution>
+    </blockquote>
 
-  <p>
-    ...
-  </p>
+    <p>
+      The concept of velocity is that it is measuring how the position of an object changes over time. This idea sets us up the idea for how we can develop
+      other physics concepts. Rather than asking how the position changes over time, we can ask about how the velocity is changing over time. This gives us
+      the concept of acceleration.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Defining Acceleration</title>
+
+    <p>
+      <idx><h>acceleration</h></idx>
+
+      The formula that defines <term>acceleration</term> is <m>a = \frac{\Delta v}{\Delta t}</m>, where <m>\Delta v</m> is the change in the velocity and
+      <m>\Delta t</m> is the change in time. This mirrors the formula that defines velocity. The units of acceleration take a little bit of getting used to.
+      Since the units of velocity are <m>\frac{\text{Length}}{\text{Time}}</m>, the units of acceleration are
+      <m>\frac{\text{Length} / \text{Time}}{\text{Time}} = \frac{\text{Length}}{\text{Time}^2}</m>.
+    </p>
+    <p>
+      It can be tempting to try to over-interpret these units. When you see it in the latter form, you might be tempted to try to understand what "squared
+      seconds" are as a unit. But that unit is not a very sensible object to talk about because we don't ever really multiply time by itself. The reason
+      we write it in the latter form is because it's more compact, but the "more correct" way to see it is the former way. It's measuring how velocity
+      (which happens to be measured in units of <m>\frac{\text{Length}}{\text{Time}}</m>) changes over time.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Average and Instantaneous Acceleration</title>
+
+    <p>
+      <idx><h>acceleration, average</h></idx>
+      <idx><h>acceleration, instantaneous</h></idx>
+
+      Just as with velocity, the basic formula technically gives us <term>average acceleration</term>. This is because you still have to have a time interval
+      over which you're measuring the change of velocity, and it's possible for nuances of the changes in velocity to get lost in that. Just as before, we can
+      construct the idea of the <term>instantaneous acceleration</term> as the accelration at a specific moment in time, which runs into the same conundrum of
+      there not being a single instant of time that is being observed. The basic resolution, as noted before, is to just take small enough time increments so
+      that the change in velocity over that period of time is negligible.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Practically Measuring Acceleration</title>
+
+    <p>
+      Acceleration is more a more complicated value, and it requires more information for us to determine it from positions. Let's imagine that we have a movie.
+      If we look at any particular frame by itself, we won't be able to measure either velocity or acceleration. That single instant of time does not give us the
+      information we need. If we were to look one frame later, would could see changes in the position, which would allow us to get the velocity. However, that is only
+      a single velocity value. In order to see a change in velocity, we have to look at a third frame so that we can measure the velocity between frames the
+      second two frames, and then see how that velocity is changing.
+    </p>
+    <p>
+      <idx><h>accelerometer</h></idx>
+
+      While this multi-layered calculation is often required, we have other tools that measure acceleration. Such tools are known as <term>accelerometers</term>.
+      There are digital devices that do this, but while those devices are great for data collection, they also hide all of the concepts inside of the circuitry,
+      and so it's harder to understand what's happening. So we will think about the classic analog accelerometer. You should imagine a clear tube with a ball in
+      the middle that is connected to the top and bottom of the tube by springs. If you hold the tube vertically and motionless for a while, the ball will
+      eventually settle into what is known as the "equilibrium position", which is what gives us our reference point. If you lift the tube upward quickly, you
+      should be able to intuitively see that the ball will initially shift downward relative to the tube. This is how it indicates an upward acceleration.
+      Similarly, (after letting it reach equilirbrium again) if you lower the tube quickly, the ball will shift upward. This gives the basic idea for how
+      these devices work.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Experience of Acceleration</title>
+
+    <p>
+      A lot of people have a misconception of acceleration. They often think that "acceleration" means "fast." For example, "a car with great acceleration goes fast."
+      But this is the wrong way to think about it. Instead, it makes more sense to think about acceleration in terms of how we can experience it.
+    </p>
+    <p>
+      But before we can do that, we need to establish something about velocity. It turns out that we don't directly experience velocity. This may sound strange at first,
+      since you have a lot of experiences of moving quickly and moving slowly, and you know the difference between them. The challenge of experiencing velocity is that
+      we can only observe it visually. We look at things that are around us, and those things tell us whether we're moving. You might be sitting in a room and think that
+      you are stationary, but in reality, you're sitting on a globe that's spinning. In fact, if you were at the equator, you would be traveling at around 1600 km/hr.
+      And if you zoom out a bit more, you're on a planet that is orbiting the sun at around 30 km/s. But you don't experience any of that velocity because all you have
+      as reference points are the objects around you, and they are on the same ride you are.
+    </p>
+    <p>
+      Acceleration, on the other hand, can be experienced directly. If you're in an accelerating vehicle, you will feel your body being pushed backwards slightly if you
+      are speeding up, or you will feel your body being pushed forward if you are slowing down. You will also feel acceleration when riding an elevator, by feeling yourself
+      being pushed down slightly if the elevator is accelerating upward and by feeling a little lighter if the elevator is accelerating downward. Notice that the feeling
+      in the elevator is independent of whether the elevator is going up or down. All that matters is how the velocity is changing.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>G-Force</title>
+    
+    <p>
+      A common unit for measuring acceleration in is in <m>g</m>s, which is also called g-force. Even though it has "force" in the name, it's really an acceleration,
+      but in a confusing twist of physics, it is very closely connected to forces and so the name really does make sense. (If you know about <m>F = ma</m>, then you
+      might be ablet to make sense of the idea that g-force is force per unit of mass.)) The numerical value of <m>g</m> is 9.8 m/s<m>^2</m>, which is the
+      conventional value for the acceleration on earth due to gravity alone. (It turns out that the true acceleration changes depending on where you are on the
+      planet.)
+    </p>
+    <p>
+      G-forces are used to help give us a relative sense of how much acceleration something is experiencing. For example, it is known that the g-force on the moon is
+      about 0.16 g. (This is not to be confused with 0.16 grams!) What this means is that you weigh about 16% (about 1/6) of what you normally do. Alternatively, if you
+      on the sufrace of the sun (and somehow not dead), the g-force is 28 g, and so it would be like you weigh 28 times heavier on there.
+    </p>
+    <p>
+      G-forces are also used to measure acceleration in other contexts. A stunt pilot might experience an acceleration of 9 g, which means that for that particular
+      maneuver it's as if they weighed 9 times more with gravity pushing them in some direction based on how they are turning.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://openstax.org/books/physics/pages/3-1-acceleration">(OpenStax Physics) 3.1 Acceleration</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
 </section>
 
 <!-- Additional Resources:

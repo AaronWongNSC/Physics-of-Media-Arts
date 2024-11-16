@@ -1,0 +1,244 @@
+<subsection xml:id="lab-2d-position-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Two-Dimensional Position Graphs</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      We saw how one-dimensional motion can be presented as a position graph with time as the horizontal axis and position as the vertical axis. But how do
+      these ideas extend into more dimensions? It turns out that each dimension can have its own motion graphs, and that by properly aligning the motion in
+      both dimensions, it's possible to create the desired movements. We will be using simple flip books as the medium to help us gain a deeper understanding of
+      this process.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          3x5 index cards (about 100)
+        </p>
+      </li>
+      <li>
+        <p>
+          Ruler
+        </p>
+      </li>
+      <li>
+        <p>
+          Ruler
+        </p>
+      </li>
+      <li>
+        <p>
+          Binder clip
+        </p>
+      </li>
+      <li>
+        <p>
+          Pencil
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+        The task will be broken into two phases. The first phase is to prepare the flipbook materials. The second phase is to create animations based on
+        the given position graphs.
+    </p>
+
+    <ul>
+      <li>
+        <p>
+          Since the animations we are drawing are going to be given by graphs, it will be important that each page of the flipbook is drawn consistently, otherwise
+          the motion will not appear the way it should. In order to be consistent, it is helpful to create a template that you will use to create all of the pages
+          of animations with.
+        </p>
+        <ul>
+          <li>
+            <p>
+              Take an index card and lay it out so that the long direction is horizontal. Measure 3 cm in from the left side and draw a vertical line. This is just
+              a margin for the binder clip, so it doesn't need to be perfect.
+            </p>
+          </li>
+          <li>
+            <p>
+              Measure 5 cm from the left edge and draw another vertical line. Try to get this line as close to vertical as possible. This will be the left edge
+              of your frame. Do the same thing at 11 cm. This will be the right edge of your frame. (You may find it helpful to measure the distances at the top
+              and bottom of the index card, and then use those two markings to get a good vertical line.)
+            </p>
+          </li>
+          <li>
+            <p>
+              Draw a horizontal line down the middle of the card. It doesn't need to be exactly in the middle, but you should try to make it as close to horizontal
+              as possible. Measure 3 cm above and below this line at the left and right edges of the frame and connect those points to create a 6 cm by 6 cm square.
+              This square is the entirety of your frame.
+            </p>
+          </li>
+          <li>
+            <p>
+              Carefully cut out the square. Make 1 cm markings all the way around the square. These will be your reference markings to help you determine the
+              coordinates of the points in your frame. Label the markings from -3 to 3 left-to-right, and again bottom-to-top. In the end, you should have something
+              that looks like this:
+            </p>
+            <figure>
+              <image source="images/2d-position-graphs/template.png" />
+            </figure>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p>
+          Below are several pairs of graphs that represent the x and y positions of an object that you are going to animate. For each pair, you will be given
+          a total number of frames of animation that you will need to make with it. You will need to draw the correct number of vertical lines to ensure that
+          you traverse the animation with roughly equal time steps. An example is provided below. You can choose the shape of your object, but it is recommended
+          to keep it simple (like a circle or a square). You will want to try to draw the object the same size every frame.
+        </p>
+        <ul>
+          <li>
+            <p>
+              ANIMATION 1
+            </p>
+          </li>
+          <li>
+            <p>
+              ANIMATION 2
+            </p>
+          </li>
+          <li>
+            <p>
+              ANIMATION 3
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <example>
+    <title>Sample Animation</title>
+    
+    <p>
+      Consider the following graphs:
+    </p>
+    <figure>
+      <image source="images/2d-position-graphs/sample1.png" width="50%"/>
+    </figure>
+    <p>
+      The first step is to break the animation into 9 equally-spaced frames. We will denote these frames with vertical lines. Notice that in order to get 9 frames,
+      you must have 8 spaces. Corresponding to each frame is an x-coordinate and a y-coordinate. We have listed these under each marking.
+    </p>
+    <figure>
+      <image source="images/2d-position-graphs/sample2.png" width="50%"/>
+    </figure>
+    <p>
+      These coordinates give us the locations to draw our shape (a circle for this example), with each shape getting its own frame. All of the images are drawn together
+      here just to save space. Also notice that frames 1 and 9 are in the same position. From this, we can see that this is the animation of an object moving around a
+      rotated square.
+    </p>
+    <figure>
+      <image source="images/2d-position-graphs/sample3.png" width="50%"/>
+    </figure>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <ol>
+      <li>
+        <p>
+          What experiences have you had (before this lab) with making flipbooks animations? If you've made flipbooks, what are the similarities and differences
+          between what you've done in the past and this lab?
+        </p>
+      </li>
+      <li>
+        <p>
+          WHAT SHOULD THEY BE THINKING ABOUT?
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      For this lab, we focused on just the position of the object being animated. But this same concept can be applied to a much wider range of behaviors.
+      For example, it's possible that one of the graphs will represent the rotation of the object or the angle of a joint. By stacking multiple layers of these
+      graphs on top of an object, it's possible to create extremely nuanced behaviors.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

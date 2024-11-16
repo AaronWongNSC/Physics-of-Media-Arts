@@ -21,8 +21,8 @@
   <xi:include href="p1-ch1-s1-position.ptx" />
   <xi:include href="p1-ch1-s2-velocity.ptx" />
   <xi:include href="p1-ch1-s3-acceleration.ptx" />
-  <xi:include href="p1-ch1-s4-calculus.ptx" />
+  <!-- <xi:include href="p1-ch1-s4-calculus.ptx" /> -->
   
-  <xi:include href="p1-ch1-sL-0-one-dim-labs.ptx" />
+  <xi:include href="p1-ch1-sL-0-kinematics-basics-labs.ptx" />
 
 </chapter>

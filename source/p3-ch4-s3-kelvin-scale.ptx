@@ -38,7 +38,7 @@
       temperature of an object's blackbody radiation.
     </p>
     <figure>
-      <image source="images/KelvinColorSpace.png" width="50%" />
+      <image source="images/color-science/KelvinColorSpace.png" width="50%" />
       <caption>Image taken from https://upload.wikimedia.org/wikipedia/commons/b/ba/PlanckianLocus.png</caption>
     </figure>
     <p>
@@ -50,7 +50,7 @@
       The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.
     </p>
     <figure>
-      <image source="images/KelvinBulbs.jpg" />
+      <image source="images/color-science/KelvinBulbs.jpg" />
       <caption>Image taken from https://www.larsonelectronics.com/blog/2019/04/19/led-lighting/understanding-kelvin-ranges-in-lighting-and-their-best-applications</caption>
     </figure>
 

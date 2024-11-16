@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-kinematic-basics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab Activities: The Basics of Kinematics</title>
+
+  <xi:include href="./p1-ch1-sL-1-2d-position-graphs.ptx" />
+
+</section>
