@@ -718,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Velocity",
-  "body": " Velocity     If my calculations are correct, when this baby hits 88 miles per hour, you're gonna see some serious sh-t.   Doctor Emmett Brown (Back to the Future)   It is highly probable that you have some basic intuition about speed just based on your general life experiences. The goal for this sections is not so much about teaching you something new, but helping you to formalize that intuition and make it more concrete.    Speed vs. Velocity   speed  velocity  Speed is a number that measures of how fast something is moving. Velocity is a vector that indicates how fast something is moving and in which direction. Under this framework, the magnitude of velocity is the speed, and speed is never a negative value. In common usage, speed and velocity are often interchangeable. However, from the definitions you can see that they are not interchangable in physics courses. So just be aware of the distinction and do your best to practice being precise in your language.    Defining Velocity  Although we have a lot of experience with velocity, it takes a bit of thought to translate those experiences into something formal. In order for there to be velocity, there must be some amount of motion. And that motion will require an amount of time. Velocity is made up of the ratio of those two quantities. Specifically, we define velocity as , where is the change in position during the observed movement, and is the amount of time the movement took.   Basic Velocity Calculation: Driving to the Beach  Suppose you are going to drive to the beach. Let's say that leave the house at 7 AM and arrive at the beach 9 AM and the beach is 120 miles away from your home. Your change in position is 120 miles and the amount of time it took for you to complete that change of position is 2 hours. Therefore, we would say that your velocity for the trip was .   This formula is often rewritten as , or more simply as .    Average and Instantaneous Velocity   velocity, average Technically, this formula gives us the average velocity . The reason is that this calculation doesn't take into account all of the nuances of what happens between the start and end of the motion. In the example, it's probably the case that the car stopped somewhere along the way (at a stop sign or traffic light), and at that moment the car was not moving at 60 miles per hour. Simiarly, it's likely that the car was driving faster than 60 mph on the freway. But because the elapsed time is so large, all of those details are lost and we are only left with the overall picture.   velocity, instantaneous Another way to think about the velocity is to try to keep track of all of those details. Rather than just thinking about the starting and stopping times and positions, we want to know what was happening at every moment of the trip. We would call that the instantaneous velocity . It's not hard to imagine creating a chart of values for velocity at specific times along the trip, similar to how we can create a chart of the position at any time. However, there's an interesting question that arises from this. What do we even mean by \"velocity at a specific time\"? How would we measure it? Velocity requires movement, and movement requires time, so we will always need both a start time and a stop time for any measurement, and they can't be the same. This brings us back to the arrow paradox!   We will say more about this in a later section, but the if we practically want to try to get instantaneous velocity, we need to collect data in small enough increments that any change in velocity between the start and stop time is \"small enough\" to be ignored.       (OpenStax Physics) 2.2 Speed and Velocity      "
+  "body": " Velocity     If my calculations are correct, when this baby hits 88 miles per hour, you're gonna see some serious sh-t.   Doctor Emmett Brown (Back to the Future)   It is highly probable that you have some basic intuition about speed just based on your general life experiences. The goal for this sections is not so much about teaching you something new, but helping you to formalize that intuition and make it more concrete.    Speed vs. Velocity   speed  velocity  Speed is a number that measures of how fast something is moving. Velocity is a vector that indicates how fast something is moving and in which direction. Under this framework, the magnitude of velocity is the speed, and speed is never a negative value. In common usage, speed and velocity are often interchangeable. However, from the definitions you can see that they are not interchangable in physics courses. So just be aware of the distinction and do your best to practice being precise in your language.    Defining Velocity  Although we have a lot of experience with velocity, it takes a bit of thought to translate those experiences into something formal. In order for there to be velocity, there must be some amount of motion. And that motion will require an amount of time. Velocity is made up of the ratio of those two quantities. Specifically, we define velocity as , where is the change in position during the observed movement, and is the amount of time the movement took. Notice that this creates a unit of , such as meters per second or miles per hour.   Basic Velocity Calculation: Driving to the Beach  Suppose you are going to drive to the beach. Let's say that leave the house at 7 AM and arrive at the beach 9 AM and the beach is 120 miles away from your home. Your change in position is 120 miles and the amount of time it took for you to complete that change of position is 2 hours. Therefore, we would say that your velocity for the trip was .   This formula is often rewritten as , or more simply as .    Average and Instantaneous Velocity   velocity, average Technically, this formula gives us the average velocity . The reason is that this calculation doesn't take into account all of the nuances of what happens between the start and end of the motion. In the example, it's probably the case that the car stopped somewhere along the way (at a stop sign or traffic light), and at that moment the car was not moving at 60 miles per hour. Simiarly, it's likely that the car was driving faster than 60 mph on the freway. But because the elapsed time is so large, all of those details are lost and we are only left with the overall picture.   velocity, instantaneous Another way to think about the velocity is to try to keep track of all of those details. Rather than just thinking about the starting and stopping times and positions, we want to know what was happening at every moment of the trip. We would call that the instantaneous velocity . It's not hard to imagine creating a chart of values for velocity at specific times along the trip, similar to how we can create a chart of the position at any time. However, there's an interesting question that arises from this. What do we even mean by \"velocity at a specific time\"? How would we measure it? Velocity requires movement, and movement requires time, so we will always need both a start time and a stop time for any measurement, and they can't be the same. This brings us back to the arrow paradox!   We will say more about this in a later section, but the if we practically want to try to get instantaneous velocity, we need to collect data in small enough increments that any change in velocity between the start and stop time is \"small enough\" to be ignored. So if we imagine two consecutive frames of a movie, we can think about how much the object moved over that period of time, and then use that with the framerate to get a good estimate of the instantaneous velocity.       (OpenStax Physics) 2.2 Speed and Velocity      "
 },
 {
   "id": "sec-velocity-3-2",
@@ -772,41 +772,77 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Acceleration",
-  "body": " Acceleration    -----   ------   ...  "
+  "body": " Acceleration     I think my acceleration is very good. That's the key for me.   Usain Bolt   The concept of velocity is that it is measuring how the position of an object changes over time. This idea sets us up the idea for how we can develop other physics concepts. Rather than asking how the position changes over time, we can ask about how the velocity is changing over time. This gives us the concept of acceleration.    Defining Acceleration   acceleration The formula that defines acceleration is , where is the change in the velocity and is the change in time. This mirrors the formula that defines velocity. The units of acceleration take a little bit of getting used to. Since the units of velocity are , the units of acceleration are .  It can be tempting to try to over-interpret these units. When you see it in the latter form, you might be tempted to try to understand what \"squared seconds\" are as a unit. But that unit is not a very sensible object to talk about because we don't ever really multiply time by itself. The reason we write it in the latter form is because it's more compact, but the \"more correct\" way to see it is the former way. It's measuring how velocity (which happens to be measured in units of ) changes over time.    Average and Instantaneous Acceleration   acceleration, average  acceleration, instantaneous Just as with velocity, the basic formula technically gives us average acceleration . This is because you still have to have a time interval over which you're measuring the change of velocity, and it's possible for nuances of the changes in velocity to get lost in that. Just as before, we can construct the idea of the instantaneous acceleration as the accelration at a specific moment in time, which runs into the same conundrum of there not being a single instant of time that is being observed. The basic resolution, as noted before, is to just take small enough time increments so that the change in velocity over that period of time is negligible.    Practically Measuring Acceleration  Acceleration is more a more complicated value, and it requires more information for us to determine it from positions. Let's imagine that we have a movie. If we look at any particular frame by itself, we won't be able to measure either velocity or acceleration. That single instant of time does not give us the information we need. If we were to look one frame later, would could see changes in the position, which would allow us to get the velocity. However, that is only a single velocity value. In order to see a change in velocity, we have to look at a third frame so that we can measure the velocity between frames the second two frames, and then see how that velocity is changing.   accelerometer While this multi-layered calculation is often required, we have other tools that measure acceleration. Such tools are known as accelerometers . There are digital devices that do this, but while those devices are great for data collection, they also hide all of the concepts inside of the circuitry, and so it's harder to understand what's happening. So we will think about the classic analog accelerometer. You should imagine a clear tube with a ball in the middle that is connected to the top and bottom of the tube by springs. If you hold the tube vertically and motionless for a while, the ball will eventually settle into what is known as the \"equilibrium position\", which is what gives us our reference point. If you lift the tube upward quickly, you should be able to intuitively see that the ball will initially shift downward relative to the tube. This is how it indicates an upward acceleration. Similarly, (after letting it reach equilirbrium again) if you lower the tube quickly, the ball will shift upward. This gives the basic idea for how these devices work.    The Experience of Acceleration  A lot of people have a misconception of acceleration. They often think that \"acceleration\" means \"fast.\" For example, \"a car with great acceleration goes fast.\" But this is the wrong way to think about it. Instead, it makes more sense to think about acceleration in terms of how we can experience it.  But before we can do that, we need to establish something about velocity. It turns out that we don't directly experience velocity. This may sound strange at first, since you have a lot of experiences of moving quickly and moving slowly, and you know the difference between them. The challenge of experiencing velocity is that we can only observe it visually. We look at things that are around us, and those things tell us whether we're moving. You might be sitting in a room and think that you are stationary, but in reality, you're sitting on a globe that's spinning. In fact, if you were at the equator, you would be traveling at around 1600 km\/hr. And if you zoom out a bit more, you're on a planet that is orbiting the sun at around 30 km\/s. But you don't experience any of that velocity because all you have as reference points are the objects around you, and they are on the same ride you are.  Acceleration, on the other hand, can be experienced directly. If you're in an accelerating vehicle, you will feel your body being pushed backwards slightly if you are speeding up, or you will feel your body being pushed forward if you are slowing down. You will also feel acceleration when riding an elevator, by feeling yourself being pushed down slightly if the elevator is accelerating upward and by feeling a little lighter if the elevator is accelerating downward. Notice that the feeling in the elevator is independent of whether the elevator is going up or down. All that matters is how the velocity is changing.    G-Force  A common unit for measuring acceleration in is in s, which is also called g-force. Even though it has \"force\" in the name, it's really an acceleration, but in a confusing twist of physics, it is very closely connected to forces and so the name really does make sense. (If you know about , then you might be ablet to make sense of the idea that g-force is force per unit of mass.)) The numerical value of is 9.8 m\/s , which is the conventional value for the acceleration on earth due to gravity alone. (It turns out that the true acceleration changes depending on where you are on the planet.)  G-forces are used to help give us a relative sense of how much acceleration something is experiencing. For example, it is known that the g-force on the moon is about 0.16 g. (This is not to be confused with 0.16 grams!) What this means is that you weigh about 16% (about 1\/6) of what you normally do. Alternatively, if you on the sufrace of the sun (and somehow not dead), the g-force is 28 g, and so it would be like you weigh 28 times heavier on there.  G-forces are also used to measure acceleration in other contexts. A stunt pilot might experience an acceleration of 9 g, which means that for that particular maneuver it's as if they weighed 9 times more with gravity pushing them in some direction based on how they are turning.       (OpenStax Physics) 3.1 Acceleration      "
 },
 {
-  "id": "sec-calculus",
-  "level": "1",
-  "url": "sec-calculus.html",
-  "type": "Section",
-  "number": "4.4",
-  "title": "Calculus",
-  "body": " Calculus    -----   ------   A short introduction to conceptual calculus.  "
-},
-{
-  "id": "lab-animating-kinematics",
-  "level": "1",
-  "url": "lab-animating-kinematics.html",
-  "type": "Lab Activity",
-  "number": "4.5.1",
-  "title": "Animating Kinematics",
-  "body": " Animating Kinematics   Introduction  Students make flipbooks demonstrating kinematic concepts in one dimension.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-animating-kinematics-4",
+  "id": "sec-acceleration-3-2",
   "level": "2",
-  "url": "lab-animating-kinematics.html#lab-animating-kinematics-4",
-  "type": "Example",
-  "number": "4.5.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "url": "sec-acceleration.html#sec-acceleration-3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "acceleration "
 },
 {
-  "id": "lab-animating-kinematics-8",
+  "id": "sec-acceleration-4-2",
   "level": "2",
-  "url": "lab-animating-kinematics.html#lab-animating-kinematics-8",
+  "url": "sec-acceleration.html#sec-acceleration-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "average acceleration instantaneous acceleration "
+},
+{
+  "id": "sec-acceleration-5-3",
+  "level": "2",
+  "url": "sec-acceleration.html#sec-acceleration-5-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "accelerometers "
+},
+{
+  "id": "sec-acceleration-8",
+  "level": "2",
+  "url": "sec-acceleration.html#sec-acceleration-8",
   "type": "Additional Resources",
-  "number": "4.5.1",
+  "number": "4.3",
+  "title": "",
+  "body": "    (OpenStax Physics) 3.1 Acceleration     "
+},
+{
+  "id": "lab-2d-position-graphs",
+  "level": "1",
+  "url": "lab-2d-position-graphs.html",
+  "type": "Lab Activity",
+  "number": "4.4.1",
+  "title": "Two-Dimensional Position Graphs",
+  "body": " Two-Dimensional Position Graphs   Introduction  We saw how one-dimensional motion can be presented as a position graph with time as the horizontal axis and position as the vertical axis. But how do these ideas extend into more dimensions? It turns out that each dimension can have its own motion graphs, and that by properly aligning the motion in both dimensions, it's possible to create the desired movements. We will be using simple flip books as the medium to help us gain a deeper understanding of this process.    Equipment List    3x5 index cards (about 100)    Ruler    Ruler    Binder clip    Pencil      Procedure  The task will be broken into two phases. The first phase is to prepare the flipbook materials. The second phase is to create animations based on the given position graphs.    Since the animations we are drawing are going to be given by graphs, it will be important that each page of the flipbook is drawn consistently, otherwise the motion will not appear the way it should. In order to be consistent, it is helpful to create a template that you will use to create all of the pages of animations with.    Take an index card and lay it out so that the long direction is horizontal. Measure 3 cm in from the left side and draw a vertical line. This is just a margin for the binder clip, so it doesn't need to be perfect.    Measure 5 cm from the left edge and draw another vertical line. Try to get this line as close to vertical as possible. This will be the left edge of your frame. Do the same thing at 11 cm. This will be the right edge of your frame. (You may find it helpful to measure the distances at the top and bottom of the index card, and then use those two markings to get a good vertical line.)    Draw a horizontal line down the middle of the card. It doesn't need to be exactly in the middle, but you should try to make it as close to horizontal as possible. Measure 3 cm above and below this line at the left and right edges of the frame and connect those points to create a 6 cm by 6 cm square. This square is the entirety of your frame.    Carefully cut out the square. Make 1 cm markings all the way around the square. These will be your reference markings to help you determine the coordinates of the points in your frame. Label the markings from -3 to 3 left-to-right, and again bottom-to-top. In the end, you should have something that looks like this:         Below are several pairs of graphs that represent the x and y positions of an object that you are going to animate. For each pair, you will be given a total number of frames of animation that you will need to make with it. You will need to draw the correct number of vertical lines to ensure that you traverse the animation with roughly equal time steps. An example is provided below. You can choose the shape of your object, but it is recommended to keep it simple (like a circle or a square). You will want to try to draw the object the same size every frame.    ANIMATION 1    ANIMATION 2    ANIMATION 3        Sample Animation  Consider the following graphs:     The first step is to break the animation into 9 equally-spaced frames. We will denote these frames with vertical lines. Notice that in order to get 9 frames, you must have 8 spaces. Corresponding to each frame is an x-coordinate and a y-coordinate. We have listed these under each marking.     These coordinates give us the locations to draw our shape (a circle for this example), with each shape getting its own frame. All of the images are drawn together here just to save space. Also notice that frames 1 and 9 are in the same position. From this, we can see that this is the animation of an object moving around a rotated square.       Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-2d-position-graphs-4-3-1-2-4-2",
+  "level": "2",
+  "url": "lab-2d-position-graphs.html#lab-2d-position-graphs-4-3-1-2-4-2",
+  "type": "Figure",
+  "number": "4.4.1.1",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "lab-2d-position-graphs-5",
+  "level": "2",
+  "url": "lab-2d-position-graphs.html#lab-2d-position-graphs-5",
+  "type": "Example",
+  "number": "4.4.1.2",
+  "title": "Sample Animation.",
+  "body": " Sample Animation  Consider the following graphs:     The first step is to break the animation into 9 equally-spaced frames. We will denote these frames with vertical lines. Notice that in order to get 9 frames, you must have 8 spaces. Corresponding to each frame is an x-coordinate and a y-coordinate. We have listed these under each marking.     These coordinates give us the locations to draw our shape (a circle for this example), with each shape getting its own frame. All of the images are drawn together here just to save space. Also notice that frames 1 and 9 are in the same position. From this, we can see that this is the animation of an object moving around a rotated square.     "
+},
+{
+  "id": "lab-2d-position-graphs-9",
+  "level": "2",
+  "url": "lab-2d-position-graphs.html#lab-2d-position-graphs-9",
+  "type": "Additional Resources",
+  "number": "4.4.1",
   "title": "",
   "body": "    Google     "
 },
