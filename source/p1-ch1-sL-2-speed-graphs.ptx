@@ -1,14 +1,13 @@
-<subsection xml:id="lab-2d-position-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Two-Dimensional Position Graphs</title>
+<subsection xml:id="lab-speed-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Speed Graphs</title>
 
   <paragraphs>
     <title>Introduction</title>
 
     <p>
-      We saw how one-dimensional motion can be presented as a position graph with time as the horizontal axis and position as the vertical axis. But how do
-      these ideas extend into more dimensions? It turns out that each dimension can have its own motion graphs, and that by properly aligning the motion in
-      both dimensions, it's possible to create the desired movements. We will be using simple flip books as the medium to help us gain a deeper understanding of
-      this process.
+      The speed graph is a tool in Adobe After Effects (a video editing software) that allows you to control how it interpolates the movement of an
+      object between keyframes. This lab will help you develop some intuition about the theory of those graphs. (Note: This will not be a direct
+      tutorial in After Effects, so you will not need access to the software to do the lab.)
     </p>
   </paragraphs>
 
@@ -50,7 +49,7 @@
 
     <p>
         The task will be broken into two phases. The first phase is to prepare the flipbook materials. The second phase is to create animations based on
-        the given position graphs.
+        the given speed graphs.
     </p>
 
     <ul>
@@ -77,28 +76,26 @@
           <li>
             <p>
               Draw a horizontal line down the middle of the card. It doesn't need to be exactly in the middle, but you should try to make it as close to horizontal
-              as possible. Measure 3 cm above and below this line at the left and right edges of the frame and connect those points to create a 6 cm by 6 cm square.
-              This square is the entirety of your frame.
+              as possible. Measure 2.5 cm above and below this line at the left and right edges of the frame and connect those points to create a 6 cm by 5 cm square.
+              Then measure 1 cm increments down the left and right sides of the square and form three rectangles. (See diagram.)
             </p>
           </li>
           <li>
             <p>
-              Carefully cut out the square. Make 1 cm markings all the way around the square. These will be your reference markings to help you determine the
+              Carefully cut out the the rectangles. Make 1 cm markings horizontally across the slit. These will be your reference markings to help you determine the
               coordinates of the points in your frame. Label the markings from -3 to 3 left-to-right, and again bottom-to-top. In the end, you should have something
               that looks like this:
             </p>
             <figure>
-              <image source="images/2d-position-graphs/template.png" />
+              <image source="images/speed-graphs/template.png" />
             </figure>
           </li>
         </ul>
       </li>
       <li>
         <p>
-          Below are several pairs of graphs that represent the x and y positions of an object that you are going to animate. For each pair, you will be given
-          a total number of frames of animation that you will need to make with it. You will need to draw the correct number of vertical lines to ensure that
-          you traverse the animation with roughly equal time steps. An example is provided below. You can choose the shape of your object, but it is recommended
-          to keep it simple (like a circle or a square). You will want to try to draw the object the same size every frame.
+          Below is a sets of graphs that represent the horizontal velocities of three objects that you are going to animate. The initial positions of each object
+          are indicated. For each object................
         </p>
         <ul>
           <li>

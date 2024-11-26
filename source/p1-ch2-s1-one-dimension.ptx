@@ -3,16 +3,58 @@
 <section xml:id="sec-one-dim-const-acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>One-Dimensional Motion with Constant Acceleration</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
-  <p>
-    ...
-  </p>
+    <p>
+      In this section, we will be focusing on describing the kinematics objects when there is a constant acceleration. Before getting started, we are going to
+      introduce some basic notation.
+    </p>
+    <ul>
+      <li>
+        <p>
+          <m>a</m>: The constant acceleration.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>v = v(t)</m>: Velocity as a function of time. This notation means that we will sometimes use a <m>v</m> by itself, but you need to remember that this
+          changes with time. If we need to explicitly indicate the time, we will use the second notation with <m>t</m> being the specific value.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>v_0 = v(0)</m>: Initial velocity. Notice that this notation means that we are using the velocity at time <m>t = 0</m> as the value of <m>v_0</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>s = s(t)</m>: Position as a function of time. This follows the same notation rules as velocity.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>s_0 = s(0)</m>: Initial position.
+        </p>
+      </li>
+    </ul>
+  </introduction>
+
+  <paragraphs>
+    <title>The Constant Acceleration Equations</title>
+    
+    <p>
+      Here are the equations for position and velocity when the acceleration is constant:
+    </p>
+    <md>
+      <mrow> x(t) \amp </mrow>
+    </md>
+  </paragraphs>
 </section>
 
 <!-- Additional Resources:

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-position-velocity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Position and Velocity</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
+
+    <p>
+      The formula that gives the average velocity, <m>v = \frac{\Delta s}{\Delta t}</m>, is more important and more powerful than it might seem at first.
+      We will only scratch the surface of what can be done with this idea in this section, but the big picture is that this is essentially the root of
+      the mathematical field of calculus. All you need to do is add the idea of really small time intervals and do a bit of algebra, and you've developed
+      the core ideas of differential calculus. Furthermore, if you rearrange the equation into the form <m>\Delta s = v \Delta t</m>, you are on the
+      threshold of integral calculus.
+    </p>
+    <p>
+      Our approach will be very graphical and example-driven, and we'll leave it for the curious student to figure out how to generalize this and formally
+      develop calculus for themselves.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Getting Velocity from Position</title>
+    
+    <p>
+      Usually when we think about the formula <m>v = \frac{\Delta s}{\Delta t}</m>, we tend to be looking at problems where the data is given to us through
+      words. "A person rides their bike a distance of 45 km in 3 hours. Determine their velocity." The formula allows us to plug in numbers directly and get
+      the correct answer of 15 km/h. Our goal is to understand this process from a purely graphical perspective.
+    </p>
+    <p>
+      We will begin by thinking about what the position graph would look like given the data. We will have to make an assumption, such as treating the
+      starting point of the ride as the origin. But once that's in place, our graph contains exactly two data points. When <m>t = 0</m> the position is
+      <m>s = 0</m>, and when <m>t = 3</m> the position is <m>s = 45</m>. With this picture, the most basic way to interpolate the journey between the
+      two data points is with a straight line. (Of course, we know it probably wasn't exactly like this, but we're not going to try to make this more
+      complicated than it needs to be.)
+    </p>
+    <p>
+      GRAPH
+    </p>
+    <p>
+      Once we have this picture, we can start to look for where velocity might be found from the graph. And the big key comes from an important fact about
+      lines. You might remember that you can determine the slope of a line using "rise over run", which is sometimes denoted <m>\frac{\Delta y}{\Delta x}</m>.
+      Those deltas should feel familiar, and if you look at how we've labeled our axes, you can see that slope and velocity are exactly the same thing. What this
+      means is that the slope of the position graph gives us velocity. There's a bit of work required to formalize this (which is where calculus comes in), but
+      it's mostly intuitive that with smooth-looking curves, we might think of the slope at a point as the slope of the tangent to the curve. 
+    </p>
+    <p>
+      GRAPH
+    </p>
+    <p>
+      There are four basic ideas that we want to get from this:
+    </p>
+    <ul>
+      <li>
+        <p>
+          Positive slopes correspond to forward movement.
+        </p>
+      </li>
+      <li>
+        <p>
+          Negative slopes correspond to backwards movement.
+        </p>
+      </li>
+      <li>
+        <p>
+          Steeper slopes correspond to faster movement. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Gentler slopes correspond to slower movement.
+        </p>
+      </li>
+    </ul>
+    <p>
+      With these ideas in mind, we can look at the graph of the position of an object and also develop a sense of how that looks as an animation (so that you can see
+      the velocities).
+    </p>
+    <example>
+      <title>Interpreting Velocities from a Position Graph</title>
+      
+      <p>
+        DETAILS TO BE FILLED IN
+      </p>
+    </example>
+
+  </paragraphs>
+  <paragraphs>
+    <title>Getting Position from Velocity</title>
+
+    <p>
+      We now want to turn the situation around. Instead of starting with position, we're going to start with velocity. And the goal will be to create a graph of the position
+      from this information. For simplicity, we will assume that the starting position of the object is <m>s = 0</m>.
+    </p>
+    <p>
+      The formula we will need is this: <m>\Delta s = v \Delta t</m>. The <m>\Delta s</m> variable tells us how much the position in changing in the specific time interval.
+      What this means is that if the object is at some position <m>s = s_0</m>, then one frame later it will be at the position <m>s = s_0 + \Delta s</m>. 
+    </p>
+    <p>
+      The main challenge we have is to figure out how to interpret the quantity <m>v \Delta t</m> geometrically. And the key observation is that multiplication is used to
+      get the area of a rectangle. So we need to understand how we can get rectangles into the velocity graph so that we can translate the velocity curve into a position
+      curve.
+    </p>
+    <p>
+      We will start with the simple example of an object moving with constant velocity. In this case, the velocity curve is just a horizontal line at height <m>v</m>. Then
+      for any <m>\Delta t</m>, the quantity <m>\Delta s</m> is the area of the rectangle whose height is <m>v</m> and whose width is <m>\Delta t</m>. Notice that this
+      is the area under the graph over the time the interval.
+    </p>
+    <p>
+      The formula <m>\Delta s = v \Delta t</m> only applies when the velocity is constant. So what happens if we allow the velocity to change? For this, we will go back
+      to the idea that if the <m>\Delta t</m> value is small enough, then over any single time interval the velocity is essentially a constant. What this means is that
+      instead of thinking about the velocity as a nice smooth curve, we will think of it more as a series of very short steps, where the velocity is constant along each
+      of those steps. In a practical sense, we can imagine this corresponding to the framerate of a video.
+    </p>
+    <p>
+      SEE GRAPH
+    </p>
+    <p>
+      And how that we've got the velocity broken down into a bunch of rectangles, we can use the area of each rectangle to calculate the change of position for every
+      frame. And then it would be the case that the total change of position would be the sum of the areas of all the rectangles. Another way of saying that is that
+      the total change in position is the total area under the velocity curve. 
+    </p>
+    <example>
+      <title>Interpreting Positions from a Velocity Graph</title>
+      
+      <p>
+        DETAILS TO BE FILLED IN
+      </p>
+      
+    </example>
+    
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->
