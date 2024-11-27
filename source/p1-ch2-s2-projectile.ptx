@@ -1,18 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-gravity" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Planetary Gravity</title>
+<section xml:id="sec-projectile-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Projectile Motion</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
-  <p>
-    Gravity on different planets
-  </p>
+    <p>
+      Projectile motion is the name of the behavior of objects in motion under the influence of a constant gravitational acceleration. The mechanism that starts
+      everything into motion can be anything from a gun, to a baseball bat hitting a ball, to someone or something dropping an object. For projectile motion,
+      we only care about what happens after the object is no longer under the influence of whatever it is that caused it to start moving.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Projectile Motion Formulas</title>
+
+    <p>
+      The formulas for projectile motion are an application of the constant acceleration formulas we had in the previous section. In the vertical direction, the
+      constant acceleration is <m>a_y = -g</m>, where <m>g</m> is the acceleration due to gravity. On earth, this is approximately <m>9.8 \text{m}/\text{s}^2</m>.
+      In the horizontal direction, there is no acceleration, so <m>a_x = 0</m>. Notice that this means that we are ignoring the effects of air resistance. When
+      put together, this gives us the following pair of equations for projectile motion:
+    </p>
+    <md>
+      <mrow>x(t) \amp = v_{0x}t + x_0 </mrow>
+      <mrow>y(t) \amp = -\frac{gt^2}{2} + v_{0y}t + y_0</mrow>
+    </md>
+    <p>
+      It may take some time to get used to the notation, but this is a standard way of writing it. This is what the symbols mean:
+    </p>
+    <ul>
+      <li>
+        <p>
+          <m>v_{0x} = v_x(0)</m>: This is the initial velocity in the horizontal direction.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>x_0 = x(0)</m>: This is the initial horizontal position of the object. Typically, the origin is chosen so that this is zero, but not always.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>v_{0y} = v_y(0)</m>: This is the initial velocity in the vertical direction. If an object is dropped from rest or from a horizontally-moving vehicle,
+          then this value will be zero.
+        </p>
+      </li>
+      <li>
+        <p>
+          <m>y_0 = y(0)</m>: This is the initial vertical position of the object. Most of the time, we take <m>y = 0</m> to be ground level.
+        </p>
+      </li>
+    </ul>
+    <p>
+      We also have equations that give us the velocity in each direction.
+    </p>
+    <md>
+      <mrow>v_x(t) \amp = v_{0x} </mrow>
+      <mrow>v_y(t) \amp = -gt + v_{0y}</mrow>
+    </md>
+    <p>
+      Notice that this means that the horizontal velocity is a constant. This is a reflection of an idea known as "Newton's First Law of Motion", which we will
+      explore in a later section.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>A Special Case</title>
+
+    <p>
+      The formulas above are completely general, but there is a special case that is worth independent investigation. This leads us to some additional
+      formulas that are handy to have. However, it's important to remmeber that this is a special case, and the formulas only apply when the assumptions have been
+      met. Failing to remember these conditions leads to errors.
+    </p>
+    <p>
+      A common situation to consider is when an object is launched from the ground. We will assume that you know the initial horizontal and vertical velocities,
+      but it's possible with a little bit of trigonometry to be able to determine these from the total speed and the angle of launch. (These formulas are
+      typically written as <m>v_{0x} = v_0 \cos(\theta)</m>) and <m>v_{0y} = v_0 \sin(\theta)</m>, where <m>v_0</m> is the total speed and <m>\theta</m> is the
+      angle of launch relative to the horizontal.) Under these assumptions, we also typically take <m>x_0 = 0</m> and <m>y_0 = 0</m>, which means that
+      we are launching from ground level and we're treating our launch position as the origin. With these substitutions, our equations
+      become
+    </p>
+    <md>
+      <mrow>x(t) \amp = v_{0x} t</mrow>
+      <mrow>y(t) \amp = -\frac{gt^2}{2} + v_{0y}t</mrow>
+    </md>
+    <p>
+      Using a bit of algebra, we can combine these equations together to determine the range of flight, which is how far the objecet travels before it hits
+      the ground. To do this, we set <m>y(t) = 0</m> and solve for <m>t</m>. We get <m>t = 0</m> and <m>t = \frac{2v_{0y}}{g}</m>. The <m>t = 0</m>
+      case is just our launch position, so we will focus on the other solution. This tells us that the object will be in the air until
+      <m>t_{\text{max}} = \frac{2v_{0y}}{g}</m>. We can also take this value and plug it into the formula for <m>x(t)</m> to find out how far it traveled, giving
+      <m>x_{\text{max}} = v_{0x} \frac{2v_{0y}}{g} = \frac{2v_{0x}v_{0y}}{g}</m>.
+    </p>
+    <p>
+      We can also use the time of flight to figure out how high the object the object went. The symmetrical shape of the parabola tells us that it will happen
+      at the midpoint of flight, or at time <m>t = \frac{1}{2} \cdot \frac{2v_{0y}}{g} =  \frac{v_{0y}}{g}</m>. If we plug this into the formula
+      for the <m>y</m> position of the object, we get <m>y_{\text{max}} = \frac{v_{0y}^2}{2g}</m>.
+    </p>
+    <p>
+      Incidentally, we can get the same result from the vertical velocity equation. At the instant the object reaches maximum height, its vertical velocity is
+      switching from positive to negative, which means that the vertical velocity is zero. If we set the vertical velocity equation equal to zero,
+      we get <m>v_y(t) \amp = -gt + v_{0y} = 0 </m>, and if we solve for <m>t</m>, we get <m>t = \frac{v_{0y}}{g}</m>, matching the value we derived above.
+    </p>
+    <p>
+      To summarize, when <m>x_0 = 0</m>, <m>y_0 = 0</m>, we have the following results:
+    </p>
+    <ul>
+      <li>
+        <p>
+          Time of flight: <m>t_{\text{max}} =  \frac{2v_{0y}}{g}</m>
+        </p>
+      </li>
+      <li>
+        <p>
+          Range of flight: <m>x_{\text{max}} =  \frac{2v_{0x}v_{0y}}{g}</m>
+        </p>
+      </li>
+      <li>
+        <p>
+          Maximum height of flight: <m>y_{\text{max}} = \frac{v_{0y}^2}{2g}</m> at time <m>\frac{1}{2} t_{\text{max}} = \frac{v_{0y}}{g}</m>
+        </p>
+      </li>
+    </ul>
+    
+  </paragraphs>
+  <paragraphs>
+    <title>Practical Realities</title>
+    
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://openstax.org/books/university-physics-volume-1/pages/4-3-projectile-motion">
+            (OpenStax, University Physics) 4.3 Projectile Motion
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
 </section>
 
 <!-- Additional Resources:

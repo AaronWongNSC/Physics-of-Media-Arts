@@ -3,12 +3,18 @@
 <section xml:id="sec-gravity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Gravity</title>
   
-  <blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
+
     <p>
-      <q>-----</q>
+      In this section, we will look at the acceleration due to gravity in general.
     </p>
-    <attribution>------</attribution>
-  </blockquote>
+  </introduction>
 
   <p>
     ...

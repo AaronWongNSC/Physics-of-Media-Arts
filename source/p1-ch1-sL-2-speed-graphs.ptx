@@ -95,7 +95,8 @@
       <li>
         <p>
           Below is a sets of graphs that represent the horizontal velocities of three objects that you are going to animate. The initial positions of each object
-          are indicated. For each object................
+          are indicated, and the units of the graph are mm/frame. You can pick any object you want to animate, but you are encouraged to use a simple shape like
+          a circle or a square. In the end, you will have three animations in a single flipbook.
         </p>
         <ul>
           <li>
@@ -151,19 +152,7 @@
     <ol>
       <li>
         <p>
-          What experiences have you had (before this lab) with making flipbooks animations? If you've made flipbooks, what are the similarities and differences
-          between what you've done in the past and this lab?
-        </p>
-      </li>
-      <li>
-        <p>
           WHAT SHOULD THEY BE THINKING ABOUT?
-        </p>
-      </li>
-      <li>
-        <p>
-          Describe how you would do the reverse process. Suppose you knew what movement you wanted to see. How can you take that concept and then convert it into
-          graphs of x and y positions?
         </p>
       </li>
     </ol>
@@ -174,9 +163,7 @@
     <title>Conclusion</title>
     
     <p>
-      For this lab, we focused on just the position of the object being animated. But this same concept can be applied to a much wider range of behaviors.
-      For example, it's possible that one of the graphs will represent the rotation of the object or the angle of a joint. By stacking multiple layers of these
-      graphs on top of an object, it's possible to create extremely nuanced behaviors.
+      For this lab, we saw velocities can be used to communicate motion, and used that to generate animations.
     </p>
   </paragraphs>
 
