@@ -12,13 +12,65 @@
     </blockquote>
 
     <p>
-      In this section, we will look at the acceleration due to gravity in general.
+      In the previous section, we assumed that gravity would be constant in order to derive our projectile motion equations. In this section, we're going to
+      look at gravity in more general terms, which will lead to a variable gravitational acceleration.
     </p>
   </introduction>
 
-  <p>
-    ...
-  </p>
+  <paragraphs>
+    <title>Universal Gravity</title>
+
+    <p>
+      <idx><h>Newton, Sir Isaac</h></idx>
+
+      Here is a name you need to know: <term>Sir Isaac Newton</term>. He could rightly be considered the first real physicist, and his name is on a wide range of
+      physics concepts (including the laws of physics, which gives you a true sense of his importance to the field). Although a lot of work was done on the topic
+      of gravity before he came along, he was the first to formalize it and give it its universal interpretation.
+    </p>
+
+    <definition>
+      <idx><h>Newton's Law of Universal Gravitation</h></idx>
+
+      <title>Newton's Law of Universal Gravitation</title>
+      <statement>
+        <p>
+          Each particle attracts every other particle in the universe with a force that is proportional to the their masses and inversely proportional to the square
+          of the distance between them.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      Newton's Law of Universal Gravitation phrases the ideas in terms of the "force" between objects, but we haven't talked about what that means. So we're going to
+      modify the statement slightly so that it is framed in terms of acceleration. It should be noted that this formulation, while perfectly consistent with Newton's
+      ideas, usually does not appear as a separate concept like we are doing here.
+    </p>
+
+    <definition>
+      <idx><h>Newton's Law of Universal Gravitational Acceleration</h></idx>
+
+      <title>Newton's Law of Universal Gravitational Acceleration</title>
+      <statement>
+        <p>
+          Each particle in the universe causes every other particle in the universe to accelerate towards it with an acceleration that is proportional to the
+          first particle's mass and inversely proportional to the square of the distance between them.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      <idx><h>gravitational constant</h></idx>
+
+      From the phrasing of the relationship, we can see that the formula for acceleration is the following:
+      <me>
+        a = \frac{G \cdot M}{r^2}
+      </me>
+      where <m>G</m> is the constant of proportionality, <m>M</m> is the mass of the object causing the acceleration, and <m>r</m> is the distance between
+      the two objects. The constant of proportionality is called the <term>gravitational constant</term>. Although Newton described this constant in 1687,
+      it wasn't directly measured until Henry Cavendish did it in 1798. The modern accepted value for this is <m>6.672 \times 10^{-11} \text{N}^2/\text{kg}^2</m>.
+    </p>
+  </paragraphs>
+
 </section>
 
 <!-- Additional Resources:

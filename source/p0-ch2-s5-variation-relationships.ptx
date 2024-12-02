@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-variation-relationships" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basic Algebra</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          -----
+        </q>
+      </p>
+      <attribution>----</attribution>
+    </blockquote>
+
+    <p>
+      In some situations, it makes sense to describe the relationship between variables using words rather than equations. This can often bring additional
+      focus and attention to the core structure of the relationship and can avoid getting lost in the equations. We are going to focus on two specific 
+      phrasings that are used to discuss these relationships.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Direct Variation</title>
+
+    <p>
+      Text
+    </p>
+    <p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Inverse Variation</title>
+    
+    <p>
+      Text
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Joint and Combined Variations</title>
+
+    <p>
+      Text
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://mathhints.com/beginning-algebra/direct-inverse-and-joint-variation/">
+            (MathHints.Com) Direct, Inverse, Joint, and Combined Variation
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+  
+</section>
+  

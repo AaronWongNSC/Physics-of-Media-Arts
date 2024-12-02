@@ -32,7 +32,9 @@
     </li>
     <li>
       <p>
-        Force (<m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2}</m>): A measure of the push or pull applied to an object.
+        Force (<m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2} = N</m>): A measure of the push or pull applied to an object. Since this
+        unit is used so frequently in combination with other units, it is given its own symbol <m>N</m> (Newtons). Mathematically
+        speaking, this unit is just a substitution that allows us to write certain combinations of units in a less complicated manner.
       </p>
     </li>
   </ul>
