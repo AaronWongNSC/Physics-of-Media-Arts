@@ -3,16 +3,96 @@
 <section xml:id="sec-newton-first-law" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Newton's First Law of Motion</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
-  <p>
-    ...
-  </p>
+    <p>
+      The Greeks viewed the world as being made of four fundamental elements, and each of these elements had a "natural state" where those elements wanted to be.
+      For example, rocks fell because they wanted to return to the earth. However, Newton's First Law of Motion rejected such philosophical musings and replaced
+      them with with a concrete rule that applied to all objects and all situations.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Idea of Newton's First Law: Inertia</title>
+    
+    <definition xml:id="def-Newton-First-Law">
+      <statement>
+        <p>
+          An object at rest remains at rest, and an object in motion remains in motion at constant speed and in a straight line unless acted on by a net force.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      <idx><h>inertia</h></idx>
+      <idx><h>mass</h></idx>
+
+      The basic idea is simple. Objects don't just move arbitrarily. They move because something caused them to move. And if they are in motion, they will maintain
+      that motion until something causes the motion to change. The tendency of objects to resist changing their motion (or lack of motion) is called <term>inertia</term>.
+      The amount of inertia an object has is known as its <term>mass</term>. It's very important to remember that mass and weight are not the same concept. Even
+      in the weightlessness of outer space, objects will still have mass and will still resist your attempts to change their motion.
+    </p>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Forces and Force Diagrams</title>
+    
+    <p>
+      <idx><h>force</h></idx>
+
+      Newton's concept of inertia includes a clause that allows the motion of objects to change, which is through the use of a <term>force</term>. Forces are understood
+      as an influence (such as a push or a pull) that can cause an object to change its motion. Forces can have all sorts of sources. Forces can be caused by gravity,
+      magnetism, or the physical interaction of objects. At this stage, we aren't interested in what causes the forces. All we need to do is focus on the idea
+      that they exist and they can cause changes to motion.
+    </p>
+    <p>
+      Forces are vectors. This means that they have a direction and a magnitude. So when we think about how a force might be interacting with an object, we have to pay
+      attention to the direction of the force. This will tell us whether the force is causing the object to speed up, slow down, or change directions (or some combination
+      of those). The direction of the force is the direction that the object would start to move if it was at rest.
+    </p>
+    <p>
+      <idx><h>force diagram</h></idx>
+      <idx><h>net force</h></idx>
+
+      When thinking about the forces that are being applied to an object, we often draw a picture known as a <term>force diagram</term>. This is a picture that represents
+      the object and all of the forces that are being applied to it. This helps us to organize the information in a problem. Since forces are vectors, they can be added
+      together. The <term>net force</term> is the result of adding together all of the forces that are acting on an object. If an object is maintaining its motion,
+      then the net force must be zero.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Normal Forces</title>
+
+    <p>
+      One of the most challenging types of forces to understand is the <term>normal force</term>. This is the force that an object imparts on another object when they
+      interact with each other. This force is always viewed as being perpendicular to the surface.("Normal" is a mathematical term for perpendicularity.) Such forces
+      always exist whenever two objects interact with each other.
+    </p>
+    <p>
+      The first normal force we are going to consider is when an object is at rest while under the influence of gravity. We will think about a ball sitting on a table.
+      If we tried to apply Newton's First Law, we would see that the object at rest that is staying at rest, and so we know that there is no net force acting on it.
+      However, since this ball is subject to gravity, and gravity is a downward force, in our force diagram we must have a downward arrow to represent that. If this
+      were the only force acting on the ball, then the ball would start to accelerate towards the ground. But the ball is at rest, and that's because the table is
+      applying an upward force to the ball. And since the ball is at rest, the upward force of the table must be exactly equal to the downard force of gravity.
+    </p>
+    <p>
+      We can also see how this normal force works to create motion. Instead of thinking of the ball on a table, let's think about it on an incline. Remember that
+      the normal force is always perpendicular to the surface, so that the incline does not apply a vertical force to the ball. When we draw the force diagram,
+      we will have gravity pulling the ball downward, but then the normal force would push up at an angle. Notice that the angle of the normal force indicates which
+      direction (left or right) the ball is going to roll. In fact, we can know that the net force the ball is going to experience must be parallel to the incline
+      because that's the ultimate direction the ball will move. From this, we can do a vector analysis to determine exactly how large the normal force must be.
+    </p>
+
+    
+  </paragraphs>
 </section>
 
 <!-- Additional Resources:

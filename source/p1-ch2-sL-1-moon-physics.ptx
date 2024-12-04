@@ -68,8 +68,7 @@
       </li>
       <li>
         <p>
-          Film 10-15 seconds of movement in slow motion. You can be walking around or jumping, or pretty much any type of movement you want. This video will be
-          used later.
+          Film 10-15 seconds of walking around and jumping in slow motion. This video will be used later.
         </p>
       </li>
     </ol>
@@ -79,7 +78,7 @@
     <title>Sample Charts</title>
     
     <table>
-      <title>Fall Time</title>
+      <title>Moon Fall Time</title>
       <tabular>
         <row>
           <cell> Distance (cm) </cell> <cell> Theoretical Time (s) </cell> <cell> Slow Motion Time (s) </cell>
@@ -144,7 +143,8 @@
       <li>
         <p>
           Adjust the framerate of the video of your movement to match moon gravity. Does this look like you're on the moon? What do you notice
-          about the video that leads you to your conclusion?
+          about the video that leads you to your conclusion? What changes would you have to make in order to make it more convincing (aside from
+          costumes and props).
         </p>
       </li>
     </ol>
@@ -155,7 +155,9 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      There are lots of technical reasons that the moon landing could not have been faked using the available technology of the time. But setting
+      those aside and just thinking about trying to make the videos, you can see from this lab that the challenges are not all solved by simply
+      adjusting the frame rate. 
     </p>
   </paragraphs>
 
@@ -172,42 +174,42 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity?
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          Describe the process of making the videos that you used in your analysis.
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Present your moon fall chart. 
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
         </p>
       </li>
     </ul>
@@ -217,7 +219,9 @@
     <ul>
       <li>
         <p>
-          <url href="https://www.google.com/">Google</url>
+          <url href="https://www.pbs.org/newshour/science/apollo-landing-footage-would-have-been-impossible-to-fake-a-film-expert-explains-why">
+            (PBS News) Apollo Landing Footage Would Have Been Impossible to Fake. A Film Expert Explains Why.
+          </url>
         </p>
       </li>
     </ul>

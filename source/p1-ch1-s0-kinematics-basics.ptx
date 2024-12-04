@@ -14,7 +14,9 @@
   </objectives>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p>
+      ...
+    </p>
   </introduction>
 
   <!-- include sections -->
