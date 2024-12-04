@@ -52,7 +52,7 @@
         the given speed graphs.
     </p>
 
-    <ul>
+    <ol>
       <li>
         <p>
           Since the animations we are drawing are going to be given by graphs, it will be important that each page of the flipbook is drawn consistently, otherwise
@@ -116,7 +116,7 @@
           </li>
         </ul>
       </li>
-    </ul>
+    </ol>
   </paragraphs>
 
   <example>

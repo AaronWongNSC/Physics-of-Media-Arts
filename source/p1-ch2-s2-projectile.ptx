@@ -141,7 +141,7 @@
     <p>
       Incidentally, we can get the same result from the vertical velocity equation. At the instant the object reaches maximum height, its vertical velocity is
       switching from positive to negative, which means that the vertical velocity is zero. If we set the vertical velocity equation equal to zero,
-      we get <m>v_y(t) \amp = -gt + v_{0y} = 0 </m>, and if we solve for <m>t</m>, we get <m>t = \frac{v_{0y}}{g}</m>, matching the value we derived above.
+      we get <m>v_y(t) = -gt + v_{0y} = 0 </m>, and if we solve for <m>t</m>, we get <m>t = \frac{v_{0y}}{g}</m>, matching the value we derived above.
     </p>
     <p>
       To summarize, when <m>x_0 = 0</m>, <m>y_0 = 0</m>, we have the following results:

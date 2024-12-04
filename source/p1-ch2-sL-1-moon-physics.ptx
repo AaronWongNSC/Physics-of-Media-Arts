@@ -1,0 +1,214 @@
+<subsection xml:id="lab-moon-physics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Moon Physics</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      A common conspiracy theory is that we didn't land on the moon, and that all of the footage was done in a studio. We are going to look at one
+      theorized aspect of the footage, which is that the moon gravity was faked by filming at a high frame rate and slowing it down to give the
+      appearance of a low gravity environment. We are going to perform a practical test of this theory to see whether the time-slowing physics
+      matches with the theory of low gravity physics.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          Video camera capable of slow motion video (cellphones can work)
+        </p>
+      </li>
+      <li>
+        <p>
+          Meter stick
+        </p>
+      </li>
+      <li>
+        <p>
+          Marble
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+        We are going to test the conspiracy theory by directly filming with a high framerate and then adjusting the timing to try to match the altered
+        gravity. Then we will examine the details of the behavior to see whether the underlying physics remains consistent.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Film a marble being dropped from a height of one meter and landing on the floor in slow motion. Do this in front of the meter stick so that you will
+          be able to take measurements. It may be helpful to film this a few times to ensure that you have good video to work with.
+        </p>
+      </li>
+      <li>
+        <p>
+          Calculate the time it should take the marble to fall 10 cm, 20 cm, 30 cm, ..., 100 cm under moon gravity. Organize this information into a chart.
+        </p>
+      </li>
+      <li>
+        <p>
+          Using the time it should take an object to fall 100 cm (1 m), determine the appropriate framerate that the video should be running at in order to
+          mimic moon gravity. (Note: You will need to know the total number of frames required for the object to fall.) Adjust the video framerate accordingly.
+        </p>
+      </li>
+      <li>
+        <p>
+          Using the adjusted video, determine the amount of time it took for the marble fall 10 cm, 20 cm, 30 cm, ..., 100 cm. Organize this information into
+          a chart.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Fall Time</title>
+      <tabular>
+        <row>
+          <cell> Distance (cm) </cell> <cell> Theoretical Time (s) </cell> <cell> Slow Motion Time (s) </cell>
+        </row>
+        <row>
+          <cell>10</cell>
+        </row>
+        <row>
+          <cell>20</cell>
+        </row>
+        <row>
+          <cell>30</cell>
+        </row>
+        <row>
+          <cell>40</cell>
+        </row>
+        <row>
+          <cell>50</cell>
+        </row>
+        <row>
+          <cell>60</cell>
+        </row>
+        <row>
+          <cell>70</cell>
+        </row>
+        <row>
+          <cell>80</cell>
+        </row>
+        <row>
+          <cell>90</cell>
+        </row>
+        <row>
+          <cell>100</cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        <p>
+          Explain how you determined the correct framerate for the moon gravity version of the video.
+        </p>
+      </li>
+      <li>
+        <p>
+          Watch the moon gravity version of the video. How "real" does it look to you?
+        </p>
+      </li>
+      <li>
+        <p>
+          How well did the moon gravity video align with the theoretical values? Is this difference enough to be noticable in this situation?
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      ...
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>
