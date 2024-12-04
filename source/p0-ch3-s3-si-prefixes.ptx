@@ -105,14 +105,17 @@
     
   </paragraphs>
 
-<outcomes>
-  <ul>
-    <li>
-      <p>
-        <url href="https://www.nist.gov/pml/owm/metric-si-prefixes">(National Institute of Standards and Technology) Metric (SI) Prefixes</url>
-      </p>
-    </li>
-  </ul>
-</outcomes>
+  <xi:include href="./p0-ch3-sA-1-SI-prefix-practice.ptx" />
+
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.nist.gov/pml/owm/metric-si-prefixes">(National Institute of Standards and Technology) Metric (SI) Prefixes</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
 
 </section>

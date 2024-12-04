@@ -88,34 +88,10 @@
       to be doing a lot of interpolation calculations in this course, we're not going to get into the details of the mathematics of it all. The key point to keep in mind
       is that lines are easier to do calculations with but curves give more realistic results.
     </p>
-    <example>
-      <title>Two Ways of Measuring Position</title>
-      
-      <p>
-        For this example, we're going to think about two different data collection methods for measuring position. We will imagine trying to create a chart of positions
-        as a person runs a distance of 100 meters.
-      </p>
-      <p>
-        In the first case, we will imagine measuring the location every second. This will create a chart that has evenly-spaced time increments. Here is how that would
-        look:
-      </p>
-      <p>
-        INSERT TABLE
-      </p>
-      <p>
-        In the second case, we will imagine measuring the time every time the runner travels an additional 5 meters. This is how that table would look:
-      </p>
-      <p>
-        INSERT TABLE
-      </p>
-      <p>
-        It's not clear that one method is always better than the other. It really depends on what the final goals are. The method more closely mimics what happens with
-        videography, as that typically operates with a constant framerate. However, the second method more closely mimics what happens in actual races, except that
-        in a race we only care about the time it takes to cross the finish line.
-      </p>
-    </example>
-    
+   
   </paragraphs>
+
+  <xi:include href="./p1-ch1-sA-1-graphing-position.ptx" />
 
 </section>
 

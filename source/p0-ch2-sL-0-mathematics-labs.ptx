@@ -3,7 +3,7 @@
 <section xml:id="sec-mathematics-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Mathematics</title>
 
-  <xi:include href="./p0-ch2-sL-1-calculator-practice.ptx" />
+  <xi:include href="./p0-ch2-sL-1-calculator-stress-test.ptx" />
   <xi:include href="./p0-ch2-sL-2-unit-conversion-practice.ptx" />
 
 </section>

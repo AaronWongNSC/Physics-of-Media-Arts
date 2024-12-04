@@ -1,0 +1,19 @@
+<activity xml:id="activity-measuring-g" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Measuring <m>g</m></title>
+    
+  <introduction>
+    <p>
+      Intro Text
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Instructions</title>
+
+    <p>
+      Instructions
+    </p>
+
+  </paragraphs>
+    
+</activity>

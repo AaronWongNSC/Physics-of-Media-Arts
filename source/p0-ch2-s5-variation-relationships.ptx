@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-variation-relationships" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Basic Algebra</title>
+  <title>Variation Relationships</title>
   
   <introduction>
     <blockquote>
@@ -21,10 +21,44 @@
   </introduction>
 
   <paragraphs>
-    <title>Direct Variation</title>
+    <title>Direct or Proportional Variation</title>
 
     <p>
-      Text
+      <idx><h>direct variation</h></idx>
+      <idx><h>constant of proportionality</h></idx>
+
+      The idea of two variables being "in proportion" to each other is that they form a constant ratio. This is known as a <term>direct variation</term>. A
+      simple example is purchasing items (without a bulk discount). If a burger is $4, then 2 burgers is $8, 3 burgers is $12, and so on. The ratio of number
+      of burgers to the cost remains the same. There are two mathematical phrasings that capture this type of relationship. The first is "<m>A</m> is proportional
+      to <m>B</m>" and the other is "<m>A</m> varies directly with (or as) <m>B</m>." As an equation, this is often written as <m>A \propto B</m>, which means
+      that <m>A = kB</m> for some constant <m>k</m>. This constant is known as the <term>constant of proportionality</term>.
+    </p>
+    <p>
+      When two variables are directly proportional to each other, it establishes a linear relationship between them. This means that if one increases, so does
+      the other, and always in an equal proportion of the amount of increase. This type of relationship appears throughout physics, though it usually requires
+      assuming that certain other variables are being held constant. Here are a few examples (and don't worry if you don't understand them right now):
+    </p>
+    <ul>
+      <li>
+        <p>
+          Distance is proportional to the time traveled (at a constant speed): <m>d \propto t</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Voltage is proportional to the current (with a constant resistance): <m>V \propto I</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Force is proportional to the accerlation (with a constant mass): <m>F \propto a</m>.
+        </p>
+      </li>
+    </ul>
+    <p>
+      The reason for the <m>\propto</m> notation is that we don't always care about the value of the constant of proportionality. It emphasizes the variables
+      in the relationship without needing to introduce another symbol that would need to be defined or discussed. However, when it comes to working through
+      problems, we almost always see that constant of proportionality show up.
     </p>
   </paragraphs>
 
@@ -32,7 +66,33 @@
     <title>Inverse Variation</title>
     
     <p>
-      Text
+      <idx><h>inverse variation</h></idx>
+
+      Direct variations have the property that both variables increase or decrease together. <term>Inverse variations</term> have the property that the two
+      variables move in opposite directions. So as one variable increases, the other decreases. The common phrasing for this is "<m>A</m> is inversely
+      proportional to <m>B</m>," and is often written as <m>A \propto \frac{1}{B}</m>. Here are a few examples:
+    </p>
+    <ul>
+      <li>
+        <p>
+          Speed is inversely proportional to the time traveled (for a constant distance): <m>s \propto \frac{1}{t}</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Current is inversely proportional to the resistance (with a constant voltage): <m>I \propto \frac{1}{R}</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Acceleration is inversely proportional to the mass (with a constant force): <m>a \propto \frac{1}{m}</m>.
+        </p>
+      </li>
+    </ul>
+    <p>
+      This phrasing can be used to loosely indicate that the two variables move in opposite directions from each other. For example, one might say something
+      like "fun is inversely proportional to the amount of work that needs to be done" to mean that there's more fun when there's less work and that there's
+      less fun when there is more work. However, in the context of physics, it can only mean the precise mathematical relationship above.
     </p>
   </paragraphs>
 
@@ -40,8 +100,44 @@
     <title>Joint and Combined Variations</title>
 
     <p>
-      Text
+      <idx><h>joint variation</h></idx>
+      <idx><h>combined variation</h></idx>
+
+      Joint and combined variations are variations with more than two variables. Technically, a <term>joint variation</term> is a variation built from two
+      direct variations. So the phrase "<m>A</m> varies jointly with <m>B</m> and <m>C</m>" means that <m>A \propto BC</m>. (You will also see "<m>A</m> is
+      proportional to <m>B</m> and <m>C</m>".) This is different from a <term>combined variation</term>, which is a combination of a direct variation and an
+      inverse variation. Fortunately, the relationships are expressed explicitly in the language. For example, we would say "<m>A</m> varies directly with
+      <m>B</m> and inversely with <m>C</m>" to mean that <m>A \propto \frac{B}{C}</m>.
     </p>
+    <p>
+      With these types of variations, there is only one constant of proportionality. In other words, <m>A \propto BC</m> means <m>A = kBC</m>, as opposed
+      to something like <m>A = k_B B \cdot k_C C</m>. The reason for this that there is no benefit to introducing extra constants. In the end, the two constants
+      can just be multiplied together into one, and we wouldn't be able to determine two separate constants without having to introduce another equation.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Variations with Variable Expressions</title>
+
+    <p>
+      The most general type of relationships that we can have with variables allow us to not just have a variable, but a variable expression. This should be
+      seen as just a standard symbolic substitution. For example, the phrase "<m>A</m> is inversely proportional to the square of <m>B</m>" takes the phrase
+      "the square of <m>B</m>" and replaces it with <m>B^2</m>, and then the relationship can be written as <m>A \propto \frac{1}{B^2}</m>. This can be done in
+      all sorts of ways. Here are some examples:
+    </p>
+    <ul>
+      <li>
+        <p>
+          The distance an object falls when dropped is proportional to the gravitational acceleration and the square of the time: <m>s \propto a t^2</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          The gravitational force between two objects is proportional to the product of the masses of the objects and inversely proportional to the square
+          of the distance between them: <m>F \propto \frac{m_1 m_2}{r^2}</m>.
+        </p>
+      </li>
+    </ul>
   </paragraphs>
 
   <outcomes>

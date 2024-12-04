@@ -32,8 +32,8 @@
     </li>
     <li>
       <p>
-        Force (<m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2} = N</m>): A measure of the push or pull applied to an object. Since this
-        unit is used so frequently in combination with other units, it is given its own symbol <m>N</m> (Newtons). Mathematically
+        Force (<m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2} = \text{N}</m>): A measure of the push or pull applied to an object. Since this
+        unit is used so frequently in combination with other units, it is given its own symbol <m>\text{N}</m> (Newtons). Mathematically
         speaking, this unit is just a substitution that allows us to write certain combinations of units in a less complicated manner.
       </p>
     </li>
@@ -48,16 +48,16 @@
     It would be good to review <xref ref="sec-basic-algebra"/> for multiple unit conversions and unit conversions involving exponents.
   </p>
 
+  <xi:include href="./p0-ch3-sA-2-unit-calculation-practice.ptx" />
 
-
-<outcomes>
-  <ul>
-    <li>
-      <p>
-        <url href="https://en.wikipedia.org/wiki/SI_derived_unit">(Wikipedia) Derived Units</url>
-      </p>
-    </li>
-  </ul>
-</outcomes>
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://en.wikipedia.org/wiki/SI_derived_unit">(Wikipedia) Derived Units</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
 
 </section>

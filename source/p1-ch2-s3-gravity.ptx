@@ -67,9 +67,46 @@
       </me>
       where <m>G</m> is the constant of proportionality, <m>M</m> is the mass of the object causing the acceleration, and <m>r</m> is the distance between
       the two objects. The constant of proportionality is called the <term>gravitational constant</term>. Although Newton described this constant in 1687,
-      it wasn't directly measured until Henry Cavendish did it in 1798. The modern accepted value for this is <m>6.672 \times 10^{-11} \text{N}^2/\text{kg}^2</m>.
+      it wasn't directly measured until Henry Cavendish did it in 1798. The modern accepted value for this is <m>6.672 \times 10^{-11} \text{N} \cdot \text{m}^2/\text{kg}^2</m>.
+      (Recall that the unit <m>N</m> represents Newtons and has units of <m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2}</m>.)
     </p>
   </paragraphs>
+  <example>
+    <title>Earth Acceleration</title>
+
+    <p>
+      Using Newton's Law of Universal Acceleration, we can calculate the acceleration of gravity on earth. The mass of the earth is approimately
+      <m>5.97 \times 10^{24}\text{ kg}</m> and its radius is approximately 6378 km, or <m>6.378 \times 10^6 \text{ m}</m>. These values can be plugged directly into the
+      formula to get the acceleration due to gravity on earth.
+    </p>
+    <md>
+      <mrow>g \amp = \frac{G \cdot M}{r^2} </mrow>
+      <mrow> \amp = \frac{(6.672 \times 10^{-11}) \cdot (5.97 \times 10^{24})}{(6.378 \times 10^6)^2} \, \frac{ \frac{\text{N} \text{m}^2}{\text{kg}^2} \cdot \text{kg}}{\text{m}^2}</mrow>
+      <mrow>
+        \amp = \frac{(6.672) \cdot (5.97)}{6.378^2} \cdot \frac{10^{-11} \cdot 10^{24}}{(10^6)^2} \,
+          \frac{\text{kg} \cdot \text{m}}{\text{s}^2} \cdot \frac{1}{\text{kg}}
+      </mrow>
+      <mrow> \amp = 0.9792 \times 10^{1} \, \frac{\text{m}}{\text{s}^2}</mrow>
+      <mrow> \amp = 9.792 \, \frac{\text{m}}{\text{s}^2}</mrow>
+    </md>
+    <p>
+      This value closely matches the value we used in the previous section.
+    </p>
+  </example>
+
+  <xi:include href="./p1-ch2-sA-2-calculating-g-celestial-objects.ptx" />
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.physicsclassroom.com/class/circles/lesson-3/newton-s-law-of-universal-gravitation">
+            (The Physics Classroom) Newton's Law of Universal Gravitation
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
 
 </section>
 

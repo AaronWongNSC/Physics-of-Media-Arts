@@ -68,15 +68,52 @@
       Notice that this means that the horizontal velocity is a constant. This is a reflection of an idea known as "Newton's First Law of Motion", which we will
       explore in a later section.
     </p>
-  </paragraphs>
-  <paragraphs>
-    <title>A Special Case</title>
-
     <p>
       The formulas above are completely general, but there is a special case that is worth independent investigation. This leads us to some additional
       formulas that are handy to have. However, it's important to remmeber that this is a special case, and the formulas only apply when the assumptions have been
       met. Failing to remember these conditions leads to errors.
     </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Dropped Objects</title>
+    
+    <p>
+      We are often interested in the time it takes for a dropped object to hit the ground. Typically, this is done with the object at rest (not moving),
+      which would mean that <m>v_{0x} = 0</m> and <m>v_{0y} = 0</m>. We will also assume that the initial position is <m>x_0 = 0</m> and <m>y_0 = h</m>.
+      Under these assumptions, we have the following equations of motion:
+    </p>
+    <md>
+      <mrow>x(t) \amp = 0</mrow>
+      <mrow>y(t) \amp = -\frac{gt^2}{2} + h</mrow>
+    </md>
+    <p>
+      Ultimately, we are interested in when the object hits the ground, which is <m>y(t) = 0</m>. We can plug this in and solve for <m>t</m>:
+    </p>
+    <md>
+      <mrow>0 \amp = -\frac{gt^2}{2} + h</mrow>
+      <mrow>\frac{gt^2}{2} \amp = h</mrow>
+      <mrow>t^2 \amp = \frac{2h}{g} </mrow>
+      <mrow>t \amp = \sqrt{ \frac{2h}{g} } </mrow>
+    </md>
+    <p>
+      We can also use this equation to determine the gravitational acceleration by dropping objects from various heights and measuring the time it takes
+      for the object to hit the ground. We do this by solving for <m>g</m> instead of <m>t</m>.
+    </p>
+    <md>
+      <mrow>0 \amp = -\frac{gt^2}{2} + h</mrow>
+      <mrow>\frac{gt^2}{2} \amp = h</mrow>
+      <mrow>g \amp = \frac{2h}{t^2} </mrow>
+    </md>
+    <p>
+      In some cases, we don't assume that <m>v_{0x} = 0</m>, such as when dropping an object from a moving vehicle (a car or a plane) or when throwing or
+      launching an object horizontally. But this change does not affect the dynamics in the <m>y</m> coordinate.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>A Launched Object from the Origin</title>
+
     <p>
       A common situation to consider is when an object is launched from the ground. We will assume that you know the initial horizontal and vertical velocities,
       but it's possible with a little bit of trigonometry to be able to determine these from the total speed and the angle of launch. (These formulas are
@@ -128,10 +165,31 @@
     </ul>
     
   </paragraphs>
+
   <paragraphs>
     <title>Practical Realities</title>
     
+    <p>
+      These formulas assume that we've removed the effect of air resistance. But it's worth thinking about what would happen if we looked at more realistic
+      physics that takes air resistance into account.
+    </p>
+    <p>
+      The first observation to make is that objects are not likely to go as high or as far. The reason is that the air resistance will tend to slow down the
+      motion of the projectile. You can see this in practice by throwing a crumpled piece of paper. Unless the paper is wadded up very tightly, it will
+      not go as far as you would expect when you throw it.
+    </p>
+    <p>
+      <idx><h>terminal velocity</h></idx>
+
+      Another feature of adding air resistance is that there is a <term>terminal velocity</term> for falling objects. In the acceleration model we developed,
+      there's no limit to how fast something falls. However, the reality is that moving through the air will cause objects to reach a maximum speed when falling.
+      Conceptually, you can think of this being the result of the object having to push air molecules out of the way, which takes away from the speed that it
+      can attain.
+    </p>
+    
   </paragraphs>
+
+  <xi:include href="./p1-ch2-sA-1-measuring-g.ptx" />
 
   <outcomes>
     <ul>
