@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Calculator Stress Test</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Physics of Media Arts">
+<meta property="book:author" content="Aaron Wong">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><link href="_static/pretext/css/pretext_search.css" rel="stylesheet" type="text/css">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+<link href="_static/pretext/css/pretext.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/shell_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/banner_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/toc_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/style_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/setcolors.css" rel="stylesheet" type="text/css">
+</head>
+<body id="physicsofmediaarts" class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" class="logo-link" target="_blank" href=""></a><div class="title-container">
+<h1 class="heading"><a href="physics-media-arts.html"><span class="title">Physics of Media Arts:</span> <span class="subtitle">Conceptual Physics for Students of the Media Arts</span></a></h1>
+<p class="byline">Aaron Wong</p>
+</div>
+</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><a class="index-button button" href="backmatter-2.html" title="Index"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe88e;</span><span class="name">Index</span></a><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"></span><span class="treebuttons"><a class="previous-button button" href="sec-mathematics-labs.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="sec-mathematics-labs.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="lab-unit-conversion.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\usepackage{cancel}
+
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth4 parts"><ul class="structural contains-active toc-item-list">
+<li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li class="toc-item toc-part contains-active">
+<div class="toc-title-box"><a href="part-intro.html" class="internal"><span class="codenumber">I</span> <span class="title">She Blinded Me with Science!</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-scientific-method.html" class="internal"><span class="codenumber">1</span> <span class="title">The Scientific Method</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-scientific-method.html" class="internal"><span class="codenumber">1.1</span> <span class="title">The Scientific Method(s)</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-hypothesis-theory-law-model.html" class="internal"><span class="codenumber">1.2</span> <span class="title">Hypothesis, Theory, Law, and Models</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-physics-labs.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Physics Labs</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-scientific-method-labs-subsections.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Lab Activities: The Scientific Method</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-curious-thinkerv2-subsection.html" class="internal"><span class="codenumber">1.4.1</span> <span class="title">Becoming a Curious Thinker</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="ch-mathematics.html" class="internal"><span class="codenumber">2</span> <span class="title">Mathematics</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-calculators.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Calculators</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-scientific-notation.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Scientific Notation</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-graphing.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Graphing Data</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-basic-algebra.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Basic Algebra</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-variation-relationships.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Variation Relationships</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-vectors.html" class="internal"><span class="codenumber">2.6</span> <span class="title">Vectors</span></a></div></li>
+<li class="toc-item toc-section contains-active">
+<div class="toc-title-box"><a href="sec-mathematics-labs.html" class="internal"><span class="codenumber">2.7</span> <span class="title">Lab Activities: Mathematics</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-subsection active"><div class="toc-title-box"><a href="lab-calculator-stress-test.html" class="internal"><span class="codenumber">2.7.1</span> <span class="title">Calculator Stress Test</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-unit-conversion.html" class="internal"><span class="codenumber">2.7.2</span> <span class="title">The Metric System is the Tool of the Devil!</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-measurement.html" class="internal"><span class="codenumber">3</span> <span class="title">Measurement</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-numbers-and-units.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Numbers and Units</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-si-base-units.html" class="internal"><span class="codenumber">3.2</span> <span class="title">SI Base Units</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-si-prefixes.html" class="internal"><span class="codenumber">3.3</span> <span class="title">SI Prefixes</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-derived-units.html" class="internal"><span class="codenumber">3.4</span> <span class="title">Derived Units</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-measurement-labs.html" class="internal"><span class="codenumber">3.5</span> <span class="title">Lab Activities: Measurement</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-measuring-speed.html" class="internal"><span class="codenumber">3.5.1</span> <span class="title">How Fast is That?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-human-body-measurement.html" class="internal"><span class="codenumber">3.5.2</span> <span class="title">My Body is My Measuring Device</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-part">
+<div class="toc-title-box"><a href="part-dynamics.html" class="internal"><span class="codenumber">II</span> <span class="title">I Do My Own Stunts!</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-kinematics-basics.html" class="internal"><span class="codenumber">4</span> <span class="title">The Basics of Kinematics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-position.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Position</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-velocity.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Velocity</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-position-velocity.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Position and Velocity</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-acceleration.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Acceleration</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-kinematic-basics-labs.html" class="internal"><span class="codenumber">4.5</span> <span class="title">Lab Activities: The Basics of Kinematics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-2d-position-graphs.html" class="internal"><span class="codenumber">4.5.1</span> <span class="title">Two-Dimensional Position Graphs</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-speed-graphs.html" class="internal"><span class="codenumber">4.5.2</span> <span class="title">Speed Graphs</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-constant-acceleration.html" class="internal"><span class="codenumber">5</span> <span class="title">Constant Acceleration Problems</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-one-dim-const-acceleration.html" class="internal"><span class="codenumber">5.1</span> <span class="title">One-Dimensional Motion with Constant Acceleration</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-projectile-motion.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Projectile Motion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-gravity.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Gravity</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-constant-accerlation-labs.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Lab Activities: One-Dimensional Motion</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-measuring-acceleration.html" class="internal"><span class="codenumber">5.4.1</span> <span class="title">Measuring Acceleration</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-moon-physics.html" class="internal"><span class="codenumber">5.4.2</span> <span class="title">Moon Physics</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-newton.html" class="internal"><span class="codenumber">6</span> <span class="title">Newton’s Laws of Motion</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-newton-first-law.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Newton’s First Law of Motion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-newton-second-law.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Newton’s Second Law of Motion</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-newton-third-law.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Newton’s Third Law of Motion</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-newton-labs.html" class="internal"><span class="codenumber">6.4</span> <span class="title">Lab Activities: Newton’s Laws of Motion</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-equal-opposite.html" class="internal"><span class="codenumber">6.4.1</span> <span class="title">Equal and Opposite Reaction</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-momentum.html" class="internal"><span class="codenumber">7</span> <span class="title">Momentum</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-momentum-labs.html" class="internal"><span class="codenumber">7.2</span> <span class="title">Lab Activities: Momentum</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-egg-catch.html" class="internal"><span class="codenumber">7.2.1</span> <span class="title">Egg Catch</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-part">
+<div class="toc-title-box"><a href="part-name-tbd.html" class="internal"><span class="codenumber">III</span> <span class="title">Something Cool</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-rigid-structures.html" class="internal"><span class="codenumber">8</span> <span class="title">Rigid Structures</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-rigid-structures-labs.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Lab Activities: Rigid Structures</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-equal-opposite.html" class="internal"><span class="codenumber">8.2.1</span> <span class="title">Equal and Opposite Reaction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-center-of-mass.html" class="internal"><span class="codenumber">8.2.2</span> <span class="title">Center of Mass and Balance</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-tension.html" class="internal"><span class="codenumber">9</span> <span class="title">Tension</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-tension-labs.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Lab Activities: Tension</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-tensegrity-structure.html" class="internal"><span class="codenumber">9.2.1</span> <span class="title">Tensegrity Structures</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-simple-machines.html" class="internal"><span class="codenumber">10</span> <span class="title">Simple Machines</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-simple-machines-labs.html" class="internal"><span class="codenumber">10.2</span> <span class="title">Lab Activities: Simple Machines</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-pulley.html" class="internal"><span class="codenumber">10.2.1</span> <span class="title">Pulleys</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-pressure.html" class="internal"><span class="codenumber">11</span> <span class="title">Pressure</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">11.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-pressure-labs.html" class="internal"><span class="codenumber">11.2</span> <span class="title">Lab Activities: Pressure</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-hydraulics.html" class="internal"><span class="codenumber">11.2.1</span> <span class="title">Hydraulics</span></a></div></li></ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-part">
+<div class="toc-title-box"><a href="part-optics.html" class="internal"><span class="codenumber">IV</span> <span class="title">Lights... Camera... Optics!</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-light.html" class="internal"><span class="codenumber">12</span> <span class="title">Introduction to Light</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-what-is-light.html" class="internal"><span class="codenumber">12.1</span> <span class="title">What is Light?</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-special-relativity.html" class="internal"><span class="codenumber">12.2</span> <span class="title">Special Relativity</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-the-speed-of-light.html" class="internal"><span class="codenumber">12.3</span> <span class="title">The Speed of Light</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-polarized-light.html" class="internal"><span class="codenumber">12.4</span> <span class="title">Polarized Light</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-light-labs.html" class="internal"><span class="codenumber">12.5</span> <span class="title">Lab Activities: Light</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-ray-tracing.html" class="internal"><span class="codenumber">12.5.1</span> <span class="title">Ray Tracing</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-prisms.html" class="internal"><span class="codenumber">12.5.2</span> <span class="title">Prisms</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-reflection-refraction.html" class="internal"><span class="codenumber">13</span> <span class="title">Reflection and Refraction</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">13.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-light-labs.html" class="internal"><span class="codenumber">13.2</span> <span class="title">Lab Activities: Light</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-ray-tracing.html" class="internal"><span class="codenumber">13.2.1</span> <span class="title">Optical Illusions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-light-and-shadow.html" class="internal"><span class="codenumber">13.2.2</span> <span class="title">Light and Shadow</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-lenses.html" class="internal"><span class="codenumber">14</span> <span class="title">Lenses</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">14.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-lenses-labs.html" class="internal"><span class="codenumber">14.2</span> <span class="title">Lab Activities: Lenses</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-analog-photography.html" class="internal"><span class="codenumber">14.2.1</span> <span class="title">Analog Photography</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-pinhole-camera.html" class="internal"><span class="codenumber">14.2.2</span> <span class="title">Pinhole Camera</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-color-science.html" class="internal"><span class="codenumber">15</span> <span class="title">Color Science</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-color.html" class="internal"><span class="codenumber">15.1</span> <span class="title">Color</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-color-space.html" class="internal"><span class="codenumber">15.2</span> <span class="title">Color Space</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-kelvin-scale.html" class="internal"><span class="codenumber">15.3</span> <span class="title">Kelvin Scale</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-rgb-cmyk.html" class="internal"><span class="codenumber">15.4</span> <span class="title">RGB and CMYK</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-color-space-labs.html" class="internal"><span class="codenumber">15.5</span> <span class="title">Lab Activities: Color Space</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-colored-light-shadows.html" class="internal"><span class="codenumber">15.5.1</span> <span class="title">Colored Lights and Shadows</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-paint-color-mixing.html" class="internal"><span class="codenumber">15.5.2</span> <span class="title">Mixing Paint Colors</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-part">
+<div class="toc-title-box"><a href="part-sound.html" class="internal"><span class="codenumber">V</span> <span class="title">These Go to Eleven</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-sound.html" class="internal"><span class="codenumber">16</span> <span class="title">Introduction to Sound</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">16.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-sound-labs.html" class="internal"><span class="codenumber">16.2</span> <span class="title">Lab Activities: Sound</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-chladni-plate.html" class="internal"><span class="codenumber">16.2.1</span> <span class="title">Chladni Plates</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-oscilloscope.html" class="internal"><span class="codenumber">16.2.2</span> <span class="title">Oscilloscope</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-resonance.html" class="internal"><span class="codenumber">17</span> <span class="title">Resonance</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">17.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">17.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-music.html" class="internal"><span class="codenumber">18</span> <span class="title">Music</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">18.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">18.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-part">
+<div class="toc-title-box"><a href="part-electronics.html" class="internal"><span class="codenumber">VI</span> <span class="title">1.21 Gigawatts!?</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-electronics.html" class="internal"><span class="codenumber">19</span> <span class="title">Basic Electronics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">19.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">19.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-practical.html" class="internal"><span class="codenumber">20</span> <span class="title">Practical Electronics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">20.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">20.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-hacking.html" class="internal"><span class="codenumber">21</span> <span class="title">Hacking Electronics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">21.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">21.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-building.html" class="internal"><span class="codenumber">22</span> <span class="title">Building Electronics</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-name.html" class="internal"><span class="codenumber">22.1</span> <span class="title">Section Title</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-labs.html" class="internal"><span class="codenumber">22.2</span> <span class="title">Labs</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-backmatter">
+<div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-index"><div class="toc-title-box"><a href="backmatter-2.html" class="internal"><span class="title">Index</span></a></div></li>
+<li class="toc-item toc-colophon"><div class="toc-title-box"><a href="backmatter-3.html" class="internal"><span class="title">Colophon</span></a></div></li>
+</ul>
+</li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="lab-calculator-stress-test"><h2 class="heading hide-type">
+<span class="type">Lab Activity</span><span class="space"> </span><span class="codenumber">2.7.1</span><span class="space"> </span><span class="title">Calculator Stress Test</span>
+</h2>
+<section class="paragraphs" id="lab-calculator-stress-test-2"><h2 class="heading"><span class="title">Introduction.</span></h2> <div class="para" id="lab-calculator-stress-test-2-2">Math teachers used to tell students that they needed to learn their arithmetic because they wouldn’t always have a calculator in their pocket. But it turns out that those teachers were wrong. However, this doesn’t mean that everyone really understands how to use their calculator, or that every calculator is the same. This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.</div></section><section class="paragraphs" id="lab-calculator-stress-test-3"><h2 class="heading"><span class="title">Equipment List.</span></h2> <ul class="disc">
+<li id="lab-calculator-stress-test-3-2-1"><div class="para" id="lab-calculator-stress-test-3-2-1-1">At least two different cellphone calculators</div></li>
+<li id="lab-calculator-stress-test-3-2-2">
+<div class="para" id="lab-calculator-stress-test-3-2-2-1">Internet access to use following online calculators:</div>
+<ul class="circle">
+<li id="lab-calculator-stress-test-3-2-2-2-1"><div class="para" id="lab-calculator-stress-test-3-2-2-2-1-1">
+<a class="external" href="https://www.theonlinecalculator.com/" target="_blank">(TheOnlineCalculator.com) Basic Calculator</a><details class="ptx-footnote" aria-live="polite" id="lab-calculator-stress-test-3-2-2-2-1-1-2"><summary class="ptx-footnote__number" title="Footnote 2.9"><sup> 9 </sup></summary><div class="ptx-footnote__contents" id="lab-calculator-stress-test-3-2-2-2-1-1-2"><code class="code-inline tex2jax_ignore">www.theonlinecalculator.com/</code></div></details>
+</div></li>
+<li id="lab-calculator-stress-test-3-2-2-2-2"><div class="para" id="lab-calculator-stress-test-3-2-2-2-2-1">
+<a class="external" href="https://www.online-calculator.com/" target="_blank">(Online-Calculator.com) Standard Calculator</a><details class="ptx-footnote" aria-live="polite" id="lab-calculator-stress-test-3-2-2-2-2-1-2"><summary class="ptx-footnote__number" title="Footnote 2.10"><sup> 10 </sup></summary><div class="ptx-footnote__contents" id="lab-calculator-stress-test-3-2-2-2-2-1-2"><code class="code-inline tex2jax_ignore">www.online-calculator.com/</code></div></details>
+</div></li>
+<li id="lab-calculator-stress-test-3-2-2-2-3"><div class="para" id="lab-calculator-stress-test-3-2-2-2-3-1">
+<a class="external" href="https://www.desmos.com/scientific/" target="_blank">(Desmos.com) Scientific Calculator</a><details class="ptx-footnote" aria-live="polite" id="lab-calculator-stress-test-3-2-2-2-3-1-2"><summary class="ptx-footnote__number" title="Footnote 2.11"><sup> 11 </sup></summary><div class="ptx-footnote__contents" id="lab-calculator-stress-test-3-2-2-2-3-1-2"><code class="code-inline tex2jax_ignore">www.desmos.com/scientific/</code></div></details>
+</div></li>
+</ul>
+</li>
+</ul></section><section class="paragraphs" id="lab-calculator-stress-test-4"><h2 class="heading"><span class="title">Procedure.</span></h2> <div class="para" id="lab-calculator-stress-test-4-2">We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout so that you will be able to remember the information you need for the write-up.</div> <ul class="disc">
+<li id="lab-calculator-stress-test-4-3-1">
+<div class="para" id="lab-calculator-stress-test-4-3-1-1">Determine the following information about the two cellphone calculators and three online calculators:</div>
+<ul class="circle">
+<li id="lab-calculator-stress-test-4-3-1-2-1"><div class="para" id="lab-calculator-stress-test-4-3-1-2-1-1">Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The calculator might just be called "calculator." The version information might be difficult to find, but it’s there somewhere. You might find the information in the app store.)</div></li>
+<li id="lab-calculator-stress-test-4-3-1-2-2"><div class="para" id="lab-calculator-stress-test-4-3-1-2-2-1">Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the rest of the lab.)</div></li>
+<li id="lab-calculator-stress-test-4-3-1-2-3"><div class="para" id="lab-calculator-stress-test-4-3-1-2-3-1">Execution style: Infix or immediate execution</div></li>
+<li id="lab-calculator-stress-test-4-3-1-2-4"><div class="para" id="lab-calculator-stress-test-4-3-1-2-4-1">Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.</div></li>
+<li id="lab-calculator-stress-test-4-3-1-2-5"><div class="para" id="lab-calculator-stress-test-4-3-1-2-5-1">Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function, then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)</div></li>
+</ul>
+</li>
+<li id="lab-calculator-stress-test-4-3-2">
+<div class="para" id="lab-calculator-stress-test-4-3-2-1">We will use the calculators to calculate some values. The purpose is to compare the relative difficulty of getting the correct answers. In some cases, you might be able to perform the entire calculation in a single step. But in other cases, you may need to perform multiple separate calculations to get the correct result. Be sure to make note of any challenges you encounter.</div>
+<ul class="circle">
+<li id="lab-calculator-stress-test-4-3-2-2-1"><div class="para" id="lab-calculator-stress-test-4-3-2-2-1-1">Calculate <span class="process-math">\(\frac{10}{5+5}\text{.}\)</span> The correct result is 10.</div></li>
+<li id="lab-calculator-stress-test-4-3-2-2-2"><div class="para" id="lab-calculator-stress-test-4-3-2-2-2-1">Calculate <span class="process-math">\(1 + 2 \cdot 3\text{.}\)</span> The correct result is 7.</div></li>
+<li id="lab-calculator-stress-test-4-3-2-2-3"><div class="para" id="lab-calculator-stress-test-4-3-2-2-3-1">Calculate <span class="process-math">\(2 + \frac{6}{3} + 3\text{.}\)</span> The correct result is 7.</div></li>
+</ul>
+</li>
+<li id="lab-calculator-stress-test-4-3-3">
+<div class="para" id="lab-calculator-stress-test-4-3-3-1">We will now calculate values using actual physics formulas with physically appropriate values. This will help us to see the types of challenges these calculators may face in actual practice. (Descriptions of the formulas are given, but it’s okay if you don’t understand them right now.)</div>
+<ul class="circle"><li id="lab-calculator-stress-test-4-3-3-2-1"><div class="para" id="lab-calculator-stress-test-4-3-3-2-1-1">FILL THIS IN AFTER COMPLETING MORE OF THE TEXT</div></li></ul>
+</li>
+<li id="lab-calculator-stress-test-4-3-4">
+<div class="para" id="lab-calculator-stress-test-4-3-4-1">We will now test some of the limits of the calculators. Perform the following tasks on each calculator.</div>
+<ul class="circle">
+<li id="lab-calculator-stress-test-4-3-4-2-1"><div class="para" id="lab-calculator-stress-test-4-3-4-2-1-1">Calculate <span class="process-math">\(1 \div 3\)</span> and count the total number of digits that are displayed (including the leading zero). Then calculate <span class="process-math">\(1,000,000 \div 3\)</span> and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.</div></li>
+<li id="lab-calculator-stress-test-4-3-4-2-2"><div class="para" id="lab-calculator-stress-test-4-3-4-2-2-1">Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or scientific notation. If it does not have these features, it will be helpful to use the "Ans" feature (uses the answer of the last calculation as part of the next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.</div></li>
+<li id="lab-calculator-stress-test-4-3-4-2-3"><div class="para" id="lab-calculator-stress-test-4-3-4-2-3-1">If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that <span class="process-math">\(\sqrt{0.999\ldots9} = 1\text{.}\)</span> (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators, just indicate this.)</div></li>
+</ul>
+</li>
+<li id="lab-calculator-stress-test-4-3-5">
+<div class="para" id="lab-calculator-stress-test-4-3-5-1">We will now engage in some "stress tests" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction says to "calculate" a quantity, it means to have the calculator evaluate the result by pressing the equal sign (or equivalent button).</div>
+<ul class="circle">
+<li id="lab-calculator-stress-test-4-3-5-2-1"><div class="para" id="lab-calculator-stress-test-4-3-5-2-1-1">Calculate <span class="process-math">\(1 + 2 \times 3\text{.}\)</span> Do not add parentheses or make other adjustments to force the calculator to get the right answer. We want to see how the calculator interprets this. The correct answer is 7, but some calculators will give 9 as the answer.</div></li>
+<li id="lab-calculator-stress-test-4-3-5-2-2"><div class="para" id="lab-calculator-stress-test-4-3-5-2-2-1">Calculate <span class="process-math">\(1 \div 3\)</span> and then multiply that result by <span class="process-math">\(3\text{.}\)</span> The correct answer is 1, but not all calculators will give this result.</div></li>
+<li id="lab-calculator-stress-test-4-3-5-2-3"><div class="para" id="lab-calculator-stress-test-4-3-5-2-3-1">Calculate <span class="process-math">\(\sqrt{0.999\ldots9}\)</span> with as many 9s are needed to give a result of 1. Then square the result. The correct answer is <span class="process-math">\(0.999\ldots9\)</span> with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.</div></li>
+<li id="lab-calculator-stress-test-4-3-5-2-4"><div class="para" id="lab-calculator-stress-test-4-3-5-2-4-1">For calculators with a squaring function and a square root function, start with <span class="process-math">\(0.1\)</span> and square as many times as needed to get a result of 0. Then take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.</div></li>
+<li id="lab-calculator-stress-test-4-3-5-2-5"><div class="para" id="lab-calculator-stress-test-4-3-5-2-5-1">For calculators that have parentheses and inline notation (so that fractions appear as <span class="process-math">\(1 \div 3\)</span> or <span class="process-math">\(1 / 3 \)</span> instead of <span class="process-math">\(\frac{1}{3}\)</span>), calculate <span class="process-math">\(6 \div 2 (1 + 2)\text{.}\)</span> If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on the internet, and it is known that different calculators give different answers. What the "right" answer is and whether there even a "right" answer depends on who you ask.)</div></li>
+</ul>
+</li>
+</ul></section><section class="paragraphs" id="lab-calculator-stress-test-5"><h2 class="heading"><span class="title">Discussion.</span></h2> <div class="para" id="lab-calculator-stress-test-5-2">Answer the following questions.</div> <ol class="decimal">
+<li id="lab-calculator-stress-test-5-3-1"><div class="para" id="lab-calculator-stress-test-5-3-1-1">Based on your experiences, which calculator would you say is the "best" one? The "worst" one? (Note: It’s possible for multiple calculators to tie for best or worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.</div></li>
+<li id="lab-calculator-stress-test-5-3-2"><div class="para" id="lab-calculator-stress-test-5-3-2-1">Did any of the stress test results surprise you? What about them was surprising?</div></li>
+</ol></section><section class="paragraphs" id="lab-calculator-stress-test-6"><h2 class="heading"><span class="title">Conclusion.</span></h2> <div class="para" id="lab-calculator-stress-test-6-2">It’s a common assumption that everyone knows how to use a calculator. This assumption is true for very basic calculations, but it’s often false when more complex calculations are involved. Was there anything new that you learned about calculators from this activity?</div></section><section class="paragraphs" id="lab-calculator-stress-test-7"><h2 class="heading"><span class="title">Lab Write-Up Guidance.</span></h2> <div class="para" id="lab-calculator-stress-test-7-2">Use the following outline to help you write up your lab report completely and correctly.</div> <ul class="disc">
+<li id="lab-calculator-stress-test-7-3-1">
+<span class="heading"><span class="title">Title and Header.</span></span><div class="para" id="lab-calculator-stress-test-7-3-1-2">What is the title of the lab and who was in the lab group?</div>
+</li>
+<li id="lab-calculator-stress-test-7-3-2">
+<span class="heading"><span class="title">Introduction.</span></span><div class="para" id="lab-calculator-stress-test-7-3-2-2">In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.</div>
+</li>
+<li id="lab-calculator-stress-test-7-3-3">
+<span class="heading"><span class="title">Procedure.</span></span><div class="para" id="lab-calculator-stress-test-7-3-3-2">This lab has you executing a number of calculations using different calculators. Describe the various calculations that you did.</div>
+</li>
+<li id="lab-calculator-stress-test-7-3-4">
+<span class="heading"><span class="title">Results and Data.</span></span><div class="para" id="lab-calculator-stress-test-7-3-4-2">You should have one table of information the describes the calculators. Then you should have another set of tables (one table for each calculation) where you indicate which calculators you used and the results of the calculations.</div>
+</li>
+<li id="lab-calculator-stress-test-7-3-5">
+<span class="heading"><span class="title">Discussion.</span></span><div class="para" id="lab-calculator-stress-test-7-3-5-2">Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.</div>
+</li>
+<li id="lab-calculator-stress-test-7-3-6">
+<span class="heading"><span class="title">Conclusion.</span></span><div class="para" id="lab-calculator-stress-test-7-3-6-2">Write a couple paragraphs about the lab. Did you find anything interesting or surprising? Did you learn anything new about calculators?</div>
+</li>
+</ul></section></section></div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="sec-mathematics-labs.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="lab-unit-conversion.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+</div>
+</body>
+</html>
