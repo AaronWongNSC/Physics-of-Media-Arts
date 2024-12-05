@@ -1135,58 +1135,31 @@ var ptx_lunr_docs = [
   "body": "    (The Physics Classroom) Newton's Law of Universal Gravitation     "
 },
 {
-  "id": "lab-measuring-acceleration",
-  "level": "1",
-  "url": "lab-measuring-acceleration.html",
-  "type": "Lab Activity",
-  "number": "5.4.1",
-  "title": "Measuring Acceleration",
-  "body": " Measuring Acceleration   Introduction  We will attempt to measure the value of , the acceleration due to gravity on earth, by dropping a marble at various heights and measuring how long it takes to fall.    Equipment List    A stopwatch (a cellphone will work)    A meter stick    A marble      Procedure  We are going to work with the equation . In this formula, is the height of a dropped object and is the amount of time it takes for that object to hit the ground. By taking some measurements, we will be able to     Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-measuring-acceleration-5",
-  "level": "2",
-  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-5",
-  "type": "Example",
-  "number": "5.4.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-measuring-acceleration-9",
-  "level": "2",
-  "url": "lab-measuring-acceleration.html#lab-measuring-acceleration-9",
-  "type": "Additional Resources",
-  "number": "5.4.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
   "id": "lab-moon-physics",
   "level": "1",
   "url": "lab-moon-physics.html",
   "type": "Lab Activity",
-  "number": "5.4.2",
+  "number": "5.4.1",
   "title": "Moon Physics",
-  "body": " Moon Physics   Introduction  A common conspiracy theory is that we didn't land on the moon, and that all of the footage was done in a studio. We are going to look at one theorized aspect of the footage, which is that the moon gravity was faked by filming at a high frame rate and slowing it down to give the appearance of a low gravity environment. We are going to perform a practical test of this theory to see whether the time-slowing physics matches with the theory of low gravity physics.    Procedure      Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " Moon Physics   Introduction  A common conspiracy theory is that we didn't land on the moon, and that all of the footage was done in a studio. We are going to look at one theorized aspect of the footage, which is that the moon gravity was faked by filming at a high frame rate and slowing it down to give the appearance of a low gravity environment. We are going to perform a practical test of this theory to see whether the time-slowing physics matches with the theory of low gravity physics.    Equipment List    Video camera capable of slow motion video (cellphones can work)    Meter stick    Marble      Procedure  We are going to test the conspiracy theory by directly filming with a high framerate and then adjusting the timing to try to match the altered gravity. Then we will examine the details of the behavior to see whether the underlying physics remains consistent.    Film a marble being dropped from a height of one meter and landing on the floor in slow motion. Do this in front of the meter stick so that you will be able to take measurements. It may be helpful to film this a few times to ensure that you have good video to work with.    Calculate the time it should take the marble to fall 10 cm, 20 cm, 30 cm, ..., 100 cm under moon gravity. Organize this information into a chart.    Using the time it should take an object to fall 100 cm (1 m), determine the appropriate framerate that the video should be running at in order to mimic moon gravity. (Note: You will need to know the total number of frames required for the object to fall.) Adjust the video framerate accordingly.    Using the adjusted video, determine the amount of time it took for the marble fall 10 cm, 20 cm, 30 cm, ..., 100 cm. Organize this information into a chart.    Film 10-15 seconds of walking around and jumping in slow motion. This video will be used later.      Sample Charts   Moon Fall Time    Distance (cm)  Theoretical Time (s)  Slow Motion Time (s)    10    20    30    40    50    60    70    80    90    100       Discussion      Explain how you determined the correct framerate for the moon gravity version of the video.    Watch the moon gravity version of the video. How \"real\" does it look to you?    How well did the moon gravity video align with the theoretical values? Is this difference enough to be noticable in this situation?    Adjust the framerate of the video of your movement to match moon gravity. Does this look like you're on the moon? What do you notice about the video that leads you to your conclusion? What changes would you have to make in order to make it more convincing (aside from costumes and props).      Conclusion  There are lots of technical reasons that the moon landing could not have been faked using the available technology of the time. But setting those aside and just thinking about trying to make the videos, you can see from this lab that the challenges are not all solved by simply adjusting the frame rate.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the process of making the videos that you used in your analysis.    Results and Data  Present your moon fall chart.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         (PBS News) Apollo Landing Footage Would Have Been Impossible to Fake. A Film Expert Explains Why.      "
 },
 {
-  "id": "lab-moon-physics-4",
+  "id": "lab-moon-physics-5",
   "level": "2",
-  "url": "lab-moon-physics.html#lab-moon-physics-4",
+  "url": "lab-moon-physics.html#lab-moon-physics-5",
   "type": "Example",
-  "number": "5.4.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "number": "5.4.1.1",
+  "title": "Sample Charts.",
+  "body": " Sample Charts   Moon Fall Time    Distance (cm)  Theoretical Time (s)  Slow Motion Time (s)    10    20    30    40    50    60    70    80    90    100     "
 },
 {
-  "id": "lab-moon-physics-8",
+  "id": "lab-moon-physics-9",
   "level": "2",
-  "url": "lab-moon-physics.html#lab-moon-physics-8",
+  "url": "lab-moon-physics.html#lab-moon-physics-9",
   "type": "Additional Resources",
-  "number": "5.4.2",
+  "number": "5.4.1",
   "title": "",
-  "body": "    Google     "
+  "body": "    (PBS News) Apollo Landing Footage Would Have Been Impossible to Fake. A Film Expert Explains Why.     "
 },
 {
   "id": "sec-newton-first-law",
@@ -1195,7 +1168,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Newton’s First Law of Motion",
-  "body": " Newton's First Law of Motion    -----   ------   ...  "
+  "body": " Newton's First Law of Motion     -----   ------   The Greeks viewed the world as being made of four fundamental elements, and each of these elements had a \"natural state\" where those elements wanted to be. For example, rocks fell because they wanted to return to the earth. However, Newton's First Law of Motion rejected such philosophical musings and replaced them with with a concrete rule that applied to all objects and all situations.    The Idea of Newton's First Law: Inertia    An object at rest remains at rest, and an object in motion remains in motion at constant speed and in a straight line unless acted on by a net force.     inertia  mass The basic idea is simple. Objects don't just move arbitrarily. They move because something caused them to move. And if they are in motion, they will maintain that motion until something causes the motion to change. The tendency of objects to resist changing their motion (or lack of motion) is called inertia . The amount of inertia an object has is known as its mass . It's very important to remember that mass and weight are not the same concept. Even in the weightlessness of outer space, objects will still have mass and will still resist your attempts to change their motion.    Forces and Force Diagrams   force Newton's concept of inertia includes a clause that allows the motion of objects to change, which is through the use of a force . Forces are understood as an influence (such as a push or a pull) that can cause an object to change its motion. Forces can have all sorts of sources. Forces can be caused by gravity, magnetism, or the physical interaction of objects. At this stage, we aren't interested in what causes the forces. All we need to do is focus on the idea that they exist and they can cause changes to motion.  Forces are vectors. This means that they have a direction and a magnitude. So when we think about how a force might be interacting with an object, we have to pay attention to the direction of the force. This will tell us whether the force is causing the object to speed up, slow down, or change directions (or some combination of those). The direction of the force is the direction that the object would start to move if it was at rest.   force diagram  net force When thinking about the forces that are being applied to an object, we often draw a picture known as a force diagram . This is a picture that represents the object and all of the forces that are being applied to it. This helps us to organize the information in a problem. Since forces are vectors, they can be added together. The net force is the result of adding together all of the forces that are acting on an object. If an object is maintaining its motion, then the net force must be zero.    Normal Forces  One of the most challenging types of forces to understand is the normal force . This is the force that an object imparts on another object when they interact with each other. This force is always viewed as being perpendicular to the surface.(\"Normal\" is a mathematical term for perpendicularity.) Such forces always exist whenever two objects interact with each other.  The first normal force we are going to consider is when an object is at rest while under the influence of gravity. We will think about a ball sitting on a table. If we tried to apply Newton's First Law, we would see that the object at rest that is staying at rest, and so we know that there is no net force acting on it. However, since this ball is subject to gravity, and gravity is a downward force, in our force diagram we must have a downward arrow to represent that. If this were the only force acting on the ball, then the ball would start to accelerate towards the ground. But the ball is at rest, and that's because the table is applying an upward force to the ball. And since the ball is at rest, the upward force of the table must be exactly equal to the downard force of gravity.  We can also see how this normal force works to create motion. Instead of thinking of the ball on a table, let's think about it on an incline. Remember that the normal force is always perpendicular to the surface, so that the incline does not apply a vertical force to the ball. When we draw the force diagram, we will have gravity pulling the ball downward, but then the normal force would push up at an angle. Notice that the angle of the normal force indicates which direction (left or right) the ball is going to roll. In fact, we can know that the net force the ball is going to experience must be parallel to the incline because that's the ultimate direction the ball will move. From this, we can do a vector analysis to determine exactly how large the normal force must be.   "
+},
+{
+  "id": "def-Newton-First-Law",
+  "level": "2",
+  "url": "sec-newton-first-law.html#def-Newton-First-Law",
+  "type": "Definition",
+  "number": "6.1.0.1",
+  "title": "",
+  "body": "  An object at rest remains at rest, and an object in motion remains in motion at constant speed and in a straight line unless acted on by a net force.   "
+},
+{
+  "id": "sec-newton-first-law-3-3",
+  "level": "2",
+  "url": "sec-newton-first-law.html#sec-newton-first-law-3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "inertia mass "
+},
+{
+  "id": "sec-newton-first-law-4-2",
+  "level": "2",
+  "url": "sec-newton-first-law.html#sec-newton-first-law-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "force "
+},
+{
+  "id": "sec-newton-first-law-4-4",
+  "level": "2",
+  "url": "sec-newton-first-law.html#sec-newton-first-law-4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "force diagram net force "
+},
+{
+  "id": "sec-newton-first-law-5-2",
+  "level": "2",
+  "url": "sec-newton-first-law.html#sec-newton-first-law-5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "normal force "
 },
 {
   "id": "sec-newton-second-law",
@@ -1204,7 +1222,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Newton’s Second Law of Motion",
-  "body": " Newton's Second Law of Motion    -----   ------   ...  "
+  "body": " Newton's Second Law of Motion     -----   ------   Newton's Second Law of Motion is, in a certain sense, an elaboration on the First Law. The First Law tells us when an objections motion will change, and the Second Law tells us how it will change.    The Idea of Newton's Second Law: Calculating Acceleration    The net force on an object at any instant of time is equal to the product of its mass and its acceleration.    Newton's Second Law of Motion gives us the famous equation . The on the left side of the equation is the net force, which is the sum of all of the forces that are acting on the object. The on the right side of the equation is the acceleration vector, which tells us how the velocity is changing, which in turn can tell us how the position of the object is changing. This equation represents all of the interactions that we can observe, whether it's ropes, springs, magnets, gravity, or something else.    Momentum   momentum An important concept that is related to Newton's Second Law of Motion is momentum . Mathematically, momentum is calculated using the formula (where and are both vectors). Conceptually, momentum can be interpreted the quantity created when there is a mass that is in motion. However, it is difficult to interpret exactly what this quantity is. One interpretation of it is that it's a measure of how hard it would be to bring an object to rest. Objects with more momentum require more \"effort\" to make it stop than objects with less momentum. This does not fully capture all of the nuances of momentum, but it's close enough for us.   impulse We can view Newton's Second Law of Motion through the lens of momentum. Instead of thinking about the acceleration of an object, we can think about how its momentum is changing. A net force applied for a period of time will lead to a change of that object's momentum, and that force applied over a time is called an impulse .  Momentum is a deep enough topic that it will be given its own section.   "
+},
+{
+  "id": "def-Newton-Second-Law",
+  "level": "2",
+  "url": "sec-newton-second-law.html#def-Newton-Second-Law",
+  "type": "Definition",
+  "number": "6.2.0.1",
+  "title": "",
+  "body": "  The net force on an object at any instant of time is equal to the product of its mass and its acceleration.   "
+},
+{
+  "id": "sec-newton-second-law-4-2",
+  "level": "2",
+  "url": "sec-newton-second-law.html#sec-newton-second-law-4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "momentum "
+},
+{
+  "id": "sec-newton-second-law-4-3",
+  "level": "2",
+  "url": "sec-newton-second-law.html#sec-newton-second-law-4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "impulse "
 },
 {
   "id": "sec-newton-third-law",
@@ -1213,7 +1258,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Newton’s Third Law of Motion",
-  "body": " Newton's Third Law of Motion    -----   ------   ...  "
+  "body": " Newton's Third Law of Motion     -----   ------   ...    The Idea of Newton's Third Law: Balance    For every action there is an equal and opposite reaction.    Newton's Third Law of Motion creates a sense of symmetry in the universe.   "
+},
+{
+  "id": "def-Newton-Third-Law",
+  "level": "2",
+  "url": "sec-newton-third-law.html#def-Newton-Third-Law",
+  "type": "Definition",
+  "number": "6.3.0.1",
+  "title": "",
+  "body": "  For every action there is an equal and opposite reaction.   "
 },
 {
   "id": "lab-equal-opposite",
