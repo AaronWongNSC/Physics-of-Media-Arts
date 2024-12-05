@@ -3,18 +3,35 @@
 <section xml:id="sec-newton-third-law" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Newton's Third Law of Motion</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
+    <p>
+      ...
+    </p>
+  </introduction>
+
+  <paragraphs>
+  <title>The Idea of Newton's Third Law: Balance</title>
   
+  <definition xml:id="def-Newton-Third-Law">
+    <statement>
+      <p>
+        For every action there is an equal and opposite reaction.
+      </p>
+    </statement>
+  </definition>
 
   <p>
-    ...
+    Newton's Third Law of Motion creates a sense of symmetry in the universe. 
   </p>
+</paragraphs>
+
 </section>
 
 <!-- Additional Resources:

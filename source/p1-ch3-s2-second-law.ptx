@@ -3,17 +3,63 @@
 <section xml:id="sec-newton-second-law" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Newton's Second Law of Motion</title>
   
-  <blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
+
     <p>
-      <q>-----</q>
+      Newton's Second Law of Motion is, in a certain sense, an elaboration on the First Law. The First Law tells us when an objections motion will
+      change, and the Second Law tells us how it will change.
     </p>
-    <attribution>------</attribution>
-  </blockquote>
+  </introduction>
+</section>
+
+<paragraphs>
+  <title>The Idea of Newton's Second Law: Calculating Acceleration</title>
+  
+  <definition xml:id="def-Newton-Second-Law">
+    <statement>
+      <p>
+        The net force on an object at any instant of time is equal to the product of its mass and its acceleration. 
+      </p>
+    </statement>
+  </definition>
 
   <p>
-    ...
+    Newton's Second Law of Motion gives us the famous equation <m>F = ma</m>. The <m>F</m> on the left side of the equation is the net force, which is the
+    sum of all of the forces that are acting on the object. The <m>a</m> on the right side of the equation is the acceleration vector, which tells us how
+    the velocity is changing, which in turn can tell us how the position of the object is changing. This equation represents all of the interactions that we
+    can observe, whether it's ropes, springs, magnets, gravity, or something else.
   </p>
-</section>
+</paragraphs>
+
+<paragraphs>
+  <title>Momentum</title>
+  
+  <p>
+    <idx><h>momentum</h></idx>
+
+    An important concept that is related to Newton's Second Law of Motion is <term>momentum</term>. Mathematically, momentum is calculated using the formula
+    <m>p = mv</m> (where <m>p</m> and <m>v</m> are both vectors). Conceptually, momentum can be interpreted the quantity created when there is a mass that is
+    in motion. However, it is difficult to interpret exactly what this quantity is. One interpretation of it is that it's a measure of how hard it would be
+    to bring an object to rest. Objects with more momentum require more "effort" to make it stop than objects with less momentum. This does not fully capture
+    all of the nuances of momentum, but it's close enough for us.
+  </p>
+  <p>
+    <idx><h>impulse</h></idx>
+
+    We can view Newton's Second Law of Motion through the lens of momentum. Instead of thinking about the acceleration of an object, we can think about how
+    its momentum is changing. A net force applied for a period of time will lead to a change of that object's momentum, and that force applied over a time
+    is called an <term>impulse</term>.
+  </p>
+  <p>
+    Momentum is a deep enough topic that it will be given its own section.
+  </p>
+</paragraphs>
 
 <!-- Additional Resources:
 
