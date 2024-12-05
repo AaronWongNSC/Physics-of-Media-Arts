@@ -22,15 +22,64 @@
     <definition xml:id="def-Newton-Third-Law">
       <statement>
         <p>
-          For every action there is an equal and opposite reaction.
+          Whenever two objects interact with each other, they apply forces to each other that are equal in magnitude and in opposite directions.
+          More commonly, this is stated in the following form: "For every action there is an equal and opposite reaction."
         </p>
       </statement>
     </definition>
 
     <p>
-      Newton's Third Law of Motion creates a sense of symmetry in the universe. 
+      Newton's Third Law of Motion creates a sense of balance in the universe. If you push on an wall, the wall also pushes you. The universe does not
+      give one object preference over another. Another way to think about this is that interaction forces always come in pairs. Any time one object
+      applies a force to another, there's an equal and opposite force being applied back to it. This concept may seem simple, but it's not always intuitive.
+      We will look at a few examples of this law in action.
     </p>
-</paragraphs>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Movement</title>
+    
+    <p>
+      Moving around is one of the simplest things we can do, but it's interesting to think deeply about the physics of it. Let's start by thinking about
+      walking. How is it that you are able to move forward when you walk? You push backwards against the ground, and the ground pushes you forward. This
+      may seem strange at first. How does the ground push you forward? The underlying force is friction, and if you've ever tried to walk on a surface that
+      has less friction (such as ice), then you've experienced what it's like to not have the ground's help when trying to move forward.
+    </p>
+    <p>
+      If we switched from walking to swimming, the same idea applies. The reason that you are able to swim forward is because you are pushing backwards on
+      the water and the water is pushing you forward. But what if we pushed this idea further? What if we were trying to swim in space? Based on this logic,
+      since there's nothing for you to push backwards on, there's no way that you will be able to move forward.
+    </p>
+    <p>
+      But then how is it that rockets can go forward in space? This is also by using Newton's Third Law, but in a different way. For movement on earth and in
+      water, we are relying on friction with the world around us to give us that forward push. Rockets work on a different principle. Rather than relying on
+      objects in the environment to push off of, rockets bring those objects with it in the form of fuel. As the fuel gets pushed backwards, the rocket gets
+      pushed forward.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Flying Birds in a Truck</title>
+
+    <p>
+      This is a classic physics thought experiment: Does a truck full of birds weigh less if birds are flying?
+    </p>
+    <p>
+      One side of the argument is that since the birds are flying, they aren't really attached to the truck, and so their weight won't be measured and the
+      truck is lighter. Think about jumping off a scale. When you're in the air, the scale won't read your weight. And the same works with the birds. At least,
+      that's how the argument goes.
+    </p>
+    <p>
+      This turns out to be wrong because of Newton's Third Law. The comparison with jumping isn't accurate because a jump is a type of falling. If all of the
+      birds simultaneously stopped flapping and just fell to the floor, then there would be a temporary instant when then truck is lighter. But assuming that
+      the birds are actually flying, we have to understand how it is that they're flying. They fly because they are exerting a downward force on the air in
+      the truck. That air is pushing down on the truck, and so the weight of the birds is transferred to the truck through the air.
+    </p>
+    <p>
+      This thought experiment has actually been tested with a real truck and real birds (Mythbusters, Season 5, Episode 9) as well as with drones (which are
+      easier to work with than birds). They all verify that Newton's Third Law and show that there is no change in the weight when the birds are in flight.
+    </p>
+  </paragraphs>
 
 </section>
 

@@ -116,11 +116,9 @@
 
     <p>
       A common situation to consider is when an object is launched from the ground. We will assume that you know the initial horizontal and vertical velocities,
-      but it's possible with a little bit of trigonometry to be able to determine these from the total speed and the angle of launch. (These formulas are
-      typically written as <m>v_{0x} = v_0 \cos(\theta)</m>) and <m>v_{0y} = v_0 \sin(\theta)</m>, where <m>v_0</m> is the total speed and <m>\theta</m> is the
-      angle of launch relative to the horizontal.) Under these assumptions, we also typically take <m>x_0 = 0</m> and <m>y_0 = 0</m>, which means that
-      we are launching from ground level and we're treating our launch position as the origin. With these substitutions, our equations
-      become
+      but it's possible with a little bit of trigonometry to be able to determine these from the total speed and the angle of launch. We also typically take
+      <m>x_0 = 0</m> and <m>y_0 = 0</m>, which means that we are launching from ground level and we're treating our launch position as the origin. With these
+      substitutions, our equations become
     </p>
     <md>
       <mrow>x(t) \amp = v_{0x} t</mrow>
@@ -163,8 +161,16 @@
         </p>
       </li>
     </ul>
+    <p>
+      It's worth noting that in some cases, you will know the total initial speed <m>v_0</m> of the object and the launch angle, and you will need to derive the
+      initial horizontal and vertical speeds. This is a simple application of trigonometry. If we draw a right triangle with hypotenuse length <m>v_0</m> and
+      an angle <m>\theta</m> relative to the horizontal, then our trigonometry relationships tell the horizontal length is <m>v_0 \cos(\theta)</m> and the vertical
+      length is <m>v_{0y} = v_0 \sin(\theta)</m>. In other words, we have <m>v_{0x} = v_0 \cos(\theta)</m>) and <m>v_{0y} = v_0 \sin(\theta)</m>. You will often see
+      the projectile motion formulas presented in this way.
+    </p>
     
   </paragraphs>
+
 
   <paragraphs>
     <title>Practical Realities</title>

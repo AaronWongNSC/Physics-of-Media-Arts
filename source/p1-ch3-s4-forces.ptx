@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Forces</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>Use the Force, Luke.</q>
+      </p>
+      <attribution>Obi-Wan Kenobi (Star Wars: A New Hope)</attribution>
+    </blockquote>
+
+    <p>
+      We have seen a few types of forces in our discussion of Newton's Laws of Motion. In this section, we're going to explore some of these forces
+      in a bit more detail to expand our understanding of forces.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Friction</title>
+
+    <p>
+      <idx><h>friction</h></idx>
+
+      Friction is the force that resists the relative movement of objects sliding against each other. Friction can occur between many types of objects: solid objects
+      against other solid objects, solid objects against a fluid (such as air or water resistance), and a fluid against itself are just some of the ways friction can
+      be manifested.
+    </p>
+    <p>
+      <idx><h>kinetic friction</h></idx>
+      <idx><h>static friction</h></idx>
+
+      We are going to focus our attention on the friction between solid objects. But even this isn't quite an entirely simple concept, because there are two types of
+      friction. There's <term>static friction</term>, which is the friction between two objects when there is no movement between them, and then there's
+      <term>kinetic friction</term>, which is the friction between two objects when they are moving relative to each other. Fortunately, both types of friction are
+      calculated using the same method.
+    </p>
+    <p>
+      <idx><h>coefficient of friction</h></idx>
+      
+      The formula for the force of friction between two objects is <m>F = \mu N</m>, where <m>N</m> is the magnitude of the normal force and <m>\mu</m> is the
+      <term>coefficient of friction</term>, whose value depends on the two surfaces that are in contact with each other. The direction of the friction force is
+      always opposite of the direction that resists movement. Smaller values of <m>\mu</m> mean that there is less friction, with 0 being no friction at all.
+    </p>
+    <p>
+      The coefficient of kinetic friction is always smaller than the coefficient of static friction for the same pair of objects.
+    </p>
+
+    
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

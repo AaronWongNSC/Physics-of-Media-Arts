@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-trigonometry" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Trigonometry</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          -----
+        </q>
+      </p>
+      <attribution>----</attribution>
+    </blockquote>
+
+    <p>
+      <idx><h>trigonometry</h></idx>
+
+      <term>Trigonometry</term> is the study of the relationship between angles and the sides lengths of triangles. While it's possible to have an entire course
+      on trigonometry, we will only be focusing on the basic geometric ideas of trigonometry.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <idx><h>Pythagorean Theorem</h></idx>
+
+    <title>The Pythagorean Theorem</title>
+    
+    <p>
+      <idx><h>hypotenuse</h></idx>
+      <idx><h>legs (of a right triangle)</h></idx>
+
+      We will start with a simple right triangle. The longest side of a right triangle is known as the <term>hypotenuse</term> and the other two sides are
+      called <term>legs</term>. The Pythagorean Theorem states that the square of the length of the hypotenuse is equal to the sum of the squares of the lengths
+      of the legs. But that's not typically how people remember it. If we were to label the lengths of the legs as <m>a</m> and <m>b</m>, and the length of the
+      hypotenuse as <m>c</m>, then we would have the relationship <m>a^2 + b^2 = c^2</m>, which is the way most people remember it.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Sine and Cosine</title>
+
+    <p>
+      The core trigonometric relationship we need for physics are the relationships for the sine and cosine functions for right triangles. If we draw a right
+      triangle and label one of the acute angles <m>\theta</m>, we can label the sides according to the following DIAGRAM and have the following relationships:
+    </p>
+    <md>
+      <mrow>\sin(\theta) \amp \frac{\text{Opposite}}{\text{Hypotenuse}}</mrow>
+      <mrow>\cos(\theta) \amp \frac{\text{Adjacent}}{\text{Hypotenuse}}</mrow>
+    </md>
+    <p>
+      The sine and cosine functions are mathematical functions whose values you will get from a scientific calculator. Most of the work we will do at this
+      level will have the angles measured in degrees, and you will want to make sure that your calculator is in the correct mode.
+    </p>
+    <p>
+      Here are the graphs of the sine and cosine functions. There is a lot that could be said about these functions, but the main thing to focus on is the
+      shape of these graphs between 0 degrees and 90 degrees. The sine function starts at 0 and increases to 1, while the cosine function starts at 1 and
+      decreases to 0, and the two graphs have the same value at 45 degrees.
+    </p>
+    <p>
+      GRAPHS
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+
+    <p>
+      <idx><h>vector decomposition</h></idx>
+
+      The basic applications of trigonometry in physics are to determine the length of the side of a triangle and to determine an angle. The most common
+      configuration that we see is that we know the length of the hypotenuse of the triangle and we know one of the angles, and our task is to determine
+      the lengths of the two legs. In the context of vectors, this is often referred to as <term>vector decomposition</term>.
+    </p>
+    <p>
+      The following diagram is useful enough that it's worth memorizing. The assumptions here are that you know the angle <m>\theta</m> and that the length
+      of the hypotenuse is <m>L</m>. Then by using the formulas for sine and cosine, you can determine the lengths of the two legs. This triangle shows up
+      in many different orientations, and so you won't want to remember it in terms of the words "horizontal" and "vertical." That will lead to many errors.
+      It is better to remember that the cosine function is adjacent to the angle and the sine function is opposite the angle.
+    </p>
+    
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://mathinsight.org/vector_introduction">(MathInsight.com) An Introduction to Vectors</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+  
+</section>
+  
