@@ -17,19 +17,19 @@
   </introduction>
 
   <paragraphs>
-  <title>The Idea of Newton's Third Law: Balance</title>
-  
-  <definition xml:id="def-Newton-Third-Law">
-    <statement>
-      <p>
-        For every action there is an equal and opposite reaction.
-      </p>
-    </statement>
-  </definition>
+    <title>The Idea of Newton's Third Law: Balance</title>
+    
+    <definition xml:id="def-Newton-Third-Law">
+      <statement>
+        <p>
+          For every action there is an equal and opposite reaction.
+        </p>
+      </statement>
+    </definition>
 
-  <p>
-    Newton's Third Law of Motion creates a sense of symmetry in the universe. 
-  </p>
+    <p>
+      Newton's Third Law of Motion creates a sense of symmetry in the universe. 
+    </p>
 </paragraphs>
 
 </section>
