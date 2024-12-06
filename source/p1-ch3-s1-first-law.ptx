@@ -42,7 +42,7 @@
   </paragraphs>
 
   <paragraphs>
-    <title>Forces and Force Diagrams</title>
+    <title>Forces and Free Body Diagrams</title>
     
     <p>
       <idx><h>force</h></idx>
@@ -58,10 +58,10 @@
       of those). The direction of the force is the direction that the object would start to move if it was at rest.
     </p>
     <p>
-      <idx><h>force diagram</h></idx>
+      <idx><h>free body diagram</h></idx>
       <idx><h>net force</h></idx>
 
-      When thinking about the forces that are being applied to an object, we often draw a picture known as a <term>force diagram</term>. This is a picture that represents
+      When thinking about the forces that are being applied to an object, we often draw a picture known as a <term>free body diagram</term>. This is a picture that represents
       the object and all of the forces that are being applied to it. This helps us to organize the information in a problem. Since forces are vectors, they can be added
       together. The <term>net force</term> is the result of adding together all of the forces that are acting on an object. If an object is maintaining its motion,
       then the net force must be zero.

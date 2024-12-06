@@ -1,0 +1,19 @@
+<activity xml:id="activity-trig-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Trigonometry Practice</title>
+    
+  <introduction>
+    <p>
+      Intro Text
+    </p>
+  </introduction>
+  
+  <paragraphs>
+    <title>Instructions</title>
+
+    <p>
+      Instructions
+    </p>
+
+  </paragraphs>
+    
+</activity>

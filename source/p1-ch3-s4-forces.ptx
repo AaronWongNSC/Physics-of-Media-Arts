@@ -33,19 +33,39 @@
 
       We are going to focus our attention on the friction between solid objects. But even this isn't quite an entirely simple concept, because there are two types of
       friction. There's <term>static friction</term>, which is the friction between two objects when there is no movement between them, and then there's
-      <term>kinetic friction</term>, which is the friction between two objects when they are moving relative to each other. Fortunately, both types of friction are
-      calculated using the same method.
+      <term>kinetic friction</term>, which is the friction between two objects when they are moving relative to each other.
     </p>
     <p>
-      <idx><h>coefficient of friction</h></idx>
+      <idx><h>coefficient of static friction</h></idx>
       
-      The formula for the force of friction between two objects is <m>F = \mu N</m>, where <m>N</m> is the magnitude of the normal force and <m>\mu</m> is the
-      <term>coefficient of friction</term>, whose value depends on the two surfaces that are in contact with each other. The direction of the friction force is
-      always opposite of the direction that resists movement. Smaller values of <m>\mu</m> mean that there is less friction, with 0 being no friction at all.
+      The formula for the force of friction between two objects at rest relative to each other is <m>F \leq \mu_s N</m>, where <m>N</m> is the magnitude of the normal force
+      and <m>\mu_s</m> is the <term>coefficient of static friction</term>, whose value depends on the two surfaces that are in contact with each other. The direction of the
+      friction force is always opposite of the direction that resists movement. Smaller values of <m>\mu_s</m> mean that there is less friction, with 0 being no friction at
+      all. The reason that the force is given as an inequality is that the quantity on the right represents the maximum amount of friction that can exist between the two
+      surfaces.
     </p>
     <p>
-      The coefficient of kinetic friction is always smaller than the coefficient of static friction for the same pair of objects.
+      <idx><h>coefficient of kinetic friction</h></idx>
+
+      The <term>coefficient of kinetic friction</term> (denoted <m>\mu_k</m>) plays the same role as the coefficient of static friction, except it applies when the two objects are sliding
+      past each other. The coefficient of kinetic friction is always smaller than the coefficient of static friction for the same pair of objects. You have experienced
+      this if you have ever tried to move something heavy. It takes a certain amount of effort to get it moving, and once it's moving it takes less effort to keep it
+      moving. In this case, the formula is <m>F = \mu_k N</m>, and this is an equality because in this situation the friction is always at its maximal value. If the
+      movement of the object slows down to the point that it is no longer moving, then we would be back in the case of static friction.
     </p>
+    <example>
+      <title>Inclined Plane with Friction</title>
+      
+      <p>
+        We are going to consider an object at rest on an inclined plane at the angle <m>\theta</m>. We want to understand how friction fits into this picture as we
+        slowly increase the slope to point that the object begins sliding.
+      </p>
+      <p>
+        If we look at the free body diagram for this situation, we will see that there are three forces. Gravity is pulling the object downward into the inclined
+        plane, the inclined plane exerts a normal force, and the static friction points parallel to the incline in the upward direction (opposite the direction
+        the block would slide without friction). ......
+      </p>
+    </example>
 
     
   </paragraphs>
