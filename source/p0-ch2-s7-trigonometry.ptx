@@ -63,6 +63,18 @@
   </paragraphs>
 
   <paragraphs>
+    <title>Tangent</title>
+
+    <p>
+      The tangent function is another trigonometric function. It's defined by <m>\tan(\theta) = \frac{\sin(\theta)}{\cos(\theta)}</m>. Since this function is
+      defined in terms of sine and cosine, we technically don't even need it. However, this combination ends up being quite useful, and so it's worth knowing
+      about it. The tangent function is usually found in the context of slopes, and it has the property that its value is 0 when the angle is 0, and this value
+      gets infinitely large as the angle approaches 90 degrees. At this point, we won't say anything more about it.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
     <title>Applications</title>
 
     <p>

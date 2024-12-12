@@ -66,33 +66,11 @@
       together. The <term>net force</term> is the result of adding together all of the forces that are acting on an object. If an object is maintaining its motion,
       then the net force must be zero.
     </p>
+    <p>
+      We will explore these diagrams in more detail in a later section.
+    </p>
   </paragraphs>
 
-  <paragraphs>
-    <title>Normal Forces</title>
-
-    <p>
-      One of the most challenging types of forces to understand is the <term>normal force</term>. This is the force that an object imparts on another object when they
-      interact with each other. This force is always viewed as being perpendicular to the surface.("Normal" is a mathematical term for perpendicularity.) Such forces
-      always exist whenever two objects are physically interacting with each other.
-    </p>
-    <p>
-      Consider a ball sitting on a table. If we tried to apply Newton's First Law, we would see that the object at rest that is staying at rest, and so we know that
-      there is no net force acting on it. However, since this ball is subject to gravity, and gravity is a downward force, in our force diagram we must have a downward
-      arrow to represent that. If this were the only force acting on the ball, then the ball would start to accelerate towards the ground. But the ball is at rest, and
-      that's because the table is applying an upward force to the ball. And since the ball is at rest, the upward force of the table must be exactly equal to the
-      downard force of gravity.
-    </p>
-    <p>
-      We can also see how this normal force works to create motion. Instead of thinking of the ball on a table, let's think about it on an incline. Remember that
-      the normal force is always perpendicular to the surface, so that the incline does not apply a vertical force to the ball. When we draw the force diagram,
-      we will have gravity pulling the ball downward, but then the normal force would push up at an angle. Notice that the angle of the normal force indicates which
-      direction (left or right) the ball is going to roll. In fact, we can know that the net force the ball is going to experience must be parallel to the incline
-      because that's the ultimate direction the ball will move. From this, we can do a vector analysis to determine exactly how large the normal force must be.
-    </p>
-
-    
-  </paragraphs>
 </section>
 
 <!-- Additional Resources:
