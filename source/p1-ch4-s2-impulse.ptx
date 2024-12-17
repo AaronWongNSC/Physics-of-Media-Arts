@@ -3,16 +3,44 @@
 <section xml:id="sec-impulse" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Changing Momentum</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
-  <p>
-    ...
-  </p>
+    <p>
+      In the previous section, we derived the equation <m>F \Delta t = \Delta p</m> from Newton's Second Law of Motion when framed in terms of momentum. In this section,
+      we are going to explore what this means.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Defining Impulse</title>
+    
+    <definition xml:id="def-impulse">
+      <idx><h>impulse</h></idx>
+
+      <statement>
+        <p>
+          <term>Impulse</term> is the change of momentum of an obejct when it is acted on by a force. Specifically, it is calculated as <m>\Delta p = F \Delta t</m>,
+          where the force <m>F</m> is fixed and applied over a period of time <m>\Delta t</m>.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      There are a couple aspects about this that are conceptually easy to understand. The first is that larger forces should lead to larger changes of momentum. The second
+      is that a force applied over a longer period of time should lead to a larger change of momentum than the same amount of force being applied for a short period of time.
+      And both of these intuitions are captured in the formula for impulse.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title></title>
+    
+  </paragraphs>
 </section>
 
 <!-- Additional Resources:

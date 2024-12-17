@@ -10,15 +10,85 @@
       </p>
       <attribution>------</attribution>
     </blockquote>
-    
+
     <p>
-      
+      Momentum is a property of objects in motion. In a sense, it measures "how much" movement there is. One way that people think about momentum is
+      to ask the following question: "How much will this hurt if it hits me?"
+    </p>
+    <p>
+      It is easiest to understand by thinking about comparisons between similar situations. Suppose you have two identical objects, where one is moving
+      slowly and the other is moving quickly. The fast-moving object has "more" movement than the slow-moving object, and so that one has more momentum.
+      But now consider a tiny object and a massive object that are moving at the same speed. Even though the speeds are the same, there's still "more"
+      movement in the large object than the smaller one. And so we can see that the idea of momentum involves both the mass and the velocity.
+    </p>
+    <p>
+      There are two types of momentum: linear momentum and angular momentum. We will introduce both, but our focusing will be on linear momentum. Unless
+      otherwise noted, when you see momentum in this book, it will be referring linear momentum.
     </p>
   </introduction>
 
-  <p>
-    ...
-  </p>
+  <paragraphs>
+    <title>Linear Momentum</title>
+
+    <definition xml:id="def-linear-momentum">
+      <idx><h>linear momentum</h></idx>
+      <statement>
+        <p>
+          The <term>linear momentum</term> of an object the product of the mass of the object and its velocity vector.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      Notice from the definition that increasing either mass or velocity will increase the momentum of an object. This matches with the discussion
+      at the start of the section. Since momentum is the product of a scalar and a vector, it is a vector quantity. This isn't as important to think
+      about when  we are working in just one direction, but it becomes essential to understand when we are working in higher dimensions.
+    </p>
+    <p>
+      The SI units of momentum are <m>\frac{\text{kg} \cdot \text{m}}{\text{s}}</m>. By itself, this doesn't say very much. But if we compare it to the
+      units of force, we can see that the two are very similar. The SI units of force are <m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2}</m>. The only
+      difference between the two is that force has an extra dimension of seconds in the denominator. In other words, force has units of momentum over time.
+    </p>
+    <p>
+      In fact, the connection runs much deeper. Newton's Second Law of Motion can actually be phrased in terms of momentum:
+    </p>
+    <definition xml:id="def-Newton-Second-Law-Momentum">
+      <statement>
+        <p>
+          The net force on an object at any instant of time is equal to the rate of change of its momentum. 
+        </p>
+      </statement>
+    </definition>
+    <p>
+      In other words, forces lead to changes in momentum. This idea is written mathematically in the following manner: <m> F = \frac{\Delta p}{\Delta t}</m>.
+      The <m>\Delta</m> notation can be read as "the change of" and is a common notation in both math and physics. (You might remember seeing the formula for
+      the slope of a line as <m>m = \frac{\Delta y}{\Delta x}</m>. It's the exact same thing.) By multiplying both sides of the equation by <m>\Delta t</m>,
+      we have another version of the equation: <m>F \Delta t = \Delta p</m>. This is the formula for impulse, which we will discuss in the next section.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>Angular Momentum</title>
+
+    <p>
+      Angular momentum is the momentum of spinning objects. It's quite a bit more complicated than linear momentum, and it's even less intuitive when you
+      get into the details. If you have a record spinning on a standard record player, the angular momentum is pointing up because it is spinning counter-clockwise.
+      The exact reason it's pointing up and the consequences of that are difficult to understand intuitively. In some sense, the reason is that this is what
+      works out mathematically. But that's unsatisfying.
+    </p>
+    <p>
+      Instead of trying to get the full flavor of angular momentum and its consequences, we are going to think about some of the basic ideas and try to build
+      some core intuitions about it. The underlying question is about how difficult it is to get something to rotate (or to stop rotating). We will use a thought
+      experiment. Suppose you are holding a stick with a weighted ball at the end of it. Will it be easier or harder to swing twist the stick so that the ball
+      swings around if the stick is short or long?
+    </p>
+    <p>
+      Most people intuitively understand that the long stick would be more difficult, and that is the correct answer. So this tells us that angular momentum depends
+      on how far away from the axis of rotation. It also depends on the mass, just as with linear angular momentum. 
+    </p>
+
+    <xi:include href="./p1-ch4-sA-1-rolling-objects-angular-momentum.ptx" />
+
+  </paragraphs>
 </section>
 
 <!-- Additional Resources:
