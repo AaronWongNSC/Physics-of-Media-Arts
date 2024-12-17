@@ -1,0 +1,20 @@
+<activity xml:id="third-law-activity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Experiencing Newton's Third Law of Motion</title>
+    
+  <introduction>
+    <p>
+      The idea of objects pushing back on us is not necessarily an intuitive one. We are going to do a series of activities to try to develop a deeper sense
+      of what it means in practice.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Instructions</title>
+
+    <p>
+      Instructions: Sit on a dolly. Throw light things off of it. Then heavier and heavier. 
+    </p>
+
+  </paragraphs>
+    
+</activity>

@@ -1,0 +1,19 @@
+<activity xml:id="coin-stack-drop-pull" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Coin Stack Drop</title>
+    
+  <introduction>
+    <p>
+      Put a stack of coins on top of a playing card over a cup. Flick the card and the coins should fall down. 
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Instructions</title>
+
+    <p>
+      Instructions
+    </p>
+
+  </paragraphs>
+    
+</activity>

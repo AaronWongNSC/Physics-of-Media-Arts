@@ -1,0 +1,231 @@
+<subsection xml:id="lab-tablecloth-pull" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Tablecloth Pull Trick</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      You've probably seen it. The entertainer walks up to a table setting and pulls the tablecloth out from underneath it without knocking anything over.
+      Of course, it's all physics. At the top level, this is a story about Newton's First and Second Laws of Motion. Objects that are at rest will remain
+      at rest unless acted on by an external force, and <m>F = ma</m>. It's impossible to move the cloth away from the dishes without exerting any force, so
+      there will always be some movement. This means that the challenge is to try to control that force as much as possible to minimize the acceleration
+      of the dishes.
+    </p>
+    <p>
+      There will always be at least two forces acting on the dishes. There will always be gravity pulling the dishes downward, and there will be a friction force
+      that opposes the cloth from sliding out from under the dishes. In some cases, there may be an additional force between the fabric and the dishes, depending
+      on the angle that the fabric is making with the table.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          Table cloth with no hem at least 60 cm square (about 2 feet)
+        </p>
+      </li>
+      <li>
+        <p>
+          Table with a straight edge
+        </p>
+      </li>
+      <li>
+        <p>
+          Plastic cups and plates (unless you have a large budget, in which case you might opt for something breakable)
+        </p>
+      </li>
+      <li>
+        <p>
+          Small Weights (paper clips, coins, marbles, etc.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Slow motion camera (cellphones are acceptable)
+        </p>
+      </li>
+      <li>
+        <p>
+          Fabric chalk or tape for making small markings
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+        The first part of this lab is going to be learning about all the ways this trick can go wrong. Then you will have a chance to practice the technique
+        before we start adjusting the parameters.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Mark a spot 10 cm from one of the edges with the fabric chalk or a small piece of tape. Then make another mark about 20 cm from the opposite edge. Each
+          time you do the experiment, you will be placing the cup with a few weights* in it at the 10 cm mark and have the tablecloth so that there is about
+          20 cm hanging off the side of the table. This will help with the consistency of the observations. (*Once you've decided how much weight to add, you should
+          use the same amount every time until the assignment asks you to vary this.)
+        </p>
+      </li>
+      <li>
+        <p>
+          One of the techniques that people try to use for this trick is to pull the cloth towards their body. This will almost always fail. Record yourself doing
+          this (using slow motion), making sure to focus your attention on the glass and the tablecloth near the cup. Watch the footage of the instant the tablecloth
+          starts to move near the cup. Make some observations about what you see and why this is not a good technique.
+        </p>
+      </li>
+      <li>
+        <p>
+          The correct technique is to pull the cloth downward, against the edge of the table. But even then, you need to be careful. Some people hold their hands up
+          above the height of the table before pulling down. Record yourself doing this a couple times (in slow motion). Watch the footage of the instant the table
+          cloth starts to move near the cup. Watch the footage of the instant the tablecloth starts to move near the cup. Make some observations about what you see
+          and why this is not a good technique.
+        </p>
+      </li>
+      <li>
+        <p>
+          The correct technique is to pull the cloth straight downward to avoid the problems you observed. And, while it may seem obvious, you need to do this
+          quickly. Record yourself pull downward slowly on the cloth. You should be going slowly enough that the cup does not slide. You should be able to explain
+          why the speed matters using the relationship between the coefficients of static friction and kinetic friction.
+        </p>
+      </li>
+      <li>
+        <p>
+          The correct technique is to pull the cloth straight downard very quickly. At this point, you've studied the most common errors and you should practice the
+          trick until you feel comfortable that you can do it consistently.
+        </p>
+      </li>
+      <li>
+        <p>
+          Do the trick again, but this time remove all of the weights so that you have only an empty cup. Try this experiment again a few times. Does this seem
+          easier or harder to do? Record yourself and make observations about the movement of the cup that can help explain what's happening.
+        </p>
+      </li>
+      <li>
+        <p>
+          Do the trick again, but this time add at least twice as much weight as you initially had to the cup. Try this experiment again a few times. Does this seem
+          easier or harder to do? Try to explain what's happening.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        <p>
+          Draw a free body diagram for the cup for the times that you pulled the table towards your body. Pay attention to the angle that the fabric is making
+          with the table. Explain how this diagram demonstrates why this technique will not work.
+        </p>
+      </li>
+      <li>
+        <p>
+          Explain the observations that you made when you held your hands above the table before pulling downward. In particular, discuss the interaction
+          between the fabric and the cup, and how this interaction leads to problems.
+        </p>
+      </li>
+      <li>
+        <p>
+          Draw a free body diagram for what happens when you pull cloth slowly, making sure to use the formula for friction. Explain why you are using the
+          coefficient of static friction in that diagram even though the cup is moving.
+        </p>
+      </li>
+      <li>
+        <p>
+          When we started altering the weights, we were creating a mixture of effects. On the one hand, increasing the mass means increasing the intertia
+          and the cup has a larger tendency to stay still. On the other hand, increasing the mass also means increasing the friction. And increased friction
+          should make it harder to pull the cloth away from the cup. In your experiences, do these two effects cancel each other out, or was one more impactful
+          than the other? Try your best to explain this. (Note: This is a difficult task. Do your best!)
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      This parlor trick has some interesting physics embedded in it. Hopefully, you were able to appreciate and understand that better based on your experiences
+      with it.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the steps of the lab.
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Describe the observations you made in the various failed attempts to perform the trick. Also, describe what happened when you changed the amount
+          of weight in the cup.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://stevespangler.com/experiments/tablecloth-science-trick/">
+            (Steve Spangler) Tablecloth Whip-off Trick
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>
