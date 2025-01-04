@@ -18,7 +18,7 @@
     <ul>
       <li>
         <p>
-          3x5 index cards (about 100)
+          3x5 index cards (a pack of 100 will give you enough with plenty to spare)
         </p>
       </li>
       <li>
@@ -88,6 +88,7 @@
               that looks like this:
             </p>
             <figure>
+              <caption>The animation template</caption>
               <image source="images/2d-position-graphs/template.png" />
             </figure>
           </li>
@@ -95,28 +96,46 @@
       </li>
       <li>
         <p>
-          Below are several pairs of graphs that represent the x and y positions of an object that you are going to animate. For each pair, you will be given
-          a total number of frames of animation that you will need to make with it. You will need to draw the correct number of vertical lines to ensure that
-          you traverse the animation with roughly equal time steps. An example is provided below. You can choose the shape of your object, but it is recommended
-          to keep it simple (like a circle or a square). You will want to try to draw the object the same size every frame.
+          Below are several pairs of graphs that represent the x and y positions of an object that you are going to animate. Try to think through the images and
+          make a conjecture as to the final two-dimensional behavior of the object.
         </p>
         <ul>
           <li>
             <p>
-              ANIMATION 1
+              Animation #1:
             </p>
+            <figure>
+              <caption>Animation #1</caption>
+              <image source="images/2d-position-graphs/animation1.png" width="100%"/>
+            </figure>
           </li>
           <li>
             <p>
-              ANIMATION 2
+              Animation #2:
             </p>
+            <figure>
+              <caption>Animation #2</caption>
+              <image source="images/2d-position-graphs/animation2.png" width="100%"/>
+            </figure>
           </li>
           <li>
             <p>
-              ANIMATION 3
+              Animation #3:
             </p>
+            <figure>
+              <caption>Animation #3</caption>
+              <image source="images/2d-position-graphs/animation3.png" width="100%"/>
+            </figure>
           </li>
         </ul>
+      </li>
+      <li>
+        <p>
+          For each pair of graphs above, note that you have be given a total number of frames of animation that you will need to make with it. You will need to
+          draw the correct number of vertical lines to ensure that you traverse the animation with roughly equal time steps. An example is provided below. You
+          can choose the shape of your object, but it is recommended to keep it simple (like a circle or a square). You will want to try to draw the object the
+          same size every frame.
+        </p>
       </li>
     </ol>
   </paragraphs>
@@ -128,6 +147,7 @@
       Consider the following graphs:
     </p>
     <figure>
+      <caption>The original graphs</caption>
       <image source="images/2d-position-graphs/sample1.png" width="50%"/>
     </figure>
     <p>
@@ -135,6 +155,7 @@
       you must have 8 spaces. Corresponding to each frame is an x-coordinate and a y-coordinate. We have listed these under each marking.
     </p>
     <figure>
+      <caption>Adding in marks for each frame</caption>
       <image source="images/2d-position-graphs/sample2.png" width="50%"/>
     </figure>
     <p>
@@ -143,6 +164,7 @@
       rotated square.
     </p>
     <figure>
+      <caption>A representation of the position of the circle on each frame</caption>
       <image source="images/2d-position-graphs/sample3.png" width="50%"/>
     </figure>
 
@@ -160,7 +182,8 @@
       </li>
       <li>
         <p>
-          WHAT SHOULD THEY BE THINKING ABOUT?
+          Were you able to correctly anticipate the motion of the object? If so, what helped you make the correct prediction? If not, do you feel that your ability
+          to understand the motion is better now that you have done a few of these?
         </p>
       </li>
       <li>
