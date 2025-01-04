@@ -8,9 +8,9 @@
 
 \begin{tikzpicture}[scale=0.5]
 %	\draw (0,0) rectangle (10,7);
-	\draw (0,0) node[anchor=north] {9 frames of animation};
+	\draw (0,0) node[anchor=north] {21 frames of animation};
 	
-	\begin{scope}[shift={(-6,-5)}]
+	\begin{scope}[shift={(-15,-5)}]
 		\draw (0,-3) -- (0,3);
 		
 		\draw (-1,0) node[anchor=east] {$x$};
@@ -23,18 +23,18 @@
 		\draw (0,2) node[anchor=east] {2};
 		\draw (0,3) node[anchor=east] {3};
 		
-		\draw[lightgray] (0,-3) -- ++ (12,0);
-		\draw[lightgray] (0,-2) -- ++ (12,0);
-		\draw[lightgray] (0,-1) -- ++ (12,0);
-		\draw[lightgray] (0,0) -- ++ (12,0);
-		\draw[lightgray] (0,1) -- ++ (12,0);
-		\draw[lightgray] (0,2) -- ++ (12,0);
-		\draw[lightgray] (0,3) -- ++ (12,0);
+		\draw[lightgray] (0,-3) -- ++ (30,0);
+		\draw[lightgray] (0,-2) -- ++ (30,0);
+		\draw[lightgray] (0,-1) -- ++ (30,0);
+		\draw[lightgray] (0,0) -- ++ (30,0);
+		\draw[lightgray] (0,1) -- ++ (30,0);
+		\draw[lightgray] (0,2) -- ++ (30,0);
+		\draw[lightgray] (0,3) -- ++ (30,0);
 		
-		\draw[thick,blue] (0,0) -- (3,3) -- (9,-3) -- (12,0);
+		\draw[thick,blue, domain=0:30, variable=\x, smooth, samples=100] plot ({\x}, {3*cos(12 * \x)});
 	\end{scope}
 
-	\begin{scope}[shift={(-6,-13)}]
+	\begin{scope}[shift={(-15,-13)}]
 		\draw (0,-3) -- (0,3);
 		
 		\draw (-1,0) node[anchor=east] {$y$};
@@ -47,15 +47,15 @@
 		\draw (0,2) node[anchor=east] {2};
 		\draw (0,3) node[anchor=east] {3};
 		
-		\draw[lightgray] (0,-3) -- ++ (12,0);
-		\draw[lightgray] (0,-2) -- ++ (12,0);
-		\draw[lightgray] (0,-1) -- ++ (12,0);
-		\draw[lightgray] (0,0) -- ++ (12,0);
-		\draw[lightgray] (0,1) -- ++ (12,0);
-		\draw[lightgray] (0,2) -- ++ (12,0);
-		\draw[lightgray] (0,3) -- ++ (12,0);
-		
-		\draw[thick,blue] (0,-3) -- (6,3) -- (12,-3);
+		\draw[lightgray] (0,-3) -- ++ (30,0);
+		\draw[lightgray] (0,-2) -- ++ (30,0);
+		\draw[lightgray] (0,-1) -- ++ (30,0);
+		\draw[lightgray] (0,0) -- ++ (30,0);
+		\draw[lightgray] (0,1) -- ++ (30,0);
+		\draw[lightgray] (0,2) -- ++ (30,0);
+		\draw[lightgray] (0,3) -- ++ (30,0);
+
+		\draw[thick,blue, domain=0:30, variable=\x, smooth, samples=100] plot ({\x}, {3*sin(12 * \x)});
 	\end{scope}
 \end{tikzpicture}
 
