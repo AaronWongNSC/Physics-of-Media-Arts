@@ -61,6 +61,14 @@
       understand the motion instead of doing calculations.
     </p>
     <p>
+      In the special case that we're looking at the acceleration due to earth gravity, we use <m>a = -g</m>, where <m>g = 9.8 \frac{\text{m}}{\text{s}^2}</m>. Then
+      the equations would look like this:
+    </p>
+    <md>
+      <mrow> s(t) \amp = -4.9 t^2 + v_0 t + s_0</mrow>
+      <mrow> v(t) \amp = -9.8t + v_0</mrow>
+    </md>
+    <p>
       It is important to remember that these equations are for movement in just one dimension. If we are working in two dimensions, each dimension will have its own
       equations. (We will explore that scenario in the next section.)
     </p>
