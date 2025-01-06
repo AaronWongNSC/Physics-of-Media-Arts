@@ -3,8 +3,6 @@
 <section xml:id="sec-newton-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Newton's Laws of Motion</title>
 
-  <p>
-    <xi:include href="./p1-ch3-sL-1-tablecloth-pull.ptx" />
-  </p>
+  <xi:include href="./p1-ch3-sL-1-tablecloth-pull.ptx" />
 
 </section>

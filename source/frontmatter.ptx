@@ -5,28 +5,28 @@
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
-    <author>
-      <personname>Aaron Wong</personname>
-      <department>Department of Data, Media, and Design</department>
-      <institution>Nevada State University</institution>
-    </author>
-    <date>
-      <today />
-    </date>
+    <bibinfo>
+      <author>
+        <personname>Aaron Wong</personname>
+        <department>Department of Data, Media, and Design</department>
+        <institution>Nevada State University</institution>
+      </author>
+      <date>
+        <today />
+      </date>
+
+      <website>
+        <url href="https://aaronwongnsc.github.io/Physics-of-Media-Arts/">Physics of Media Arts</url>
+      </website>
+
+      <copyright>
+        <year>2024<ndash />2024</year>
+        <holder>Aaron Wong</holder>
+        <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
+        </shortlicense>
+      </copyright>
+    </bibinfo>
   </titlepage>
 
-  <colophon>
-
-    <website>
-      <url href="https://aaronwongnsc.github.io/Physics-of-Media-Arts/">Physics of Media Arts</url>
-    </website>
-
-    <copyright>
-      <year>2024<ndash />2024</year>
-      <holder>Aaron Wong</holder>
-      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
-      </shortlicense>
-    </copyright>
-  </colophon>
 </frontmatter>
 

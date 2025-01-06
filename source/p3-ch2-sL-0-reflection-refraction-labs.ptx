@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-light-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-reflection-refraction-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Light</title>
 
   <xi:include href="./p3-ch2-sL-1-optical-illusions.ptx" />
