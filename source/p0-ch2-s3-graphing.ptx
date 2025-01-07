@@ -40,7 +40,7 @@
       Technically, any time we gather data we will have discrete data, but there are certainly situations where the data points are close enough that we treat the
       data as being practically continuous.
     </p>
-    <p xml:id="par-arrow-paradox">
+    <p xml:id="par-arrow-paradox" text="Arrow Paradox">
       <idx><h>arrow paradox</h></idx>
 
       The challenge of continuous data has been explored from at least the time of the ancient Greeks. There is a thought experiment known as the <term>Arrow Paradox</term>

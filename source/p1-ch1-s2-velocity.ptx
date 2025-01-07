@@ -75,7 +75,7 @@
       of values for velocity at specific times along the trip, similar to how we can create a chart of the position at any time. However, there's an interesting question
       that arises from this. What do we even mean by "velocity at a specific time"? How would we measure it? Velocity requires movement, and movement requires time, so we
       will always need both a start time and a stop time for any measurement, and they can't be the same. This brings us back to the arrow paradox!
-      <xref ref="par-arrow-paradox" text="custom" />
+      <xref ref="par-arrow-paradox" text="custom">The Arrow Paradox</xref>
     </p>
     <p>
       We will say more about this in a later section, but the if we practically want to try to get instantaneous velocity, we need to collect data in small enough
