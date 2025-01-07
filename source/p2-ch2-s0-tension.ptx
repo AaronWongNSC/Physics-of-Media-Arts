@@ -18,7 +18,7 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <!-- <xi:include href="sec-section-name.ptx" /> -->
   <xi:include href="p2-ch2-sL-0-tension-labs.ptx" />
 
 </chapter>

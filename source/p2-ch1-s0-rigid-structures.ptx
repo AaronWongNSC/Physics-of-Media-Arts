@@ -23,7 +23,7 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <!-- <xi:include href="sec-section-name.ptx" /> -->
   <xi:include href="p2-ch1-sL-0-rigid-structures-labs.ptx" />
 
 </chapter>

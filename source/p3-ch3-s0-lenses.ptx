@@ -20,7 +20,7 @@
   <!-- Polarization -->
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <!-- <xi:include href="sec-section-name.ptx" /> -->
   <xi:include href="p3-ch3-sL-0-lenses-labs.ptx" />
 
 </chapter>
