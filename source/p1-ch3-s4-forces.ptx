@@ -115,45 +115,7 @@
       effort to keep it moving. In this case, the formula is <m>F = \mu_k N</m>, and this is an equality because in this situation the friction is always at its maximal
       value. If the movement of the object slows down to the point that it is no longer moving, then we would be back in the case of static friction.
     </p>
-    <example>
-      <title>Inclined Plane with Friction</title>
-      
-      <p>
-        We are going to consider an object at rest on an inclined plane at the angle <m>\theta</m>. We want to understand how friction fits into this picture as we
-        slowly increase the slope, but not so steep that the object begins sliding.
-      </p>
-      <p>
-        If we look at the free body diagram for this situation, we will see that there are three forces. Gravity (<m>F_\text{g}</m>) is pulling the object downward into the
-        inclined plane, the inclined plane exerts a normal force (<m>F_\text{N}</m>), and the static friction (<m>F_{\text{fr}}</m>) points parallel to the incline in the
-        upward direction (opposite the direction the block would slide without friction). Our task is to determine the magnitudes of all of these forces. Since nothing is
-        changing its movement, the net force is zero.
-      </p>
-      <p>
-        We know the formula for the gravitational force (<m>F_\text{g} = mg</m>) and the force of friction (<m>F_\text{fr} = \mu_s F_\text{N}</m>, but we don't know the
-        the normal force. All we know is that this force must balance out gravity and friction in order to keep the object stationary. We will decompose all of
-        the vectors into a part that is parallel to the surface and a part that is perpendicular to the surface. (We could have done vertical and horizontal components,
-        but the equations end up being a little bit messier.) Using trigonometry, we can get the following equations:
-      </p>
-      <md>
-        <mrow>mg \cos \theta \amp = F_\text{N}</mrow>
-        <mrow>mg \sin \theta \amp = \mu_s \cdot F_\text{N}</mrow>
-      </md>
-      <p>
-        The first equation gives us the normal force, and we can plug this into the second equation to solve for the coefficient of friction.
-      </p>
-      <md>
-        <mrow> mg \sin \theta \amp = \mu_s \cdot F_\text{N}  </mrow>
-        <mrow> mg \sin \theta \amp = \mu_s \cdot mg \cos(\theta)  </mrow>
-        <mrow> \mu_s \amp = \frac{\sin(\theta)}{\cos(\theta)} = \tan(\theta) </mrow>
-      </md>
-      <p>
-        What this is telling us is that the coefficient of friction is equal to the tangent of the angle of the incline, at least as long as nothing is moving. But if
-        the angle is steep enough, the value of <m>\tan(\theta)</m> will exceed the maximum value of <m>\mu_s</m> and the forces will no longer be in balance.
-        In particular, the friction force will change from static friction to a kinetic friction (causing it to get smaller), and the forces in the direction parallel to
-        the plane will no longer be in balance. There will be more force pointing down the slope than pointing up, which means that the object will begin sliding downward.
-      </p>
-    </example>
-    
+   
   </paragraphs>
 
 </section>
