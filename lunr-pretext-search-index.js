@@ -853,7 +853,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Velocity",
-  "body": " Velocity     If my calculations are correct, when this baby hits 88 miles per hour, you're gonna see some serious sh-t.   Doctor Emmett Brown (Back to the Future)   It is highly probable that you have some basic intuition about speed just based on your general life experiences. The goal for this sections is not so much about teaching you something new, but helping you to formalize that intuition and make it more concrete.    Speed vs. Velocity   speed  velocity  Speed is a number that measures of how fast something is moving. Velocity is a vector that indicates how fast something is moving and in which direction. Under this framework, the magnitude of velocity is the speed, and speed is never a negative value. In common usage, speed and velocity are often interchangeable. However, from the definitions you can see that they are not interchangable in physics courses. So just be aware of the distinction and do your best to practice being precise in your language.    Defining Velocity  Although we have a lot of experience with velocity, it takes a bit of thought to translate those experiences into something formal. In order for there to be velocity, there must be some amount of motion. And that motion will require an amount of time. Velocity is made up of the ratio of those two quantities. Specifically, we define velocity as , where is the change in position during the observed movement, and is the amount of time the movement took. Notice that this creates a unit of , such as meters per second or miles per hour.   Basic Velocity Calculation: Driving to the Beach  Suppose you are going to drive to the beach. Let's say that leave the house at 7 AM and arrive at the beach 9 AM and the beach is 120 miles away from your home. Your change in position is 120 miles and the amount of time it took for you to complete that change of position is 2 hours. Therefore, we would say that your velocity for the trip was .   This formula is often rewritten as , or more simply as .    Average and Instantaneous Velocity   velocity, average Technically, this formula gives us the average velocity . The reason is that this calculation doesn't take into account all of the nuances of what happens between the start and end of the motion. In the example, it's probably the case that the car stopped somewhere along the way (at a stop sign or traffic light), and at that moment the car was not moving at 60 miles per hour. Simiarly, it's likely that the car was driving faster than 60 mph on the freway. But because the elapsed time is so large, all of those details are lost and we are only left with the overall picture.   velocity, instantaneous Another way to think about the velocity is to try to keep track of all of those details. Rather than just thinking about the starting and stopping times and positions, we want to know what was happening at every moment of the trip. We would call that the instantaneous velocity . It's not hard to imagine creating a chart of values for velocity at specific times along the trip, similar to how we can create a chart of the position at any time. However, there's an interesting question that arises from this. What do we even mean by \"velocity at a specific time\"? How would we measure it? Velocity requires movement, and movement requires time, so we will always need both a start time and a stop time for any measurement, and they can't be the same. This brings us back to the arrow paradox!   We will say more about this in a later section, but the if we practically want to try to get instantaneous velocity, we need to collect data in small enough increments that any change in velocity between the start and stop time is \"small enough\" to be ignored. So if we imagine two consecutive frames of a movie, we can think about how much the object moved over that period of time, and then use that with the framerate to get a good estimate of the instantaneous velocity.       (OpenStax Physics) 2.2 Speed and Velocity      "
+  "body": " Velocity     If my calculations are correct, when this baby hits 88 miles per hour, you're gonna see some serious sh-t.   Doctor Emmett Brown (Back to the Future)   It is highly probable that you have some basic intuition about speed just based on your general life experiences. The goal for this sections is not so much about teaching you something new, but helping you to formalize that intuition and make it more concrete.    Speed vs. Velocity   speed  velocity  Speed is a number that measures of how fast something is moving. Velocity is a vector that indicates how fast something is moving and in which direction. Under this framework, the magnitude of velocity is the speed, and speed is never a negative value. In common usage, speed and velocity are often interchangeable. However, from the definitions you can see that they are not interchangable in physics courses. So just be aware of the distinction and do your best to practice being precise in your language.    Defining Velocity  Although we have a lot of experience with velocity, it takes a bit of thought to translate those experiences into something formal. In order for there to be velocity, there must be some amount of motion. And that motion will require an amount of time. Velocity is made up of the ratio of those two quantities. Specifically, we define velocity as , where is the change in position during the observed movement, and is the amount of time the movement took. Notice that this creates a unit of , such as meters per second or miles per hour.   Basic Velocity Calculation: Driving to the Beach  Suppose you are going to drive to the beach. Let's say that leave the house at 7 AM and arrive at the beach 9 AM and the beach is 120 miles away from your home. Your change in position is 120 miles and the amount of time it took for you to complete that change of position is 2 hours. Therefore, we would say that your velocity for the trip was .   This formula is often rewritten as , or more simply as .    Average and Instantaneous Velocity   velocity, average Technically, this formula gives us the average velocity . The reason is that this calculation doesn't take into account all of the nuances of what happens between the start and end of the motion. In the example, it's probably the case that the car stopped somewhere along the way (at a stop sign or traffic light), and at that moment the car was not moving at 60 miles per hour. Simiarly, it's likely that the car was driving faster than 60 mph on the freway. But because the elapsed time is so large, all of those details are lost and we are only left with the overall picture.   velocity, instantaneous Another way to think about the velocity is to try to keep track of all of those details. Rather than just thinking about the starting and stopping times and positions, we want to know what was happening at every moment of the trip. We would call that the instantaneous velocity . It's not hard to imagine creating a chart of values for velocity at specific times along the trip, similar to how we can create a chart of the position at any time. However, there's an interesting question that arises from this. What do we even mean by \"velocity at a specific time\"? How would we measure it? Velocity requires movement, and movement requires time, so we will always need both a start time and a stop time for any measurement, and they can't be the same. This brings us back to the arrow paradox! The Arrow Paradox   We will say more about this in a later section, but the if we practically want to try to get instantaneous velocity, we need to collect data in small enough increments that any change in velocity between the start and stop time is \"small enough\" to be ignored. So if we imagine two consecutive frames of a movie, we can think about how much the object moved over that period of time, and then use that with the framerate to get a good estimate of the instantaneous velocity.       (OpenStax Physics) 2.2 Speed and Velocity      "
 },
 {
   "id": "sec-velocity-3-2",
@@ -1051,7 +1051,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "One-Dimensional Motion with Constant Acceleration",
-  "body": " One-Dimensional Motion with Constant Acceleration     -----   ------   In this section, we will be focusing on describing the kinematics objects when there is a constant acceleration. Before getting started, we are going to introduce some basic notation.     : The constant acceleration.     : Velocity as a function of time. This notation means that we will sometimes use a by itself, but you need to remember that this changes with time. If we need to explicitly indicate the time, we will use the second notation with being the specific value.     : Initial velocity. Notice that this notation means that we are using the velocity at time as the value of .     : Position as a function of time. This follows the same notation rules as velocity.     : Initial position.      The Constant Acceleration Equations  Here are the equations for position and velocity when the acceleration is constant:   These equations create the mathematical curves of a parabola and a line. This means that the underlying mathematics of these motions are not too complicated. In a regular physics course, we would spend a lot of time solving equations, but for this course our emphasis will be on building intuition that helps us to understand the motion instead of doing calculations.  It is important to remember that these equations are for movement in just one dimension. If we are working in two dimensions, each dimension will have its own equations. (We will explore that scenario in the next section.)    Parabolas  We need to spend a little bit of time talking about the graph of a parabola because it is fundamentally important to kinematics. We will use the graph of an object being launched vertically from the ground as our basic model for discussing the parabola's central features.  The first observation of the parabola is the shape. Intuitively, it makes sense that if we launch something upward, it will eventually turn downward because of gravity. And the graph of the parabola matches this behavior. This shape is due to the negative sign on the term. If that term were positive, we would have an upward-opening parabola, and while this is perfectly meaningful mathematically, we do not have a lot of physics contexts where the parabola faces this way.   vertex (of a parabola)  axis of symmetry (of a parabola) The parabola has a point where the motion changes from going up to going down. That point is called the vertex of the parabola. This point also marks the axis of symmetry of the parabola, meaning that the shape of the parabola moving away from this point is the same in both directions. This means that if you were to watch an object in motion, you would not be able to tell whether time was going forward or backward based on the motion of the object alone. It looks exactly the same going up as it does going down with the time reversed.  If we were to drop an object from rest (without any initial velocity), we would get a half-parabola shape that starts from the vertex and falls down. The parabola from here has an interesting pattern. Suppose we picked a certain amount of time (such as 2 seconds) and measured how far it fell during that time. If we were to let it fall for twice the amount of time (4 seconds), it will have fallen four times the initial measurement. If we were to let it fall for three times the amount of time (6 seconds), it will have fallen nine times the initial measurement. This is the nature of the shape of a parabola.   "
+  "body": " One-Dimensional Motion with Constant Acceleration     -----   ------   In this section, we will be focusing on describing the kinematics objects when there is a constant acceleration. Before getting started, we are going to introduce some basic notation.     : The constant acceleration.     : Velocity as a function of time. This notation means that we will sometimes use a by itself, but you need to remember that this changes with time. If we need to explicitly indicate the time, we will use the second notation with being the specific value.     : Initial velocity. Notice that this notation means that we are using the velocity at time as the value of .     : Position as a function of time. This follows the same notation rules as velocity.     : Initial position.      The Constant Acceleration Equations  Here are the equations for position and velocity when the acceleration is constant:   These equations create the mathematical curves of a parabola and a line. This means that the underlying mathematics of these motions are not too complicated. In a regular physics course, we would spend a lot of time solving equations, but for this course our emphasis will be on building intuition that helps us to understand the motion instead of doing calculations.  In the special case that we're looking at the acceleration due to earth gravity, we use , where . Then the equations would look like this:   It is important to remember that these equations are for movement in just one dimension. If we are working in two dimensions, each dimension will have its own equations. (We will explore that scenario in the next section.)    Parabolas  We need to spend a little bit of time talking about the graph of a parabola because it is fundamentally important to kinematics. We will use the graph of an object being launched vertically from the ground as our basic model for discussing the parabola's central features.  The first observation of the parabola is the shape. Intuitively, it makes sense that if we launch something upward, it will eventually turn downward because of gravity. And the graph of the parabola matches this behavior. This shape is due to the negative sign on the term. If that term were positive, we would have an upward-opening parabola, and while this is perfectly meaningful mathematically, we do not have a lot of physics contexts where the parabola faces this way.   vertex (of a parabola)  axis of symmetry (of a parabola) The parabola has a point where the motion changes from going up to going down. That point is called the vertex of the parabola. This point also marks the axis of symmetry of the parabola, meaning that the shape of the parabola moving away from this point is the same in both directions. This means that if you were to watch an object in motion, you would not be able to tell whether time was going forward or backward based on the motion of the object alone. It looks exactly the same going up as it does going down with the time reversed.  If we were to drop an object from rest (without any initial velocity), we would get a half-parabola shape that starts from the vertex and falls down. The parabola from here has an interesting pattern. Suppose we picked a certain amount of time (such as 2 seconds) and measured how far it fell during that time. If we were to let it fall for twice the amount of time (4 seconds), it will have fallen four times the initial measurement. If we were to let it fall for three times the amount of time (6 seconds), it will have fallen nine times the initial measurement. This is the nature of the shape of a parabola.   "
 },
 {
   "id": "sec-one-dim-const-acceleration-4-4",
@@ -1303,7 +1303,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.4",
   "title": "Forces",
-  "body": " Forces     Use the Force, Luke.   Obi-Wan Kenobi (Star Wars: A New Hope)   We will now start to put Newton's Laws of Motion into practice. We will consider the motion of objects under the influence of various forces, and think about their corresponding free body diagrams. By understanding these diagrams, we will have a deeper understanding of one of the core tools used to analyze physical situations.    Gravity  We have already discussed the acceleration of an object caused by gravitational attraction. From Newton's Second Law of Motion, we know that the force is the product of the object's mass and its acceleration, so that the force of gravity can be written as , where is the acceleration from gravity for the problem (earth gravity is ).  The free body diagram for this on its own is just a single arrow pointing doward, indicating the force of gravity on the object. As it stands, this object is experiencing a net force, and so it is accelerating downward. If there's nothing to apply an upward force, the object will continue to accelerate, causing it to fall faster and faster.    Air Resistance  We are going to add some air resistance to the gravity example. Now as the object is falling, it's also experiencing air resistance. This can be thought of as the impact of the object bumping into molecules of as it falls. As it falls faster, it bumps into more air, and so it experiences more resistance.  The free body diagram now has two forces. Gravity is still pulling it downward, but now there's also an upward force that we can call . The size of this force will depend on a number of factors, such as the weight and shape of the object. An object that is more streamline in the direction of motion will hit fewer air molecules than something that is bulky in that direction. But regardless of the shape, there is some amount of upward force from the air.   terminal velocity There is a specific when the force of gravity perfectly matches the force of air resistance. This is known as terminal velocity . When an object is falling at terminal velocity, there is zero net force on the object because the two forces are perfectly cancelling each other out. This means that there is no acceleration, which means that the object's motion is unchanging (Newton's First Law), and the object will remain at this velocity until something changes.    Normal Forces  One of the most challenging types of forces to understand is the normal force . This is the force that an object imparts on another object when they interact with each other. This force is always viewed as being perpendicular to the surface.(\"Normal\" is a mathematical term for perpendicularity.) Such forces always exist whenever two objects are physically interacting with each other.  Consider a ball sitting on a table. If we tried to apply Newton's First Law, we would see an object at rest that is staying at rest, and so we know that there is no net force acting on it. However, since this ball is subject to gravity, and gravity is a downward force, in our force diagram we must have a downward arrow to represent that. If this were the only force acting on the ball, then the ball would start to accelerate towards the ground. But the ball is at rest, and that's because the table is applying an upward force to the ball. And since the ball is at rest, the upward force of the table must be exactly equal to the downard force of gravity.  We can also see how this normal force works to create motion. Instead of thinking of the ball on a table, let's think about it on an incline. Remember that the normal force is always perpendicular to the surface, so that the incline does not apply a vertical force to the ball. When we draw the force diagram, we will have gravity pulling the ball downward, but then the normal force would push up at an angle. Notice that the angle of the normal force indicates which direction (left or right) the ball is going to roll. In fact, we can know that the net force the ball is going to experience must be parallel to the incline because that's the ultimate direction the ball will move. From this, we can do a vector analysis to determine exactly how large the normal force must be.    Surface Friction   friction Friction is the force that resists the relative movement of objects sliding against each other. Friction can occur between many types of objects: solid objects against other solid objects, solid objects against a fluid (such as air or water resistance), and a fluid against itself are just some of the ways friction can be manifested.   kinetic friction  static friction We are going to focus our attention on the friction between solid objects, which is known as surface friction . But even this isn't quite an entirely simple concept, because there are two types of friction. There's static friction , which is the friction between two objects when there is no movement between them, and then there's kinetic friction , which is the friction between two objects when they are moving relative to each other.   coefficient of static friction The formula for the force of friction between two objects at rest relative to each other is , where is the magnitude of the normal force and is the coefficient of static friction , whose value depends on the two surfaces that are in contact with each other. The direction of the friction force is always opposite of the direction that resists movement. Smaller values of mean that there is less friction, with 0 being no friction at all. The reason that the force is given as an inequality is that the quantity on the right represents the maximum amount of friction that can exist between the two surfaces.   coefficient of kinetic friction The coefficient of kinetic friction (denoted ) plays the same role as the coefficient of static friction, except it applies when the two objects are sliding past each other. The coefficient of kinetic friction is always smaller than the coefficient of static friction for the same pair of objects. You have experienced this if you have ever tried to move something heavy. It takes a certain amount of effort to get it moving, and once it's moving it takes less effort to keep it moving. In this case, the formula is , and this is an equality because in this situation the friction is always at its maximal value. If the movement of the object slows down to the point that it is no longer moving, then we would be back in the case of static friction.   Inclined Plane with Friction  We are going to consider an object at rest on an inclined plane at the angle . We want to understand how friction fits into this picture as we slowly increase the slope, but not so steep that the object begins sliding.  If we look at the free body diagram for this situation, we will see that there are three forces. Gravity ( ) is pulling the object downward into the inclined plane, the inclined plane exerts a normal force ( ), and the static friction ( ) points parallel to the incline in the upward direction (opposite the direction the block would slide without friction). Our task is to determine the magnitudes of all of these forces. Since nothing is changing its movement, the net force is zero.  We know the formula for the gravitational force ( ) and the force of friction ( , but we don't know the the normal force. All we know is that this force must balance out gravity and friction in order to keep the object stationary. We will decompose all of the vectors into a part that is parallel to the surface and a part that is perpendicular to the surface. (We could have done vertical and horizontal components, but the equations end up being a little bit messier.) Using trigonometry, we can get the following equations:   The first equation gives us the normal force, and we can plug this into the second equation to solve for the coefficient of friction.   What this is telling us is that the coefficient of friction is equal to the tangent of the angle of the incline, at least as long as nothing is moving. But if the angle is steep enough, the value of will exceed the maximum value of and the forces will no longer be in balance. In particular, the friction force will change from static friction to a kinetic friction (causing it to get smaller), and the forces in the direction parallel to the plane will no longer be in balance. There will be more force pointing down the slope than pointing up, which means that the object will begin sliding downward.    "
+  "body": " Forces     Use the Force, Luke.   Obi-Wan Kenobi (Star Wars: A New Hope)   We will now start to put Newton's Laws of Motion into practice. We will consider the motion of objects under the influence of various forces, and think about their corresponding free body diagrams. By understanding these diagrams, we will have a deeper understanding of one of the core tools used to analyze physical situations.    Gravity  We have already discussed the acceleration of an object caused by gravitational attraction. From Newton's Second Law of Motion, we know that the force is the product of the object's mass and its acceleration, so that the force of gravity can be written as , where is the acceleration from gravity for the problem (earth gravity is ).  The free body diagram for this on its own is just a single arrow pointing doward, indicating the force of gravity on the object. As it stands, this object is experiencing a net force, and so it is accelerating downward. If there's nothing to apply an upward force, the object will continue to accelerate, causing it to fall faster and faster.    Air Resistance  We are going to add some air resistance to the gravity example. Now as the object is falling, it's also experiencing air resistance. This can be thought of as the impact of the object bumping into molecules of as it falls. As it falls faster, it bumps into more air, and so it experiences more resistance.  The free body diagram now has two forces. Gravity is still pulling it downward, but now there's also an upward force that we can call . The size of this force will depend on a number of factors, such as the weight and shape of the object. An object that is more streamline in the direction of motion will hit fewer air molecules than something that is bulky in that direction. But regardless of the shape, there is some amount of upward force from the air.   terminal velocity There is a specific when the force of gravity perfectly matches the force of air resistance. This is known as terminal velocity . When an object is falling at terminal velocity, there is zero net force on the object because the two forces are perfectly cancelling each other out. This means that there is no acceleration, which means that the object's motion is unchanging (Newton's First Law), and the object will remain at this velocity until something changes.    Normal Forces  One of the most challenging types of forces to understand is the normal force . This is the force that an object imparts on another object when they interact with each other. This force is always viewed as being perpendicular to the surface.(\"Normal\" is a mathematical term for perpendicularity.) Such forces always exist whenever two objects are physically interacting with each other.  Consider a ball sitting on a table. If we tried to apply Newton's First Law, we would see an object at rest that is staying at rest, and so we know that there is no net force acting on it. However, since this ball is subject to gravity, and gravity is a downward force, in our force diagram we must have a downward arrow to represent that. If this were the only force acting on the ball, then the ball would start to accelerate towards the ground. But the ball is at rest, and that's because the table is applying an upward force to the ball. And since the ball is at rest, the upward force of the table must be exactly equal to the downard force of gravity.  We can also see how this normal force works to create motion. Instead of thinking of the ball on a table, let's think about it on an incline. Remember that the normal force is always perpendicular to the surface, so that the incline does not apply a vertical force to the ball. When we draw the force diagram, we will have gravity pulling the ball downward, but then the normal force would push up at an angle. Notice that the angle of the normal force indicates which direction (left or right) the ball is going to roll. In fact, we can know that the net force the ball is going to experience must be parallel to the incline because that's the ultimate direction the ball will move. From this, we can do a vector analysis to determine exactly how large the normal force must be.    Surface Friction   friction Friction is the force that resists the relative movement of objects sliding against each other. Friction can occur between many types of objects: solid objects against other solid objects, solid objects against a fluid (such as air or water resistance), and a fluid against itself are just some of the ways friction can be manifested.   kinetic friction  static friction We are going to focus our attention on the friction between solid objects, which is known as surface friction . But even this isn't quite an entirely simple concept, because there are two types of friction. There's static friction , which is the friction between two objects when there is no movement between them, and then there's kinetic friction , which is the friction between two objects when they are moving relative to each other.   coefficient of static friction The formula for the force of friction between two objects at rest relative to each other is , where is the magnitude of the normal force and is the coefficient of static friction , whose value depends on the two surfaces that are in contact with each other. The direction of the friction force is always opposite of the direction that resists movement. Smaller values of mean that there is less friction, with 0 being no friction at all. The reason that the force is given as an inequality is that the quantity on the right represents the maximum amount of friction that can exist between the two surfaces.   coefficient of kinetic friction The coefficient of kinetic friction (denoted ) plays the same role as the coefficient of static friction, except it applies when the two objects are sliding past each other. The coefficient of kinetic friction is always smaller than the coefficient of static friction for the same pair of objects. You have experienced this if you have ever tried to move something heavy. It takes a certain amount of effort to get it moving, and once it's moving it takes less effort to keep it moving. In this case, the formula is , and this is an equality because in this situation the friction is always at its maximal value. If the movement of the object slows down to the point that it is no longer moving, then we would be back in the case of static friction.   "
 },
 {
   "id": "sec-forces-4-4",
@@ -1349,15 +1349,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "",
   "body": "coefficient of kinetic friction "
-},
-{
-  "id": "sec-forces-6-6",
-  "level": "2",
-  "url": "sec-forces.html#sec-forces-6-6",
-  "type": "Example",
-  "number": "6.4.0.1",
-  "title": "Inclined Plane with Friction.",
-  "body": " Inclined Plane with Friction  We are going to consider an object at rest on an inclined plane at the angle . We want to understand how friction fits into this picture as we slowly increase the slope, but not so steep that the object begins sliding.  If we look at the free body diagram for this situation, we will see that there are three forces. Gravity ( ) is pulling the object downward into the inclined plane, the inclined plane exerts a normal force ( ), and the static friction ( ) points parallel to the incline in the upward direction (opposite the direction the block would slide without friction). Our task is to determine the magnitudes of all of these forces. Since nothing is changing its movement, the net force is zero.  We know the formula for the gravitational force ( ) and the force of friction ( , but we don't know the the normal force. All we know is that this force must balance out gravity and friction in order to keep the object stationary. We will decompose all of the vectors into a part that is parallel to the surface and a part that is perpendicular to the surface. (We could have done vertical and horizontal components, but the equations end up being a little bit messier.) Using trigonometry, we can get the following equations:   The first equation gives us the normal force, and we can plug this into the second equation to solve for the coefficient of friction.   What this is telling us is that the coefficient of friction is equal to the tangent of the angle of the incline, at least as long as nothing is moving. But if the angle is steep enough, the value of will exceed the maximum value of and the forces will no longer be in balance. In particular, the friction force will change from static friction to a kinetic friction (causing it to get smaller), and the forces in the direction parallel to the plane will no longer be in balance. There will be more force pointing down the slope than pointing up, which means that the object will begin sliding downward.  "
 },
 {
   "id": "lab-tablecloth-pull",
@@ -1414,20 +1405,11 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "8.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
-},
-{
   "id": "lab-equal-opposite",
   "level": "1",
   "url": "lab-equal-opposite.html",
   "type": "Lab Activity",
-  "number": "8.2.1",
+  "number": "8.1.1",
   "title": "Equal and Opposite Reaction",
   "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1436,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-4",
   "type": "Example",
-  "number": "8.2.1.1",
+  "number": "8.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1445,7 +1427,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-8",
   "type": "Additional Resources",
-  "number": "8.2.1",
+  "number": "8.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1454,7 +1436,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-center-of-mass.html",
   "type": "Lab Activity",
-  "number": "8.2.2",
+  "number": "8.1.2",
   "title": "Center of Mass and Balance",
   "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1463,7 +1445,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-4",
   "type": "Example",
-  "number": "8.2.2.1",
+  "number": "8.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1472,25 +1454,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-8",
   "type": "Additional Resources",
-  "number": "8.2.2",
+  "number": "8.1.2",
   "title": "",
   "body": "    Google     "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "9.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
 },
 {
   "id": "lab-tensegrity-structure",
   "level": "1",
   "url": "lab-tensegrity-structure.html",
   "type": "Lab Activity",
-  "number": "9.2.1",
+  "number": "9.1.1",
   "title": "Tensegrity Structures",
   "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1499,7 +1472,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
   "type": "Example",
-  "number": "9.2.1.1",
+  "number": "9.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1508,25 +1481,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
   "type": "Additional Resources",
-  "number": "9.2.1",
+  "number": "9.1.1",
   "title": "",
   "body": "    Google     "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "10.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
 },
 {
   "id": "lab-pulley",
   "level": "1",
   "url": "lab-pulley.html",
   "type": "Lab Activity",
-  "number": "10.2.1",
+  "number": "10.1.1",
   "title": "Pulleys",
   "body": " Pulleys   Introduction  Pulleys help in difefrent ways.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1535,7 +1499,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-4",
   "type": "Example",
-  "number": "10.2.1.1",
+  "number": "10.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1544,25 +1508,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-8",
   "type": "Additional Resources",
-  "number": "10.2.1",
+  "number": "10.1.1",
   "title": "",
   "body": "    Google     "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "11.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
 },
 {
   "id": "lab-hydraulics",
   "level": "1",
   "url": "lab-hydraulics.html",
   "type": "Lab Activity",
-  "number": "11.2.1",
+  "number": "11.1.1",
   "title": "Hydraulics",
   "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1571,7 +1526,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-4",
   "type": "Example",
-  "number": "11.2.1.1",
+  "number": "11.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1580,7 +1535,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-8",
   "type": "Additional Resources",
-  "number": "11.2.1",
+  "number": "11.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1837,20 +1792,11 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "13.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
-},
-{
   "id": "lab-optical-illusions",
   "level": "1",
   "url": "lab-optical-illusions.html",
   "type": "Lab Activity",
-  "number": "13.2.1",
+  "number": "13.1.1",
   "title": "Optical Illusions",
   "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1859,7 +1805,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-4",
   "type": "Example",
-  "number": "13.2.1.1",
+  "number": "13.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1868,7 +1814,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-8",
   "type": "Additional Resources",
-  "number": "13.2.1",
+  "number": "13.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1877,7 +1823,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-light-and-shadow.html",
   "type": "Lab Activity",
-  "number": "13.2.2",
+  "number": "13.1.2",
   "title": "Light and Shadow",
   "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1886,7 +1832,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
   "type": "Example",
-  "number": "13.2.2.1",
+  "number": "13.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1895,25 +1841,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
   "type": "Additional Resources",
-  "number": "13.2.2",
+  "number": "13.1.2",
   "title": "",
   "body": "    Google     "
-},
-{
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "14.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
 },
 {
   "id": "lab-analog-photography",
   "level": "1",
   "url": "lab-analog-photography.html",
   "type": "Lab Activity",
-  "number": "14.2.1",
+  "number": "14.1.1",
   "title": "Analog Photography",
   "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1922,7 +1859,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-4",
   "type": "Example",
-  "number": "14.2.1.1",
+  "number": "14.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1931,7 +1868,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-8",
   "type": "Additional Resources",
-  "number": "14.2.1",
+  "number": "14.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1940,7 +1877,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-pinhole-camera.html",
   "type": "Lab Activity",
-  "number": "14.2.2",
+  "number": "14.1.2",
   "title": "Pinhole Camera",
   "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1949,7 +1886,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
   "type": "Example",
-  "number": "14.2.2.1",
+  "number": "14.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1958,7 +1895,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
   "type": "Additional Resources",
-  "number": "14.2.2",
+  "number": "14.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2197,20 +2134,11 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
-  "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "16.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
-},
-{
   "id": "lab-chladni-plate",
   "level": "1",
   "url": "lab-chladni-plate.html",
   "type": "Lab Activity",
-  "number": "16.2.1",
+  "number": "16.1.1",
   "title": "Chladni Plates",
   "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2219,7 +2147,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-4",
   "type": "Example",
-  "number": "16.2.1.1",
+  "number": "16.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2228,7 +2156,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-8",
   "type": "Additional Resources",
-  "number": "16.2.1",
+  "number": "16.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2237,7 +2165,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "16.2.2",
+  "number": "16.1.2",
   "title": "Oscilloscope",
   "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2246,7 +2174,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-4",
   "type": "Example",
-  "number": "16.2.2.1",
+  "number": "16.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2255,171 +2183,117 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-8",
   "type": "Additional Resources",
-  "number": "16.2.2",
+  "number": "16.1.2",
   "title": "",
   "body": "    Google     "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-resonance",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "17.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-resonance.html",
+  "type": "Chapter",
+  "number": "17",
+  "title": "Resonance",
+  "body": " Resonance     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "17.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-resonance-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "17.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-resonance.html#ch-resonance-2",
+  "type": "Learning Objectives",
+  "number": "17",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-music",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "18.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-music.html",
+  "type": "Chapter",
+  "number": "18",
+  "title": "Music",
+  "body": " Music     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "18.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-music-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "18.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-music.html#ch-music-2",
+  "type": "Learning Objectives",
+  "number": "18",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-electronics",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "19.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-electronics.html",
+  "type": "Chapter",
+  "number": "19",
+  "title": "Basic Electronics",
+  "body": " Basic Electronics     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "19.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-electronics-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "19.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-electronics.html#ch-electronics-2",
+  "type": "Learning Objectives",
+  "number": "19",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-practical",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "20.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-practical.html",
+  "type": "Chapter",
+  "number": "20",
+  "title": "Practical Electronics",
+  "body": " Practical Electronics     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "20.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-practical-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "20.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-practical.html#ch-practical-2",
+  "type": "Learning Objectives",
+  "number": "20",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-hacking",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "21.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-hacking.html",
+  "type": "Chapter",
+  "number": "21",
+  "title": "Hacking Electronics",
+  "body": " Hacking Electronics     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "21.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-hacking-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "21.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-hacking.html#ch-hacking-2",
+  "type": "Learning Objectives",
+  "number": "21",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
-  "id": "sec-section-name",
+  "id": "ch-building",
   "level": "1",
-  "url": "sec-section-name.html",
-  "type": "Section",
-  "number": "22.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "url": "ch-building.html",
+  "type": "Chapter",
+  "number": "22",
+  "title": "Building Electronics",
+  "body": " Building Electronics     Students will be able to...      Text before the first section.      "
 },
 {
-  "id": "sec-section-labs",
-  "level": "1",
-  "url": "sec-section-labs.html",
-  "type": "Section",
-  "number": "22.2",
-  "title": "Labs",
-  "body": " Labs   Physics Lab   Text of section.  "
-},
-{
-  "id": "sec-section-labs-2",
+  "id": "ch-building-2",
   "level": "2",
-  "url": "sec-section-labs.html#sec-section-labs-2",
-  "type": "Exploration",
-  "number": "22.1",
-  "title": "Physics Lab.",
-  "body": " Physics Lab  "
+  "url": "ch-building.html#ch-building-2",
+  "type": "Learning Objectives",
+  "number": "22",
+  "title": "",
+  "body": "   Students will be able to...    "
 },
 {
   "id": "backmatter-2",
