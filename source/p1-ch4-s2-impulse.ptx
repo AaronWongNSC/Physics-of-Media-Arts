@@ -38,12 +38,65 @@
     </p>
   </paragraphs>
   <paragraphs>
-    <title></title>
-    
+    <title>Calculating Impulse</title>
+    <p>
+      The exact nature of the force that is being applied can be extremely complicated. If you think about a collision in slow motion, you will see all sorts of deformations
+      happen between the two objects. This is extremely difficult to model. However, we can understand the big picture of impulse without having to think about any of 
+      those details. All we really need to think about is the before and after behaviors.
+    </p>
+    <p>
+      We will typically think about the average force applied to the object by assuming it's constant for the entire time of interaction. This is another conceptual
+      simplification to avoid having to create extremely complex models. For very short interactions, this ends up being a very reasonable thing to do.
+    </p>    
   </paragraphs>
+  <example>
+    <title>A Basic Momentum Change Problem</title>
+    <p>
+      Consider a baseball traveling 30 meters per second from the pitcher to the batter. And imagine the batter hits it straight back to the pitcher at 35 meters per second.
+      Even though we have no information about the batter or the bat used to hit the ball, we can calculate the total impulse applied to the ball by calculating the change
+      of momentum. (A baseball weighs about 0.15 kg.) We will consider the positive direction to be from the pitcher to the batter. 
+    </p>
+    <ul>
+      <li>The initial momentum is <m>0.15 \text{ kg} \cdot 30 \frac{\text{m}}{\text{s}} = 4.5 \frac{\text{kg} \cdot \text{m}}{\text{s}}</m>.</li>
+      <li>The final momentum is <m>0.15 \text{ kg} \cdot (-35) \frac{\text{m}}{\text{s}} = -5.25 \frac{\text{kg} \cdot \text{m}}{\text{s}}</m>.</li>
+      <li>The change in momentum is the final momentum minus the initial momentum: <m>-5.25 - 4.5 = -9.75</m> (in units of
+        <m>\frac{\text{kg} \cdot \text{m}}{\text{s}}</m>).</li>
+    </ul>
+    <p>
+      Suppose further that the time of interaction between the bat and the ball is calculated to be 0.7 ms (or 0.0007 s). We can now calculate the average
+      force of applied to the ball by the bat during the hit.
+    </p>
+    <md>
+      <mrow>\Delta p \amp = F \Delta t</mrow>
+      <mrow>-9.75 \frac{\text{kg} \cdot \text{m}}{\text{s}} \amp = F \cdot (0.007 \text{ s}) </mrow>
+      <mrow>F \amp = -1392.86 \frac{\text{kg} \cdot \text{m}}{\text{s}^2}</mrow>
+    </md>
+    <p>
+      The negative sign on the force tells us that the force is being applied towards the pitcher, which makes sense. It's difficult to interpret what 1400 Newtons
+      means. But we can convert the force to an acceleration and then think about it in terms of g-force.
+    </p>
+    <md>
+      <mrow>F \amp = ma</mrow>
+      <mrow>-1392.86 \text{ N} \amp = (0.15 \text{ kg}) \cdot a </mrow>
+      <mrow>a \amp = -9285.71 \frac{\text{m}}{\text{s}^2} = -9285.71 \frac{\text{m}}{\text{s}^2} \cdot \frac{1 \text{ g}}{9.8 \text{m}/\text{s}^2} = 947.52 \text{ g} </mrow>
+    </md>
+    <p>
+      The concept of 1000 gs is perhaps a little bit easier to conceptualize, though it may still seem a bit bizarre that this is what's happening to a baseball when it gets
+      hit. A framework that might be helpful for this is to think about dropping a ball and waiting until it reaches a speed of 65 meters per second (the change in velocity),
+      which is about 145 miles per hour. This would take a while. What 1000 gs means is that this happens in 1/1000 the amount of time. In other words, in less than the blink
+      of an eye, it goes from your hand dropping it to 65 meters per second.
+    </p>
+  </example>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://openstax.org/books/college-physics-2e/pages/8-2-impulse">(OpenStax College Physics 2e) Section 8.2 Impulse</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
 </section>
 
-<!-- Additional Resources:
-
-
--->

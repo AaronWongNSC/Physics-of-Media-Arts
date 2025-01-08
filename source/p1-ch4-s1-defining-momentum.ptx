@@ -45,6 +45,12 @@
       about when  we are working in just one direction, but it becomes essential to understand when we are working in higher dimensions.
     </p>
     <p>
+      The momentum is calculated relative to a frame of reference, which is important because the measured velocity of an object depends on who is doing
+      the measurement. This goes back to thinking about how the world is perceived by someone on the ground compared to someone on a moving train. An interesting
+      aspect of this is that it's possible for two people to calculate two different values for the momentum of an object, but somehow all of the underlying
+      physics is unaffected by the different values.
+    </p>
+    <p>
       The SI units of momentum are <m>\frac{\text{kg} \cdot \text{m}}{\text{s}}</m>. By itself, this doesn't say very much. But if we compare it to the
       units of force, we can see that the two are very similar. The SI units of force are <m>\frac{\text{kg} \cdot \text{m}}{\text{s}^2}</m>. The only
       difference between the two is that force has an extra dimension of seconds in the denominator. In other words, force has units of momentum over time.

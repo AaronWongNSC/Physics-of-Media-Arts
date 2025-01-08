@@ -31,7 +31,11 @@
   Impulse
   -->
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="p1-ch4-s1-defining-momentum.ptx" />
+  <xi:include href="p1-ch4-s2-impulse.ptx" />
+  <xi:include href="p1-ch4-s3-conservation-of-momentum.ptx" />
+  <xi:include href="p1-ch4-s4-collisions.ptx" />
+  <xi:include href="p1-ch4-s5-center-of-mass.ptx" />
   <xi:include href="p1-ch4-sL-0-momentum-labs.ptx" />
 
 </chapter>
