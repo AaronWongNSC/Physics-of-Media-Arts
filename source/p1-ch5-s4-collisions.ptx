@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-collisions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Collisions</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
+
+    <p>
+      <idx><h>elastic collision</h></idx>
+      <idx><h>inelastic collision</h></idx>
+
+      We will be using the principle of conservation of momentum to analyze what happens in collisions. This topic is usually presented with a discussion of the energy
+      of the system, which breaks the world of collisions into two categories. If no energy is lost, then the collision is said to be <term>elastic</term>. These types of
+      collisions basically do not exist in reality, and are considered to be a theoretical ideal. A collision in which energy is lost is said to be <term>inelastic</term>.
+      The ways that energy would typically be lost would be through heat and sound, and while we say that the energy is lost, it's more correct to say that the energy
+      has been converted into another form that cannot be accounted for in the motion of the particles.
+    </p>
+    <p>
+      Since we have not yet had a discussion about energy, we're not going to worry about calculating 
+    </p>
+    
+  </introduction>
+
+  <paragraphs>
+    <title>A Moving Mass Hits and Sticks to a Stationary Mass</title>
+    
+    <p>
+      In the first scenario, we're going to imagine a mass <m>m_1</m> is traveling with velocity <m>v_1 \gt 0</m> and collides with another mass <m>m_2</m>, which is at rest.
+      After the two masses collide, they stick together and act as a single object. We are interested in how fast the combined object is moving. We begin by creating
+      diagrams that represent the motion before and after the collision. We will label the final velocity of the combined object as <m>v_\text{f}</m>.
+    </p>
+    <p>
+      INSERT DIAGRAM
+    </p>
+    <p>
+      Before the collision, the momentum of the system is <m>m_1 v_1</m>. After the collision, the momentum of the system is <m>(m_1 + m_2) v_f</m>. Since momentum is
+      conserved, we know that these two quantities are equal to each other. So we can set up an equation to solve for <m>v_\text{f}</m>.
+    </p>
+    <md>
+      <mrow>m_1 v_1 \amp = (m_1 + m_2) v_\text{f}</mrow>
+      <mrow>v_\text{f} \amp = \frac{m_1}{m_1 + m_2} v_1</mrow>
+    </md>
+    <p>
+      The important observation about this equation is that the two objects together will always be moving slower than the object by itself. This should make intuitive sense
+      because if it were moving faster, there would have to be something that propelled it forward after the two pieces collided. If <m>m_1</m> is large compared to <m>m_2</m>,
+      the result would be that the combined object is moving close to the initial speed of the mass. If <m>m_1</m> is small compared to <m>m_2</m>, then the combined object
+      will be moving very slowly. Both of these scenarios should feel fairly intuitive.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>A Moving Mass Bounces Off of a Stationary Mass</title>
+    
+    <p>
+      We will now consider the scenario with the same initial condition, but a different outcome. The mass <m>m_1</m> travels with velocity <m>v_1 \gt 0</m> and collides
+      with another mass <m>m_2</m>, which is at rest. This time, we will assume that they remain two separate entities after the collision. In every case, the mass
+      <m>m_2</m> will be in motion with velocity <m>v_2' \gt 0</m>. However, there are three different scenarios for the mass <m>m_1</m>, which will have velocity <m>v_1'</m>.
+    </p>
+    <ul>
+      <li>
+        <p>
+          Mass <m>m_1</m> is stationary, so that <m>v_1' = 0</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Mass <m>m_1</m> is moving in the same direction that it started, so that <m> v_1' \gt 0</m>.
+        </p>
+      </li>
+      <li>
+        <p>
+          Mass <m>m_1</m> is moving in the opposite direction that it started, so that <m> v_1' \lt 0</m>.
+        </p>
+      </li>
+    </ul>
+    <p>
+      We will need to look at each case separately. In every situation, the intial momentum is <m>m_1 v_1</m>.
+    </p>
+    <p>
+      If <m>m_1</m> is stationary, then all of the momentum has transferred from the first mass to the second mass. In this case, the final momentum is <m>m_2 v_2'</m>,
+      which leads to a final velocity of <m>v_2' = \frac{m_1}{m_2} v_1</m>.
+    </p>
+  </paragraphs>
+</section>
+
+<!-- Additional Resources:
+
+
+-->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Energy</title>
+
+  <objectives>
+    <ul>
+      <li>
+        <p>
+          TBD
+        </p>
+      </li>
+    </ul>
+  </objectives>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- 
+  Impulse
+  -->
+  <!-- include sections -->
+  <xi:include href="p1-ch4-s1-defining-energy.ptx" />
+  <xi:include href="p1-ch4-sL-0-energy-labs.ptx" />
+
+</chapter>
