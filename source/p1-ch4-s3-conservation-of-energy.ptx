@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-conservation-of-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Conservation of Energy</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+
+  </introduction>
+
+  <paragraphs>
+    <title>The Principle of Conservation of Energy</title>
+    
+    <definition xml:id="def-conservation-of-energy">
+      <idx><h>work</h></idx>
+      <statement>
+        <p>
+          In a closed system, energy is conserved.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      A closed system is an environment where it is impossible for matter or energy to enter or leave. Sometimes, it's thought of as a universe-in-a-box. In practice, there
+      is no such thing as a closed system other than the entire universe itself. However, this is a great conceptual tool that allows us to eliminate distractions and focus
+      on just the ideas that we are interested in thinking about.
+    </p>
+    <p>
+      At a certain level, the conservation of energy is just a definition. The reason that energy is conserved is because we've declared that energy can't leave the system.
+      In fact, there are models of physics where energy is not conserved. This gets really complicated because you have to get very technical with the definition of energy
+      (which we've already seen is somewhat elusive) and you need to have a technical understanding of what it means to be conserved. Ultimately, we need to remember that
+      we're just creating models and not declaring truths about the universe.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Work-Energy Theorem</title>
+    
+    <p>
+      The work-energy theorem is a particular representation of the principle of conservation of energy. Here is how it is stated:
+    </p>
+
+    <definition xml:id="def-work-energy-theorem">
+      <idx><h>work</h></idx>
+      <statement>
+        <p>
+          The net work done on a particle is equal to the change of the kinetic energy of that particle. As a formula, it is written as
+        </p>
+        <me>
+          W = \Delta KE
+        </me>
+        <p>
+          where <m>W</m> is the net work done on the particle and <m>\Delta KE</m> is the change in kinetic energy.
+        </p>
+        
+      </statement>
+    </definition>
+
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

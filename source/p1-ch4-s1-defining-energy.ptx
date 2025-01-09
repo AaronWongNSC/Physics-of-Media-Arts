@@ -6,16 +6,115 @@
   <introduction>
     <blockquote>
       <p>
-        <q>-----</q>
+        <q>It is important to realize that in physics today, we have no knowledge of what energy is. </q>
       </p>
-      <attribution>------</attribution>
+      <attribution>Richard Feynman (The Feynman Lectures on Physics, Volume 1, Chapter 4)</attribution>
     </blockquote>
 
     <p>
-      Energy
+      The idea of energy in physics can be a little bit slippery in a couple ways. The first is that we don't really have an idea of what energy really is. Yes, we have
+      some intuitive concepts that can help us understand certain types of energy, but the energy itself isn't a specific thing, like an atom or a photon. It is a quantity
+      that we can calculate and measure in various situations.
+    </p>
+    <p>
+      The second way that energy can be slippery is that it turns out that we don't necessarily have all of the formulas we need to account for it. We will see later that
+      when objects collide and stick together, there is energy that is "lost" in the interaction. But the energy isn't lost in the sense that we don't know where it is.
+      Instead, it's lost in the sense that we vaguely know what happened to it, but we have no way of accounting for exactly where it went. We can know how much energy there
+      is that's unaccounted for, but we can't say exactly how much of it is in its various potential forms.
+    </p>
+    <p>
+      If this feels a little bit confusing, it's okay. Just reread the Feynman quote at the top, and keep moving forward.
     </p>
   </introduction>
 
+  <paragraphs>
+    <title>A Loose Definition of Energy</title>
+    
+    <p>
+      If you look at different physics textbooks, you will find that they treat the definition of energy differently. Many textbooks don't even bother trying to come up with
+      a definition of it, and just start using the word as if you already know what they mean. Other textbooks provide a definition, but then they gloss over the details when
+      they violate that definition. Again, physicists don't actually know what energy is, which makes defining it a perilous task.
+    </p>
+    <p>
+      Here is the idea that we are going to use for this book:
+    </p>
+
+    <definition xml:id="def-energy">
+      <idx><h>energy</h></idx>
+      <statement>
+        <p>
+          <term>Energy</term> is the ability to do work.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      This is a nice concise definition. But what is work? And when can we do it? Here's where we're getting into the weeds of some really interesting (but really complicated)
+      ideas. If you tried to look up "work" in a physics textbook, the definition that you will often is that it is a force applied over a distance. (Other textbooks define
+      work as a mathematical formula, which isn't as helpful if you're trying to understand it.) This idea doesn't take into account that there are forms of energy (ultimately,
+      heat) that can't be used to apply a force in any practical sense.
+    </p>
+    <p>
+      As a practical example, if you clap your hands together, you generate both sound and heat. But the sound doesn't last long, and neither does the heat. That energy still
+      exists somewhere in the universe, but there's no way for you to harness it to do anything useful. This is the sort of difficulty that arises when talking about energy.
+      We will have a discussion about work in another section.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Forms of Energy</title>
+
+    <p>
+      The two primary forms of energy we will be looking at in this book are kinetic and potential energy. Here are some simplified definitions:
+    </p>
+    <ul>
+      <li>
+        <p>
+          <idx><h>kinetic energy</h></idx>
+          Kinetic energy is the energy of a moving object.
+        </p>
+      </li>
+      <li>
+        <p>
+          <idx><h>potential energy</h></idx>
+          Potential energy is a form of stored energy within an object (or by virtue of its position relative to other objects) that can be converted to other forms of energy.
+        </p>
+      </li>
+    </ul>
+    <p>
+      Even at this level, our definitions aren't great. For example, a very hot metal rod has a lot of kinetic energy because the metal ions are vibrating very quickly.
+      But those vibrations are also a form of potential energy because we can use that energy to cause water molecules to move around, which leads to the creation of steam,
+      which can move a turbine, which can be used to generate electricity. So it can also be seen as a type of potential energy. So we are once again playing with loose
+      definitions, and we will quickly move to tangible examples.
+    </p>
+    <p>
+      All moving objects have kinetic energy. The amount of energy depends on how much mass it has, and how fast it's moving. Intuitively, fast moving objects have more
+      energy than slow moving objects of the same mass. And more massive objects have more energy than small objects when moving at the same speed. For our purposes, we
+      will only calculate the kinetic energy of massive objects, and not think about the kinetic energy of the individual molecules that an object is made of.
+    </p>
+    <p>
+      Potential energy can come in many forms. There is gravitational potential energy, which results from an object being held at a height. The potential energy can be
+      converted to kinetic energy by letting it go, which will cause the object to fall. Potential energy can also be stored in an object itself, such as with a rubber
+      band that has been stretched out. Once again, letting it go will cause it to move, and that movement is the conversion of potential energy to kinetic energy.
+    </p>
+    <p>
+      In a certain sense, the two examples of potential energy here are mechanical forms of potential energy. There is something in the position of the object as a whole
+      that is storing up the energy. But there are still other forms of potential energy. Chemical potential energy is usually thought of as the energy stored in chemical
+      bonds (which to some people would be considered a form of mechanical potential energy, but not for this class). Nuclear potential energy is the energy stored in the
+      nucleus of atoms (and there is a lot of energy stored there).
+    </p>
+    <p>
+      And there are still other forms of energy. Heat energy (or thermal energy), which is actually a form of kinetic energy but at the scale of individual atoms is one
+      that we've briefly discussed. There's radiant energy, which is the energy found in protons (which is kind of like a kinetic energy, because it's the energy of a photon
+      that's moving, but also not quite (though technically, probably yes)). There's also energy inherent to mass (which is related to the famous Einstein equation
+      <m>E = mc^2</m>).
+    </p>
+    <p>
+      Hopefully, this section created at least a little confusion in you, because the universe is a confusing place at times. If there is anything to take away from this section
+      beyond some basic intuitions about how we deal with energy in physics, it's that simple answers in physics are usually only partially correct, at best.
+    </p>
+    
+  </paragraphs>
 
 </section>
 

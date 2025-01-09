@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-work" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Defining Work</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>-----</attribution>
+    </blockquote>
+
+    <p>
+      The somewhat convoluted explanation of the concept of energy in the previous section can mask the relative simplicity of the loose definition we had: "Energy is the
+      ability to do work." The time has now come to make a mess out of the concept of work.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>A Definition of Work</title>
+    
+    <p>
+      We had said before that some textbooks use the idea that work is a force applied over a distance. But that definition, while very useful, isn't the one that we are
+      going to use. It's a little bit too narrow for our applications. Here is our definition:
+    </p>
+
+    <definition xml:id="def-work">
+      <idx><h>work</h></idx>
+      <statement>
+        <p>
+          <term>Work</term> is the transfer of energy from one object or system of objects to another object or system of objects.
+        </p>
+      </statement>
+    </definition>
+
+    <p>
+      When we think about work, we will be thinking about it purely in terms of energy. It doesn't really matter what type of energy it is. It's just energy being transferred
+      from one object to another. This definition is broad enough to encompass a wide range of situations.
+    </p>
+    <p>
+      If we lift an object from a low place to a high place, we are doing work by transferring energy from us to the the box. We won't try to describe the energy inside of
+      us (it's a complicated chemical energy thing), but it should make intuitive sense that we expended some energy to lift the box up. The energy that the box gained is in
+      the form of potential energy, because if we were to let it go, it would convert that potential energy into kinetic energy. But it's not quite that simple.
+    </p>
+    <p>
+      The reason that the box has potential energy is not because of something inherent to the box, but because of the physical distance between the box and the earth. This
+      is why we need to include the idea of a system of objects. So when we lift the box up, we are adding energy to the system that contains both the box and the earth. If
+      we then let go of the box, the earth-box system is converting that gravitational potential energy into the box's kinetic energy.
+    </p>
+    <p>
+      Here's another example: Suppose we have a ball rolling on a smooth, horizontal surface. The ball has kinetic energy. But eventually, the ball will stop rolling. Where
+      did the energy go? There's some amount of friction between the ball and the surface, and that friction slows the rotation of the ball. So we might say that the ball
+      is doing work on the surface. What would the energy transfer be? It would be the kinetic energy of the ball converting to heat energy in the surface, as friction
+      generates heat. 
+    </p>
+    <p>
+      But this wouldn't be a full accounting of the energy. The ball is also pushing through the air, and so some of the kinetic energy of the ball is being converted to
+      the kinetic energy of the air (and also the potential energy, as some of the air molecules probably went upward). There's also the vibration of air due to the sound
+      that the rolling ball makes, which is still another form of kinetic energy. A simple way to say all of this is to say that the ball is doing work on the environment,
+      and the environment is the system of objects that consists of the general space and stuff around an object.
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

@@ -22,6 +22,8 @@
   -->
   <!-- include sections -->
   <xi:include href="p1-ch4-s1-defining-energy.ptx" />
+  <xi:include href="p1-ch4-s2-defining-work.ptx" />
+  <xi:include href="p1-ch4-s3-conservation-of-energy.ptx" />
   <xi:include href="p1-ch4-sL-0-energy-labs.ptx" />
 
 </chapter>
