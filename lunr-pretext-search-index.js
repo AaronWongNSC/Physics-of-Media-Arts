@@ -1369,20 +1369,209 @@ var ptx_lunr_docs = [
   "body": "    (Steve Spangler) Tablecloth Whip-off Trick     "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-defining-energy",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-defining-energy.html",
   "type": "Section",
   "number": "7.1",
-  "title": "Section Title",
-  "body": " Section Title  Text of section.  "
+  "title": "Definining Energy",
+  "body": " Definining Energy     It is important to realize that in physics today, we have no knowledge of what energy is.   Richard Feynman (The Feynman Lectures on Physics, Volume 1, Chapter 4)   The idea of energy in physics can be a little bit slippery in a couple ways. The first is that we don't really have an idea of what energy really is. Yes, we have some intuitive concepts that can help us understand certain types of energy, but the energy itself isn't a specific thing, like an atom or a photon. It is a quantity that we can calculate and measure in various situations.  The second way that energy can be slippery is that it turns out that we don't necessarily have all of the formulas we need to account for it. We will see later that when objects collide and stick together, there is energy that is \"lost\" in the interaction. But the energy isn't lost in the sense that we don't know where it is. Instead, it's lost in the sense that we vaguely know what happened to it, but we have no way of accounting for exactly where it went. We can know how much energy there is that's unaccounted for, but we can't say exactly how much of it is in its various potential forms.  If this feels a little bit confusing, it's okay. Just reread the Feynman quote at the top, and keep moving forward.    A Loose Definition of Energy  If you look at different physics textbooks, you will find that they treat the definition of energy differently. Many textbooks don't even bother trying to come up with a definition of it, and just start using the word as if you already know what they mean. Other textbooks provide a definition, but then they gloss over the details when they violate that definition. Again, physicists don't actually know what energy is, which makes defining it a perilous task.  Here is the idea that we are going to use for this book:   energy    Energy is the ability to do work.    This is a nice concise definition. But what is work? And when can we do it? Here's where we're getting into the weeds of some really interesting (but really complicated) ideas. If you tried to look up \"work\" in a physics textbook, the definition that you will often is that it is a force applied over a distance. (Other textbooks define work as a mathematical formula, which isn't as helpful if you're trying to understand it.) This idea doesn't take into account that there are forms of energy (ultimately, heat) that can't be used to apply a force in any practical sense.  As a practical example, if you clap your hands together, you generate both sound and heat. But the sound doesn't last long, and neither does the heat. That energy still exists somewhere in the universe, but there's no way for you to harness it to do anything useful. This is the sort of difficulty that arises when talking about energy. We will have a discussion about work in another section.    Forms of Energy  The two primary forms of energy we will be looking at in this book are kinetic and potential energy. Here are some simplified definitions:     kinetic energy Kinetic energy is the energy of a moving object.     potential energy Potential energy is a form of stored energy within an object (or by virtue of its position relative to other objects) that can be converted to other forms of energy.    Even at this level, our definitions aren't great. For example, a very hot metal rod has a lot of kinetic energy because the metal ions are vibrating very quickly. But those vibrations are also a form of potential energy because we can use that energy to cause water molecules to move around, which leads to the creation of steam, which can move a turbine, which can be used to generate electricity. So it can also be seen as a type of potential energy. So we are once again playing with loose definitions, and we will quickly move to tangible examples.  All moving objects have kinetic energy. The amount of energy depends on how much mass it has, and how fast it's moving. Intuitively, fast moving objects have more energy than slow moving objects of the same mass. And more massive objects have more energy than small objects when moving at the same speed. For our purposes, we will only calculate the kinetic energy of massive objects, and not think about the kinetic energy of the individual molecules that an object is made of.  Potential energy can come in many forms. There is gravitational potential energy, which results from an object being held at a height. The potential energy can be converted to kinetic energy by letting it go, which will cause the object to fall. Potential energy can also be stored in an object itself, such as with a rubber band that has been stretched out. Once again, letting it go will cause it to move, and that movement is the conversion of potential energy to kinetic energy.  In a certain sense, the two examples of potential energy here are mechanical forms of potential energy. There is something in the position of the object as a whole that is storing up the energy. But there are still other forms of potential energy. Chemical potential energy is usually thought of as the energy stored in chemical bonds (which to some people would be considered a form of mechanical potential energy, but not for this class). Nuclear potential energy is the energy stored in the nucleus of atoms (and there is a lot of energy stored there).  And there are still other forms of energy. Heat energy (or thermal energy), which is actually a form of kinetic energy but at the scale of individual atoms is one that we've briefly discussed. There's radiant energy, which is the energy found in protons (which is kind of like a kinetic energy, because it's the energy of a photon that's moving, but also not quite (though technically, probably yes)). There's also energy inherent to mass (which is related to the famous Einstein equation ).  Hopefully, this section created at least a little confusion in you, because the universe is a confusing place at times. If there is anything to take away from this section beyond some basic intuitions about how we deal with energy in physics, it's that simple answers in physics are usually only partially correct, at best.   "
+},
+{
+  "id": "def-energy",
+  "level": "2",
+  "url": "sec-defining-energy.html#def-energy",
+  "type": "Definition",
+  "number": "7.1.0.1",
+  "title": "",
+  "body": " energy    Energy is the ability to do work.   "
+},
+{
+  "id": "sec-work",
+  "level": "1",
+  "url": "sec-work.html",
+  "type": "Section",
+  "number": "7.2",
+  "title": "Defining Work",
+  "body": " Defining Work     -----   -----   The somewhat convoluted explanation of the concept of energy in the previous section can mask the relative simplicity of the loose definition we had: \"Energy is the ability to do work.\" The time has now come to make a mess out of the concept of work.    A Definition of Work  We had said before that some textbooks use the idea that work is a force applied over a distance. But that definition, while very useful, isn't the one that we are going to use. It's a little bit too narrow for our applications. Here is our definition:   work    Work is the transfer of energy from one object or system of objects to another object or system of objects.    When we think about work, we will be thinking about it purely in terms of energy. It doesn't really matter what type of energy it is. It's just energy being transferred from one object to another. This definition is broad enough to encompass a wide range of situations.  If we lift an object from a low place to a high place, we are doing work by transferring energy from us to the the box. We won't try to describe the energy inside of us (it's a complicated chemical energy thing), but it should make intuitive sense that we expended some energy to lift the box up. The energy that the box gained is in the form of potential energy, because if we were to let it go, it would convert that potential energy into kinetic energy. But it's not quite that simple.  The reason that the box has potential energy is not because of something inherent to the box, but because of the physical distance between the box and the earth. This is why we need to include the idea of a system of objects. So when we lift the box up, we are adding energy to the system that contains both the box and the earth. If we then let go of the box, the earth-box system is converting that gravitational potential energy into the box's kinetic energy.  Here's another example: Suppose we have a ball rolling on a smooth, horizontal surface. The ball has kinetic energy. But eventually, the ball will stop rolling. Where did the energy go? There's some amount of friction between the ball and the surface, and that friction slows the rotation of the ball. So we might say that the ball is doing work on the surface. What would the energy transfer be? It would be the kinetic energy of the ball converting to heat energy in the surface, as friction generates heat.  But this wouldn't be a full accounting of the energy. The ball is also pushing through the air, and so some of the kinetic energy of the ball is being converted to the kinetic energy of the air (and also the potential energy, as some of the air molecules probably went upward). There's also the vibration of air due to the sound that the rolling ball makes, which is still another form of kinetic energy. A simple way to say all of this is to say that the ball is doing work on the environment, and the environment is the system of objects that consists of the general space and stuff around an object.   "
+},
+{
+  "id": "def-work",
+  "level": "2",
+  "url": "sec-work.html#def-work",
+  "type": "Definition",
+  "number": "7.2.0.1",
+  "title": "",
+  "body": " work    Work is the transfer of energy from one object or system of objects to another object or system of objects.   "
+},
+{
+  "id": "sec-conservation-of-energy",
+  "level": "1",
+  "url": "sec-conservation-of-energy.html",
+  "type": "Section",
+  "number": "7.3",
+  "title": "Conservation of Energy",
+  "body": " Conservation of Energy     -----   -----     The Principle of Conservation of Energy   work   In a closed system, energy is conserved.    A closed system is an environment where it is impossible for matter or energy to enter or leave. Sometimes, it's thought of as a universe-in-a-box. In practice, there is no such thing as a closed system other than the entire universe itself. However, this is a great conceptual tool that allows us to eliminate distractions and focus on just the ideas that we are interested in thinking about.  At a certain level, the conservation of energy is just a definition. The reason that energy is conserved is because we've declared that energy can't leave the system. In fact, there are models of physics where energy is not conserved. This gets really complicated because you have to get very technical with the definition of energy (which we've already seen is somewhat elusive) and you need to have a technical understanding of what it means to be conserved. Ultimately, we need to remember that we're just creating models and not declaring truths about the universe.    The Work-Energy Theorem  The work-energy theorem is a particular representation of the principle of conservation of energy. Here is how it is stated:   work   The net work done on a particle is equal to the change of the kinetic energy of that particle. As a formula, it is written as   where is the net work done on the particle and is the change in kinetic energy.     "
+},
+{
+  "id": "def-conservation-of-energy",
+  "level": "2",
+  "url": "sec-conservation-of-energy.html#def-conservation-of-energy",
+  "type": "Definition",
+  "number": "7.3.0.1",
+  "title": "",
+  "body": " work   In a closed system, energy is conserved.   "
+},
+{
+  "id": "def-work-energy-theorem",
+  "level": "2",
+  "url": "sec-conservation-of-energy.html#def-work-energy-theorem",
+  "type": "Definition",
+  "number": "7.3.0.2",
+  "title": "",
+  "body": " work   The net work done on a particle is equal to the change of the kinetic energy of that particle. As a formula, it is written as   where is the net work done on the particle and is the change in kinetic energy.   "
+},
+{
+  "id": "sec-energy-labs",
+  "level": "1",
+  "url": "sec-energy-labs.html",
+  "type": "Section",
+  "number": "7.4",
+  "title": "Lab Activities: Energy",
+  "body": " Lab Activities: Energy   "
+},
+{
+  "id": "sec-defining-momentum",
+  "level": "1",
+  "url": "sec-defining-momentum.html",
+  "type": "Section",
+  "number": "8.1",
+  "title": "Definining Momentum",
+  "body": " Definining Momentum     -----   ------   Momentum is a property of objects in motion. In a sense, it measures \"how much\" movement there is. One way that people think about momentum is to ask the following question: \"How much will this hurt if it hits me?\"  It is easiest to understand by thinking about comparisons between similar situations. Suppose you have two identical objects, where one is moving slowly and the other is moving quickly. The fast-moving object has \"more\" movement than the slow-moving object, and so that one has more momentum. But now consider a tiny object and a massive object that are moving at the same speed. Even though the speeds are the same, there's still \"more\" movement in the large object than the smaller one. And so we can see that the idea of momentum involves both the mass and the velocity.  There are two types of momentum: linear momentum and angular momentum. We will introduce both, but our focusing will be on linear momentum. Unless otherwise noted, when you see momentum in this book, it will be referring linear momentum.    Linear Momentum   linear momentum   The linear momentum of an object the product of the mass of the object and its velocity vector.    Notice from the definition that increasing either mass or velocity will increase the momentum of an object. This matches with the discussion at the start of the section. Since momentum is the product of a scalar and a vector, it is a vector quantity. This isn't as important to think about when we are working in just one direction, but it becomes essential to understand when we are working in higher dimensions.  The momentum is calculated relative to a frame of reference, which is important because the measured velocity of an object depends on who is doing the measurement. This goes back to thinking about how the world is perceived by someone on the ground compared to someone on a moving train. An interesting aspect of this is that it's possible for two people to calculate two different values for the momentum of an object, but somehow all of the underlying physics is unaffected by the different values.  The SI units of momentum are . By itself, this doesn't say very much. But if we compare it to the units of force, we can see that the two are very similar. The SI units of force are . The only difference between the two is that force has an extra dimension of seconds in the denominator. In other words, force has units of momentum over time.  In fact, the connection runs much deeper. Newton's Second Law of Motion can actually be phrased in terms of momentum:    The net force on an object at any instant of time is equal to the rate of change of its momentum.    In other words, forces lead to changes in momentum. This idea is written mathematically in the following manner: . The notation can be read as \"the change of\" and is a common notation in both math and physics. (You might remember seeing the formula for the slope of a line as . It's the exact same thing.) By multiplying both sides of the equation by , we have another version of the equation: . This is the formula for impulse, which we will discuss in the next section.    Angular Momentum  Angular momentum is the momentum of spinning objects. It's quite a bit more complicated than linear momentum, and it's even less intuitive when you get into the details. If you have a record spinning on a standard record player, the angular momentum is pointing up because it is spinning counter-clockwise. The exact reason it's pointing up and the consequences of that are difficult to understand intuitively. In some sense, the reason is that this is what works out mathematically. But that's unsatisfying.  Instead of trying to get the full flavor of angular momentum and its consequences, we are going to think about some of the basic ideas and try to build some core intuitions about it. The underlying question is about how difficult it is to get something to rotate (or to stop rotating). We will use a thought experiment. Suppose you are holding a stick with a weighted ball at the end of it. Will it be easier or harder to swing twist the stick so that the ball swings around if the stick is short or long?  Most people intuitively understand that the long stick would be more difficult, and that is the correct answer. So this tells us that angular momentum depends on how far away from the axis of rotation. It also depends on the mass, just as with linear angular momentum.   Rolling Objects   Three objects of the same mass roll down a slope. Which one gets to the bottom first?    Instructions  Instructions     "
+},
+{
+  "id": "def-linear-momentum",
+  "level": "2",
+  "url": "sec-defining-momentum.html#def-linear-momentum",
+  "type": "Definition",
+  "number": "8.1.0.1",
+  "title": "",
+  "body": " linear momentum   The linear momentum of an object the product of the mass of the object and its velocity vector.   "
+},
+{
+  "id": "def-Newton-Second-Law-Momentum",
+  "level": "2",
+  "url": "sec-defining-momentum.html#def-Newton-Second-Law-Momentum",
+  "type": "Definition",
+  "number": "8.1.0.2",
+  "title": "",
+  "body": "  The net force on an object at any instant of time is equal to the rate of change of its momentum.   "
+},
+{
+  "id": "activity-rolling-objects-angular-momentum",
+  "level": "2",
+  "url": "sec-defining-momentum.html#activity-rolling-objects-angular-momentum",
+  "type": "Activity",
+  "number": "8.1",
+  "title": "Rolling Objects.",
+  "body": " Rolling Objects   Three objects of the same mass roll down a slope. Which one gets to the bottom first?    Instructions  Instructions   "
+},
+{
+  "id": "sec-impulse",
+  "level": "1",
+  "url": "sec-impulse.html",
+  "type": "Section",
+  "number": "8.2",
+  "title": "Changing Momentum",
+  "body": " Changing Momentum     -----   ------   In the previous section, we derived the equation from Newton's Second Law of Motion when framed in terms of momentum. In this section, we are going to explore what this means.    Defining Impulse   impulse    Impulse is the change of momentum of an obejct when it is acted on by a force. Specifically, it is calculated as , where the force is fixed and applied over a period of time .    There are a couple aspects about this that are conceptually easy to understand. The first is that larger forces should lead to larger changes of momentum. The second is that a force applied over a longer period of time should lead to a larger change of momentum than the same amount of force being applied for a short period of time. And both of these intuitions are captured in the formula for impulse.    Calculating Impulse  The exact nature of the force that is being applied can be extremely complicated. If you think about a collision in slow motion, you will see all sorts of deformations happen between the two objects. This is extremely difficult to model. However, we can understand the big picture of impulse without having to think about any of those details. All we really need to think about is the before and after behaviors.  We will typically think about the average force applied to the object by assuming it's constant for the entire time of interaction. This is another conceptual simplification to avoid having to create extremely complex models. For very short interactions, this ends up being a very reasonable thing to do.    A Basic Momentum Change Problem  Consider a baseball traveling 30 meters per second from the pitcher to the batter. And imagine the batter hits it straight back to the pitcher at 35 meters per second. Even though we have no information about the batter or the bat used to hit the ball, we can calculate the total impulse applied to the ball by calculating the change of momentum. (A baseball weighs about 0.15 kg.) We will consider the positive direction to be from the pitcher to the batter.   The initial momentum is .  The final momentum is .  The change in momentum is the final momentum minus the initial momentum: (in units of ).   Suppose further that the time of interaction between the bat and the ball is calculated to be 0.7 ms (or 0.0007 s). We can now calculate the average force of applied to the ball by the bat during the hit.   The negative sign on the force tells us that the force is being applied towards the pitcher, which makes sense. It's difficult to interpret what 1400 Newtons means. But we can convert the force to an acceleration and then think about it in terms of g-force.   The concept of 1000 gs is perhaps a little bit easier to conceptualize, though it may still seem a bit bizarre that this is what's happening to a baseball when it gets hit. A framework that might be helpful for this is to think about dropping a ball and waiting until it reaches a speed of 65 meters per second (the change in velocity), which is about 145 miles per hour. This would take a while. What 1000 gs means is that this happens in 1\/1000 the amount of time. In other words, in less than the blink of an eye, it goes from your hand dropping it to 65 meters per second.       (OpenStax College Physics 2e) Section 8.2 Impulse      "
+},
+{
+  "id": "def-impulse",
+  "level": "2",
+  "url": "sec-impulse.html#def-impulse",
+  "type": "Definition",
+  "number": "8.2.0.1",
+  "title": "",
+  "body": " impulse    Impulse is the change of momentum of an obejct when it is acted on by a force. Specifically, it is calculated as , where the force is fixed and applied over a period of time .   "
+},
+{
+  "id": "sec-impulse-5",
+  "level": "2",
+  "url": "sec-impulse.html#sec-impulse-5",
+  "type": "Example",
+  "number": "8.2.0.2",
+  "title": "A Basic Momentum Change Problem.",
+  "body": " A Basic Momentum Change Problem  Consider a baseball traveling 30 meters per second from the pitcher to the batter. And imagine the batter hits it straight back to the pitcher at 35 meters per second. Even though we have no information about the batter or the bat used to hit the ball, we can calculate the total impulse applied to the ball by calculating the change of momentum. (A baseball weighs about 0.15 kg.) We will consider the positive direction to be from the pitcher to the batter.   The initial momentum is .  The final momentum is .  The change in momentum is the final momentum minus the initial momentum: (in units of ).   Suppose further that the time of interaction between the bat and the ball is calculated to be 0.7 ms (or 0.0007 s). We can now calculate the average force of applied to the ball by the bat during the hit.   The negative sign on the force tells us that the force is being applied towards the pitcher, which makes sense. It's difficult to interpret what 1400 Newtons means. But we can convert the force to an acceleration and then think about it in terms of g-force.   The concept of 1000 gs is perhaps a little bit easier to conceptualize, though it may still seem a bit bizarre that this is what's happening to a baseball when it gets hit. A framework that might be helpful for this is to think about dropping a ball and waiting until it reaches a speed of 65 meters per second (the change in velocity), which is about 145 miles per hour. This would take a while. What 1000 gs means is that this happens in 1\/1000 the amount of time. In other words, in less than the blink of an eye, it goes from your hand dropping it to 65 meters per second.  "
+},
+{
+  "id": "sec-impulse-6",
+  "level": "2",
+  "url": "sec-impulse.html#sec-impulse-6",
+  "type": "Additional Resources",
+  "number": "8.2",
+  "title": "",
+  "body": "    (OpenStax College Physics 2e) Section 8.2 Impulse     "
+},
+{
+  "id": "sec-conservation-of-momentum",
+  "level": "1",
+  "url": "sec-conservation-of-momentum.html",
+  "type": "Section",
+  "number": "8.3",
+  "title": "Conservation of Momentum",
+  "body": " Conservation of Momentum     -----   ------   The principle of conservation of momentum is an important tool for understanding how objects interact with each other, but it has some requirements that need to be understood.    The Principle of Conservation of Momentum  We will begin with the statement of the principle of conservation of momentum.    The total momentum in any isolated system remains constant.    When we talk about the total momentum of a system, we are talking about the sum of all of the momentum vectors of all the particles in the system. Since this is a vector calculation, it's possible that the total momentum of the system is zero even though there are particles moving around in it. We also need to make sure that we are using the same frame of reference for both the before and after calculations.   isolated system An isolated system is a system that has no external forces acting on it. You want to imagine that you've isolated all of the components of the interaction to some far-off corner of space, far from everything. When working on problems, this is simple enough to do because we tend to only include the objects that are interacting in our calculations. In practice, this mostly means keeping people away from the experiment and making sure that the interaction happens horizontally to avoid the influence of gravity.  It is important to remember that this is talking about the influence of external forces. Objects within the system can have all sorts of complicated interactions with each other without violating the conservation of momentum.   "
+},
+{
+  "id": "def-conservation-of-momentum",
+  "level": "2",
+  "url": "sec-conservation-of-momentum.html#def-conservation-of-momentum",
+  "type": "Definition",
+  "number": "8.3.0.1",
+  "title": "",
+  "body": "  The total momentum in any isolated system remains constant.   "
+},
+{
+  "id": "sec-conservation-of-momentum-3-5",
+  "level": "2",
+  "url": "sec-conservation-of-momentum.html#sec-conservation-of-momentum-3-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "isolated system "
+},
+{
+  "id": "sec-collisions",
+  "level": "1",
+  "url": "sec-collisions.html",
+  "type": "Section",
+  "number": "8.4",
+  "title": "Collisions",
+  "body": " Collisions     -----   ------    elastic collision  inelastic collision We will be using the principle of conservation of momentum to analyze what happens in collisions. This topic is usually presented with a discussion of the energy of the system, which breaks the world of collisions into two categories. If no energy is lost, then the collision is said to be elastic . These types of collisions basically do not exist in reality, and are considered to be a theoretical ideal. A collision in which energy is lost is said to be inelastic . The ways that energy would typically be lost would be through heat and sound, and while we say that the energy is lost, it's more correct to say that the energy has been converted into another form that cannot be accounted for in the motion of the particles.  Since we have not yet had a discussion about energy, we're not going to worry about calculating    A Moving Mass Hits and Sticks to a Stationary Mass  In the first scenario, we're going to imagine a mass is traveling with velocity and collides with another mass , which is at rest. After the two masses collide, they stick together and act as a single object. We are interested in how fast the combined object is moving. We begin by creating diagrams that represent the motion before and after the collision. We will label the final velocity of the combined object as .  INSERT DIAGRAM  Before the collision, the momentum of the system is . After the collision, the momentum of the system is . Since momentum is conserved, we know that these two quantities are equal to each other. So we can set up an equation to solve for .   The important observation about this equation is that the two objects together will always be moving slower than the object by itself. This should make intuitive sense because if it were moving faster, there would have to be something that propelled it forward after the two pieces collided. If is large compared to , the result would be that the combined object is moving close to the initial speed of the mass. If is small compared to , then the combined object will be moving very slowly. Both of these scenarios should feel fairly intuitive.    A Moving Mass Bounces Off of a Stationary Mass  We will now consider the scenario with the same initial condition, but a different outcome. The mass travels with velocity and collides with another mass , which is at rest. This time, we will assume that they remain two separate entities after the collision. In every case, the mass will be in motion with velocity . However, there are three different scenarios for the mass , which will have velocity .    Mass is stationary, so that .    Mass is moving in the same direction that it started, so that .    Mass is moving in the opposite direction that it started, so that .    We will need to look at each case separately. In every situation, the intial momentum is .  If is stationary, then all of the momentum has transferred from the first mass to the second mass. In this case, the final momentum is , which leads to a final velocity of .   "
+},
+{
+  "id": "sec-collisions-2-2",
+  "level": "2",
+  "url": "sec-collisions.html#sec-collisions-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "elastic inelastic "
+},
+{
+  "id": "sec-center-of-mass",
+  "level": "1",
+  "url": "sec-center-of-mass.html",
+  "type": "Section",
+  "number": "8.5",
+  "title": "Center of Mass",
+  "body": " Center of Mass    -----   ------   ...  "
 },
 {
   "id": "lab-egg-catch",
   "level": "1",
   "url": "lab-egg-catch.html",
   "type": "Lab Activity",
-  "number": "7.2.1",
+  "number": "8.6.1",
   "title": "Egg Catch",
   "body": " Egg Catch   Introduction  Impulse-momentum theorem relates impulse to acceleration, and large acceleration leads to broken eggs.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1391,7 +1580,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-egg-catch.html#lab-egg-catch-4",
   "type": "Example",
-  "number": "7.2.1.1",
+  "number": "8.6.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1400,7 +1589,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-egg-catch.html#lab-egg-catch-8",
   "type": "Additional Resources",
-  "number": "7.2.1",
+  "number": "8.6.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1409,7 +1598,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-equal-opposite.html",
   "type": "Lab Activity",
-  "number": "8.1.1",
+  "number": "9.1.1",
   "title": "Equal and Opposite Reaction",
   "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1418,7 +1607,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-4",
   "type": "Example",
-  "number": "8.1.1.1",
+  "number": "9.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1427,7 +1616,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-8",
   "type": "Additional Resources",
-  "number": "8.1.1",
+  "number": "9.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1436,7 +1625,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-center-of-mass.html",
   "type": "Lab Activity",
-  "number": "8.1.2",
+  "number": "9.1.2",
   "title": "Center of Mass and Balance",
   "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1445,7 +1634,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-4",
   "type": "Example",
-  "number": "8.1.2.1",
+  "number": "9.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1454,7 +1643,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-8",
   "type": "Additional Resources",
-  "number": "8.1.2",
+  "number": "9.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1463,7 +1652,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-tensegrity-structure.html",
   "type": "Lab Activity",
-  "number": "9.1.1",
+  "number": "10.1.1",
   "title": "Tensegrity Structures",
   "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1472,7 +1661,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
   "type": "Example",
-  "number": "9.1.1.1",
+  "number": "10.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1481,7 +1670,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
   "type": "Additional Resources",
-  "number": "9.1.1",
+  "number": "10.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1490,7 +1679,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-pulley.html",
   "type": "Lab Activity",
-  "number": "10.1.1",
+  "number": "11.1.1",
   "title": "Pulleys",
   "body": " Pulleys   Introduction  Pulleys help in difefrent ways.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1499,7 +1688,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-4",
   "type": "Example",
-  "number": "10.1.1.1",
+  "number": "11.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1508,7 +1697,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-8",
   "type": "Additional Resources",
-  "number": "10.1.1",
+  "number": "11.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1517,7 +1706,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-hydraulics.html",
   "type": "Lab Activity",
-  "number": "11.1.1",
+  "number": "12.1.1",
   "title": "Hydraulics",
   "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1526,7 +1715,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-4",
   "type": "Example",
-  "number": "11.1.1.1",
+  "number": "12.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1535,7 +1724,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-8",
   "type": "Additional Resources",
-  "number": "11.1.1",
+  "number": "12.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1544,7 +1733,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-what-is-light.html",
   "type": "Section",
-  "number": "12.1",
+  "number": "13.1",
   "title": "What is Light?",
   "body": " What is Light?     What I am going to tell you about is what we teach our physics students in the third or fourth year of graduate school... It is my task to convince you not to turn away because you don't understand it. You see my physics students don't understand it... That is because I don't understand it. Nobody does.   Richard Feynman (QED, The Strange Theory of Light and Matter)    It turns out that light is among the most complicated topics in physics to talk about. It is utterly unique in so many ways, and it defies many of our expectations for how we think the universe ought to work. If there is a single lesson to take away from this section, it's that all of the intuitive ideas that we will develop about light are wrong at some level. But unless you're a physicist doing research on light, the ways that our basic models are wrong aren't important enough to worry about.   electromagnetic radiation Light is electromagnetic radiation . Before the term radiation scares you, it's important to understand that everything in the universe that has a temperature above aboslute zero emits some form of electromagnetic radiation. The sun emits electromagnetic radiation, some of it that we can see and some of it we can't, such as ultraviolet radiation, which causes sun burns and skin cancer. Cell phones emit electromagnetic radiation, which is how they communicate with each other. You emit electromagnetic radiation, which is how night vision goggles can see you. And all light bulbs, regardless of the type (incandescent, fluorescent, or LED) emit electromagnetic radiation.   electromagnetic spectrum It might seem strange to say that you emit light, and that is because what we normally call \"light\" is electromagnetic radiation that our eyes can detect. However, in physics, we try to be more precise and call that \"visible light\" to avoid confusion. The reason for this is that the only difference between the radiation that our eyes can detect and the radiation that we need technology to detect is the amount of energy contained in that radiation. If we were to organize all of the types of electromagnetic radiation and order them by how much energy they each have, we would have a diagram known as the electromagnetic spectrum . Below is a diagram that labels the different energy levels.   photon  wave (light) There are two main ways to think about what light is. The first is that light is a photon , or a packet of energy. In this perspective, light is a particle. That means that it has a specific location that is traveling in a specific direction at a certain speed. In this framework, the energy of a photon is an intrinsic property that defines what type of light it is. Alternatively, we can think of light as a wave . In this perspective, we think of light traveling through the universe the way that a wave travels across water. The wave does not have a specific location, but is kind of spread out over a region. The wave may be moving in a specific direction and speed, but it's less clear what, exactly, is the thing that's moving.   wave-particle duality This mixed identity of light is often called wave-particle duality , which is a catchy-but-imprecise name that tries to capture the idea that a wave is somehow both of these things, while also being neither one. There is some history behind this, which is why the term sticks around. It turns out that physicists debated about whether light was a wave or a particle, with different scientists proposing different experiments to try to prove it one way or the other. Eventually, it was discovered that both sides could be right, depending on how the experiment was set up.  The importance of wave-particle duality is that it allows us to mix the two concepts together. For example, we often think of a photon as a ball of light that can bounce off of surfaces (reflect) in particle-like ways. At the same time, the way we perceive the color of light is based on the \"wavelength\" of light (the distance between consecutive peaks), which is a wave-like language to use. And we often don't think twice about it when we go back and forth like that.      (Space.com) What is the Electromagnetic Spectrum?      "
 },
@@ -1589,7 +1778,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-what-is-light.html#sec-what-is-light-9",
   "type": "Additional Resources",
-  "number": "12.1",
+  "number": "13.1",
   "title": "",
   "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
@@ -1598,7 +1787,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-special-relativity.html",
   "type": "Section",
-  "number": "12.2",
+  "number": "13.2",
   "title": "Special Relativity",
   "body": " Special Relativity     -----   -----     special relativity (the theory of) Albert Einstein is known for developing a theory of light known as the theory of special relativity . Through a series of thought experiments, he deduced one of the most unusual quirks about light. Light always appears to be traveling the same speed, regardless of who is measuring it and the speed and direction they are going. Although the words that describe this phenomenon seem quite striaght-forward, the reality of this is utterly bizarre.   classical velocity addition To start to understand what this means, we need to do some simple thought experiments. Let's say that you have a gun that shoots a pellet at a speed of 20 miles per hour. And let's say that you're shooting this from a car that is traveling at 50 miles per hour. If you are shooting the gun forward, how fast will the pellet go (ignoring air resistance)? You would likely say that it's traveling at 70 miles per hour, 50 miles per hour from the car plus 20 miles per hour from the gun. This is know as classical velocity addition .  But light doesn't behave that way. If we replace the pellet with a photon, something unusual happens. The photon will always be traveling at the same speed, regardless of how fast the car is going. Even if the car were traveling at 99% of the speed of light, the photon will still be traveling the same speed.  The implications of this are quite surprising. Here are some examples:     time dilation Time appears to be moving slower for objects that are in motion. This is called time dilation .     length contraction Objects appear to be compressed in the direction of motion. This is called length contraction .     relativity of simultaneity If two events appear simultaneous for you, then they will not be simultaneous for a person in motion. This is known as the relativity of simultaneity .    We will do a thought experiment to understand the last of these. Suppose you are standing in the exact middle of a dark railroad car with a light bulb. If the light bulb is turned on, the light from the bulb will reach the front and the back of the car at the same time. This is because you are in the exact middle of the car. And this remains true if the car is moving along the tracks since your relative position between the front and the back stay the same.  But now suppose your friend is watching you go by, and the light is turned on at the exact moment you pass them. What will they see? Since the speed of light is not influenced by the speed of the train, he will see the light moving the same speed towards the front and back of the car. However, as time moves forward, the back of the car is moving towards the light and the front of the car is moving away from it. In other words, they won't see the light hitting the front and back at the same time, even though it was the same time for you.   classical velocity addition The formulas that describe all of this have an interesting property, which is that it is impossible to accelerate an object with mass to reach the speed of light. We're going to return to the pellet gun example, except that we're going to have a very powerful gun and a very powerful car. Let's suppose that the car is moving at half of the speed of light, and that the gun shoots at half of the speed of light. If we were to use classical velocity addition, we would say that the pellet must be moving at the speed of light. But this is impossible! It turns out that relativistic velocity addition is more complicated than that, and it results in a speed that is slower than classical velocity addition.      (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42      "
 },
@@ -1661,7 +1850,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-special-relativity.html#sec-special-relativity-11",
   "type": "Additional Resources",
-  "number": "12.2",
+  "number": "13.2",
   "title": "",
   "body": "    (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42     "
 },
@@ -1670,7 +1859,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-the-speed-of-light.html",
   "type": "Section",
-  "number": "12.3",
+  "number": "13.3",
   "title": "The Speed of Light",
   "body": " The Speed of Light     Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own special laws.   Douglas Adams (Mostly Harmless)    We know that the speed of light is constant for all observers, but what is that constant? Today, we know the speed of light (which is denoted by the letter ) is exactly 299,792,458 meters per second (approximately meters per second), which is fast enough to go around the earth about 7.5 times in a single second. But the definition of a meter is defined by the speed of light, and so this is a circular definition. What we really want to think about is how people tried to determine this value before we knew what it was. The pursuit of the answer to this question is an interesting story of ingenuity and creativity. The challenge, of course, is that the speed of light is very, very fast. How do you even begin to measure such a thing?  The speed of light is so fast that it was assumed to be instantaneous all the way until the late 1600s. Galileo was among the first to postulate that perhaps the speed of light is finite, and even devised an experiment to try to measure it. The experiment was quite simple. Two people stand on opposite sides of a valley, and each one has a latern with a shutter that blocks the light. When both are ready and in position, one of them would remove the shutter and reveal the light to the other. When that person sees the light, they will open their shutter and reveal the light back to the first person. By measuring how long it took for the light to reach the first person, you could theoretically estimate how fast the light is traveling. However, when this experiment was conducted, it turned out that the time was the same regardless of the distances between the two people. In fact, what they were basically measuring was the reaction time for the preson to see the light and remove the shutter.  In 1676, the Danish astronomer Ole Christensen Rømer was the first person to get an actual estimate of the speed of light. This was based on observing the differences in the timing of the eclipses of the moons of Jupiter when the earth was approaching it and when the earth was moving away from it. Based on his calculations, he estimated that the speed of light was approximately meters per second. Even though the tools at the time were relatively crude, it is quite amazing that he was able to get the right order of magnitude for the speed of light at that time.   stellar aberration The next estimate for the speed of light was also derived from looking at the sky. There is a visual artifact called stellar aberration which makes the positions of stars shift slightly due to the movement of the earth around the sun. This can be understood by imagining a ball falling straight down from the sky. If you're standing still, you will see that the ball is falling vertically. But if you are walking towards the ball as it's falling, it will appear to be falling at an angle towards you. The English astronomer James Bradley was monitoring the position of a star called Eltanin and noticed that it moved in a way that the current theories did not correctly predict. Bradley theorized the concept of stellar aberration to explain this, and used it to estimate the speed of light to be approximately meters per second.  In 1849, the French physicist Armand Hippolyte Louis Fizeau used a mirror and a cogwheel to measure the speed of light without needing the night sky. His device shined a light through the teeth of a spinning cogwheel, which would hit a mirror about 8 kilometers away, which would return back. By spinning the wheel, he could create individual beams of light that would shoot down to the mirror and back again. Then by controlling the speed that the wheel was spinning at, he would be able to time it so that the beam of light would either hit a tooth of the cogwheel or hit a gap between the teeth. From this information, he was able to estimate that the speed of light to be about meters per second. While this was slightly worse, the major accomplishment was that this measured the speed of light using a very short distance (relatively speaking).  There were a more innovations, such as using rotating mirrors and using intereference of light waves that slowly improved the estimates for the speed of light. The science behind those methods gets increasingly complex, and so we're not going to delve any deeper into it. The main takeaway from this section is mostly to appreciate the progression of ideas that allowed us to get better and better approximations of the speed of light.      (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration      "
 },
@@ -1688,7 +1877,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-the-speed-of-light.html#sec-the-speed-of-light-9",
   "type": "Additional Resources",
-  "number": "12.3",
+  "number": "13.3",
   "title": "",
   "body": "    (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration     "
 },
@@ -1697,7 +1886,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-polarized-light.html",
   "type": "Section",
-  "number": "12.4",
+  "number": "13.4",
   "title": "Polarized Light",
   "body": " Polarized Light     -----   -----    If we think about the wave-like properties of light, we might start to wonder exactly what direction the waves are vibrating in. Our best analogy for thinking about waves is water, and in that situation the waves vibrate in the direction perpendicular to the wave's motion. That picture is somewhat limiting because there are really only two dimensions of motion, but it does give us the right concept. Light waves also vibrate perpendicular to its motion, but now it's a lot more complicated because there are many directions that this could be.   unpolarized light  polarized light The vibrations of light are typically oriented randomly. That is, each photon that arrives is vibrating in its own random direction, so that when you have lots of photons there is no coherence to the vibrations you are seeing. This is known as unpolarized light . Most of the light you encounter is unpolarized. It takes special conditions to get the light waves to become oriented in some type of meaningful pattern to become polarized light The most common types of polarized light in applications are linearly and circularly polarized light.   linearly polarized light  Linearly polarized light vibrates back and forth in a flat line pattern. This can be visualized as light that needs to pass through a series of parallel bars. Only the light that is aligned with the bars can make it through, and the rest of it gets blocked. And this is basically what a polarizing filters do. Our eyes cannot detect polarlized light directly, but we can test whether light is polarized by rotating a polarizing filter. If the light is polarized, the brightness will change depending on the angle. In fact, if all of the light is polarized, you will block all of the light if you hold the filter perpendicular to the polarization.  Polarized light can be formed off the reflection of surfaces, but only at certain angles (and the angle depends on the surface). In these situations, polarized filters can be used to block just the light off of that surface without blocking the rest of the light (which is typically unpolarized). This is why polarized sunglasses are able to reduce the glare off of the road and why polarized lenses can be used to reduce the glare off of water.   circularly polarized light  Circularly polarized light creates a spinning pattern, and it can be spinning either clockwise or counter-clockwise. To create circularly polarized light, you start with linearly polarized light and run it through a special filter that allows light to vibrate at two different speeds in two different (perpendicular) directions. But why would you want to convert linearly polarized light to circularly polarized light? Some electronics (TVs, monitors, smart phones) produce linearly polarized light, and research suggests that by adding an extra layer of polarizing filter to convert it to circularly polarized light, that it reduces eye strain.      (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia      "
 },
@@ -1733,7 +1922,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-polarized-light.html#sec-polarized-light-8",
   "type": "Additional Resources",
-  "number": "12.4",
+  "number": "13.4",
   "title": "",
   "body": "    (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia     "
 },
@@ -1742,7 +1931,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-ray-tracing.html",
   "type": "Lab Activity",
-  "number": "12.5.1",
+  "number": "13.5.1",
   "title": "Ray Tracing",
   "body": " Ray Tracing   Introduction  Something with ray-tracing. Maybe sketching forced perspective 3D scenes or something    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1751,7 +1940,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-4",
   "type": "Example",
-  "number": "12.5.1.1",
+  "number": "13.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1760,7 +1949,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-8",
   "type": "Additional Resources",
-  "number": "12.5.1",
+  "number": "13.5.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1769,7 +1958,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-prisms.html",
   "type": "Lab Activity",
-  "number": "12.5.2",
+  "number": "13.5.2",
   "title": "Prisms",
   "body": " Prisms   Introduction  Light bending and color    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1778,7 +1967,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-4",
   "type": "Example",
-  "number": "12.5.2.1",
+  "number": "13.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1787,7 +1976,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-8",
   "type": "Additional Resources",
-  "number": "12.5.2",
+  "number": "13.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1796,7 +1985,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-optical-illusions.html",
   "type": "Lab Activity",
-  "number": "13.1.1",
+  "number": "14.1.1",
   "title": "Optical Illusions",
   "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1805,7 +1994,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-4",
   "type": "Example",
-  "number": "13.1.1.1",
+  "number": "14.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1814,7 +2003,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-8",
   "type": "Additional Resources",
-  "number": "13.1.1",
+  "number": "14.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1823,7 +2012,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-light-and-shadow.html",
   "type": "Lab Activity",
-  "number": "13.1.2",
+  "number": "14.1.2",
   "title": "Light and Shadow",
   "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1832,7 +2021,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
   "type": "Example",
-  "number": "13.1.2.1",
+  "number": "14.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1841,7 +2030,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
   "type": "Additional Resources",
-  "number": "13.1.2",
+  "number": "14.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1850,7 +2039,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-analog-photography.html",
   "type": "Lab Activity",
-  "number": "14.1.1",
+  "number": "15.1.1",
   "title": "Analog Photography",
   "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1859,7 +2048,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-4",
   "type": "Example",
-  "number": "14.1.1.1",
+  "number": "15.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1868,7 +2057,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-8",
   "type": "Additional Resources",
-  "number": "14.1.1",
+  "number": "15.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1877,7 +2066,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-pinhole-camera.html",
   "type": "Lab Activity",
-  "number": "14.1.2",
+  "number": "15.1.2",
   "title": "Pinhole Camera",
   "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1886,7 +2075,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
   "type": "Example",
-  "number": "14.1.2.1",
+  "number": "15.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1895,7 +2084,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
   "type": "Additional Resources",
-  "number": "14.1.2",
+  "number": "15.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1904,7 +2093,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-color.html",
   "type": "Section",
-  "number": "15.1",
+  "number": "16.1",
   "title": "Color",
   "body": " Color     Color is the place where our brain and the universe meet.   Paul Klee     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light called rods, and one for bright light called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, green, and blue.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
 },
@@ -1940,7 +2129,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color.html#sec-color-11",
   "type": "Additional Resources",
-  "number": "15.1",
+  "number": "16.1",
   "title": "",
   "body": "    (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra     "
 },
@@ -1949,7 +2138,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-color-space.html",
   "type": "Section",
-  "number": "15.2",
+  "number": "16.2",
   "title": "Color Space",
   "body": " Color Space     -----   -----   Color space is a topic that students of digital visual media need to understand. But it can often be a difficult topic because there are a lot of pieces that go into it. The goal of this section is to help you understand and interpret what color space is without getting too bogged down in the details.    The Perception of Color  In the previous section, we talked about how different wavelengths of light generate different colors. However, we did not say that every color that we see is the result of a particular wavelength of light. You will not find pink or brown in the rainbow. So where does it come from?   spectrophotometer A device known as a spectrophotometer can be used to measure the amounts of all of the incoming wavelengths of light. These can generate graphs (called the \"spectral power distribution\") that will show peaks around the wavelengths of light that are the most common when viewing an object. While we could say that these graphs can \"define\" colors for us, and this would be a very scientific and concrete way to understand colors, this isn't what actually happens in our heads. Our eyes are simply not as sophisticated, and we aren't able to isolate the exact wavelengths of lights in that way. All we have are our three colors of cones. This means that our understanding of color is going to be much simpler.  The solution our brains have developed is that it invents new colors for us to see when we're seeing mixtures of wavelengths at the same time in the same spot. So if the red and blue cones are being activated in the same spot, our brains create a color that we call magenta to try to tell us that this is a mixture of colors.  An important fact about our color perception is that it depends on the level of activation of the cones, and not the actual wavelengths of light that are hitting them. So we might perceive two colors to be the same even if the spectral power distributions are different.    The In-Between Layer  Imagine that you're watching a sunset. What is the physical process that's happening to allow you to experience it? The sun is generating photons, which are bouncing around all through the atmosphere and off of the ground, the clouds, the trees, and anything else that you see. Those photons then reach your eyes, which causes your brain to generate a picture that you interpret as watching the sunset.  Now imagine that you want to take a picture of this sunset so that you can see it again at some point in the future. This will introduce (at least) two more steps into the process. The first thing you need to do is to try to capture the photons (you do this with your camera), and then you need to find a way to reproduce those photons using a medium of some sort (your cell phone, your computer monitor, or your printer). We are going to focus on digital images because it presents a distinct set of challenges from analog images.  In this in-between layer, we create opportunities for errors to occur. Some of the errors are generated from things like an out-of-focus camera or corrupted data. But even if all of that were perfect, we still have a significant challenge. How do we capture reality and then reproduce it? The concept of color space is specifically focused on trying to figure out how to get colors as \"correct\" as possible.   photosite The challenge is that cameras, like our eyes, are limited in the information they can capture. They aren't capturing all of the information like a photospectrometer would. What is typically happening is that there is a sensor called a photosite which converts photons into voltages, which are converted to digital information. And then that digital information will need to be re-translated back into colors generated by a monitor, which can only generate three distinct colors with different levels of intensity. So the broad spectrum of photons that you started with gets boiled down to essentially three specific wavelengths, which somehow needs to capture our experience of color.    Color Space  Color space is our attempt to take what we can understand about human perception and do what we can to recreate as closely as possible an experience of reality within the limitations of the equipment that we have. The first thing we need to do is to chart our experience of colors. It starts with a graph that looks something like this:    Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition   There are actually lots of graphs that can be generated, and they are all different ways of trying to conceptualize the same thing. The main features of each of these graphs are the following:    The boundary of the shape represents the visible light spectrum. In this specific example, the wavelengths are specifically indicated, but not all graphs will have this feature.    The colors that you see represent colors that are perceived. These colors are based on both theoretical and empirical data.    If we mix two wavelengths of light, we perceive a color that is somewhere on the line connecting them. Exactly where along the line it is depends on the relative intensity of the two wavelengths. In general, the perceived color is the weighted average of the wavelengths.      Gamuts  The purpose of color spaces is that provides us a framework for understanding how colors can be translated through the in-between layer.  On the recording end, we need to be able to understand and interpret the data we are collecting. If we had two color sensors where each one only detected a single wavelength of light, then the only colors that we would be able to record would be on the line connecting the two points on the boundary corresponding to those wavelengths. In other words, the color space that the camera could access is limited, and it will be unable to reproduce colors outside of that range. This example is mostly theoretical because modern technology doesn't have this type of limitation, but it is an important conceptual point to help understand the next part.  On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes, which are used for electronic monitor displays (desktops, phones, tablets). These displays can really only create three distinct colors of light, namely red, green, and blue. But exactly which colors it generates depends on the specifics of how the electronics are set up. You might be familiar with trying to calibrate a monitor by turning the brightness up or down, or adjusting the contrast. Regardless of the specifics, there is a particular color of red, green, and blue that are generated, and those colors are located somewhere on thee color space. Once those three colors are identified, the only colors that can be displayed live inside of the triangle formed by those three points.  The goal is to have the colors collected by the recording end to be perfectly matched up with the colors generaeted on the reproducing end. And the only way this can happen is if there is agreement about what the colors are. And this is where the various standards came from. The following diagram shows three common color spaces:    Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space    gamut The triangles are known as gamuts , and they represent the range of colors that can be represented under the different color concepts, and this is based on the specific red, blue, and green that is used by that gamut. It also shows how using the wrong standard on your display relative to the camera can lead to poor results. For example, if your camera is set to Adobe RGB but your computer is set to interpret the data as sRGB, you will find that your greens are a little more yellow. This is because the camera's concept of green is more green than green of sRGB. And this is why it is important to make sure that you are using the same settings on both sides of the process.       Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
 },
@@ -1976,7 +2165,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-5-3",
   "type": "Figure",
-  "number": "15.2.0.1",
+  "number": "16.2.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition  "
 },
@@ -1985,7 +2174,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-6-6",
   "type": "Figure",
-  "number": "15.2.0.2",
+  "number": "16.2.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space  "
 },
@@ -2003,7 +2192,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-7",
   "type": "Additional Resources",
-  "number": "15.2",
+  "number": "16.2",
   "title": "",
   "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
 },
@@ -2012,7 +2201,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-kelvin-scale.html",
   "type": "Section",
-  "number": "15.3",
+  "number": "16.3",
   "title": "Kelvin Scale",
   "body": " Kelvin Scale     -----   -----     Blackbody Radiation  When we introduced the topic of photons and the electromagnetic spectrum, we stated that every object whose temperature is above zero emits radiation. This phenomenon is known as blackbody radiation . When we look at an object, there are two types of radiation that come from it. The most common type that we see is reflected light. An example of this is that sunlight hits the tree, and the tree reflects some of that light to our eyes so we can see it. But there's another type of radiation that comes from the object itself. The most common example of this that we see is a flame. The flame's light is coming from itself, not a reflection off of something else. Specifically, the light that we see is the blackbody radiation of tiny particles of soot. But what does that mean?  If we were to put a heated particle inside of a perfect vacuum, over time it will slowly release its energy in the form of photons. You can think of this as the sun slowly burning itself out in space. That release of energy in the form of photons that follow a specific mathematical formula that describes the spectral distribution, and the formula only depends on the temperature of the object (which is measured in Kelvin). In other words, you can know the temperature of a blackbody object by looking at what color it is.    The Kelvin Scale of Color  Since we have a mathematical model of the distribution of photons from blackbody radiation, and we have a model for what colors our brains create when we detect a range of photons, it's possible to roll the two concepts together into a graph. This graph shows us the color that we expect to see with our eyes based on the temperature of an object's blackbody radiation.    Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png   Under this framework, lower temperatures tend to be more red and orange, and then the colors work their way up through yellows and whites, and if the temperature keeps rising it starts to tip into the blues. Note that this is the opposite direction of traditional \"color temperatures\" (where blue is cool and red is warm). The difference is mostly historical, as artists were describing colors long before the science of blackbody radiation was developed.  The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.    Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications        (Britannica) Blackbody Radiation      "
 },
@@ -2030,7 +2219,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-3",
   "type": "Figure",
-  "number": "15.3.0.1",
+  "number": "16.3.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png  "
 },
@@ -2039,7 +2228,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-6",
   "type": "Figure",
-  "number": "15.3.0.2",
+  "number": "16.3.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications  "
 },
@@ -2048,7 +2237,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-5",
   "type": "Additional Resources",
-  "number": "15.3",
+  "number": "16.3",
   "title": "",
   "body": "    (Britannica) Blackbody Radiation     "
 },
@@ -2057,7 +2246,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-rgb-cmyk.html",
   "type": "Section",
-  "number": "15.4",
+  "number": "16.4",
   "title": "RGB and CMYK",
   "body": " RGB and CMYK     To attain knowledge, add things every day. To attain wisdom, subtract things every day.   Lao Tzu   Within the media arts, there are two complementary color schemes that have been developed, and these are based on the underlying physics of how those colors are created. If you think about a computer monitor, the default state is black and colors are added in to make the screen brighter. If you think about a sheet of paper, the default state is white and colors are subtracted away to make the paper darker. This basic framework sets us up for understanding of the RGB and CYMK color schemes.    RGB   additive color RGB is the color scheme whose primary colors are red, green, and blue. The reason for this color combination is a matter of our human biology, and not some underlying physical principle. Our eyes simply have receptors that are mostly sensitive to those colors, and so this maximizes our responsiveness to this color scheme. Most importantly, this is an additive color scheme, which means that we are starting from black (no photons) and increasing the number of photons that reach our eyes when we add these colors into the mix.  If you were to take a very close look at your computer monitor or cellphone screen, you would see that each pixel is constructed from three subpixels. Unsurprisingly, the colors of those subpixels are red, green, and blue. The way that colors are produced is that those subpixels display at different levels of intensity. The itensity levels are usually given as a number from 0 to 255, where lower numbers mean lower levels of intensity. (If you have ever seen hex color codes, such as #A72EBD, you have seen this color system. The only difference is that the numbers are being represented in hexadecimal instead of using our usual decimal number system. If this were a math class, we'd talk about how hexadecmial works. But it's not, so we'll just direct you to search for a hexademical to decimal converter online.)   Technicolor The ideas for this system go back to the 1920s when Technicolor developed their three strip system. At that time, film was only able to capture black-and-white. How can you use black-and-white film to capture color? The basic idea was to capture the footage three times, with one film capturing the reds, one film capturing the greens, and one film capturing the blues. Then the three layers can be put back together using red, green, and blue lights to reproduce the original image.    CMYK  CMYK is the color scheme whose primary colors are cyan, magenta, yellow, and black. This is also built around human biology, but moving in the opposite direction as RGB. Instead of starting with black and turning up the colors, this starts with white and removes colors. This is used for pigment-based colors, like paint and ink, where the illumination source is external and the colors that are seen are only from reflected light.   subtractive color The reason a white piece of paper looks white is because it's reflecting red, green, and blue photons back at us. If we add red ink to the paper, the reason that we see red is because the ink is absorbing the green and blue photons, and is only reflecting back the red ones. And this is what is meant by subtractive color . However, when it comes to pigments, thinking in terms of red, green, and blue turns out to be more complicated when you mix them. The underlying reason for this is that generating red means absorbing green and blue, and it makes more sense to have the primary colors absorb single colors rather than pairs of colors.  And this is where we get the cyan, magenta, and yellow base colors. Cyan is the color you get when you absorb only red light. Magenta comes from absorbing green. Yellow is the result of absorbing blue. Then you can mix two of these colors together to get the secondary colors of red, green, and blue. For example, red is a mixture of magenta (which absorbs green) and yellow (which absorbs blue).  The role of black in this system is because there's a gap between theory and practice. In theory, if you mix cyan, magenta, and yellow together, you should get black. However, in practice, the pigments are not perfect. That is, cyan doesn't absorb all of the blue, and so on. This means that mixing the colors together usually results in a brown color. So adding black as a separate color sidesteps the challenge of needing to make perfect cyan, magenta, and yellow colors in order to mix them together to get black.       (The George Eastman Museum) Three-Strip Camera      "
 },
@@ -2084,7 +2273,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rgb-cmyk.html#sec-rgb-cmyk-5",
   "type": "Additional Resources",
-  "number": "15.4",
+  "number": "16.4",
   "title": "",
   "body": "    (The George Eastman Museum) Three-Strip Camera     "
 },
@@ -2093,7 +2282,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-colored-light-shadows.html",
   "type": "Lab Activity",
-  "number": "15.5.1",
+  "number": "16.5.1",
   "title": "Colored Lights and Shadows",
   "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         (color.nerd on TikTok) Color Theory with Shadows      "
 },
@@ -2102,7 +2291,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-8",
   "type": "Additional Resources",
-  "number": "15.5.1",
+  "number": "16.5.1",
   "title": "",
   "body": "    (color.nerd on TikTok) Color Theory with Shadows     "
 },
@@ -2111,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-paint-color-mixing.html",
   "type": "Lab Activity",
-  "number": "15.5.2",
+  "number": "16.5.2",
   "title": "Mixing Paint Colors",
   "body": " Mixing Paint Colors   Introduction  This lab is an exploration of how paint colors mix together to create new colors. We will use a colorimeter to help us objectively measure of how close or far two colors are from each other.    Equipment List    Colored paints (including cyan, magenta, yellow, and black)    Brushes    Paper    Colorimeter capable of producing CYMK values (and its corresponding software)      Procedure      Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2120,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-5",
   "type": "Example",
-  "number": "15.5.2.1",
+  "number": "16.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2129,7 +2318,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-9",
   "type": "Additional Resources",
-  "number": "15.5.2",
+  "number": "16.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2138,7 +2327,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-chladni-plate.html",
   "type": "Lab Activity",
-  "number": "16.1.1",
+  "number": "17.1.1",
   "title": "Chladni Plates",
   "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2147,7 +2336,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-4",
   "type": "Example",
-  "number": "16.1.1.1",
+  "number": "17.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2156,7 +2345,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-8",
   "type": "Additional Resources",
-  "number": "16.1.1",
+  "number": "17.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2165,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "16.1.2",
+  "number": "17.1.2",
   "title": "Oscilloscope",
   "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2174,7 +2363,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-4",
   "type": "Example",
-  "number": "16.1.2.1",
+  "number": "17.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2183,7 +2372,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-8",
   "type": "Additional Resources",
-  "number": "16.1.2",
+  "number": "17.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2192,7 +2381,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-resonance.html",
   "type": "Chapter",
-  "number": "17",
+  "number": "18",
   "title": "Resonance",
   "body": " Resonance     Students will be able to...      Text before the first section.      "
 },
@@ -2201,7 +2390,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-resonance.html#ch-resonance-2",
   "type": "Learning Objectives",
-  "number": "17",
+  "number": "18",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2210,7 +2399,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-music.html",
   "type": "Chapter",
-  "number": "18",
+  "number": "19",
   "title": "Music",
   "body": " Music     Students will be able to...      Text before the first section.      "
 },
@@ -2219,7 +2408,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-music.html#ch-music-2",
   "type": "Learning Objectives",
-  "number": "18",
+  "number": "19",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2228,7 +2417,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-electronics.html",
   "type": "Chapter",
-  "number": "19",
+  "number": "20",
   "title": "Basic Electronics",
   "body": " Basic Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2237,7 +2426,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-electronics.html#ch-electronics-2",
   "type": "Learning Objectives",
-  "number": "19",
+  "number": "20",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2246,7 +2435,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-practical.html",
   "type": "Chapter",
-  "number": "20",
+  "number": "21",
   "title": "Practical Electronics",
   "body": " Practical Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2255,7 +2444,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-practical.html#ch-practical-2",
   "type": "Learning Objectives",
-  "number": "20",
+  "number": "21",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2264,7 +2453,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-hacking.html",
   "type": "Chapter",
-  "number": "21",
+  "number": "22",
   "title": "Hacking Electronics",
   "body": " Hacking Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2273,7 +2462,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-hacking.html#ch-hacking-2",
   "type": "Learning Objectives",
-  "number": "21",
+  "number": "22",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2282,7 +2471,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-building.html",
   "type": "Chapter",
-  "number": "22",
+  "number": "23",
   "title": "Building Electronics",
   "body": " Building Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2291,7 +2480,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-building.html#ch-building-2",
   "type": "Learning Objectives",
-  "number": "22",
+  "number": "23",
   "title": "",
   "body": "   Students will be able to...    "
 },
