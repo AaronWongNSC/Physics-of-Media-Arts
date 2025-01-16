@@ -61,6 +61,18 @@
       </statement>
     </definition>
 
+    <p>
+      The assumption of the work-energy theorem is that all of the energy went into changing the kinetic energy of the object. This theorem
+      is particularly useful for solving problems where the net work is challenging to calculate directly, which is actually a very broad range
+      of interactions.
+    </p>
+    <p>
+      A basic example of this is determining the work done by a golf club striking a golf ball. Let's say that, after being struck by the club, the ball
+      has a speed of 40 meters per second. If we wanted to calculate the work done by the club directly, we would have to come up with some sort of model
+      of how the club and ball interact. It would need to involve details such as how fast the club head was moving, how long the club and ball were in
+      contact with each other. Instead, we can just look at the the initial and final states, and skip over all of the details of the interaction.
+    </p>
+
   </paragraphs>
 
 </section>
