@@ -1,0 +1,306 @@
+<subsection xml:id="lab-gravity-launcher" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Gravity-Powered Projectile Launcher</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      For this lab, you are going to make a gravity-powered projectile launcher in order to study energy conservation and projectile motion.
+      This lab will be a combination of practical construction and theoretical calculation.
+    </p>
+    <p>
+      To use the launcher, place the marble inside of the elbow of the swinging arm and raise the arm at an angle. Note that you will have to use your fingers to keep
+      the marble in place as you do this. When you release the arm, the marble should stay in the elbow until the arm hits the stopper, at which point the marble should
+      launch forward and fall to the ground.
+    </p>
+    <p>
+      We will be manipulating two primary variables for this lab: launcher height and marble height. The launcher height is measured from the ground to the bottom of the
+      piece of wood, which is also the same as the top of the table it is placed on. The marble height is how far above the table the marble is when it is let go. Measuring
+      this value will require practice, as the marble is not always visible (and making it visible can lead to inconsistent results). This is where the practice will come in.
+      (A third variable that will be manipulated is the direction that the launcher is facing, but we won't be trying to control for this.)
+    </p>
+    <p>
+      The outcome variable will be the horizontal distance from the front edge of the wood to the place where the marble first hits the ground. It is convenient to align the
+      edge of the wood with the edge of the table to make this a little easier to measure. You can use some string and a weight if you wanted to be very precise about
+      transferring the edge of the table to the floor. You might even mark it with a piece of tape to make it eaiser.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          Meter stick
+        </p>
+      </li>
+      <li>
+        <p>
+          Calculator
+        </p>
+      </li>
+      <li>
+        <p>
+          Marble
+        </p>
+      </li>
+      <li>
+        <p>
+          1 meter of 1/2" PVC
+        </p>
+      </li>
+      <li>
+        <p>
+          3 90-degree 1/2" PVC elbows
+        </p>
+      </li>
+      <li>
+        <p>
+          PVC Cutter
+        </p>
+      </li>
+      <li>
+        <p>
+          Hot glue gun (or a drill and screws)
+        </p>
+      </li>
+      <li>
+        <p>
+          30 cm piece 2x4 (or other scrap wood)
+        </p>
+      </li>
+      <li>
+        <p>
+          Table and chair to launch from
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+      There are two parts to the procedure. The first part is to build the gravity launcher. The second part is to learn how to use it.
+    </p>
+
+    <ol>
+      <li>
+        <p>
+          Mark and cut your 1-meter PVC into the following lengths: 29 cm, 29 cm, 25 cm, 7 cm, and the remainder. The remainder is theoretically 10 cm in length, but this
+          one is the least relevant length. The launcher will be workable with a piece as short as 8 cm, though you should have one that is at least 9 cm.
+        </p>
+      </li>
+      <li>
+        <p>
+          Dry fit the launcher according the schematic that has been provided. When you're finished, the arm should swing freely until it hits the stopper, and the stopper
+          cause the arm to stop in the vertical position (hitting the "inner elbow").
+        </p>
+      </li>
+      <li>
+        <p>
+          Once you are satisfied the construction of the launcher, glue at the indicated locations.
+        </p>
+      </li>
+      <li>
+        <p>
+          Measure the following distances. Note that these are going to be adjusting factors to help align the measured results with theoretical results, so it is important
+          to be as accurate as possible.
+          <ul>
+            <li>
+              <p>
+                The distance from the front edge of the wood to the middle of the vertical pieces.
+              </p>
+            </li>
+            <li>
+              <p>
+                The distance from the bottom of the wood to the height of the marble if the marble is at rest in launcher and the launcher is vertical.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Measure the height of the chair. (Measure to the surface on which the launcher will be placed.) Then place your launcher on the table.
+        </p>
+      </li>
+      <li>
+        <p>
+          Raise the arm until the marble height is 10 cm. Then release and measure the launch distance. Do this until you start to get a consistent result. Then
+          repeat this at a height of 20 cm. (This step is just getting a feel for the launcher before we begin to systematically collect data.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Collect data for the launch distance for the following marble heights: 5 cm, 10 cm, 15 cm, 20 cm, 25 cm, 30 cm. For each launch height, take 5 measurements and
+          then compute the average. (Note: If you are using a 2x4)
+        </p>
+      </li>
+      <li>
+        <p>
+          Repeat the measurements, but this time using the table instead of the chair.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Launch distance</title>
+      <tabular>
+        <row>
+          <cell> Arm Height </cell> <cell> 5 cm </cell> <cell> 10 cm </cell> <cell> 15 cm </cell> <cell> 20 cm </cell> <cell> 25 cm </cell> <cell> 30 cm </cell>
+        </row>
+        <row>
+          <cell>Launch #1</cell>
+        </row>
+        <row>
+          <cell>Launch #2</cell>
+        </row>
+        <row>
+          <cell>Launch #3</cell>
+        </row>
+        <row>
+          <cell>Launch #4</cell>
+        </row>
+        <row>
+          <cell>Launch #5</cell>
+        </row>
+        <row>
+          <cell>Average</cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <ol>
+      <li>
+        <p>
+          The gravity launcher converts gravitational potential energy to kinetic energy. Explain why it should be the change in potential energy from the start and end
+          of the launch should be equal to the kinetic energy of the marble.
+        </p>
+      </li>
+      <li>
+        <p>
+          From the previous question, it should be the case that <m>mg \ell = \frac{1}{2} mv^2</m>, where <m>m</m> is the mass of the marble, <m>g</m> is the gravitational
+          acceleration, <m>\ell</m> is the change in height of the marble between the start and end of the launch, and <m>v</m> is the velocity of the marble at the moment
+          of launch. If we solve for <m>v</m> from this equation, we get <m>v = \sqrt{2g\ell}</m>. Notice that there is no <m>m</m> in this formula. What does this mean?
+        </p>
+      </li>
+      <li>
+        <p>
+          We saw from the formulas for projectile motion that an object launched horizontally from a height <m>h</m> will hit the ground at time <m>t = \sqrt{\frac{2h}{g}}</m>.
+          We also know that the horizontal speed will be constant throughout (ignoring gravity), so we can use the value of <m>v</m> from the previous problem. The horizontal
+          distance traveled before it hits the ground is <m>d = vt = \sqrt{2g\ell} \cdot \sqrt{\frac{2h}{g}} = 2 \sqrt{h \ell}</m>. Notice that there is no <m>g</m> in this
+          formula. What does this mean? (Hint: What if you did this experiment on the moon?)
+        </p>
+      </li>
+      <li>
+        <p>
+          Using the marble heights and chair/table heights, calculate the theoretical distances that the marble should travel and compare that with the averages you obtained.
+          They should not match up well. Explain why this is the case. (Hint: These errors would exist without human error. There is something systematically wrong.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the adjusting values you obtained after building your launcher to correct the values of <m>\ell</m> and <m>h</m>, then try the formula again. How close are the
+          values now?
+        </p>
+      </li>
+      <li>
+        <p>
+          What other possible sources of error are there in the launcher?
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework
+      that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you're able to make it all come together in the end.
+      Theoretically, you should be able to place a container on the floor and consistent make the marble land in it with a device like this.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the process of building the launcher and collecting the data. Were there any particular challenges?
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Present your charts of data, including both the individual and average results.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <!--
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.pbs.org/newshour/science/apollo-landing-footage-would-have-been-impossible-to-fake-a-film-expert-explains-why">
+            (PBS News) Apollo Landing Footage Would Have Been Impossible to Fake. A Film Expert Explains Why.
+          </url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+  -->
+
+</subsection>

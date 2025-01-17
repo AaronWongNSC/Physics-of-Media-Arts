@@ -3,7 +3,6 @@
 <section xml:id="sec-energy-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Energy</title>
 
-  <!--
-  <xi:include href="./p1-ch5-sL-1-egg-catch.ptx" />
-  -->
+  <xi:include href="./p1-ch4-sL-1-gravity-launcher.ptx" />
+
 </section>
