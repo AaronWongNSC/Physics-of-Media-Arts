@@ -3,16 +3,77 @@
 <section xml:id="sec-center-of-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Center of Mass</title>
   
-  <blockquote>
-    <p>
-      <q>-----</q>
-    </p>
-    <attribution>------</attribution>
-  </blockquote>
+  <introduction>
+    <blockquote>
+      <p>
+        <q>-----</q>
+      </p>
+      <attribution>------</attribution>
+    </blockquote>
 
-  <p>
-    ...
-  </p>
+    <p>
+      ...
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Center of Mass</title>
+    
+    <p>
+      <idx><h>center of mass</h></idx>
+      This entire discussion of momentum so far has side-stepped a very important concept known as the <term>center of mass</term> of the object (or system of objects). The
+      center of mass has a particular formula for how to calculate it, but the basic idea is that it's the balance point of the object.
+    </p>
+    <p>
+      We have implicitly been treating the objects as individual points with no dimension, but real objects are not like that. They are composed of many different parts that
+      are connected to each other, all the way down to the level of individual atoms. And when two objects collide, different parts of the object experience that collision
+      differently. This can lead to very complicated physics models and equations. 
+    </p>
+    <p>
+      There is some good news. All of the physics we've done so far is completely valid for modeling the behavior of the center of mass of an object. That is, if we look at
+      our equations  and only focus on the center of mass, everything we have done will be completely correct. So we have the correct analysis for the general behavior of objects.
+    </p>
+    <p>
+      But there is also some bad news. The dynamics we've been talking about do not take into account some of the more intricate behaviors of the constituent pieces. A basic
+      example would a bolo ball (which is a piece of string with a ball tied to each end). If you were to throw a bolo ball, the center of mass would follow a nice parabolic
+      trajectory, but the two balls might be spinning all over the place. The work that we've done is not enough to account for the individual behavior of the two balls. We can
+      only work with the center of mass.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>The Reference Frame of the Center of Mass</title>
+    
+    <p>
+      We have noted several times that the exact equations that you end up with when working with a physics problem will depend on the point of view that is being taken.
+      It turns out that many problems can be simplified by viewing it from the perspective of the center of mass. The reason this is helpful is because from this point of view
+      the total momentum of the system is zero. And since momentum is conserved, we can know that the final momentum is going to be zero as well.
+    </p>
+    <p>
+      Let's look back at collision where the two objects stick together. If we are trying to think about this from the point of view of the center of mass, then in the final
+      result, we would just have the combined mass with no velocity. If we were to now work backwards, we would see that before the collision the two masses are headed towards
+      each other, and those velocities are the only variables. In other words, we've reduced the problem to just two variables instead of three. This sort of trick is even more
+      helpful for the two-dimensional collisions whose details we completely skipped. 
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Explosions and Center of Mass</title>
+    
+    <p>
+      In some physics problems, you end up with more pieces than you started with. These are typically caused by explosions, and we'll focus on just that case.
+    </p>
+    <p>
+      Suppose that we have a ball that contains a small explosive. We throw the ball and the explosive is detonated, which breaks the ball into many pieces. What can we know
+      about the locations of the pieces when they hit the ground? This is an extremely complicated problem, as the explosion may cause pieces to fly in all directions, and
+      each piece may end up having a different mass.
+    </p>
+    <p>
+      However, the physics of the center of mass does give us some information about the situation. Even though the ball exploded, the center of mass will continue to follow
+      the equations of projectile motion. This means that if you were to look at the locations where each piece of the ball hit the ground and compute the center of mass,
+      that location would be the place where the ball would have landed if it didn't explode.
+    </p>
+  </paragraphs>
+
 </section>
 
 <!-- Additional Resources:

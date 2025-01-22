@@ -1,0 +1,232 @@
+<subsection xml:id="lab-popper-toy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Popper Toy</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      Although it is a simple toy, the popper toy is complicated enough to have some interesting physics. 
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          Popper Toy
+        </p>
+      </li>
+      <li>
+        <p>
+          Marble
+        </p>
+      </li>
+      <li>
+        <p>
+          Meter Stick
+        </p>
+      </li>
+      <li>
+        <p>
+          Cell phone with slow-motion video recording capability
+        </p>
+      </li>
+      <li>
+        <p>
+          Scale
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+      Our goal is to try to measure as much information about the physics of the popper toy as possible, and then we'll put a marble in the popper toy and
+      see whether we can make sense of the dynamics when using the popper toy as a launcher.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Weigh the popper toy and marble in grams. (Note: These grams are a unit of force and not mass! We'll deal with that later.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Record the popper toy up-close in slow motion and launch it several times. Determine the time it takes for the popper to invert (after it starts moving).
+        </p>
+      </li>
+      <li>
+        <p>
+          Record the popper toy up-close next to a meter stick and launch it several times. Determine the initial velocity of the popper when it leaves the surface. The toy
+          is not completely consistent, so you will end up with a variety of values. The goal is to get three good measurements.
+        </p>
+      </li>
+      <li>
+        <p>
+          Record the popper toy at a larger distance and launch it several times. Estimate the maximum height that the popper attains. (Try to get the measurement on 
+          "mostly vertical" launches.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Record the popper toy with a marble in it up-close in slow motion and launch it several times. Determine the time it takes for the popper to invert (after
+          it starts moving).
+        </p>
+      </li>
+      <li>
+        <p>
+          Place the marble in the popper toy and record it up-close next to a meter stick. Determine the initial velocity of the marble.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Popper</title>
+      <tabular>
+        <row>
+          <cell> </cell> <cell> Measurement #1 </cell> <cell> Measurement #2 </cell> <cell> Measurement #3 </cell> <cell> Average </cell>
+        </row>
+        <row>
+          <cell>Popper Initial Velocity</cell>
+        </row>
+        <row>
+          <cell>Popper Maximum Height</cell>
+        </row>
+        <row>
+          <cell>Marble Initial Velocity</cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <p>
+      We are going to study the dynamics of the popper toy.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Use the fact that <m>F = ma</m> to determine the mass of the popper toy and marble. (Note: You will need to convert grams-force to kilograms-force and use the
+          correct value of <m>a</m> to get the mass.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Using the launch speed of the popper and its mass, determine its initial momentum.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use <m>\Delta p = F \Delta t</m> to determine the average force that the popper exerts on the surface when it is popping.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the equations for projectile motion to calculate the expected height of the popper given its initial speed. How does this compare to what you measured?
+        </p>
+      </li>
+      <li>
+        <p>
+          Using the launch speed of the marble and its mass, determine its initial momentum.
+        </p>
+      </li>
+      <li>
+        <p>
+          Compare this result to the initial momentum of the popper on its own. What conclusions can you draw from these results?
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the equations for projectile motion to calculate the expected height of the marble given its initial speed. How does this compare to what you measured?
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      This lab was a simple exercise in doing some measurements and calculations involving momentum.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the process of collecting the data. Were there any particular challenges?
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Present your charts of data, including both the individual and average results.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. This set of discussion questions is more computational than most. Be sure that you state the original question and organize
+          your calculations in a way that is easy to follow. 
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

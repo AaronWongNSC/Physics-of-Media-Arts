@@ -22,7 +22,8 @@
       has been converted into another form that cannot be accounted for in the motion of the particles.
     </p>
     <p>
-      Since we have not yet had a discussion about energy, we're not going to worry about calculating 
+      The algebra of these calculations can get a little bit difficult, and it's easy to get lost in the details. So we're going to focus on setting up the equations and
+      laying out the trajectory of the algebra, but we won't get bogged down in those details.
     </p>
     
   </introduction>
@@ -52,39 +53,54 @@
       the result would be that the combined object is moving close to the initial speed of the mass. If <m>m_1</m> is small compared to <m>m_2</m>, then the combined object
       will be moving very slowly. Both of these scenarios should feel fairly intuitive.
     </p>
+    <p>
+      Note that the kinetic energy after the collision is
+      <md>
+        <mrow>KE \amp = \frac{1}{2} (m_1 + m_2) (v_\text{f})^2</mrow>
+        <mrow>\amp = \frac{1}{2} (m_1 + m_2) \left( \frac{m_1}{m_1 + m_2} v_1 \right)^2</mrow>
+        <mrow>\amp = \frac{m_1}{m_1 + m_2} \cdot \frac{1}{2} m_1 v_1^2.</mrow>
+      </md>
+      In other words, we can directly calculate the proportion of the energy that is lost in the interaction based on the masses, even though we have no information about
+      the interaction. This means that the collision is inelastic.
+    </p>
   </paragraphs>
 
   <paragraphs>
-    <title>A Moving Mass Bounces Off of a Stationary Mass</title>
+    <title>A Moving Mass Bounces off of a Stationary Mass Elastically</title>
     
     <p>
       We will now consider the scenario with the same initial condition, but a different outcome. The mass <m>m_1</m> travels with velocity <m>v_1 \gt 0</m> and collides
-      with another mass <m>m_2</m>, which is at rest. This time, we will assume that they remain two separate entities after the collision. In every case, the mass
-      <m>m_2</m> will be in motion with velocity <m>v_2' \gt 0</m>. However, there are three different scenarios for the mass <m>m_1</m>, which will have velocity <m>v_1'</m>.
-    </p>
-    <ul>
-      <li>
-        <p>
-          Mass <m>m_1</m> is stationary, so that <m>v_1' = 0</m>.
-        </p>
-      </li>
-      <li>
-        <p>
-          Mass <m>m_1</m> is moving in the same direction that it started, so that <m> v_1' \gt 0</m>.
-        </p>
-      </li>
-      <li>
-        <p>
-          Mass <m>m_1</m> is moving in the opposite direction that it started, so that <m> v_1' \lt 0</m>.
-        </p>
-      </li>
-    </ul>
-    <p>
-      We will need to look at each case separately. In every situation, the intial momentum is <m>m_1 v_1</m>.
+      with another mass <m>m_2</m>, which is at rest. This time, we will assume that they remain two separate entities after the collision and that the collision is purely
+      elastic, meaning that no energy is lost. We will assume that the final state has mass <m>m_1</m> traveling with velocity <m>v_1'</m> (which may be positive or negative)
+      and mass <m>m_2</m> traveling with velocity <m>v_2'</m> (which will always be positive).
     </p>
     <p>
-      If <m>m_1</m> is stationary, then all of the momentum has transferred from the first mass to the second mass. In this case, the final momentum is <m>m_2 v_2'</m>,
-      which leads to a final velocity of <m>v_2' = \frac{m_1}{m_2} v_1</m>.
+      Conservation of momentum leads to the equation
+      <me>m_1 v_1 = m_1 v_1' + m_2 v_2'.</me>
+      Conservation of energy leads to the equation
+      <me>\frac{1}{2} m_1 v_1^2 = \frac{1}{2} m_1 (v_1')^2 + \frac{1}{2} m_2 (v_2')^2.</me>
+      There is a bit of algebra to do here. It's not particularly difficult, but there are just a lot of steps. In the end, you get the following results:
+      <md>
+        <mrow>v_1' \amp = \frac{m_1 - m_2}{m_1 + m_2} v_1 </mrow>
+        <mrow>v_2' \amp = \frac{2m_1}{m_1 + m_2} v_1 </mrow>
+      </md>
+      Notice that the direction of the mass <m>m_1</m> depends on whether it has more or less mass than mass <m>m_2</m>. If the mass is smaller, it bounces back, and if
+      the mass is larger, then it continues forward. And if the masses are identical, then the mass comes to a stop.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Two-Dimensional Collisions</title>
+    
+    <p>
+      We can use the same techniques to solve for collisions in two dimensions. This would be the classic setup for billiard balls, where instead of hitting the ball
+      straight-on, it is hit to one side or the other. This requires us to introduce two more variables <m>\theta_1</m> and <m>\theta_2</m>, which represent the angles at
+      which the balls leaves the collision relative to the initial velocity. Solving these equations requires a bit of trigonometry and a lot of algebra, so we're going to
+      skip all of the details.
+    </p>
+    <p>
+      The important fact when thinking about this problem is that momentum is conserved in all directions. If we have the initial particle traveling in the x-direction,
+      then the momentum in the y-direction after the collision will be zero.
     </p>
   </paragraphs>
 </section>
