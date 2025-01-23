@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-what-machines" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Classical Simple Machines</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      In this section, we are going to explore the classical simple machines. For our purposes here we will say that a <term>simple machine</term> is a mechanical device that
+      changes the direction or magnitude of a force. There are six machines that are considered to be the classical simple machines: the lever, the wheel and axle, the pulley,
+      the inclined plane, the wedge, and the screw. Each will have its own section.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Mechanical Advantage</title>
+
+    <p>
+      <idx><h>mechanical advantage</h></idx>
+
+      The mechanical advantage of a machine is how much the machine multiplies the input force. For example, if a force of 10 N into a machine results in an output
+      force of 20 N, the mechanical advantage of 2:1. It is possible for machines to have very large mechanical advantages. For example, a car jack takes forces
+      generate by human arms to lift a vehicle that weighs thousands of pounds.
+    </p>
+    <p>
+      The tradeoff of mechanical advantage is usually a tradoff between force and distance. For example, if you are using a pulley system that gives you a 10:1 mechanical
+      advantage, it might be that you are getting 10 times the force in the output, but it's only going to move 1/10 of the distance. 
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

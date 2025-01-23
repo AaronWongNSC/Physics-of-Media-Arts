@@ -34,9 +34,9 @@
     <part xml:id="part-name-tbd">
       <title>Something Cool</title>
 
-      <xi:include href="./p2-ch1-s0-rigid-structures.ptx" />
-      <xi:include href="./p2-ch2-s0-tension.ptx" />
-      <xi:include href="./p2-ch3-s0-simple-machines.ptx" />
+      <xi:include href="./p2-ch1-s0-simple-machines.ptx" />
+      <xi:include href="./p2-ch2-s0-rigid-structures.ptx" />
+      <xi:include href="./p2-ch3-s0-tension.ptx" />
       <xi:include href="./p2-ch4-s0-pressure.ptx" />
     </part>
 

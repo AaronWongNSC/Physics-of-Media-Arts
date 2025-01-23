@@ -18,7 +18,10 @@
   </introduction>
 
   <!-- include sections -->
+
+  <xi:include href="p2-ch1-s1-what-machines.ptx" />
+
   <!-- <xi:include href="sec-section-name.ptx" /> -->
-  <xi:include href="p2-ch3-sL-0-simple-machines-labs.ptx" />
+  <xi:include href="p2-ch1-sL-0-simple-machines-labs.ptx" />
 
 </chapter>
