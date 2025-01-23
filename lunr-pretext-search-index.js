@@ -1639,92 +1639,29 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "lab-equal-opposite",
+  "id": "sec-what-machines",
   "level": "1",
-  "url": "lab-equal-opposite.html",
-  "type": "Lab Activity",
-  "number": "9.1.1",
-  "title": "Equal and Opposite Reaction",
-  "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "url": "sec-what-machines.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "The Classical Simple Machines",
+  "body": " The Classical Simple Machines     .....   .....   In this section, we are going to explore the classical simple machines. For our purposes here we will say that a simple machine is a mechanical device that changes the direction or magnitude of a force. There are six machines that are considered to be the classical simple machines: the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw. Each will have its own section.    Mechanical Advantage   mechanical advantage The mechanical advantage of a machine is how much the machine multiplies the input force. For example, if a force of 10 N into a machine results in an output force of 20 N, the mechanical advantage of 2:1. It is possible for machines to have very large mechanical advantages. For example, a car jack takes forces generate by human arms to lift a vehicle that weighs thousands of pounds.  The tradeoff of mechanical advantage is usually a tradoff between force and distance. For example, if you are using a pulley system that gives you a 10:1 mechanical advantage, it might be that you are getting 10 times the force in the output, but it's only going to move 1\/10 of the distance.   "
 },
 {
-  "id": "lab-equal-opposite-4",
+  "id": "sec-what-machines-2-2",
   "level": "2",
-  "url": "lab-equal-opposite.html#lab-equal-opposite-4",
-  "type": "Example",
-  "number": "9.1.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-equal-opposite-8",
-  "level": "2",
-  "url": "lab-equal-opposite.html#lab-equal-opposite-8",
-  "type": "Additional Resources",
-  "number": "9.1.1",
+  "url": "sec-what-machines.html#sec-what-machines-2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-center-of-mass",
-  "level": "1",
-  "url": "lab-center-of-mass.html",
-  "type": "Lab Activity",
-  "number": "9.1.2",
-  "title": "Center of Mass and Balance",
-  "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-center-of-mass-4",
-  "level": "2",
-  "url": "lab-center-of-mass.html#lab-center-of-mass-4",
-  "type": "Example",
-  "number": "9.1.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-center-of-mass-8",
-  "level": "2",
-  "url": "lab-center-of-mass.html#lab-center-of-mass-8",
-  "type": "Additional Resources",
-  "number": "9.1.2",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-tensegrity-structure",
-  "level": "1",
-  "url": "lab-tensegrity-structure.html",
-  "type": "Lab Activity",
-  "number": "10.1.1",
-  "title": "Tensegrity Structures",
-  "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-tensegrity-structure-4",
-  "level": "2",
-  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
-  "type": "Example",
-  "number": "10.1.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-tensegrity-structure-8",
-  "level": "2",
-  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
-  "type": "Additional Resources",
-  "number": "10.1.1",
-  "title": "",
-  "body": "    Google     "
+  "body": "simple machine "
 },
 {
   "id": "lab-pulley",
   "level": "1",
   "url": "lab-pulley.html",
   "type": "Lab Activity",
-  "number": "11.1.1",
+  "number": "9.2.1",
   "title": "Pulleys",
   "body": " Pulleys   Introduction  Pulleys help in difefrent ways.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1733,7 +1670,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-4",
   "type": "Example",
-  "number": "11.1.1.1",
+  "number": "9.2.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1741,6 +1678,87 @@ var ptx_lunr_docs = [
   "id": "lab-pulley-8",
   "level": "2",
   "url": "lab-pulley.html#lab-pulley-8",
+  "type": "Additional Resources",
+  "number": "9.2.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-equal-opposite",
+  "level": "1",
+  "url": "lab-equal-opposite.html",
+  "type": "Lab Activity",
+  "number": "10.1.1",
+  "title": "Equal and Opposite Reaction",
+  "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-equal-opposite-4",
+  "level": "2",
+  "url": "lab-equal-opposite.html#lab-equal-opposite-4",
+  "type": "Example",
+  "number": "10.1.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-equal-opposite-8",
+  "level": "2",
+  "url": "lab-equal-opposite.html#lab-equal-opposite-8",
+  "type": "Additional Resources",
+  "number": "10.1.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-center-of-mass",
+  "level": "1",
+  "url": "lab-center-of-mass.html",
+  "type": "Lab Activity",
+  "number": "10.1.2",
+  "title": "Center of Mass and Balance",
+  "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-center-of-mass-4",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-4",
+  "type": "Example",
+  "number": "10.1.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-center-of-mass-8",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-8",
+  "type": "Additional Resources",
+  "number": "10.1.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-tensegrity-structure",
+  "level": "1",
+  "url": "lab-tensegrity-structure.html",
+  "type": "Lab Activity",
+  "number": "11.1.1",
+  "title": "Tensegrity Structures",
+  "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-tensegrity-structure-4",
+  "level": "2",
+  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
+  "type": "Example",
+  "number": "11.1.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-tensegrity-structure-8",
+  "level": "2",
+  "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
   "type": "Additional Resources",
   "number": "11.1.1",
   "title": "",
