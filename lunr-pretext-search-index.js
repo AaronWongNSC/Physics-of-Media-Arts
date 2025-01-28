@@ -1645,7 +1645,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.1",
   "title": "The Classical Simple Machines",
-  "body": " The Classical Simple Machines     .....   .....   In this section, we are going to explore the classical simple machines. For our purposes here we will say that a simple machine is a mechanical device that changes the direction or magnitude of a force. There are six machines that are considered to be the classical simple machines: the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw. Each will have its own section.    Mechanical Advantage   mechanical advantage The mechanical advantage of a machine is how much the machine multiplies the input force. For example, if a force of 10 N into a machine results in an output force of 20 N, the mechanical advantage of 2:1. It is possible for machines to have very large mechanical advantages. For example, a car jack takes forces generate by human arms to lift a vehicle that weighs thousands of pounds.  The tradeoff of mechanical advantage is usually a tradoff between force and distance. For example, if you are using a pulley system that gives you a 10:1 mechanical advantage, it might be that you are getting 10 times the force in the output, but it's only going to move 1\/10 of the distance.   "
+  "body": " The Classical Simple Machines     .....   .....   In this section, we are going to explore the classical simple machines. For our purposes here we will say that a simple machine is a mechanical device that changes the direction or magnitude of a force. There are six machines that are considered to be the classical simple machines: the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw. Each will have its own section.    Mechanical Advantage   mechanical advantage The mechanical advantage of a machine is how much the machine multiplies the input force. For example, if a force of 10 N into a machine results in an output force of 20 N, the mechanical advantage of 2:1. It is possible for machines to have very large mechanical advantages. For example, a car jack takes forces generate by human arms to lift a vehicle that weighs thousands of pounds.  The tradeoff of mechanical advantage is usually a tradoff between force and distance. For example, if you are using a pulley system that gives you a 10:1 mechanical advantage, it might be that you are getting 10 times the force in the output, but it's only going to move 1\/10 of the distance.    Not Technically A Simple Machine  Sometimes, people like to include gears as a simple machine. This is typically frowned upon because a gear on its own is not able to accomplish the multiplication of force that defines the simple machines. It requires a system of gears to do that. But a system of gears can be broken down into multiple wheel and axles with levers or pulleys, depending on whether the gears are meshed together directly or linked together by chains.  But, in my mind, this isn't a fight worth having. The reason I want to stick to the classical simple machines is that the topic of gears is quite expansive, and there are a lot of different ideas that can be explored. And that's just too much for the time and space that we have for this topic.   "
 },
 {
   "id": "sec-what-machines-2-2",
@@ -1657,38 +1657,200 @@ var ptx_lunr_docs = [
   "body": "simple machine "
 },
 {
+  "id": "sec-lever",
+  "level": "1",
+  "url": "sec-lever.html",
+  "type": "Section",
+  "number": "9.2",
+  "title": "The Lever",
+  "body": " The Lever     Give me a place to stand and I will move the earth!   Archimedes   The first of the simple machines that we're going to study is the lever. This has the ability to multiply and redirect an input force. The input force is often called the \"effort\" and the object that is being moved is often called the \"load\". The \"output force\" is the force that is being used to counter the load.    The Lever   fulcrum The lever consists of a solid beam and a pivot point (called the fulcrum ). Here is the formula for the mechanical advantage: In other words, if the force is applied 2 meters from the fulcrum and the output force is 1 meter from the fulcrum, the lever creates a mechanical advantage of 2 (meaning that the output force is 2 times as large as the input force). Notice that if you think about the distances involved, the output force can only move half of the distance that the input force moves. This is an example of the tradeoff that you get with mechanical advantages.   torque The underlying physical mechanism for the lever is known as torque . Torque is a twisting or rotational force and is the result of applying a force a distance from a pivot point. In simple cases, it is calculated as the product of the force and the distance from the pivot, which is known as the lever arm (the distance from the pivot and the point where the force is applied).    Classes of Levers  Levers come in three types, depending on the relative locations of the fulcrum, the effort, and the load.   first class lever If the effort is on the opposite side of the fulcrum as the load, then it is a first class lever . This is the classic type of seesaw pattern that most people think of when it comes to levers. Whether there is a mechanical advantage in this case will depend on the distances between the fulcrum and the load or the effort.   second class lever If the load is between the fulcrum and the effort, then it is a second class lever . An example of this type of lever is a wheelbarrow. In that case, the fulcrum is the part that attaches to the wheel, the load is the barrel, and then you lift the handles that stick beyond the barrel. In this case, there will always be a mechanical advantage because the distance from the fulcrum to the effort will always be larger than the distance from the fulcrum to the load.   third class lever If the effort is between the fulcrum and the load, then it is a third class lever . An example of this type of lever is a broom. The fulcrum is the tip of the handle, the effort is where you push the broom handle to sweep, and the load (the stuff being swept) is all the way at the head of the broom. The benefit of this type of lever is that you are multiplying distance rather than multiplying force. Since the objects being swept are light, the force that your body can generate is much greater than necessary to move them. The broom allows you to move your hands a couple dozen centimeteres but move dirt and dust on the floor more than a meter.    Compound Levers   compound levers It is possible to get even greater multiplication of forces by using compound levers . A compound lever is when a lever is being used against another lever.  An example of a compound lever is a tortilla press. The top plate is on a hingle, which creates the first lever. The tortilla is between the hinge and the edge of the plate where the pressure will be placed, making it a second class lever. We can imagine that the tortilla dough is halfway between the hinge and the handle, resulting in a mechanical advantage of 2 (though people usually place it closer to the hinge, which makes sense from a mechanical advantage perspective). Then the handle is pressed down on the edge of the top plate, creating the second lever. This is also a second class lever because the hinge is on the outside of the plate. Typically, the place where the handle presses on the top plate is just a couple centimeters, but the handle is often 30 cm or more. This means that the mechanical advantage here is 15. But because this is being applied to a lever that also multiplies force, the total multiplication of force is 30.    Applications  The basic application of levers is to require less force to get things done. A long metal pipe turns out to be an incredibly useful tool if you are working in any sort of shop where you might need to use wrenches. By putting the metal pipe over the end of any wrench, you can greatly multiply the force that you can apply with the wrench. This is also advice I've heard for people who may be driving out in less populated areas and may need to change their own tire. Sometimes, cars come with really small tire irons that just aren't big enough to knock loose the lug nuts. But if you have a 3 foot long metal pipe to slide over the end of it, you won't have any problems with that.    The Chair Challenge   The Chair Challenge was a physics activity that went viral several years ago.    Instructions  Get a chair (or an object of a similar size and weight). Stand with one heel against the wall and measure out two foot-lengths (not two feet, two lengths of your foot) from the wall. Turn around and place the chair between you and the Bend at the waist and lean forward so that your head is against the wall. Try to lift the chair and stand upright.  It turns out that women will generally be able to do this, but men will struggle. The reason is that men's feet tend to be larger than women's feet, so they are slightly further away from the wall. Those extra couple inches turn out to change the amount of leverage that they can generate, with men losing just enough to make it very hard to lift the chair.  There is a similar trick that is done where a person (typically a woman) makes themselves impossible to lift. This is accomplished by leaning away from the person as they try to lift, causing an increase in the lever arm and increasing the amount of force required to lift them.    "
+},
+{
+  "id": "sec-lever-3-2",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "fulcrum "
+},
+{
+  "id": "sec-lever-3-3",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-3-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "torque lever arm "
+},
+{
+  "id": "sec-lever-4-3",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-4-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "first class lever "
+},
+{
+  "id": "sec-lever-4-4",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-4-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "second class lever "
+},
+{
+  "id": "sec-lever-4-5",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-4-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "third class lever "
+},
+{
+  "id": "sec-lever-5-2",
+  "level": "2",
+  "url": "sec-lever.html#sec-lever-5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "compound levers "
+},
+{
+  "id": "activity-chair-challenge",
+  "level": "2",
+  "url": "sec-lever.html#activity-chair-challenge",
+  "type": "Activity",
+  "number": "9.1",
+  "title": "The Chair Challenge.",
+  "body": " The Chair Challenge   The Chair Challenge was a physics activity that went viral several years ago.    Instructions  Get a chair (or an object of a similar size and weight). Stand with one heel against the wall and measure out two foot-lengths (not two feet, two lengths of your foot) from the wall. Turn around and place the chair between you and the Bend at the waist and lean forward so that your head is against the wall. Try to lift the chair and stand upright.  It turns out that women will generally be able to do this, but men will struggle. The reason is that men's feet tend to be larger than women's feet, so they are slightly further away from the wall. Those extra couple inches turn out to change the amount of leverage that they can generate, with men losing just enough to make it very hard to lift the chair.  There is a similar trick that is done where a person (typically a woman) makes themselves impossible to lift. This is accomplished by leaning away from the person as they try to lift, causing an increase in the lever arm and increasing the amount of force required to lift them.   "
+},
+{
+  "id": "sec-wheel-axle",
+  "level": "1",
+  "url": "sec-wheel-axle.html",
+  "type": "Section",
+  "number": "9.3",
+  "title": "The Wheel and Axle",
+  "body": " The Wheel and Axle     ...   ...   The second of the simple machines that we're going to study is the wheel and axle. In a certain sense, this is just a lever. The difference is that this lever is attached to a rotating device rather than a fixed beam. This allows for the mechanical advantage to be used repeatedly and continuously. It's important to remember that a wheel and axle is more than just a wheel. Having a circular hoop roll down a hill does not demonstrate the mechanical advantage that we get from a wheel and axle. In fact, a wheel with an axle still doesn't create a wheel and axle if the wheel rotates freely around the axis.    The Wheel and Axle  A wheel and axle consists of a wheel that is connected to a smaller axle so that they rotate together. There are two concepts that come together in this arrangement. The first is that rotating the wheel acts like a lever on the axle, so that the effort is multiplied (but not always by a number greater than 1). The second concept is that the force can be applied indefinitely because the wheel can rotate around repeatedly, whereas with a lever the effort is typically only applied over a small angle.  Since the underlying mechanism is similar to a lever, the formula for the mechanical advantage for a wheel and axle should seem familiar. It is found in the relative radii of the wheel and axle, which mirrors the idea of thinking about the distances from the fulcrum to the effort and load.   The formula for the mechanical advantage is the ideal mechanical advantage. Due to friction, the wheel and axle typically do not achieve the full mechanical advantage. Because of this, it is sometimes better to talk about the efficiency of the wheel, which is a measure of how much power you actually get out of the system compared to the power that goes in.  It is essential for a wheel and axle system to have the wheel and axle fixed in their relative positions. In other words, it is not a wheel and axle if the wheel rotates independently of the axle. The reason is that you are no longer gaining the mechanical advantage in the axle in this situation. On a technical note, it is possible to have a wheel and axle system that isn't using the mechanical advantage. If you have a wheel fixed to an axle, but the axle rotates freely inside of some other mechanism, you have a wheel and axle system, but you're not using it to generate a mechanical advantage. You're just using it like a wheel.    Driving the Wheel or the Axle  In the typical case of the wheel and axle, the effort is placed on the wheel. This is to create the mechanical advantage that multiplies the output force. However, in some cases (such as cars), the effort is placed on the axis. This results in the output force of the wheel being smaller than the input force on the axle. This is similar to the idea of a third class lever where the force that being created ends up being much larger than the force required to accomplish the task. Then there is some level of savings (whether in physical motion or physical space) that can be gained by driving the axle.    Applications  The wheel and axle is a very powerful combination that can be found in many times and places in history. Some common examples include pulling a bucket of water up a well (though in many situations, the wheel is replaced by a crank to reduce the amount of material required) and the wheels of ships (the reason the wheels are always so large is to maximize the mechanical advantage to steer the a large, heavy ship). A modern example of this mechanism is a screwdriver, where the larger radius handle is used to create a mechanical advantage to turn a screw.   "
+},
+{
+  "id": "sec-pulley",
+  "level": "1",
+  "url": "sec-pulley.html",
+  "type": "Section",
+  "number": "9.4",
+  "title": "The Pulley",
+  "body": " The Pulley     ...   ...   The pulley is the first of the simple machines that only redirects force without providing a mechanical advantage. This isn't to say that pulleys can't be used in certain configurations to create a mechanical advantage. It just means that the pulley does not inherently generate the mechanical advantage.    The Pulley  A pulley is a wheel on an axle that allows a rope to be pulled taut against it. Theoretically, the pulley allows for the full applied force to be redirected through the rope, but in practice we might need to consider the friction of the wheel against the axle as a cause of reduction of force.  Pulleys can either be fixed or movable, depending on what it is attached to and how that object behaves relative to the system. For example, a pulley connected to the ceiling of a room would normally be considered a fixed pulley because its location is set. If the ceiling started to move, we would typically think that something went wrong. A pulley attached to a package would normally be considered a movable pulley because we would typically expect that the package is an object that is meant to move as a result of the pulleys.    Single-Pulley Configurations  There are two configurations you can create with a pulley, and it depends on whether the pulley is fixed or movable.  A fixed pulley only has the ability to redirect force through the rope. In the configuration shown below, the force applied to the rope results in a force applied to the load. The pulley does the work of redirecting the input force from the downward direction to an upward output force. Even though there is no theoretical gain from the pulley, this configuration does help to lift the object. The reason is that it is easier to pull down on an object than it is to lift up. When pulling down, you can use your body weight to help, but when lifting up you have to work against body weight because you are having to hold it up with your legs.  A movable pulley has the ability to generate a mechanical advantage of 2. By using the configuration below, the object now experiences the force of two ropes pulling upward on it instead of just one. When thinking about this scenario, it helps to isolate just the object and ignore the other pulleys. You can see that there are two ropes that are pulling up on the object, and it turns out that it doesn't matter what's on the other end of those ropes. All that matters is that there are two ropes pulling upward on it with the same amount of force.  The tradeoff of the movable pulley arrangement is that the object moves only half the distance that the rope is pulled. The reason for this is that there are two places where the rope needs to get shorter as you pull, and this doubles the amount of rope that needs to be pulled.    Systems of Pulleys  A system of pulleys is just a combination of multiple pulleys. Some pulleys have multiple wheels in a single mechanism, and this is sometimes referred to as a block and tackle pulley system. However, a block and tackle system can be recreated using individual pulleys. The advantage is often found in reducing the number of places where the pulley needs to be attached, and some block and tackle pulleys are built specifically for high loads (because that is the nature of their uses). The diagram below shows how a set of two-wheel block and tackles can be replaced by four individual pulleys.  The idea behind the block and tackle is that you can multiply the force even further. A two-wheel block and tackle creates a mechanical advantage of 4 because there are 4 ropes pulling upward on the object. A three-wheel block and tackle will create a mechanical advantage of 8.  It is possible to get a mechanical advantage of 8 with only 3 pulleys, but it requires being able to tie the pulleys to multiple locations. The key way to think about it as a system of single movable pulleys that are each doubling the force.    Applications  There is a story about Archimedes that is usually shared when it comes to pulleys. As the story is told, a large ship called the Syracusia was built, but it was too large to be pulled to sea by ordinary means. So Archimedes set up a system of pulleys and cranks and (in some tellings of the story) single-handedly dragged the ship from land into the sea. Unsurprisingly, the use of pulleys is very common in ships. Ships are heavy objects with heavy parts that move, and pulleys allow these things to be moved without needing as much input force.  Pulleys are often found in vehicles that have winches, because pulleys allow those winches to increase their capacity through the mechanical advantages that they can create.  A special type of pulley is the snatch block, which allows you to add a pulley in the middle of a rope without having to access the ends. This can be very useful in situations where the ends of the rope might be fixed, or you can't undo the ends of the rope without undermining the larger system.    Pulleys   Pulleys    Instructions  Instructions    "
+},
+{
+  "id": "activity-pulley",
+  "level": "2",
+  "url": "sec-pulley.html#activity-pulley",
+  "type": "Activity",
+  "number": "9.2",
+  "title": "Pulleys.",
+  "body": " Pulleys   Pulleys    Instructions  Instructions   "
+},
+{
+  "id": "sec-inclined-plane",
+  "level": "1",
+  "url": "sec-inclined-plane.html",
+  "type": "Section",
+  "number": "9.5",
+  "title": "The Inclined Plane",
+  "body": " The Inclined Plane     ...   ...   The inclined plane is the first simple machine that we will look at that has no moving parts. It is actually the fundamental structure for the remaining two simple machines.    The Inclined Plane  The inclined plane is just a sloped ramp. The inclined plane allows one to raise an object up while not needing to lift the entire weight of the object. We are actually using the normal force of the ramp on the object to help offset some of the downward force of gravity.  The mechanical advantage is the ratio of the upward force required to lift the object with the ramp to the original weight of the object. In other words, it's the implied multiplier of force when lifting. This value could be derived using trigonometry and free body diagrams, but it turns out that this value also happens to be the ratio of the length of the slope to the height of the ramp. We've seen this in other machines where the tradeoff of distance ends up giving us the same ratio as the force multiplier. If the length of the ramp is equal to the height of the ramp, then you're lifting straight up. As the ramp gets longer, more and more of the ramp is supporting the weight of the object.     Friction and Ramps  Since the object is sliding up the ramp as you push, there is an additional friction force that must be overcome before the object moves. Although it's possible to try to slide an object up a ramp, it is more often the case that the object is placed on wheels. This has the advantage of mostly eliminating the friction and helping to keep the necessary force to a minimum. However, the absence of friction works in both directions, and it's possible to lose an object rolling down an inclined plane.    Application  Perhaps one of the most obviouis applications of a ramp are accessibility ramps. The law provides requirements for the slope of the ramps in order to ensure that they are both useful and safe. The maximum slope of a ramp is 12 feet of ramp for 1 foot of elevation, which means that the mechanical advantage must be at least 12. In order to protect the users, there are also limits to the rise of a single inclined section so that there are meaningful breaks in the ramp to allow for rest and also to prevent unbroken downhill rolls.   "
+},
+{
+  "id": "sec-wedge",
+  "level": "1",
+  "url": "sec-wedge.html",
+  "type": "Section",
+  "number": "9.6",
+  "title": "The Wedge",
+  "body": " The Wedge     Look at the size of that thing!   Wedge Antilles (Star Wars: A New Hope)   A wedge is basically a small version of the inclined plane. It's viewed as a different type of machine primarily because the uses are completely different from that of the inclined plane.    The Wedge  A wedge is a tool that is shaped like a narrow triangle that is used to separate an object into two pieces. The pointy end is usually partially inserted into the object being separated, then the narrow flat side is struck with an object like a hammer. As the wedge gets pushed downward into the object, the sides of the triangle cause the parts of the object on either side to separate.  Since the wedge is just a small inclined plane, it is not surprising that the formula for mechanical advantage follows the same pattern. If the wedge is positioned like an inclined plane, the various lengths line up very closely. The match isn't perfect, but it's close enough to make it seem intuitive.  From the formula for mechanical advantage, we can see that a long, thin wedge gives a better advantage than a short, stubby wedge.    Applications  Wedges are sometimes used when splitting wood. The wedge is driven partially into the wood with a few soft blows, and then heavier blows are applied to drive it in deeply. Sometimes, wedges are used in the form of an axe used to split wood. Rather than placing the wedge on the object and hitting it, the axe's momentum is used to drive the wedge into the wood. Depending on your skill level, this can result in many missed blows with the axe. Mechanical wood splitters do the same thing, except using pneumatics to press the wedge into the wood (or sometimes, the wood into the wedge). This allows for more precise splitting than an axe.  Wedges are also used to split rocks at a quarry, though the process is a bit different. When splitting rock, several wedges are spaced out across the desired cutting direction, and the wedges are slowly driven in. A device known as a plug and feather (which is just a wedge inside of a special sheath) is used in order to try to maintain control of the crack that forms.   "
+},
+{
+  "id": "sec-screw",
+  "level": "1",
+  "url": "sec-screw.html",
+  "type": "Section",
+  "number": "9.7",
+  "title": "The Screw",
+  "body": " The Screw     ...   ...   A screw is a small wedge that has been wrapped around a cylinder. It is the only one that converts rotational motion into linear motion, and that linear motion drives the screw deeper into the object it is attached to.    The Screw  The screw is possibly the most complex of the simple machines. It shares features of the wheel and axle in that there are rotational forces that drive the system. However, the wheel and axle uses rotational motion to create rotational motion (the wheel drives the axle), and it requires a rope to convert that rotational motion into a linear motion. With the screw, the rotational motion is turned directly into the linear motion of the screw itself.  The screw also shares features of the inclined plane. The inclined plane reduces the amount of force required to lift an object, and in this case that gets translated into reducing the amount of force required to push the screw deeper into the object.  The calculation of the mechanical advantage of a screw is a bit more complicated than previous machines. Since we are converting a rotational force to a linear force, it does not make sense to use a ratio of forces as the mechanical advantage. (Technically, you would be taking the ratio of a torque and a force, which would leave units of distance.) Instead, we have to think about distances. What is the ratio of applied motion and what is the resulting distance that the screw travels?  For the applied motion, we calculate the circumference of the head of the screw. Conceptually, this means that we are thinking of getting the maximal advantage of the screw by pressing on the edge of the screw giving ourselves the largest radius to work with.  For the output motion, we will use the pitch of the screw. The pitch is the distance of one winding of the threads around the screw. In other words, it's the distance that the screw would move if you turned it one time, corresponding to moving around the circumference of the screw one time. In many cases, screws are described by the number of threads per unit length (per inch, per centimeter), and the pitch ends up being the reciprocal of that quantity.    Applications  Screws have many applications. The screw itself is used to attach two different objects together, but there's a lot more to this machine.  The value of the screw is actually in the threading, which is what causes the motion when turning. Having rotating threads is a way to create linear motion out of rotational motion. Normally, that motion is about moving the screw, but if you simply have a threaded rod, that rod can be used to move something else. Threaded rods can be found in many high precision mechanical devices because they provide a lot of control over distance. A rod may have a pitch of a couple millimeters, but a stepper motor might have 200 steps per rotation. In other words, the distance control is 0.5% of the pitch, which can bring it down to the order of tens of micrometers. This is what allows for very high precision machining to be done.  Another use of a screw to move things is the Archimedes screw. This is a screw that can be used to move water (or other substances) from a low place to a high place by rotating it. The concept is that putting a screw inside of a cylinder, you can use the walls of the cylinder to help contain the material and drive the motion by turning the screw.   "
+},
+{
   "id": "lab-pulley",
   "level": "1",
   "url": "lab-pulley.html",
   "type": "Lab Activity",
-  "number": "9.2.1",
+  "number": "9.8.1",
   "title": "Pulleys",
-  "body": " Pulleys   Introduction  Pulleys help in difefrent ways.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " Pulleys   Introduction  We are going to look at different configurations of pulleys to develop some intuition about how to use them effectively.    Equipment List    4 Pulleys    Rope    ??    ??      Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "lab-pulley-4",
+  "id": "lab-pulley-5",
   "level": "2",
-  "url": "lab-pulley.html#lab-pulley-4",
+  "url": "lab-pulley.html#lab-pulley-5",
   "type": "Example",
-  "number": "9.2.1.1",
+  "number": "9.8.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
 {
-  "id": "lab-pulley-8",
+  "id": "lab-pulley-9",
   "level": "2",
-  "url": "lab-pulley.html#lab-pulley-8",
+  "url": "lab-pulley.html#lab-pulley-9",
   "type": "Additional Resources",
-  "number": "9.2.1",
+  "number": "9.8.1",
   "title": "",
   "body": "    Google     "
+},
+{
+  "id": "sec-defining-rigid-structures",
+  "level": "1",
+  "url": "sec-defining-rigid-structures.html",
+  "type": "Section",
+  "number": "10.1",
+  "title": "Defining Rigid Structures",
+  "body": " Defining Rigid Structures     .....   .....   In this chapter, we're going to analyze the properties of rigid structures. We will consider a rigid structure to be a structure that consists of a single body that does not flex or bend. In practice, a rigid structure can be composed of many pieces, but with the restriction that the pieces are not intended to move relative to each other so that they behave as if they are a single body. Also, the reality is that all objects will flex and bend somewhat, but we are going to assume that the flexing is small relative to the size of the object, so that we can think of the object as not flexing at all.    Rigid Bodies and Forces  There are many applications of physics where it is helpful to think about objects as rigid bodies. For example, buildings and bridges can be seen as rigid bodies for the purposes of thinking about how well they would hold up under loads and other types of strains.  We can think about the an object at many different levels. We can think about the body as a whole, or we can think of it as being multiple rigid pieces. As we allow objects to be built of more and more pieces, it results in more complex physics. When looking at the object as a whole, we are usually working with the external forces on the object. When looking at the object as multiple individual pieces, we're usually talking about the internal forces on an object. If the rigidity is lost when thinking of the individual pieces, the object basically breaks. We will be spending some time looking at both situations.    Pulleys   You can physically experience the location of your center of mass.    Instructions  For the first activity, stand with your heels against the wall and stand upright (with your back against the wall). Start bending over at the waist. As you lean over, you will feel your muscles tense up differently as the center of mass starts to move from the center of your feet towards your toes. As soon as the center of mass moves beyond your toes, your body will start to tip over and there's nothing you can do other than move your feet to keep yourself from falling.  For the second activity, put the outside of one of your feet up against the wall, and then lean into the wall with the shoulder on the same side of the body. You should find that it's impossible for you to stay upright when you lift your outside foot. The reason behind this is that your base is only as wide as your foot, but your body is much wider than that, and so even with your shoulder pressed against the wall, your center of mass is not over your base, and you are going to fall over.    "
+},
+{
+  "id": "activity-body-center-of-mass",
+  "level": "2",
+  "url": "sec-defining-rigid-structures.html#activity-body-center-of-mass",
+  "type": "Activity",
+  "number": "10.1",
+  "title": "Pulleys.",
+  "body": " Pulleys   You can physically experience the location of your center of mass.    Instructions  For the first activity, stand with your heels against the wall and stand upright (with your back against the wall). Start bending over at the waist. As you lean over, you will feel your muscles tense up differently as the center of mass starts to move from the center of your feet towards your toes. As soon as the center of mass moves beyond your toes, your body will start to tip over and there's nothing you can do other than move your feet to keep yourself from falling.  For the second activity, put the outside of one of your feet up against the wall, and then lean into the wall with the shoulder on the same side of the body. You should find that it's impossible for you to stay upright when you lift your outside foot. The reason behind this is that your base is only as wide as your foot, but your body is much wider than that, and so even with your shoulder pressed against the wall, your center of mass is not over your base, and you are going to fall over.   "
+},
+{
+  "id": "sec-stability",
+  "level": "1",
+  "url": "sec-stability.html",
+  "type": "Section",
+  "number": "10.2",
+  "title": "Creating Stable Structures",
+  "body": " Creating Stable Structures     .....   .....   There are two types of stability that we will be looking at. The first is the stability of the whole object, focusing on the question of whether the object is going to stay where it is or if it will topple over. The second is the internal stability of the object, focusing on ways that objects can break.    Stability: Center of Mass  Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base of the pencil (the flat surface that it's supposed to rest on), it will not fall over.  This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the base instead of tipping over.    Internal Stability  Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base of the pencil (the flat surface that it's supposed to rest on), it will not fall over.  This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the base instead of tipping over.   "
+},
+{
+  "id": "sec-tension",
+  "level": "1",
+  "url": "sec-tension.html",
+  "type": "Section",
+  "number": "10.3",
+  "title": "Tension",
+  "body": " Tension     .....   .....   Triangles and parallelogramming    Rigid Bodies  Something...   "
 },
 {
   "id": "lab-equal-opposite",
   "level": "1",
   "url": "lab-equal-opposite.html",
   "type": "Lab Activity",
-  "number": "10.1.1",
+  "number": "10.4.1",
   "title": "Equal and Opposite Reaction",
   "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1697,7 +1859,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-4",
   "type": "Example",
-  "number": "10.1.1.1",
+  "number": "10.4.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1706,7 +1868,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-equal-opposite.html#lab-equal-opposite-8",
   "type": "Additional Resources",
-  "number": "10.1.1",
+  "number": "10.4.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1715,7 +1877,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-center-of-mass.html",
   "type": "Lab Activity",
-  "number": "10.1.2",
+  "number": "10.4.2",
   "title": "Center of Mass and Balance",
   "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1724,7 +1886,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-4",
   "type": "Example",
-  "number": "10.1.2.1",
+  "number": "10.4.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1733,7 +1895,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-center-of-mass.html#lab-center-of-mass-8",
   "type": "Additional Resources",
-  "number": "10.1.2",
+  "number": "10.4.2",
   "title": "",
   "body": "    Google     "
 },
