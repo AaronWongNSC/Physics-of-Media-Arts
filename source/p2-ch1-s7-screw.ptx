@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-screw" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Screw</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      A screw is a small wedge that has been wrapped around a cylinder. It is the only one that converts rotational motion into linear motion, and that linear motion drives
+      the screw deeper into the object it is attached to.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Screw</title>
+
+    <p>
+      The screw is possibly the most complex of the simple machines. It shares features of the wheel and axle in that there are rotational forces that drive the system.
+      However, the wheel and axle uses rotational motion to create rotational motion (the wheel drives the axle), and it requires a rope to convert that rotational
+      motion into a linear motion. With the screw, the rotational motion is turned directly into the linear motion of the screw itself.
+    </p>
+    <p>
+      The screw also shares features of the inclined plane. The inclined plane reduces the amount of force required to lift an object, and in this case that gets
+      translated into reducing the amount of force required to push the screw deeper into the object.
+    </p>
+    <p>
+      The calculation of the mechanical advantage of a screw is a bit more complicated than previous machines. Since we are converting a rotational force to a linear
+      force, it does not make sense to use a ratio of forces as the mechanical advantage. (Technically, you would be taking the ratio of a torque and a force, which would
+      leave units of distance.) Instead, we have to think about distances. What is the ratio of applied motion and what is the resulting distance that the screw travels?
+    </p>
+    <p>
+      For the applied motion, we calculate the circumference of the head of the screw. Conceptually, this means that we are thinking of getting the maximal advantage of
+      the screw by pressing on the edge of the screw giving ourselves the largest radius to work with.
+    </p>
+    <p>
+      For the output motion, we will use the pitch of the screw. The pitch is the distance of one winding of the threads around the screw. In other words, it's the distance
+      that the screw would move if you turned it one time, corresponding to moving around the circumference of the screw one time. In many cases, screws are described
+      by the number of threads per unit length (per inch, per centimeter), and the pitch ends up being the reciprocal of that quantity.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+    
+    <p>
+      Screws have many applications. The screw itself is used to attach two different objects together, but there's a lot more to this machine.
+    </p>
+    <p>
+      The value of the screw is actually in the threading, which is what causes the motion when turning. Having rotating threads is a way to create linear motion out
+      of rotational motion. Normally, that motion is about moving the screw, but if you simply have a threaded rod, that rod can be used to move something else. Threaded
+      rods can be found in many high precision mechanical devices because they provide a lot of control over distance. A rod may have a pitch of a couple millimeters, but
+      a stepper motor might have 200 steps per rotation. In other words, the distance control is 0.5% of the pitch, which can bring it down to the order of tens of 
+      micrometers. This is what allows for very high precision machining to be done.
+    </p>
+    <p>
+      Another use of a screw to move things is the Archimedes screw. This is a screw that can be used to move water (or other substances) from a low place to a high place by
+      rotating it. The concept is that putting a screw inside of a cylinder, you can use the walls of the cylinder to help contain the material and drive the motion by turning
+      the screw.
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

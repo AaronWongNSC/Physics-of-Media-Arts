@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-lever" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Lever</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>Give me a place to stand and I will move the earth!</q>
+      </p>
+      <attribution>Archimedes</attribution>
+    </blockquote>
+
+    <p>
+      The first of the simple machines that we're going to study is the lever. This has the ability to multiply and redirect an input force. The input force is often
+      called the "effort" and the object that is being moved is often called the "load". The "output force" is the force that is being used to counter the load.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Lever</title>
+
+    <p>
+      <idx><h>fulcrum</h></idx>
+
+      The lever consists of a solid beam and a pivot point (called the <term>fulcrum</term>). Here is the formula for the mechanical advantage:
+      <me>
+        MA = \frac{\text{distance from the fulcrum to the input force}}{\text{distance from the fulcrum to the output force}}
+      </me>
+      In other words, if the force is applied 2 meters from the fulcrum and the output force is 1 meter from the fulcrum, the lever creates a mechanical advantage of 2 (meaning
+      that the output force is 2 times as large as the input force). Notice that if you think about the distances involved, the output force can only move half of the distance
+      that the input force moves. This is an example of the tradeoff that you get with mechanical advantages.
+    </p>
+    <p>
+      <idx><h>torque</h></idx>
+
+      The underlying physical mechanism for the lever is known as <term>torque</term>. Torque is a twisting or rotational force and is the result of applying a force
+      a distance from a pivot point. In simple cases, it is calculated as the product of the force and the distance from the pivot, which is known as the
+      <term>lever arm</term> (the distance from the pivot and the point where the force is applied).
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Classes of Levers</title>
+
+    <p>
+      Levers come in three types, depending on the relative locations of the fulcrum, the effort, and the load.
+    </p>
+    <p>
+      <idx><h>first class lever</h></idx>
+
+      If the effort is on the opposite side of the fulcrum as the load, then it is a <term>first class lever</term>. This is the classic type of seesaw pattern that
+      most people think of when it comes to levers. Whether there is a mechanical advantage in this case will depend on the distances between the fulcrum and the load or the
+      effort.
+    </p>
+    <p>
+      <idx><h>second class lever</h></idx>
+
+      If the load is between the fulcrum and the effort, then it is a <term>second class lever</term>. An example of this type of lever is a wheelbarrow. In that case, the
+      fulcrum is the part that attaches to the wheel, the load is the barrel, and then you lift the handles that stick beyond the barrel. In this case, there will always be
+      a mechanical advantage because the distance from the fulcrum to the effort will always be larger than the distance from the fulcrum to the load.
+    </p>
+    <p>
+      <idx><h>third class lever</h></idx>
+
+      If the effort is between the fulcrum and the load, then it is a <term>third class lever</term>. An example of this type of lever is a broom. The fulcrum is the tip of
+      the handle, the effort is where you push the broom handle to sweep, and the load (the stuff being swept) is all the way at the head of the broom. The benefit of this
+      type of lever is that you are multiplying distance rather than multiplying force. Since the objects being swept are light, the force that your body can generate is much
+      greater than necessary to move them. The broom allows you to move your hands a couple dozen centimeteres but move dirt and dust on the floor more than a meter.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Compound Levers</title>
+
+    <p>
+      <idx><h>compound levers</h></idx>
+
+      It is possible to get even greater multiplication of forces by using <term>compound levers</term>. A compound lever is when a lever is being used against another
+      lever.
+    </p>
+    <p>
+      An example of a compound lever is a tortilla press. The top plate is on a hingle, which creates the first lever. The tortilla is between the hinge and the edge of the
+      plate where the pressure will be placed, making it a second class lever. We can imagine that the tortilla dough is halfway between the hinge and the handle, resulting
+      in a mechanical advantage of 2 (though people usually place it closer to the hinge, which makes sense from a mechanical advantage perspective). Then the handle is
+      pressed down on the edge of the top plate, creating the second lever. This is also a second class lever because the hinge is on the outside of the plate. Typically,
+      the place where the handle presses on the top plate is just a couple centimeters, but the handle is often 30 cm or more. This means that the mechanical advantage here
+      is 15. But because this is being applied to a lever that also multiplies force, the total multiplication of force is 30.
+    </p>
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+
+    <p>
+      The basic application of levers is to require less force to get things done. A long metal pipe turns out to be an incredibly useful tool if you are working in any sort
+      of shop where you might need to use wrenches. By putting the metal pipe over the end of any wrench, you can greatly multiply the force that you can apply with the
+      wrench. This is also advice I've heard for people who may be driving out in less populated areas and may need to change their own tire. Sometimes, cars come with
+      really small tire irons that just aren't big enough to knock loose the lug nuts. But if you have a 3 foot long metal pipe to slide over the end of it, you won't have
+      any problems with that.
+    </p>
+    
+  </paragraphs>
+
+  <xi:include href="./p2-ch1-sA-1-chair-challenge.ptx" />
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

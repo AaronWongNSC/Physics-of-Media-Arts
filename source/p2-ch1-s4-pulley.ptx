@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-pulley" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Pulley</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      The pulley is the first of the simple machines that only redirects force without providing a mechanical advantage. This isn't to say that pulleys can't be used
+      in certain configurations to create a mechanical advantage. It just means that the pulley does not inherently generate the mechanical advantage. 
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Pulley</title>
+
+    <p>
+      A pulley is a wheel on an axle that allows a rope to be pulled taut against it. Theoretically, the pulley allows for the full applied force to be redirected through
+      the rope, but in practice we might need to consider the friction of the wheel against the axle as a cause of reduction of force.
+    </p>
+    <p>
+      Pulleys can either be fixed or movable, depending on what it is attached to and how that object behaves relative to the system. For example, a pulley connected to
+      the ceiling of a room would normally be considered a fixed pulley because its location is set. If the ceiling started to move, we would typically think that something
+      went wrong. A pulley attached to a package would normally be considered a movable pulley because we would typically expect that the package is an object that is meant
+      to move as a result of the pulleys.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Single-Pulley Configurations</title>
+    
+    <p>
+      There are two configurations you can create with a pulley, and it depends on whether the pulley is fixed or movable.
+    </p>
+    <p>
+      A fixed pulley only has the ability to redirect force through the rope. In the configuration shown below, the force <m>F</m> applied to the rope results in a force
+      <m>F</m> applied to the load. The pulley does the work of redirecting the input force from the downward direction to an upward output force. Even though there is
+      no theoretical gain from the pulley, this configuration does help to lift the object. The reason is that it is easier to pull down on an object than it is to lift up.
+      When pulling down, you can use your body weight to help, but when lifting up you have to work against body weight because you are having to hold it up with your legs.
+    </p>
+    <p>
+      A movable pulley has the ability to generate a mechanical advantage of 2. By using the configuration below, the object now experiences the force of two ropes pulling
+      upward on it instead of just one. When thinking about this scenario, it helps to isolate just the object and ignore the other pulleys. You can see that there are
+      two ropes that are pulling up on the object, and it turns out that it doesn't matter what's on the other end of those ropes. All that matters is that there are two
+      ropes pulling upward on it with the same amount of force.
+    </p>
+    <p>
+      The tradeoff of the movable pulley arrangement is that the object moves only half the distance that the rope is pulled. The reason for this is that there are two places
+      where the rope needs to get shorter as you pull, and this doubles the amount of rope that needs to be pulled.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Systems of Pulleys</title>
+    
+    <p>
+      A system of pulleys is just a combination of multiple pulleys. Some pulleys have multiple wheels in a single mechanism, and this is sometimes referred to as a block
+      and tackle pulley system. However, a block and tackle system can be recreated using individual pulleys. The advantage is often found in reducing the number of places
+      where the pulley needs to be attached, and some block and tackle pulleys are built specifically for high loads (because that is the nature of their uses). The diagram
+      below shows how a set of two-wheel block and tackles can be replaced by four individual pulleys.
+    </p>
+    <p>
+      The idea behind the block and tackle is that you can multiply the force even further. A two-wheel block and tackle creates a mechanical advantage of 4 because there are
+      4 ropes pulling upward on the object. A three-wheel block and tackle will create a mechanical advantage of 8.
+    </p>
+    <p>
+      It is possible to get a mechanical advantage of 8 with only 3 pulleys, but it requires being able to tie the pulleys to multiple locations. The key way to think about it
+      as a system of single movable pulleys that are each doubling the force.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+
+    <p>
+      There is a story about Archimedes that is usually shared when it comes to pulleys. As the story is told, a large ship called the Syracusia was built, but it was too
+      large to be pulled to sea by ordinary means. So Archimedes set up a system of pulleys and cranks and (in some tellings of the story) single-handedly dragged the ship
+      from land into the sea. Unsurprisingly, the use of pulleys is very common in ships. Ships are heavy objects with heavy parts that move, and pulleys allow these things
+      to be moved without needing as much input force.
+    </p>
+    <p>
+      Pulleys are often found in vehicles that have winches, because pulleys allow those winches to increase their capacity through the mechanical advantages that they
+      can create.
+    </p>
+    <p>
+      A special type of pulley is the snatch block, which allows you to add a pulley in the middle of a rope without having to access the ends. This can be very useful
+      in situations where the ends of the rope might be fixed, or you can't undo the ends of the rope without undermining the larger system.
+    </p>
+    
+  </paragraphs>
+
+  <xi:include href="./p2-ch1-sA-2-pulley-activity.ptx" />
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

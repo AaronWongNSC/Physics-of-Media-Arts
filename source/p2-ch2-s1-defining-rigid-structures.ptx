@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-defining-rigid-structures" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Defining Rigid Structures</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      In this chapter, we're going to analyze the properties of rigid structures. We will consider a rigid structure to be a structure that consists of a single body
+      that does not flex or bend. In practice, a rigid structure can be composed of many pieces, but with the restriction that the pieces are not intended to move relative
+      to each other so that they behave as if they are a single body. Also, the reality is that all objects will flex and bend somewhat, but we are going to assume that the
+      flexing is small relative to the size of the object, so that we can think of the object as not flexing at all.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Rigid Bodies and Forces</title>
+
+    <p>
+      There are many applications of physics where it is helpful to think about objects as rigid bodies. For example, buildings and bridges can be seen as rigid bodies
+      for the purposes of thinking about how well they would hold up under loads and other types of strains.
+    </p>
+    <p>
+      We can think about the an object at many different levels. We can think about the body as a whole, or we can think of it as being multiple rigid pieces. As we allow
+      objects to be built of more and more pieces, it results in more complex physics. When looking at the object as a whole, we are usually working with the external
+      forces on the object. When looking at the object as multiple individual pieces, we're usually talking about the internal forces on an object. If the rigidity is
+      lost when thinking of the individual pieces, the object basically breaks. We will be spending some time looking at both situations.
+    </p>
+  </paragraphs>
+
+  <xi:include href="./p2-ch2-sA-1-body-center-of-mass.ptx" />
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

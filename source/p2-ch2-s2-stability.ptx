@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-stability" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Creating Stable Structures</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      There are two types of stability that we will be looking at. The first is the stability of the whole object, focusing on the question of whether the object is going
+      to stay where it is or if it will topple over. The second is the internal stability of the object, focusing on ways that objects can break.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Stability: Center of Mass</title>
+
+    <p>
+      Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what
+      condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base
+      of the pencil (the flat surface that it's supposed to rest on), it will not fall over.
+    </p>
+    <p>
+      This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the
+      center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room
+      to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the
+      base instead of tipping over.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Internal Stability</title>
+
+    <p>
+      Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what
+      condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base
+      of the pencil (the flat surface that it's supposed to rest on), it will not fall over.
+    </p>
+    <p>
+      This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the
+      center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room
+      to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the
+      base instead of tipping over.
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

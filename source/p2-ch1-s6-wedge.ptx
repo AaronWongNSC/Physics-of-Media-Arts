@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-wedge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Wedge</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>Look at the size of that thing!</q>
+      </p>
+      <attribution>Wedge Antilles (Star Wars: A New Hope)</attribution>
+    </blockquote>
+
+    <p>
+      A wedge is basically a small version of the inclined plane. It's viewed as a different type of machine primarily because the uses are completely different from
+      that of the inclined plane.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Wedge</title>
+
+    <p>
+      A wedge is a tool that is shaped like a narrow triangle that is used to separate an object into two pieces. The pointy end is usually partially inserted into the
+      object being separated, then the narrow flat side is struck with an object like a hammer. As the wedge gets pushed downward into the object, the sides of the
+      triangle cause the parts of the object on either side to separate.
+    </p>
+    <p>
+      Since the wedge is just a small inclined plane, it is not surprising that the formula for mechanical advantage follows the same pattern.
+      <me>
+        MA = \frac{\text{length of the sloped side}}{\text{thickness}}
+      </me>
+      If the wedge is positioned like an inclined plane, the various lengths line up very closely. The match isn't perfect, but it's close enough to make it seem intuitive.
+    </p>
+    <p>
+      From the formula for mechanical advantage, we can see that a long, thin wedge gives a better advantage than a short, stubby wedge. 
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+    
+    <p>
+      Wedges are sometimes used when splitting wood. The wedge is driven partially into the wood with a few soft blows, and then heavier blows are applied to drive it in
+      deeply. Sometimes, wedges are used in the form of an axe used to split wood. Rather than placing the wedge on the object and hitting it, the axe's momentum is used to drive
+      the wedge into the wood. Depending on your skill level, this can result in many missed blows with the axe. Mechanical wood splitters do the same thing, except using
+      pneumatics to press the wedge into the wood (or sometimes, the wood into the wedge). This allows for more precise splitting than an axe.
+    </p>
+    <p>
+      Wedges are also used to split rocks at a quarry, though the process is a bit different. When splitting rock, several wedges are spaced out across the desired cutting
+      direction, and the wedges are slowly driven in. A device known as a plug and feather (which is just a wedge inside of a special sheath) is used in order to try to
+      maintain control of the crack that forms. 
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

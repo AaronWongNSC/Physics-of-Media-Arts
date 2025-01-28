@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-wheel-axle" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Wheel and Axle</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      The second of the simple machines that we're going to study is the wheel and axle. In a certain sense, this is just a lever. The difference is that this lever
+      is attached to a rotating device rather than a fixed beam. This allows for the mechanical advantage to be used repeatedly and continuously. It's important to
+      remember that a wheel and axle is more than just a wheel. Having a circular hoop roll down a hill does not demonstrate the mechanical advantage that we get
+      from a wheel and axle. In fact, a wheel with an axle still doesn't create a wheel and axle if the wheel rotates freely around the axis.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Wheel and Axle</title>
+
+    <p>
+      A wheel and axle consists of a wheel that is connected to a smaller axle so that they rotate together. There are two concepts that come together in this arrangement.
+      The first is that rotating the wheel acts like a lever on the axle, so that the effort is multiplied (but not always by a number greater than 1). The second concept
+      is that the force can be applied indefinitely because the wheel can rotate around repeatedly, whereas with a lever the effort is typically only applied
+      over a small angle.
+    </p>
+    <p>
+      Since the underlying mechanism is similar to a lever, the formula for the mechanical advantage for a wheel and axle should seem familiar. It is found in the relative
+      radii of the wheel and axle, which mirrors the idea of thinking about the distances from the fulcrum to the effort and load.
+      <me>
+        MA = \frac{\text{radius of the wheel}}{\text{radius of the axle}}
+      </me>
+    </p>
+    <p>
+      The formula for the mechanical advantage is the ideal mechanical advantage. Due to friction, the wheel and axle typically do not achieve the full mechanical advantage.
+      Because of this, it is sometimes better to talk about the efficiency of the wheel, which is a measure of how much power you actually get out of the system compared
+      to the power that goes in.
+    </p>
+    <p>
+      It is essential for a wheel and axle system to have the wheel and axle fixed in their relative positions. In other words, it is not a wheel and axle if the wheel rotates
+      independently of the axle. The reason is that you are no longer gaining the mechanical advantage in the axle in this situation. On a technical note, it is possible to
+      have a wheel and axle system that isn't using the mechanical advantage. If you have a wheel fixed to an axle, but the axle rotates freely inside of some other mechanism,
+      you have a wheel and axle system, but you're not using it to generate a mechanical advantage. You're just using it like a wheel.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Driving the Wheel or the Axle</title>
+    
+    <p>
+      In the typical case of the wheel and axle, the effort is placed on the wheel. This is to create the mechanical advantage that multiplies the output force. However,
+      in some cases (such as cars), the effort is placed on the axis. This results in the output force of the wheel being smaller than the input force on the axle. This
+      is similar to the idea of a third class lever where the force that being created ends up being much larger than the force required to accomplish the task. Then
+      there is some level of savings (whether in physical motion or physical space) that can be gained by driving the axle.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications</title>
+
+    <p>
+      The wheel and axle is a very powerful combination that can be found in many times and places in history. Some common examples include pulling a bucket of water up a
+      well (though in many situations, the wheel is replaced by a crank to reduce the amount of material required) and the wheels of ships (the reason the wheels are always
+      so large is to maximize the mechanical advantage to steer the a large, heavy ship). A modern example of this mechanism is a screwdriver, where the larger radius handle
+      is used to create a mechanical advantage to turn a screw. 
+    </p>
+    
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

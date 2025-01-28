@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-inclined-plane" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Inclined Plane</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      The inclined plane is the first simple machine that we will look at that has no moving parts. It is actually the fundamental structure for the remaining two
+      simple machines.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Inclined Plane</title>
+
+    <p>
+      The inclined plane is just a sloped ramp. The inclined plane allows one to raise an object up while not needing to lift the entire weight of the object. We are
+      actually using the normal force of the ramp on the object to help offset some of the downward force of gravity.
+    </p>
+    <p>
+      The mechanical advantage is the ratio of the upward force required to lift the object with the ramp to the original weight of the object. In other words, it's the
+      implied multiplier of force when lifting. This value could be derived using trigonometry and free body diagrams, but it turns out that this value also happens to
+      be the ratio of the length of the slope to the height of the ramp. We've seen this in other machines where the tradeoff of distance ends up giving us the same
+      ratio as the force multiplier. If the length of the ramp is equal to the height of the ramp, then you're lifting straight up. As the ramp gets longer, more and
+      more of the ramp is supporting the weight of the object.
+      <me>
+        MA = \frac{\text{length of the slope}}{\text{height of the ramp}}
+      </me>
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Friction and Ramps</title>
+    
+    <p>
+      Since the object is sliding up the ramp as you push, there is an additional friction force that must be overcome before the object moves. Although it's possible to try
+      to slide an object up a ramp, it is more often the case that the object is placed on wheels. This has the advantage of mostly eliminating the friction and helping to
+      keep the necessary force to a minimum. However, the absence of friction works in both directions, and it's possible to lose an object rolling down an inclined plane.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Application</title>
+    
+    <p>
+      Perhaps one of the most obviouis applications of a ramp are accessibility ramps. The law provides requirements for the slope of the ramps in order to ensure that they
+      are both useful and safe. The maximum slope of a ramp is 12 feet of ramp for 1 foot of elevation, which means that the mechanical advantage must be at least 12. In
+      order to protect the users, there are also limits to the rise of a single inclined section so that there are meaningful breaks in the ramp to allow for rest and also
+      to prevent unbroken downhill rolls.
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

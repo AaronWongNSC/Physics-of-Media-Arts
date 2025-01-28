@@ -1,0 +1,30 @@
+<activity xml:id="activity-chair-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Chair Challenge</title>
+    
+  <introduction>
+    <p>
+      The Chair Challenge was a physics activity that went viral several years ago.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Instructions</title>
+
+    <p>
+      Get a chair (or an object of a similar size and weight). Stand with one heel against the wall and measure out two foot-lengths (not two feet, two lengths of your
+      foot) from the wall. Turn around and place the chair between you and the Bend at the waist and lean forward so that your head is against the wall. Try to lift the
+      chair and stand upright.
+    </p>
+    <p>
+      It turns out that women will generally be able to do this, but men will struggle. The reason is that men's feet tend to be larger than women's feet, so they are slightly
+      further away from the wall. Those extra couple inches turn out to change the amount of leverage that they can generate, with men losing just enough to make it very hard
+      to lift the chair.
+    </p>
+    <p>
+      There is a similar trick that is done where a person (typically a woman) makes themselves impossible to lift. This is accomplished by leaning away from the person as they
+      try to lift, causing an increase in the lever arm and increasing the amount of force required to lift them.
+    </p>
+
+  </paragraphs>
+    
+</activity>

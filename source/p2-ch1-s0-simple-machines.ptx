@@ -20,6 +20,12 @@
   <!-- include sections -->
 
   <xi:include href="p2-ch1-s1-what-machines.ptx" />
+  <xi:include href="p2-ch1-s2-lever.ptx" />
+  <xi:include href="p2-ch1-s3-wheel-axle.ptx" />
+  <xi:include href="p2-ch1-s4-pulley.ptx" />
+  <xi:include href="p2-ch1-s5-inclined-plane.ptx" />
+  <xi:include href="p2-ch1-s6-wedge.ptx" />
+  <xi:include href="p2-ch1-s7-screw.ptx" />
 
   <!-- <xi:include href="sec-section-name.ptx" /> -->
   <xi:include href="p2-ch1-sL-0-simple-machines-labs.ptx" />
