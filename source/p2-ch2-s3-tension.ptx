@@ -12,15 +12,31 @@
     </blockquote>
 
     <p>
-      Triangles and parallelogramming
+      Tension is a force that is transmitted along an object that lead to it being stretched. It is the opposite of compression.
     </p>
   </introduction>
 
   <paragraphs>
-    <title>Rigid Bodies</title>
+    <title>Tension in Rigid Bodies</title>
 
     <p>
-      Something...
+      Tension in a rigid body is one of the internal forces described in the previous section. If we imagine trying to bend a rod, what's happening is that we are
+      trying to make the "outer" part of the bend longer by stretching it. The tension force is the force that is resisting that bend and is keeping the rod straight.
+      On the "innter" part of the bend, there is compression, as that side is being pressed inward.
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>Tension in Ropes</title>
+
+    <p>
+      Ropes have the property that they can only be used for pulling, but not pushing. This leads to a number of interesting physical properties.
+    </p>
+    <p>
+      The tension in a rope is generally assumed to be the same throughout its whole length. That is, if you were to treat the rope as two pieces being held together
+      by tension, the tension you calculate does not depend on where you choose to break the rope.
+    </p>
+    <p>
+      As the tension in a rope goes to zero, the rope goes slack and is no longer transmitting any forces.
     </p>
   </paragraphs>
 
