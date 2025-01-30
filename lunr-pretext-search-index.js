@@ -574,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "2.8.1",
   "title": "Calculator Stress Test",
-  "body": " Calculator Stress Test   Introduction  Math teachers used to tell students that they needed to learn their arithmetic because they wouldn't always have a calculator in their pocket. But it turns out that those teachers were wrong. However, this doesn't mean that everyone really understands how to use their calculator, or that every calculator is the same. This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.    Equipment List    At least two different cellphone calculators    Internet access to use following online calculators:     (TheOnlineCalculator.com) Basic Calculator      (Online-Calculator.com) Standard Calculator      (Desmos.com) Scientific Calculator         Procedure  We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout so that you will be able to remember the information you need for the write-up.    Determine the following information about the two cellphone calculators and three online calculators:    Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The calculator might just be called \"calculator.\" The version information might be difficult to find, but it's there somewhere. You might find the information in the app store.)    Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the rest of the lab.)    Execution style: Infix or immediate execution    Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.    Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function, then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)      We will use the calculators to calculate some values. The purpose is to compare the relative difficulty of getting the correct answers. In some cases, you might be able to perform the entire calculation in a single step. But in other cases, you may need to perform multiple separate calculations to get the correct result. Be sure to make note of any challenges you encounter.    Calculate . The correct result is 10.    Calculate . The correct result is 7.    Calculate . The correct result is 7.       We will now test some of the limits of the calculators. Perform the following tasks on each calculator.    Calculate and count the total number of digits that are displayed (including the leading zero). Then calculate and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.    Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or scientific notation. If it does not have these features, it will be helpful to use the \"Ans\" feature (uses the answer of the last calculation as part of the next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.    If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that . (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators, just indicate this.)      We will now engage in some \"stress tests\" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction says to \"calculate\" a quantity, it means to have the calculator evaluate the result by pressing the equal sign (or equivalent button).    Calculate . Do not add parentheses or make other adjustments to force the calculator to get the right answer. We want to see how the calculator interprets this. The correct answer is 7, but some calculators will give 9 as the answer.    Calculate and then multiply that result by . The correct answer is 1, but not all calculators will give this result.    Calculate with as many 9s are needed to give a result of 1. Then square the result. The correct answer is with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.    For calculators with a squaring function and a square root function, start with and square as many times as needed to get a result of 0. Then take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.    For calculators that have parentheses and inline notation (so that fractions appear as or instead of ), calculate . If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on the internet, and it is known that different calculators give different answers. What the \"right\" answer is and whether there even a \"right\" answer depends on who you ask.)        Discussion  Answer the following questions.    Based on your experiences, which calculator would you say is the \"best\" one? The \"worst\" one? (Note: It's possible for multiple calculators to tie for best or worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.    Did any of the stress test results surprise you? What about them was surprising?      Conclusion  It's a common assumption that everyone knows how to use a calculator. This assumption is true for very basic calculations, but it's often false when more complex calculations are involved. Was there anything new that you learned about calculators from this activity?    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.    Procedure  This lab has you executing a number of calculations using different calculators. Describe the various calculations that you did.    Results and Data  You should have one table of information the describes the calculators. Then you should have another set of tables (one table for each calculation) where you indicate which calculators you used and the results of the calculations.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising? Did you learn anything new about calculators?     "
+  "body": " Calculator Stress Test   Introduction  Math teachers used to tell students that they needed to learn their arithmetic because they wouldn't always have a calculator in their pocket. But it turns out that those teachers were wrong. However, this doesn't mean that everyone really understands how to use their calculator, or that every calculator is the same. This lab activity will have you use a number of different types of calculators and try to identify particular quirks that they may have.    Equipment List    At least two different cellphone calculators    Internet access to use following online calculators:     (TheOnlineCalculator.com) Basic Calculator      (Online-Calculator.com) Standard Calculator      (Desmos.com) Scientific Calculator         Procedure  We are going to investigate the calculators and learn about their individual quirks. You will want to take notes throughout so that you will be able to remember the information you need for the write-up.    Determine the following information about the two cellphone calculators and three online calculators:    Basic calculator information (cellphone calculators only): Determine the cell phone brand, calculator name, and calculator version. (Note: The calculator might just be called \"calculator.\" The version information might be difficult to find, but it's there somewhere. You might find the information in the app store.)    Calculator type: Basic or scientific. (Note: Some calculators allow you to use either mode. If so, indicate this and use scientific mode for the rest of the lab.)    Execution style: Infix or immediate execution    Parentheses, square, and square root: Determine whether the calculator allows the use of parentheses, the squaring function, and the square root function.    Scientific Notation: Determine whether the calculator accepts scientific notation. (Note: If the calculator is infix and has an exponentiation function, then you can use scientific notation. But some calculators will have an E or EE button for scientific notation.)      We will use the calculators to calculate some values. The purpose is to compare the relative difficulty of getting the correct answers. In some cases, you might be able to perform the entire calculation in a single step. But in other cases, you may need to perform multiple separate calculations to get the correct result. Be sure to make note of any challenges you encounter.    Calculate . The correct result is 1.    Calculate . The correct result is 7.    Calculate . The correct result is 7.       We will now test some of the limits of the calculators. Perform the following tasks on each calculator.    Calculate and count the total number of digits that are displayed (including the leading zero). Then calculate and count the number of digits that are displayed. Indicate whether there are more, fewer, or the same number of digits in the display.    Determine the highest power of 10 that the calculator will accept without giving an error. This is easiest on calculators that have exponentiation or scientific notation. If it does not have these features, it will be helpful to use the \"Ans\" feature (uses the answer of the last calculation as part of the next calculation) or the memory feature to store large powers of ten. Make a note of the error it gives when it breaks.    If the calculator has a square root function, determine the maximum number of 9s needed for the calculator to display that . (Note: It is possible that for some calculators, it will not display this result even for a large number of 9s. If that happens on one of your calculators, just indicate this.)      We will now engage in some \"stress tests\" of the calculators. The goal is to see whether we can make the calculator make mistakes. Note that if the instruction says to \"calculate\" a quantity, it means to have the calculator evaluate the result by pressing the equal sign (or equivalent button).    Calculate . Do not add parentheses or make other adjustments to force the calculator to get the right answer. We want to see how the calculator interprets this. The correct answer is 7, but some calculators will give 9 as the answer.    Calculate and then multiply that result by . The correct answer is 1, but not all calculators will give this result.    Calculate with as many 9s are needed to give a result of 1. Then square the result. The correct answer is with as many 9s as you entered when you started. However, some calculators will have rounding error and simply return a value of 1.    For calculators with a squaring function and a square root function, start with and square as many times as needed to get a result of 0. Then take the square root. The correct answer is a very small positive one, but some calculators will give 0. For calculators that give a small positive number square twice and take the square root twice to see if it makes a difference. Continue squaring more and more times until it gets stuck at 0.    For calculators that have parentheses and inline notation (so that fractions appear as or instead of ), calculate . If the calculator does not give an error, indicate what answer it gave. (Note: This calculation is hotly debated on the internet, and it is known that different calculators give different answers. What the \"right\" answer is and whether there even a \"right\" answer depends on who you ask.)        Discussion  Answer the following questions.    Based on your experiences, which calculator would you say is the \"best\" one? The \"worst\" one? (Note: It's possible for multiple calculators to tie for best or worst. This is purely subjective.) What are your reasons for your rankings? Also indicate if there is disagreement within the group about these answers.    Did any of the stress test results surprise you? What about them was surprising?      Conclusion  It's a common assumption that everyone knows how to use a calculator. This assumption is true for very basic calculations, but it's often false when more complex calculations are involved. Was there anything new that you learned about calculators from this activity?    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? This should only take a few sentences for this lab.    Procedure  This lab has you executing a number of calculations using different calculators. Describe the various calculations that you did.    Results and Data  You should have one table of information the describes the calculators. Then you should have another set of tables (one table for each calculation) where you indicate which calculators you used and the results of the calculations.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising? Did you learn anything new about calculators?     "
 },
 {
   "id": "lab-unit-conversion",
@@ -1833,8 +1833,8 @@ var ptx_lunr_docs = [
   "url": "sec-stability.html",
   "type": "Section",
   "number": "10.2",
-  "title": "Creating Stable Structures",
-  "body": " Creating Stable Structures     .....   .....   There are two types of stability that we will be looking at. The first is the stability of the whole object, focusing on the question of whether the object is going to stay where it is or if it will topple over. The second is the internal stability of the object, focusing on ways that objects can break.    Stability: Center of Mass  Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base of the pencil (the flat surface that it's supposed to rest on), it will not fall over.  This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the base instead of tipping over.  Items that are \"top-heavy\" fall over more easily, and this is due to geometry. When the center of mass is far from the base, a small change of angle can result in a large movement of the center of mass. This means that it's easier for the object's center of mass to go outside of the base, which makes it easier for it to fall over.    Internal Stability  Internal stability is about maintaining the relationships between the different parts of the object. That stability is maintained by many forces.  When a rigid body is put under some sort of strain, there are internal forces that hold the object together to keep it from breaking. If the strain forces get too large, then the object will begin to warp and bend, and in some cases it will snap.  If there are two rigid bodies being held together, the forces used to hold them together are often through connecting pieces (like screws or nuts and bolts) or an adhesive. It is often helpful to use multiple connecting pieces to maintain the relationship between two bodies in order to resist having pieces rotate. An adhesive can be modeled as a lot of small connecting pieces, except that the connecting pieces are not nearly as strong  If there are more than two rigid bodies being held together, we can use other types of geometric concepts to help maintain the shape. Triangles are often used in construction because they resist changes to their shape. A shape like a rectangle can collapse in a process sometimes called parallelgramming.   "
+  "title": "Stable Structures",
+  "body": " Stable Structures     .....   .....   There are two types of stability that we will be looking at. The first is the stability of the whole object, focusing on the question of whether the object is going to stay where it is or if it will topple over. The second is the internal stability of the object, focusing on ways that objects can break.    Stability: Center of Mass  Consider an unsharpened pencil. With a little bit of work, it's possible to get the pencil to stand on the flat, unsharpened end without tipping over. But what condition is needed in order for it to stay upright? It turns out that we need to focus on the center of mass. As long as the center of mass is above of the base of the pencil (the flat surface that it's supposed to rest on), it will not fall over.  This gives us an explanation for some of our basic intuitions about objects and balance. Objects are harder to balance on a small base because the location of the center of mass only has a small area where it can be before it falls over. But objects with a wide base are more stable because the center of mass has a lot more room to move while still being inside the base. Furthermore, even if the object happens to roll a little bit, if the base is large, the object will fall back to the base instead of tipping over.  Items that are \"top-heavy\" fall over more easily, and this is due to geometry. When the center of mass is far from the base, a small change of angle can result in a large movement of the center of mass. This means that it's easier for the object's center of mass to go outside of the base, which makes it easier for it to fall over.    Internal Stability  Internal stability is about maintaining the relationships between the different parts of the object. That stability is maintained by many forces.  When a rigid body is put under some sort of strain, there are internal forces that hold the object together to keep it from breaking. If the strain forces get too large, then the object will begin to warp and bend, and in some cases it will snap.  If there are two rigid bodies being held together, the forces used to hold them together are often through connecting pieces (like screws or nuts and bolts) or an adhesive. It is often helpful to use multiple connecting pieces to maintain the relationship between two bodies in order to resist having pieces rotate. An adhesive can be modeled as a lot of small connecting pieces, except that the connecting pieces are not nearly as strong  If there are more than two rigid bodies being held together, we can use other types of geometric concepts to help maintain the shape. Triangles are often used in construction because they resist changes to their shape. A shape like a rectangle can collapse in a process sometimes called parallelgramming.   "
 },
 {
   "id": "sec-tension",
@@ -1846,56 +1846,29 @@ var ptx_lunr_docs = [
   "body": " Tension     .....   .....   Tension is a force that is transmitted along an object that lead to it being stretched. It is the opposite of compression.    Tension in Rigid Bodies  Tension in a rigid body is one of the internal forces described in the previous section. If we imagine trying to bend a rod, what's happening is that we are trying to make the \"outer\" part of the bend longer by stretching it. The tension force is the force that is resisting that bend and is keeping the rod straight. On the \"innter\" part of the bend, there is compression, as that side is being pressed inward.    Tension in Ropes  Ropes have the property that they can only be used for pulling, but not pushing. This leads to a number of interesting physical properties.  The tension in a rope is generally assumed to be the same throughout its whole length. That is, if you were to treat the rope as two pieces being held together by tension, the tension you calculate does not depend on where you choose to break the rope.  As the tension in a rope goes to zero, the rope goes slack and is no longer transmitting any forces.   "
 },
 {
-  "id": "lab-equal-opposite",
+  "id": "lab-pasta-structures",
   "level": "1",
-  "url": "lab-equal-opposite.html",
+  "url": "lab-pasta-structures.html",
   "type": "Lab Activity",
   "number": "10.4.1",
-  "title": "Equal and Opposite Reaction",
-  "body": " Equal and Opposite Reaction   Introduction  Study bridge design and then build one out of pasta. Sample protocol     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "title": "Pasta Structures",
+  "body": " Pasta Structures   Introduction  Study bridge design and then build one out of pasta. Sample protocol  Practical Engineering Bridges     Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
 {
-  "id": "lab-equal-opposite-4",
+  "id": "lab-pasta-structures-4",
   "level": "2",
-  "url": "lab-equal-opposite.html#lab-equal-opposite-4",
+  "url": "lab-pasta-structures.html#lab-pasta-structures-4",
   "type": "Example",
   "number": "10.4.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
 {
-  "id": "lab-equal-opposite-8",
+  "id": "lab-pasta-structures-8",
   "level": "2",
-  "url": "lab-equal-opposite.html#lab-equal-opposite-8",
+  "url": "lab-pasta-structures.html#lab-pasta-structures-8",
   "type": "Additional Resources",
   "number": "10.4.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-center-of-mass",
-  "level": "1",
-  "url": "lab-center-of-mass.html",
-  "type": "Lab Activity",
-  "number": "10.4.2",
-  "title": "Center of Mass and Balance",
-  "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-center-of-mass-4",
-  "level": "2",
-  "url": "lab-center-of-mass.html#lab-center-of-mass-4",
-  "type": "Example",
-  "number": "10.4.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-center-of-mass-8",
-  "level": "2",
-  "url": "lab-center-of-mass.html#lab-center-of-mass-8",
-  "type": "Additional Resources",
-  "number": "10.4.2",
   "title": "",
   "body": "    Google     "
 },
@@ -1904,7 +1877,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-tensegrity-structure.html",
   "type": "Lab Activity",
-  "number": "11.1.1",
+  "number": "10.4.2",
   "title": "Tensegrity Structures",
   "body": " Tensegrity Structures   Introduction  Build a tensegrity table and draw the force diagrams to explain how it works.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1913,7 +1886,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-4",
   "type": "Example",
-  "number": "11.1.1.1",
+  "number": "10.4.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1922,7 +1895,34 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-tensegrity-structure.html#lab-tensegrity-structure-8",
   "type": "Additional Resources",
-  "number": "11.1.1",
+  "number": "10.4.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-center-of-mass",
+  "level": "1",
+  "url": "lab-center-of-mass.html",
+  "type": "Lab Activity",
+  "number": "10.4.3",
+  "title": "Center of Mass and Balance",
+  "body": " Center of Mass and Balance   Introduction  The location of the center of mass of an object can be used to predict stability.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-center-of-mass-4",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-4",
+  "type": "Example",
+  "number": "10.4.3.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-center-of-mass-8",
+  "level": "2",
+  "url": "lab-center-of-mass.html#lab-center-of-mass-8",
+  "type": "Additional Resources",
+  "number": "10.4.3",
   "title": "",
   "body": "    Google     "
 },
@@ -1931,7 +1931,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-hydraulics.html",
   "type": "Lab Activity",
-  "number": "12.1.1",
+  "number": "11.1.1",
   "title": "Hydraulics",
   "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1940,7 +1940,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-4",
   "type": "Example",
-  "number": "12.1.1.1",
+  "number": "11.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1949,7 +1949,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-8",
   "type": "Additional Resources",
-  "number": "12.1.1",
+  "number": "11.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -1958,7 +1958,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-what-is-light.html",
   "type": "Section",
-  "number": "13.1",
+  "number": "12.1",
   "title": "What is Light?",
   "body": " What is Light?     What I am going to tell you about is what we teach our physics students in the third or fourth year of graduate school... It is my task to convince you not to turn away because you don't understand it. You see my physics students don't understand it... That is because I don't understand it. Nobody does.   Richard Feynman (QED, The Strange Theory of Light and Matter)    It turns out that light is among the most complicated topics in physics to talk about. It is utterly unique in so many ways, and it defies many of our expectations for how we think the universe ought to work. If there is a single lesson to take away from this section, it's that all of the intuitive ideas that we will develop about light are wrong at some level. But unless you're a physicist doing research on light, the ways that our basic models are wrong aren't important enough to worry about.   electromagnetic radiation Light is electromagnetic radiation . Before the term radiation scares you, it's important to understand that everything in the universe that has a temperature above aboslute zero emits some form of electromagnetic radiation. The sun emits electromagnetic radiation, some of it that we can see and some of it we can't, such as ultraviolet radiation, which causes sun burns and skin cancer. Cell phones emit electromagnetic radiation, which is how they communicate with each other. You emit electromagnetic radiation, which is how night vision goggles can see you. And all light bulbs, regardless of the type (incandescent, fluorescent, or LED) emit electromagnetic radiation.   electromagnetic spectrum It might seem strange to say that you emit light, and that is because what we normally call \"light\" is electromagnetic radiation that our eyes can detect. However, in physics, we try to be more precise and call that \"visible light\" to avoid confusion. The reason for this is that the only difference between the radiation that our eyes can detect and the radiation that we need technology to detect is the amount of energy contained in that radiation. If we were to organize all of the types of electromagnetic radiation and order them by how much energy they each have, we would have a diagram known as the electromagnetic spectrum . Below is a diagram that labels the different energy levels.   photon  wave (light) There are two main ways to think about what light is. The first is that light is a photon , or a packet of energy. In this perspective, light is a particle. That means that it has a specific location that is traveling in a specific direction at a certain speed. In this framework, the energy of a photon is an intrinsic property that defines what type of light it is. Alternatively, we can think of light as a wave . In this perspective, we think of light traveling through the universe the way that a wave travels across water. The wave does not have a specific location, but is kind of spread out over a region. The wave may be moving in a specific direction and speed, but it's less clear what, exactly, is the thing that's moving.   wave-particle duality This mixed identity of light is often called wave-particle duality , which is a catchy-but-imprecise name that tries to capture the idea that a wave is somehow both of these things, while also being neither one. There is some history behind this, which is why the term sticks around. It turns out that physicists debated about whether light was a wave or a particle, with different scientists proposing different experiments to try to prove it one way or the other. Eventually, it was discovered that both sides could be right, depending on how the experiment was set up.  The importance of wave-particle duality is that it allows us to mix the two concepts together. For example, we often think of a photon as a ball of light that can bounce off of surfaces (reflect) in particle-like ways. At the same time, the way we perceive the color of light is based on the \"wavelength\" of light (the distance between consecutive peaks), which is a wave-like language to use. And we often don't think twice about it when we go back and forth like that.      (Space.com) What is the Electromagnetic Spectrum?      "
 },
@@ -2003,7 +2003,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-what-is-light.html#sec-what-is-light-9",
   "type": "Additional Resources",
-  "number": "13.1",
+  "number": "12.1",
   "title": "",
   "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
@@ -2012,7 +2012,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-special-relativity.html",
   "type": "Section",
-  "number": "13.2",
+  "number": "12.2",
   "title": "Special Relativity",
   "body": " Special Relativity     -----   -----     special relativity (the theory of) Albert Einstein is known for developing a theory of light known as the theory of special relativity . Through a series of thought experiments, he deduced one of the most unusual quirks about light. Light always appears to be traveling the same speed, regardless of who is measuring it and the speed and direction they are going. Although the words that describe this phenomenon seem quite striaght-forward, the reality of this is utterly bizarre.   classical velocity addition To start to understand what this means, we need to do some simple thought experiments. Let's say that you have a gun that shoots a pellet at a speed of 20 miles per hour. And let's say that you're shooting this from a car that is traveling at 50 miles per hour. If you are shooting the gun forward, how fast will the pellet go (ignoring air resistance)? You would likely say that it's traveling at 70 miles per hour, 50 miles per hour from the car plus 20 miles per hour from the gun. This is know as classical velocity addition .  But light doesn't behave that way. If we replace the pellet with a photon, something unusual happens. The photon will always be traveling at the same speed, regardless of how fast the car is going. Even if the car were traveling at 99% of the speed of light, the photon will still be traveling the same speed.  The implications of this are quite surprising. Here are some examples:     time dilation Time appears to be moving slower for objects that are in motion. This is called time dilation .     length contraction Objects appear to be compressed in the direction of motion. This is called length contraction .     relativity of simultaneity If two events appear simultaneous for you, then they will not be simultaneous for a person in motion. This is known as the relativity of simultaneity .    We will do a thought experiment to understand the last of these. Suppose you are standing in the exact middle of a dark railroad car with a light bulb. If the light bulb is turned on, the light from the bulb will reach the front and the back of the car at the same time. This is because you are in the exact middle of the car. And this remains true if the car is moving along the tracks since your relative position between the front and the back stay the same.  But now suppose your friend is watching you go by, and the light is turned on at the exact moment you pass them. What will they see? Since the speed of light is not influenced by the speed of the train, he will see the light moving the same speed towards the front and back of the car. However, as time moves forward, the back of the car is moving towards the light and the front of the car is moving away from it. In other words, they won't see the light hitting the front and back at the same time, even though it was the same time for you.   classical velocity addition The formulas that describe all of this have an interesting property, which is that it is impossible to accelerate an object with mass to reach the speed of light. We're going to return to the pellet gun example, except that we're going to have a very powerful gun and a very powerful car. Let's suppose that the car is moving at half of the speed of light, and that the gun shoots at half of the speed of light. If we were to use classical velocity addition, we would say that the pellet must be moving at the speed of light. But this is impossible! It turns out that relativistic velocity addition is more complicated than that, and it results in a speed that is slower than classical velocity addition.      (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42      "
 },
@@ -2075,7 +2075,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-special-relativity.html#sec-special-relativity-11",
   "type": "Additional Resources",
-  "number": "13.2",
+  "number": "12.2",
   "title": "",
   "body": "    (CrashCourse on YouTube) Special Relativity: Crash Course Physics #42     "
 },
@@ -2084,7 +2084,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-the-speed-of-light.html",
   "type": "Section",
-  "number": "13.3",
+  "number": "12.3",
   "title": "The Speed of Light",
   "body": " The Speed of Light     Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own special laws.   Douglas Adams (Mostly Harmless)    We know that the speed of light is constant for all observers, but what is that constant? Today, we know the speed of light (which is denoted by the letter ) is exactly 299,792,458 meters per second (approximately meters per second), which is fast enough to go around the earth about 7.5 times in a single second. But the definition of a meter is defined by the speed of light, and so this is a circular definition. What we really want to think about is how people tried to determine this value before we knew what it was. The pursuit of the answer to this question is an interesting story of ingenuity and creativity. The challenge, of course, is that the speed of light is very, very fast. How do you even begin to measure such a thing?  The speed of light is so fast that it was assumed to be instantaneous all the way until the late 1600s. Galileo was among the first to postulate that perhaps the speed of light is finite, and even devised an experiment to try to measure it. The experiment was quite simple. Two people stand on opposite sides of a valley, and each one has a latern with a shutter that blocks the light. When both are ready and in position, one of them would remove the shutter and reveal the light to the other. When that person sees the light, they will open their shutter and reveal the light back to the first person. By measuring how long it took for the light to reach the first person, you could theoretically estimate how fast the light is traveling. However, when this experiment was conducted, it turned out that the time was the same regardless of the distances between the two people. In fact, what they were basically measuring was the reaction time for the preson to see the light and remove the shutter.  In 1676, the Danish astronomer Ole Christensen Rømer was the first person to get an actual estimate of the speed of light. This was based on observing the differences in the timing of the eclipses of the moons of Jupiter when the earth was approaching it and when the earth was moving away from it. Based on his calculations, he estimated that the speed of light was approximately meters per second. Even though the tools at the time were relatively crude, it is quite amazing that he was able to get the right order of magnitude for the speed of light at that time.   stellar aberration The next estimate for the speed of light was also derived from looking at the sky. There is a visual artifact called stellar aberration which makes the positions of stars shift slightly due to the movement of the earth around the sun. This can be understood by imagining a ball falling straight down from the sky. If you're standing still, you will see that the ball is falling vertically. But if you are walking towards the ball as it's falling, it will appear to be falling at an angle towards you. The English astronomer James Bradley was monitoring the position of a star called Eltanin and noticed that it moved in a way that the current theories did not correctly predict. Bradley theorized the concept of stellar aberration to explain this, and used it to estimate the speed of light to be approximately meters per second.  In 1849, the French physicist Armand Hippolyte Louis Fizeau used a mirror and a cogwheel to measure the speed of light without needing the night sky. His device shined a light through the teeth of a spinning cogwheel, which would hit a mirror about 8 kilometers away, which would return back. By spinning the wheel, he could create individual beams of light that would shoot down to the mirror and back again. Then by controlling the speed that the wheel was spinning at, he would be able to time it so that the beam of light would either hit a tooth of the cogwheel or hit a gap between the teeth. From this information, he was able to estimate that the speed of light to be about meters per second. While this was slightly worse, the major accomplishment was that this measured the speed of light using a very short distance (relatively speaking).  There were a more innovations, such as using rotating mirrors and using intereference of light waves that slowly improved the estimates for the speed of light. The science behind those methods gets increasingly complex, and so we're not going to delve any deeper into it. The main takeaway from this section is mostly to appreciate the progression of ideas that allowed us to get better and better approximations of the speed of light.      (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration      "
 },
@@ -2102,7 +2102,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-the-speed-of-light.html#sec-the-speed-of-light-9",
   "type": "Additional Resources",
-  "number": "13.3",
+  "number": "12.3",
   "title": "",
   "body": "    (Science Ready) Measuring Light's Speed:Key Experiments Explained      (Explaining Science) Stellar Aberration     "
 },
@@ -2111,7 +2111,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-polarized-light.html",
   "type": "Section",
-  "number": "13.4",
+  "number": "12.4",
   "title": "Polarized Light",
   "body": " Polarized Light     -----   -----    If we think about the wave-like properties of light, we might start to wonder exactly what direction the waves are vibrating in. Our best analogy for thinking about waves is water, and in that situation the waves vibrate in the direction perpendicular to the wave's motion. That picture is somewhat limiting because there are really only two dimensions of motion, but it does give us the right concept. Light waves also vibrate perpendicular to its motion, but now it's a lot more complicated because there are many directions that this could be.   unpolarized light  polarized light The vibrations of light are typically oriented randomly. That is, each photon that arrives is vibrating in its own random direction, so that when you have lots of photons there is no coherence to the vibrations you are seeing. This is known as unpolarized light . Most of the light you encounter is unpolarized. It takes special conditions to get the light waves to become oriented in some type of meaningful pattern to become polarized light The most common types of polarized light in applications are linearly and circularly polarized light.   linearly polarized light  Linearly polarized light vibrates back and forth in a flat line pattern. This can be visualized as light that needs to pass through a series of parallel bars. Only the light that is aligned with the bars can make it through, and the rest of it gets blocked. And this is basically what a polarizing filters do. Our eyes cannot detect polarlized light directly, but we can test whether light is polarized by rotating a polarizing filter. If the light is polarized, the brightness will change depending on the angle. In fact, if all of the light is polarized, you will block all of the light if you hold the filter perpendicular to the polarization.  Polarized light can be formed off the reflection of surfaces, but only at certain angles (and the angle depends on the surface). In these situations, polarized filters can be used to block just the light off of that surface without blocking the rest of the light (which is typically unpolarized). This is why polarized sunglasses are able to reduce the glare off of the road and why polarized lenses can be used to reduce the glare off of water.   circularly polarized light  Circularly polarized light creates a spinning pattern, and it can be spinning either clockwise or counter-clockwise. To create circularly polarized light, you start with linearly polarized light and run it through a special filter that allows light to vibrate at two different speeds in two different (perpendicular) directions. But why would you want to convert linearly polarized light to circularly polarized light? Some electronics (TVs, monitors, smart phones) produce linearly polarized light, and research suggests that by adding an extra layer of polarizing filter to convert it to circularly polarized light, that it reduces eye strain.      (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia      "
 },
@@ -2147,7 +2147,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-polarized-light.html#sec-polarized-light-8",
   "type": "Additional Resources",
-  "number": "13.4",
+  "number": "12.4",
   "title": "",
   "body": "    (Edmund Optics) Introduction to Polarization      (Clinical and Translational Science) Comparison of the influence of light between circularly polarized and linearly polarized smartphones on dry eye symptoms and asthenopia     "
 },
@@ -2156,7 +2156,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-ray-tracing.html",
   "type": "Lab Activity",
-  "number": "13.5.1",
+  "number": "12.5.1",
   "title": "Ray Tracing",
   "body": " Ray Tracing   Introduction  Something with ray-tracing. Maybe sketching forced perspective 3D scenes or something    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2165,7 +2165,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-4",
   "type": "Example",
-  "number": "13.5.1.1",
+  "number": "12.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2174,7 +2174,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-ray-tracing.html#lab-ray-tracing-8",
   "type": "Additional Resources",
-  "number": "13.5.1",
+  "number": "12.5.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2183,7 +2183,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-prisms.html",
   "type": "Lab Activity",
-  "number": "13.5.2",
+  "number": "12.5.2",
   "title": "Prisms",
   "body": " Prisms   Introduction  Light bending and color    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2192,7 +2192,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-4",
   "type": "Example",
-  "number": "13.5.2.1",
+  "number": "12.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2201,7 +2201,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-prisms.html#lab-prisms-8",
   "type": "Additional Resources",
-  "number": "13.5.2",
+  "number": "12.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2210,7 +2210,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-optical-illusions.html",
   "type": "Lab Activity",
-  "number": "14.1.1",
+  "number": "13.1.1",
   "title": "Optical Illusions",
   "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2219,7 +2219,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-4",
   "type": "Example",
-  "number": "14.1.1.1",
+  "number": "13.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2228,7 +2228,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-8",
   "type": "Additional Resources",
-  "number": "14.1.1",
+  "number": "13.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2237,7 +2237,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-light-and-shadow.html",
   "type": "Lab Activity",
-  "number": "14.1.2",
+  "number": "13.1.2",
   "title": "Light and Shadow",
   "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2246,7 +2246,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
   "type": "Example",
-  "number": "14.1.2.1",
+  "number": "13.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2255,7 +2255,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
   "type": "Additional Resources",
-  "number": "14.1.2",
+  "number": "13.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2264,7 +2264,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-analog-photography.html",
   "type": "Lab Activity",
-  "number": "15.1.1",
+  "number": "14.1.1",
   "title": "Analog Photography",
   "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2273,7 +2273,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-4",
   "type": "Example",
-  "number": "15.1.1.1",
+  "number": "14.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2282,7 +2282,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-analog-photography.html#lab-analog-photography-8",
   "type": "Additional Resources",
-  "number": "15.1.1",
+  "number": "14.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2291,7 +2291,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-pinhole-camera.html",
   "type": "Lab Activity",
-  "number": "15.1.2",
+  "number": "14.1.2",
   "title": "Pinhole Camera",
   "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2300,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
   "type": "Example",
-  "number": "15.1.2.1",
+  "number": "14.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2309,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
   "type": "Additional Resources",
-  "number": "15.1.2",
+  "number": "14.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2318,7 +2318,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-color.html",
   "type": "Section",
-  "number": "16.1",
+  "number": "15.1",
   "title": "Color",
   "body": " Color     Color is the place where our brain and the universe meet.   Paul Klee     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light called rods, and one for bright light called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, green, and blue.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
 },
@@ -2354,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color.html#sec-color-11",
   "type": "Additional Resources",
-  "number": "16.1",
+  "number": "15.1",
   "title": "",
   "body": "    (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra     "
 },
@@ -2363,7 +2363,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-color-space.html",
   "type": "Section",
-  "number": "16.2",
+  "number": "15.2",
   "title": "Color Space",
   "body": " Color Space     -----   -----   Color space is a topic that students of digital visual media need to understand. But it can often be a difficult topic because there are a lot of pieces that go into it. The goal of this section is to help you understand and interpret what color space is without getting too bogged down in the details.    The Perception of Color  In the previous section, we talked about how different wavelengths of light generate different colors. However, we did not say that every color that we see is the result of a particular wavelength of light. You will not find pink or brown in the rainbow. So where does it come from?   spectrophotometer A device known as a spectrophotometer can be used to measure the amounts of all of the incoming wavelengths of light. These can generate graphs (called the \"spectral power distribution\") that will show peaks around the wavelengths of light that are the most common when viewing an object. While we could say that these graphs can \"define\" colors for us, and this would be a very scientific and concrete way to understand colors, this isn't what actually happens in our heads. Our eyes are simply not as sophisticated, and we aren't able to isolate the exact wavelengths of lights in that way. All we have are our three colors of cones. This means that our understanding of color is going to be much simpler.  The solution our brains have developed is that it invents new colors for us to see when we're seeing mixtures of wavelengths at the same time in the same spot. So if the red and blue cones are being activated in the same spot, our brains create a color that we call magenta to try to tell us that this is a mixture of colors.  An important fact about our color perception is that it depends on the level of activation of the cones, and not the actual wavelengths of light that are hitting them. So we might perceive two colors to be the same even if the spectral power distributions are different.    The In-Between Layer  Imagine that you're watching a sunset. What is the physical process that's happening to allow you to experience it? The sun is generating photons, which are bouncing around all through the atmosphere and off of the ground, the clouds, the trees, and anything else that you see. Those photons then reach your eyes, which causes your brain to generate a picture that you interpret as watching the sunset.  Now imagine that you want to take a picture of this sunset so that you can see it again at some point in the future. This will introduce (at least) two more steps into the process. The first thing you need to do is to try to capture the photons (you do this with your camera), and then you need to find a way to reproduce those photons using a medium of some sort (your cell phone, your computer monitor, or your printer). We are going to focus on digital images because it presents a distinct set of challenges from analog images.  In this in-between layer, we create opportunities for errors to occur. Some of the errors are generated from things like an out-of-focus camera or corrupted data. But even if all of that were perfect, we still have a significant challenge. How do we capture reality and then reproduce it? The concept of color space is specifically focused on trying to figure out how to get colors as \"correct\" as possible.   photosite The challenge is that cameras, like our eyes, are limited in the information they can capture. They aren't capturing all of the information like a photospectrometer would. What is typically happening is that there is a sensor called a photosite which converts photons into voltages, which are converted to digital information. And then that digital information will need to be re-translated back into colors generated by a monitor, which can only generate three distinct colors with different levels of intensity. So the broad spectrum of photons that you started with gets boiled down to essentially three specific wavelengths, which somehow needs to capture our experience of color.    Color Space  Color space is our attempt to take what we can understand about human perception and do what we can to recreate as closely as possible an experience of reality within the limitations of the equipment that we have. The first thing we need to do is to chart our experience of colors. It starts with a graph that looks something like this:    Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition   There are actually lots of graphs that can be generated, and they are all different ways of trying to conceptualize the same thing. The main features of each of these graphs are the following:    The boundary of the shape represents the visible light spectrum. In this specific example, the wavelengths are specifically indicated, but not all graphs will have this feature.    The colors that you see represent colors that are perceived. These colors are based on both theoretical and empirical data.    If we mix two wavelengths of light, we perceive a color that is somewhere on the line connecting them. Exactly where along the line it is depends on the relative intensity of the two wavelengths. In general, the perceived color is the weighted average of the wavelengths.      Gamuts  The purpose of color spaces is that provides us a framework for understanding how colors can be translated through the in-between layer.  On the recording end, we need to be able to understand and interpret the data we are collecting. If we had two color sensors where each one only detected a single wavelength of light, then the only colors that we would be able to record would be on the line connecting the two points on the boundary corresponding to those wavelengths. In other words, the color space that the camera could access is limited, and it will be unable to reproduce colors outside of that range. This example is mostly theoretical because modern technology doesn't have this type of limitation, but it is an important conceptual point to help understand the next part.  On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes, which are used for electronic monitor displays (desktops, phones, tablets). These displays can really only create three distinct colors of light, namely red, green, and blue. But exactly which colors it generates depends on the specifics of how the electronics are set up. You might be familiar with trying to calibrate a monitor by turning the brightness up or down, or adjusting the contrast. Regardless of the specifics, there is a particular color of red, green, and blue that are generated, and those colors are located somewhere on thee color space. Once those three colors are identified, the only colors that can be displayed live inside of the triangle formed by those three points.  The goal is to have the colors collected by the recording end to be perfectly matched up with the colors generaeted on the reproducing end. And the only way this can happen is if there is agreement about what the colors are. And this is where the various standards came from. The following diagram shows three common color spaces:    Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space    gamut The triangles are known as gamuts , and they represent the range of colors that can be represented under the different color concepts, and this is based on the specific red, blue, and green that is used by that gamut. It also shows how using the wrong standard on your display relative to the camera can lead to poor results. For example, if your camera is set to Adobe RGB but your computer is set to interpret the data as sRGB, you will find that your greens are a little more yellow. This is because the camera's concept of green is more green than green of sRGB. And this is why it is important to make sure that you are using the same settings on both sides of the process.       Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
 },
@@ -2390,7 +2390,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-5-3",
   "type": "Figure",
-  "number": "16.2.0.1",
+  "number": "15.2.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition  "
 },
@@ -2399,7 +2399,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-6-6",
   "type": "Figure",
-  "number": "16.2.0.2",
+  "number": "15.2.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space  "
 },
@@ -2417,7 +2417,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-7",
   "type": "Additional Resources",
-  "number": "16.2",
+  "number": "15.2",
   "title": "",
   "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
 },
@@ -2426,7 +2426,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-kelvin-scale.html",
   "type": "Section",
-  "number": "16.3",
+  "number": "15.3",
   "title": "Kelvin Scale",
   "body": " Kelvin Scale     -----   -----     Blackbody Radiation  When we introduced the topic of photons and the electromagnetic spectrum, we stated that every object whose temperature is above zero emits radiation. This phenomenon is known as blackbody radiation . When we look at an object, there are two types of radiation that come from it. The most common type that we see is reflected light. An example of this is that sunlight hits the tree, and the tree reflects some of that light to our eyes so we can see it. But there's another type of radiation that comes from the object itself. The most common example of this that we see is a flame. The flame's light is coming from itself, not a reflection off of something else. Specifically, the light that we see is the blackbody radiation of tiny particles of soot. But what does that mean?  If we were to put a heated particle inside of a perfect vacuum, over time it will slowly release its energy in the form of photons. You can think of this as the sun slowly burning itself out in space. That release of energy in the form of photons that follow a specific mathematical formula that describes the spectral distribution, and the formula only depends on the temperature of the object (which is measured in Kelvin). In other words, you can know the temperature of a blackbody object by looking at what color it is.    The Kelvin Scale of Color  Since we have a mathematical model of the distribution of photons from blackbody radiation, and we have a model for what colors our brains create when we detect a range of photons, it's possible to roll the two concepts together into a graph. This graph shows us the color that we expect to see with our eyes based on the temperature of an object's blackbody radiation.    Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png   Under this framework, lower temperatures tend to be more red and orange, and then the colors work their way up through yellows and whites, and if the temperature keeps rising it starts to tip into the blues. Note that this is the opposite direction of traditional \"color temperatures\" (where blue is cool and red is warm). The difference is mostly historical, as artists were describing colors long before the science of blackbody radiation was developed.  The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.    Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications        (Britannica) Blackbody Radiation      "
 },
@@ -2444,7 +2444,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-3",
   "type": "Figure",
-  "number": "16.3.0.1",
+  "number": "15.3.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png  "
 },
@@ -2453,7 +2453,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-6",
   "type": "Figure",
-  "number": "16.3.0.2",
+  "number": "15.3.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications  "
 },
@@ -2462,7 +2462,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-5",
   "type": "Additional Resources",
-  "number": "16.3",
+  "number": "15.3",
   "title": "",
   "body": "    (Britannica) Blackbody Radiation     "
 },
@@ -2471,7 +2471,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-rgb-cmyk.html",
   "type": "Section",
-  "number": "16.4",
+  "number": "15.4",
   "title": "RGB and CMYK",
   "body": " RGB and CMYK     To attain knowledge, add things every day. To attain wisdom, subtract things every day.   Lao Tzu   Within the media arts, there are two complementary color schemes that have been developed, and these are based on the underlying physics of how those colors are created. If you think about a computer monitor, the default state is black and colors are added in to make the screen brighter. If you think about a sheet of paper, the default state is white and colors are subtracted away to make the paper darker. This basic framework sets us up for understanding of the RGB and CYMK color schemes.    RGB   additive color RGB is the color scheme whose primary colors are red, green, and blue. The reason for this color combination is a matter of our human biology, and not some underlying physical principle. Our eyes simply have receptors that are mostly sensitive to those colors, and so this maximizes our responsiveness to this color scheme. Most importantly, this is an additive color scheme, which means that we are starting from black (no photons) and increasing the number of photons that reach our eyes when we add these colors into the mix.  If you were to take a very close look at your computer monitor or cellphone screen, you would see that each pixel is constructed from three subpixels. Unsurprisingly, the colors of those subpixels are red, green, and blue. The way that colors are produced is that those subpixels display at different levels of intensity. The itensity levels are usually given as a number from 0 to 255, where lower numbers mean lower levels of intensity. (If you have ever seen hex color codes, such as #A72EBD, you have seen this color system. The only difference is that the numbers are being represented in hexadecimal instead of using our usual decimal number system. If this were a math class, we'd talk about how hexadecmial works. But it's not, so we'll just direct you to search for a hexademical to decimal converter online.)   Technicolor The ideas for this system go back to the 1920s when Technicolor developed their three strip system. At that time, film was only able to capture black-and-white. How can you use black-and-white film to capture color? The basic idea was to capture the footage three times, with one film capturing the reds, one film capturing the greens, and one film capturing the blues. Then the three layers can be put back together using red, green, and blue lights to reproduce the original image.    CMYK  CMYK is the color scheme whose primary colors are cyan, magenta, yellow, and black. This is also built around human biology, but moving in the opposite direction as RGB. Instead of starting with black and turning up the colors, this starts with white and removes colors. This is used for pigment-based colors, like paint and ink, where the illumination source is external and the colors that are seen are only from reflected light.   subtractive color The reason a white piece of paper looks white is because it's reflecting red, green, and blue photons back at us. If we add red ink to the paper, the reason that we see red is because the ink is absorbing the green and blue photons, and is only reflecting back the red ones. And this is what is meant by subtractive color . However, when it comes to pigments, thinking in terms of red, green, and blue turns out to be more complicated when you mix them. The underlying reason for this is that generating red means absorbing green and blue, and it makes more sense to have the primary colors absorb single colors rather than pairs of colors.  And this is where we get the cyan, magenta, and yellow base colors. Cyan is the color you get when you absorb only red light. Magenta comes from absorbing green. Yellow is the result of absorbing blue. Then you can mix two of these colors together to get the secondary colors of red, green, and blue. For example, red is a mixture of magenta (which absorbs green) and yellow (which absorbs blue).  The role of black in this system is because there's a gap between theory and practice. In theory, if you mix cyan, magenta, and yellow together, you should get black. However, in practice, the pigments are not perfect. That is, cyan doesn't absorb all of the blue, and so on. This means that mixing the colors together usually results in a brown color. So adding black as a separate color sidesteps the challenge of needing to make perfect cyan, magenta, and yellow colors in order to mix them together to get black.       (The George Eastman Museum) Three-Strip Camera      "
 },
@@ -2498,7 +2498,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rgb-cmyk.html#sec-rgb-cmyk-5",
   "type": "Additional Resources",
-  "number": "16.4",
+  "number": "15.4",
   "title": "",
   "body": "    (The George Eastman Museum) Three-Strip Camera     "
 },
@@ -2507,7 +2507,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-colored-light-shadows.html",
   "type": "Lab Activity",
-  "number": "16.5.1",
+  "number": "15.5.1",
   "title": "Colored Lights and Shadows",
   "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         (color.nerd on TikTok) Color Theory with Shadows      "
 },
@@ -2516,7 +2516,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-8",
   "type": "Additional Resources",
-  "number": "16.5.1",
+  "number": "15.5.1",
   "title": "",
   "body": "    (color.nerd on TikTok) Color Theory with Shadows     "
 },
@@ -2525,7 +2525,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-paint-color-mixing.html",
   "type": "Lab Activity",
-  "number": "16.5.2",
+  "number": "15.5.2",
   "title": "Mixing Paint Colors",
   "body": " Mixing Paint Colors   Introduction  This lab is an exploration of how paint colors mix together to create new colors. We will use a colorimeter to help us objectively measure of how close or far two colors are from each other.    Equipment List    Colored paints (including cyan, magenta, yellow, and black)    Brushes    Paper    Colorimeter capable of producing CYMK values (and its corresponding software)      Procedure      Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2534,7 +2534,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-5",
   "type": "Example",
-  "number": "16.5.2.1",
+  "number": "15.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2543,7 +2543,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-9",
   "type": "Additional Resources",
-  "number": "16.5.2",
+  "number": "15.5.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2552,7 +2552,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-chladni-plate.html",
   "type": "Lab Activity",
-  "number": "17.1.1",
+  "number": "16.1.1",
   "title": "Chladni Plates",
   "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2561,7 +2561,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-4",
   "type": "Example",
-  "number": "17.1.1.1",
+  "number": "16.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2570,7 +2570,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-8",
   "type": "Additional Resources",
-  "number": "17.1.1",
+  "number": "16.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2579,7 +2579,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "17.1.2",
+  "number": "16.1.2",
   "title": "Oscilloscope",
   "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2588,7 +2588,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-4",
   "type": "Example",
-  "number": "17.1.2.1",
+  "number": "16.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2597,7 +2597,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-8",
   "type": "Additional Resources",
-  "number": "17.1.2",
+  "number": "16.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2606,7 +2606,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-resonance.html",
   "type": "Chapter",
-  "number": "18",
+  "number": "17",
   "title": "Resonance",
   "body": " Resonance     Students will be able to...      Text before the first section.      "
 },
@@ -2615,7 +2615,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-resonance.html#ch-resonance-2",
   "type": "Learning Objectives",
-  "number": "18",
+  "number": "17",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2624,7 +2624,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-music.html",
   "type": "Chapter",
-  "number": "19",
+  "number": "18",
   "title": "Music",
   "body": " Music     Students will be able to...      Text before the first section.      "
 },
@@ -2633,7 +2633,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-music.html#ch-music-2",
   "type": "Learning Objectives",
-  "number": "19",
+  "number": "18",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2642,7 +2642,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-electronics.html",
   "type": "Chapter",
-  "number": "20",
+  "number": "19",
   "title": "Basic Electronics",
   "body": " Basic Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2651,7 +2651,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-electronics.html#ch-electronics-2",
   "type": "Learning Objectives",
-  "number": "20",
+  "number": "19",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2660,7 +2660,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-practical.html",
   "type": "Chapter",
-  "number": "21",
+  "number": "20",
   "title": "Practical Electronics",
   "body": " Practical Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2669,7 +2669,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-practical.html#ch-practical-2",
   "type": "Learning Objectives",
-  "number": "21",
+  "number": "20",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2678,7 +2678,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-hacking.html",
   "type": "Chapter",
-  "number": "22",
+  "number": "21",
   "title": "Hacking Electronics",
   "body": " Hacking Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2687,7 +2687,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-hacking.html#ch-hacking-2",
   "type": "Learning Objectives",
-  "number": "22",
+  "number": "21",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2696,7 +2696,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-building.html",
   "type": "Chapter",
-  "number": "23",
+  "number": "22",
   "title": "Building Electronics",
   "body": " Building Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2705,7 +2705,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-building.html#ch-building-2",
   "type": "Learning Objectives",
-  "number": "23",
+  "number": "22",
   "title": "",
   "body": "   Students will be able to...    "
 },
