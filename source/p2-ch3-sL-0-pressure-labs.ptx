@@ -3,6 +3,6 @@
 <section xml:id="sec-pressure-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Pressure</title>
 
-  <xi:include href="./p2-ch4-sL-1-hydraulics.ptx" />
+  <xi:include href="./p2-ch3-sL-1-hydraulics.ptx" />
 
 </section>
