@@ -3,6 +3,6 @@
 <section xml:id="sec-simple-machines-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Simple Machines</title>
 
-  <xi:include href="./p2-ch1-sL-1-pulley-lab.ptx" />
+  <xi:include href="./p2-ch1-sL-1-gear-lab.ptx" />
 
 </section>

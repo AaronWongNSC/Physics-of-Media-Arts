@@ -1,0 +1,284 @@
+<subsection xml:id="lab-gears" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Gears</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      We are going to explore gear mechanisms to begin to develop some intuition about how they work.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          A gear set (two 12-tooth gears, two 24-tooth gears, two 30-tooth gears, two 36-tooth gears, two linear gears, two linear gear backing plates, one base plate)
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+        We are going to explore a number of different aspects of gears through experimentation and observation.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Take the two 12-tooth gears and mesh them on the the base plate so that they rotate together. Rotate one of the 12-tooth gears one full rotation and determine
+          how much the other gear rotates. This value is known as the gear ratio. (Note: There is a line on the gears that you can use to help keep track of the position.)
+          Repeat this with every combination of round gears. An example chart has been provided for you below.
+        </p>
+      </li>
+      <li>
+        <p>
+          We will now make a sequence of three gears. Mesh the followings gears in the indicated order: 12-24-30. They do not all need to be in a straight line. They just
+          need to bein the correct order. Record how far the 24-tooth and 30-tooth gears rotate and in which direction when the 12-tooth gear does one complete rotation
+          in the clockwise direction. Then pick 4 more sequences of three gears and do the same exercise. Record the results.
+        </p>
+      </li>
+      <li>
+        <p>
+          We will next work with the linear gear. You will need to use the linear gear backing plate to hold the linear gear up against the round gear. Note that the two
+          sides of the backing piece are different sizes, so you might need to turn it around to get the appropriate distance. Create the following sequence of gears:
+          Linear-12-24-Linear. As you push the first linear gear (attached to the 12-tooth gear), the other linear gear should move. Determine how much faster or slower
+          the second linear gear moves relative to the first one (twice as fast, half as fast, same speed, etc.). Pick 4 more pairs of round gears in the middle and repeat
+          the experiment.
+        </p>
+      </li>
+      <li>
+        <p>
+          The peg of a round gears can be placed in the hole of another round gear to create a compound gear. We will always put the smaller gear on the bottom. (Otherwise,
+          the gear mechanism won't function properly.) If you put the 24-tooth gear on top of the 12-tooth gear, we will denote that as [12,24]. Create the following sequence
+          of gears: Linear-12-[12,24]-Linear. Note that the 12-tooth gear should be meshed with the 12-tooth gear of the [12,24] gear, and that the second linear gear should
+          be meshed with the 24-tooth gear. Determine how much faster or slower the second linear gear moves relative to the first one (twice as fast, half as fast, same
+          speed, etc.). Pick 4 more combinations of a round gears with a compound gear in the middle and repeat the experiment. (Note: Due to the physical sizes of the gears,
+          some combinations may not function. If that happens, just pick another one and try again.)
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <p>
+      The gear at the top of the column is rotated one time. The values in the chart below indicate how many rotations the gear at the start of the row experiences.
+    </p>
+
+    <table>
+      <title>Gear Ratios</title>
+      <tabular>
+        <row>
+          <cell>  </cell> <cell>12 Teeth</cell> <cell> 24 Teeth </cell> <cell> 30 Teeth </cell> <cell> 36 Teeth </cell>
+        </row>
+        <row>
+          <cell>12 Teeth</cell>
+        </row>
+        <row>
+          <cell>24 Teeth</cell>
+        </row>
+        <row>
+          <cell>30 Teeth</cell>
+        </row>
+        <row>
+          <cell>36 Teeth</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      In the chart below, the 1st gear is rotated one time in the clockwise direction.
+    </p>
+
+    <table>
+      <title>Three Gear Sequences</title>
+      <tabular>
+        <row>
+          <cell> Sequence </cell> <cell> 1 </cell> <cell> 2 </cell> <cell> 3 </cell> <cell> 4 </cell> <cell> 5 </cell>
+        </row>
+        <row>
+          <cell> 1st Gear Size </cell> <cell> 12 </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> 2nd Gear Size </cell> <cell> 24 </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 2nd Gear Direction </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 2nd Gear Rotation </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 3rd Gear Size </cell> <cell> 30 </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 3rd Gear Direction </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 3rd Gear Rotation </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      In the next two charts below, the first linear gear drives the gear train. The second linear gear speed is given relative to the first linear gear (twice
+      as fast, half as fast, same speed, etc.).
+    </p>
+
+    <table>
+      <title>Linear Gears</title>
+      <tabular>
+        <row>
+          <cell> Sequence </cell> <cell> 1 </cell> <cell> 2 </cell> <cell> 3 </cell> <cell> 4 </cell> <cell> 5 </cell>
+        </row>
+        <row>
+          <cell> 1st Gear Size </cell> <cell> 12 </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> 2nd Gear Size </cell> <cell> 24 </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 2nd Linear Gear Speed </cell> <cell>  </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Compound Gears</title>
+      <tabular>
+        <row>
+          <cell> Sequence </cell> <cell> 1 </cell> <cell> 2 </cell> <cell> 3 </cell> <cell> 4 </cell> <cell> 5 </cell>
+        </row>
+        <row>
+          <cell> 1st Gear Size </cell> <cell> 12 </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Compound Gear Sizes </cell> <cell> [12,24] </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+        <row>
+          <cell> 2nd Linear Gear Speed </cell> <cell>  </cell> <cell> </cell> <cell> </cell> <cell> </cell> <cell> </cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <p>
+      We will now analyze the data we gathered to attempt to understand some of the basic properties of gears.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Based on the gear ratio data you collected, complete the following sentence: When the first gear rotates one time, the second gear will rotate ____ times.
+          The value of the blank should be a formula that involves the number of teeth of the first gear and the number of teeth of the second gear.
+        </p>
+      </li>
+      <li>
+        <p>
+          Based on the three gear sequence data you collected, describe the pattern of directions that the gears have with each other. If a fourth gear were added,
+          which direction would it turn if the first gear is rotated in the clockwise direction?
+        </p>
+      </li>
+      <li>
+        <p>
+          Based on the three gear sequence data you collected, describe the impact of the middle gear on the rotation speed of the last gear.
+        </p>
+      </li>
+      <li>
+        <p>
+          Based on the linear gear data you collected, what can you conclude about the relative speed of the linear gears when using just basic (non-compound) gears?
+        </p>
+      </li>
+      <li>
+        <p>
+          Based on the compound gear data you collected, write a sentence that describes how you can determine the speed of the second linear gear based on the gears that
+          are in between them.
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      This lab is just an exploratory introduction to gears. There is much more that can be learned, and hopefully this has piqued your interest in the topic.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the process of collecting the data. Were there any particular challenges?
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Present your charts of data. Make sure that they are clearly labeled.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize your calculations in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

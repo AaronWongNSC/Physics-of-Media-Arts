@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-gears" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Gears</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      Gears are typically not considered to be simple machines because a single gear does not have the ability to change the direction of a force or change its magnitude.
+      (If it is being used to change the direction of a force, it's just acting as a pulley.) However, when multiple gears are used together, you can get both a change
+      in the magnitude of a force as well as the direction.
+    </p>
+    <p>
+      It's worth noting that some people do try to say that gears are simple machines. I don't know if it's worth getting into an argument over that.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>A Brief Overview of Gears</title>
+
+    <p>
+      The study of gears and gear mechanisms can be an entire chapter on its own.  And maybe some day in this text, it will be. But for now, we're going to
+      just give a general overview of them and leave the exploration of gears as a lab.
+    </p>
+    <p>
+      The basic premise of gears is that they are wheel and axles but with teeth that act like a lever. The teeth "mesh" together, meaning that the teeth maintain the
+      basic relationship between two gears that are connected to each other. If one rotates, so does the other. Sometimes a loop of chains is used to link two gears
+      together so that they can be meshed together but be physically far apart.
+    </p>
+    <p>
+      One of the big ideas of gears is that the size of the gear (diameter) is directly related to the number of teeth that the gear has, and having different numbers of
+      teeth lead to different types of mechanical behaviors. A large gear can rotate a small gear very quickly, and a force (torque) applied to a small gear can be
+      magnified using a large gear.
+    </p>
+    <p>
+      There are also different types of gears that can be used. A linear gear can mesh with a regular gear to convert rotational motion into linear motion. A worm gear
+      can be used to have a fine control over gears and lock them in position. Compound gears are a mechanism that the same rotational speed can be used to generate
+      two different linear speeds.
+    </p>
+    <p>
+      There is much more that can be said, but this needs to be put to rest for now.
+    </p>
+
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

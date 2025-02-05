@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-compound-machines" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Compound Machines</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>...</q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      <idx><h>compound machine</h></idx>
+
+      A <term>compound machine</term> is a machine that consists of multiple simple machines. However, just because a machine is considered a compound machine, it doesn't
+      mean that the machine is necessarily complicated. We will look at a few examples.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Examples of Compound Machines</title>
+
+    <ul>
+      <li>
+        <p>
+          A tortilla press is a combination of two levers. The part that flattens the tortilla is a second class lever because the load (the tortilla) is in between the
+          fulcrum (the hinge) and the effort (the outer edge of the top plate). On top of that lever, there's another second class lever. The distance between the fulcrum
+          (the hinge) and the load (the contact point between the arm and the top plate) is small and the lever is long, which creates a very large mechanical advantage.
+          The total mechanical advantage is the product of the mechanical advantage of each part.
+        </p>
+      </li>
+      <li>
+        <p>
+          A pair of scissors is a common example of a compound machine. The blades of the scissors are each a separate wedge, and the pivot point and handles form two
+          opposing first class levers. From this, we can see that scissors with short handles will have less cutting power than scissors with long handles. In fact,
+        </p>
+      </li>
+      <li>
+        <p>
+          Bolt cutters are not just a large pair of scissors. You would not get enough of a mechanical advantage from that. If you look closely at the operation of a pair
+          of bolt cutters, you'll see that there are two levers. So in addition to the initial mechanical advantage of having long arms, there's an additional mechanism
+          that greatly multiplies the force.
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->
