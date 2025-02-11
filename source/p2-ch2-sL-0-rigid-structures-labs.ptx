@@ -3,8 +3,7 @@
 <section xml:id="sec-rigid-structures-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Rigid Structures</title>
 
-  <xi:include href="./p2-ch2-sL-1-pasta-bridge.ptx" /> -->
+  <xi:include href="./p2-ch2-sL-1-toothpick-structures.ptx" /> -->
   <xi:include href="./p2-ch2-sL-2-tensegrity-structure.ptx" /> -->
-  <xi:include href="./p2-ch2-sL-3-center-of-mass.ptx" /> -->
 
 </section>

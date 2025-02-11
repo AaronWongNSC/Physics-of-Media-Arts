@@ -1,38 +1,115 @@
-<subsection xml:id="lab-pasta-structures" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Pasta Structures</title>
+<subsection xml:id="lab-toothpick-structures" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Toothpick Structures</title>
 
   <paragraphs>
     <title>Introduction</title>
 
     <p>
-      Study bridge design and then build one out of pasta.
-      <url href="https://www.teachengineering.org/activities/view/wpi_spag_act_joy">Sample protocol</url>
+      We are going to build some simple structures out of toothpicks to try to understand a little bit more about building structures that are stable under loads.
     </p>
   </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          A box of toothpicks (a couple hundred is enough)
+        </p>
+      </li>
+      <li>
+        <p>
+          Hot glue gun
+        </p>
+      </li>
+      <li>
+        <p>
+          Several books and/or binders
+        </p>
+      </li>
+      <li>
+        <p>
+          Craft paper, cardboard, or other protective surface so you don't damage the table you're working on
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
 
   <paragraphs>
     <title>Procedure</title>
 
     <p>
-        ...
+      We are going to create a number of three-dimensional shapes out of toothpicks. Then we will test them to see how strong they are.
     </p>
+    <ol>
+      <li>
+        <p>
+          Lay out the protective surface on top of whatever table you're working on.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the hot glue gun to stick the ends of the toothpicks together to make four of each of the following shapes:
+          <ul>
+            <li>
+              <p>
+                Cube: Create two squares and then attach the appropriate corners together with a toothpick in the middle.
+              </p>
+            </li>
+            <li>
+              <p>
+                Reinforced Cube: Create a cube, then add diagonal pieces to the four vertical sides. You can break the toothpicks for the cube to make them smaller if you
+                wanted to go from corner-to-corner. But if you don't want to do that, you can just attach the diagonals to the sides of the square.
+              </p>
+            </li>
+            <li>
+              <p>
+                Pyramid with square base: Create a square, then add one vertical toothpick from each of the corners to create the pyramid.
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          For each shape, arrange the four pieces in a rectangle so that the first book and/or binder rests comfortably on them. (For the pyramids, the tip of the pyramid
+          should point upward). After everything appears to be stable, give the weight a little nudge in each direction to see if it remains stable. (It should survive this.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Add a second weight and repeat the process. Continue adding weights until the structure fails. If you run out of weights before the structure fails, you can push
+          downward on it to try to get it to fail. Be sure to give it a nudge in each direction after each weight to check for overall stability. When the structure fails,
+          make a note of how it failed. Here are some potential observations to consider: Did it fail during a nudge or by simply adding weight? Did a toothpick break, or
+          did a glue joint fail?
+        </p>
+      </li>
+    </ol>
   </paragraphs>
-
-  <example>
-    <title>Example</title>
-    
-    <p>
-      ...
-    </p>
-
-  </example>
 
   <paragraphs>
     <title>Discussion</title>
       
-    <p>
-      ...
-    </p>
+    <ol>
+      <li>
+        <p>
+          Which of your structures was the strongest?
+        </p>
+      </li>
+      <li>
+        <p>
+          Which of your structures was the weakest?
+        </p>
+      </li>
+      <li>
+        <p>
+          What ideas do you have for making a stronger structure? (If you have the time, you might even want to try to build this.)
+        </p>
+      </li>
+    </ol>
 
   </paragraphs>
 
@@ -40,7 +117,7 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      These structures hint at some of the basic concepts that are used to create strong and stable structures.
     </p>
   </paragraphs>
 
@@ -57,42 +134,42 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity?
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          Describe the steps of the lab.
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Describe the failure of each of the structures.
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
         </p>
       </li>
     </ul>
