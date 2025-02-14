@@ -1945,11 +1945,20 @@ var ptx_lunr_docs = [
   "body": " Pressure Applied Over Areas     .....   .....   The total force of pressure is often underestimated because the area over which it is applied is often overlooked.    Force from Pressure  The basic relationship for pressure is , which can be written as . This means that the total force from pressure depends on both the pressure and the area over which it is applied. This can sometimes be unanticipatedly large quantity.  A common demonstration is breaking a piece of wood (like a ruler) using air pressure. Video . The air pressure is approximately 100 kPa (which is 14.7 psi). With only a 30 cm square (about 1 foot) sheet of paper, you get a total force of (just over 2000 pounds). In the demo, you're not getting the full force of air pressure because the paper doesn't form a vacuum seal with the table, but you can see that the theoretical maximum is much larger than what is needed to break the stick.    Breathing Under Water   Action Lab Video    "
 },
 {
+  "id": "sec-hydraulics-pneumatics",
+  "level": "1",
+  "url": "sec-hydraulics-pneumatics.html",
+  "type": "Section",
+  "number": "11.4",
+  "title": "Hydraulics and Pneumatics",
+  "body": " Hydraulics and Pneumatics     .....   .....   Hydraulics and penumatics are powerful tools for increasing force and transmitting forces over distances. Hydraulics use incompressible fluids and pneumatics use air, but both work on the principle of generating a force through pressure.    Theory  There are two key elements of the theory behind these tools. The first is that the pressure in the system is constant throughout, or at least reaches an equilibrium state where this is true. The second is that the force is proportional to the area.  The following is a basic representation of a simple hydraulic system. A force on the smaller side gets multiplied on the larger side because the area of the surface is larger. However, the trade-off we saw with simple machines still exists because a large movement on the small side only results in a small movement on the larger side. In practice, the small side is replaced by a pump system with valves so that you can always \"reload\" the small cylinder with more liquid to keep pressing the other side upward.  A pneumatic device works with the same concept, except that instead of a valve system, there's an air compressor that can increase the pressure inside of the system.  There are some important differences between the two technologies. Hydraulics use incompressible fluids, which means that the response is immediate and well-controlled. Pneumatics use air, which is compressible, so it's not as predictable. However, it's possible to store up air and transfer it into the system more easily than fluids, so you can often get a faster response with high enough pressures.    Applications of Hydraulics  Hydraulics are often used in heavy lifting applications. A simple hydraulic jack is powerful enough so that an entire car can be lifted by a single person (a lever also helps!). Also, a lot of car brakes are hydraulic. (Brake fluid... what do you think that fluid is doing?)    Applications of Pneumatics  Pneumatics are used in situations where you may want more speed or repetitive movement. It also has the benefit of only needing an air compressor to run, instead of specialized fluids (that can leak or be expensive to replace). A jackhammer is a common pneumatic tool where compressed air is used to drive it outward, and a spring mechanism is used to return the bit to its original position so that the process can repeat.   "
+},
+{
   "id": "lab-hydraulics",
   "level": "1",
   "url": "lab-hydraulics.html",
   "type": "Lab Activity",
-  "number": "11.4.1",
+  "number": "11.5.1",
   "title": "Hydraulics",
   "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -1958,7 +1967,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-4",
   "type": "Example",
-  "number": "11.4.1.1",
+  "number": "11.5.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -1967,7 +1976,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-hydraulics.html#lab-hydraulics-8",
   "type": "Additional Resources",
-  "number": "11.4.1",
+  "number": "11.5.1",
   "title": "",
   "body": "    Google     "
 },
