@@ -18,7 +18,11 @@
   </introduction>
 
   <!-- include sections -->
-  <!-- <xi:include href="sec-section-name.ptx" /> -->
+  <xi:include href="p2-ch3-s1-understanding-pressure.ptx" />
+  <xi:include href="p2-ch3-s2-fluid-pressure.ptx" />
+  <xi:include href="p2-ch3-s3-pressure-area.ptx" />
+
+
   <xi:include href="p2-ch3-sL-0-pressure-labs.ptx" />
 
 </chapter>

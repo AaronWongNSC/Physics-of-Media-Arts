@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-hydraulics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hydraulics and Pneumatics</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      Hydraulics and penumatics are powerful tools for increasing force and transmitting forces over distances. Hydraulics use incompressible fluids and pneumatics use air,
+      but both work on the principle of generating a force through pressure.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Theory</title>
+
+    <p>
+      There are two key elements of the theory behind these tools. The first is that the pressure in the system is constant throughout, or at least reaches an equilibrium
+      state where this is true. The second is that the force is proportional to the area.
+    </p>
+    <p>
+      The following is a basic representation of a simple hydraulic system. A force on the smaller side gets multiplied on the larger side because the area of the surface
+      is larger. However, the trade-off we saw with simple machines still exists because a large movement on the small side only results in a small movement on the larger
+      side. In practice, the small side is replaced by a pump system with valves so that you can always "reload" the small cylinder with more liquid to keep pressing the
+      other side upward.
+    </p>
+    <p>
+      A pneumatic device works with the same concept, except that instead of a valve system, there's an air compressor that can increase the pressure inside of the system.
+    </p>
+    <p>
+      There are some important differences between the two technologies. Hydraulics use incompressible fluids, which means that the response is immediate and well-controlled.
+      Pneumatics use air, which is compressible, so it's not as predictable. However, it's possible to store up air and transfer it into the system more easily than fluids, so
+      you can often get a faster response with high enough pressures.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications of Hydraulics</title>
+
+    <p>
+      Hydraulics are often used in heavy lifting applications. A simple hydraulic jack is powerful enough so that an entire car can be lifted by a single person (a lever
+      also helps!). Also, a lot of car brakes are hydraulic. (Brake fluid... what do you think that fluid is doing?)
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Applications of Pneumatics</title>
+
+    <p>
+      Pneumatics are used in situations where you may want more speed or repetitive movement. It also has the benefit of only needing an air compressor to run, instead of
+      specialized fluids (that can leak or be expensive to replace). A jackhammer is a common pneumatic tool where compressed air is used to drive it outward, and a spring
+      mechanism is used to return the bit to its original position so that the process can repeat.
+    </p>
+  </paragraphs>
+
+</section>
+
+
+<!-- Additional Resources:
+
+
+-->

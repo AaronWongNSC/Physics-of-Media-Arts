@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-fluid-pressure" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Fluid Pressure</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      The most common context for pressure is fluid pressure. In this case, the word fluid is a technical term that can refer to both liquids and gasses. In particular,
+      a fluid is any substance that does not have a fixed shape, and both liquids and gasses have that property.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Conceptualizing Pressure</title>
+
+    <p>
+      The particles of a fluid are always in motion. (If not, you would have a solid.) Pressure can be thought of as the force of those particles bouncing off an object.
+      For example, if you put a small cube inside of a glass of water, there will be molecules of water bouncing off the side of the cube, and that bouncing imparts a force
+      on that side of the cube. The reason that the cube doesn't move anywhere is that there are molecules of water bouncing off the other side, and the forces from each
+      side balance each other out.
+    </p>
+    <p>
+      If we shrink the cube to be small, we would still have the same effect (as long as the cube is large relative to the density of the fluid). The cube will always have
+      a balance of force on each side of it. Another way to say this is that the fluid pressure does not have a direction. The fluid particles are coming in from all
+      directions all the time, and on average they will always balance themselves out.
+    </p>
+    <p>
+      (If the object is small relative to the density of the fluid, you start to get some random movement of the cube due to the forces on the sides not being in balance.
+      This is known as brownian motion.)
+    </p>
+
+    
+  </paragraphs>
+
+  <paragraphs>
+    <title>Pressure from Gravity</title>
+
+    <p>
+      We are going to consider the effect of gravity on pressure. If you are familiar with the implosion of the Titan submarine in 2003, you already have some sense for how
+      depth and pressure are related. We will start by considering a vertical tube of water. If we picked a spot just below the surface of the water, we would see that
+      there's only a small amount of water above it. This means that if we think about the impact of gravity at that depth, there would only be a small weight of water
+      pushing downward on it. However, if we go to the bottom of the tube of water, there is now much more water above it and so the water at that depth is under more pressure.
+    </p>
+    <p>
+      Using this framework, it's possible to derive the formula for pressure at a depth in a fluid under gravity. The formula is <m>P = \rho g h</m>, where <m>\rho</m> is the
+      density of the fluid (mass per volume), <m>g</m> is the acceleration due to gravity, and <m>h</m> is the depth of the fluid (vertical distance to the top of the fluid).
+      This formula assumes that both the density and the acceleration due to gravity is constant over the depth of the fluid.
+    </p>
+    <p>
+      A more complex example of pressure from gravity is air pressure. Unlike with the example of the water tube, there is no physical container keeping the air in place. This
+      means that it's not really clear how to calculate the "depth" of the fluid. Furthermore, both the acceleration due to gravity and the density of air changes with
+      altitude. The important idea to have in mind is that the pressure decreases as the altitude increases.
+    </p>
+    <p>
+      An interesting artifact of fluid pressure under gravity is that (assuming the situation is static) the pressure is independent of the shape of the container. This is
+      a surprising result when you think about how we derived the formula for pressure at a depth. In the derivation, we thought about the weight of the water above it.
+      And from that, it might seem that if there is less water above it due to the shape of the container, that there would be less pressure.
+    </p>
+    <p>
+      The reason that the pressure is the same regardless of shape is complicated to explain, but there's an intuitive way to see why it can't be just the volume of water
+      above it. Imagine that you have a container of water, and you covered the surface of the water with a solid plate with a hole in it. You would not expect the water
+      to suddenly spray out of that hole. However, if you were to create a hole at any depth below the top of the water, you would expect the water to leak out of it
+      regardless of the shape of the container, and you would expect it to leak until the water level reached the level of the hole. In some sense, this gives an indication
+      that all of the water above that level has an impact, even if it's not directly above it.
+    </p>
+    <p>
+      This fact is what allows just a simple tube to be used as a level across long distances. There is an old adage that "water seeks its own level" and this is a reflection
+      of this fact. As long as the water is connected and exposed to the environment, the top of the water will be the same at all of the points.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Visualizing Pressure at Different Depths</title>
+    
+    <p>
+      Activity: Fill a container of water. Poke holes at different depths of the same size. The water shoots out with more force where there's more pressure.
+    </p>
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->

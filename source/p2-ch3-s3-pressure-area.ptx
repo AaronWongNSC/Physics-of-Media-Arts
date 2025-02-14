@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-pressure-area" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pressure Applied Over Areas</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      The total force of pressure is often underestimated because the area over which it is applied is often overlooked.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Force from Pressure</title>
+
+    <p>
+      The basic relationship for pressure is <m>P = \frac{F}{A}</m>, which can be written as <m>F = PA</m>. This means that the total force from pressure depends on both
+      the pressure and the area over which it is applied. This can sometimes be unanticipatedly large quantity.
+    </p>
+    <p>
+      A common demonstration is breaking a piece of wood (like a ruler) using air pressure. <url href="https://www.youtube.com/watch?v=UvMmfacVA24">Video</url>. The
+      air pressure is approximately 100 kPa (which is 14.7 psi). With only a 30 cm square (about 1 foot) sheet of paper, you get a total force of
+      <m>F = (100,000 \text{ Pa}) \cdot (0.3 \text{ m}^2) = 9,000 \text{ N}</m> (just over 2000 pounds). In the demo, you're not getting the full force of air pressure
+      because the paper doesn't form a vacuum seal with the table, but you can see that the theoretical maximum is much larger than what is needed to break the stick.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Breathing Under Water</title>
+
+    <p>
+      <url href="https://www.youtube.com/watch?v=PffSc5ZBXgc">Action Lab Video</url>
+    </p>
+  </paragraphs>
+
+</section>
+
+
+<!-- Additional Resources:
+
+
+-->

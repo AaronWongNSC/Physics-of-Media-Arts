@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-understanding-pressure" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Understanding Pressure</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>.....</q>
+      </p>
+      <attribution>.....</attribution>
+    </blockquote>
+
+    <p>
+      In this chapter, we're going to explore the concept of pressure and consider its multiple applications.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>What is Pressure?</title>
+
+    <p>
+      Up to this point, we've been thinking about forces as being applied to a single point or location. But in reality, this never actually happens because we don't ever
+      have a force applying to a single point. The force is always spread out over an area. If you are pushing against an object, the force you are creating with your body
+      is spread out over whatever part is in contact with the thing you are pushing against, whether that's your hand or your shoulder.
+    </p>
+    <p>
+      Pressure is a value that takes into account the area over which the force is being spread. Specifically, the formula for pressure is <m>P = \frac{F}{A}</m>, where
+      <m>F</m> is the total force and <m>A</m> is the total area over which that force is spread out. Another way to think about it is that pressure is a measure of how
+      concentrated the applied force is.
+    </p>
+    <p>
+      The SI units for pressure is known as Pascals (Pa), named after the physicist Blaise Pascal who first developed the idea of pressure. One Pascal is one Newton of
+      force spread out over a square meter of area. This is a very small quantity. For example, atmospheric pressure is about 100,000 Pa. For this reason, people working
+      in SI units often use units of kPa. In fields where they aren't using Si units, you will find other units such as psi (pound-force per square inch), bars and millibars,
+      and standard atmospheres (atm).
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Bed of Nails Trick</title>
+    
+    <p>
+      The concept of pressure can be used to explain the "bed of nails" trick. In this trick, a person lies down on a bed of nails without being pierced by any of them.
+      But before we get to the full description of the trick and how it works, we're going to start with a thought exercise.
+    </p>
+    <p>
+      Suppose you have a 2-kg weight resting on your hand. (2 kg weight is about 4.4 pounds.) Do you anticipate that hurting? Probably not. But now suppose that we put that
+      weight on top of a pin with the point of the pin pointing down on your hand. This will probably hurt a lot! (Note: It is not recommended that you try this.) The difference
+      is that the force in the first case is spread out over whatever the shape of the weight is. However, in the second case, all of that weight is concentrated on a small
+      area. This means that instead of a large portion of your hand supporting the weight, it's just the tiny piece of skin where the pin is located.
+    </p>
+    <p>
+      The bed of nails trick is this, but in the opposite direction. If we put a 90-kilo (200-pound) man on top of a single nail, that one nail will have to absorb his
+      entire weight. But if you have 1000 nails, then the weight is spread out across all of those nails and each nail only carries 0.045 kilos (45 grams or 1.5 ounces) of weight.
+      This is not enough to cause harm. 
+    </p>
+
+  </paragraphs>
+
+</section>
+
+<!-- Additional Resources:
+
+
+-->
