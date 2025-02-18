@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-reflection" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reflection of Light</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      For this section, we're going to be thinking about light as if it were a particle. While there are some effects that we might consider when considering the wave
+      nature of light (interference patterns, for example), we're going to set those aside.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Photons and Surfaces</title>
+    
+    <p>
+      Look around the room and think about all of the different types of surfaces that you might see. Perhaps there's a window and you see some glare that partially obscures
+      the outside world. Perhaps there's a mirror and you can see a perfect image as if you're looking through a window into a different universe. Perhaps there are walls of
+      different colors that you see, or textures on the floor that you see. Maybe there's a glass of water and you can see a strange bending effect.
+    </p>
+    <p>
+      All of these types of interactions can be understood using three light concepts: absorption, reflection, refraction. Sometimes, a photon hits a surface, and then it
+      ceases to exist. This is known as absorption. When this happens, the photon basically gives its energy to the surface. Other times, the photon bounces off of the surface.
+      This is known as reflection. And sometimes, the photon passes through a surface, but perhaps with some changes to its direction. This is known as refraction. 
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Absorption?</title>
+    
+    <p>
+      We'll start with the concept of absorption. 
+    </p>
+  </paragraphs>
+
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

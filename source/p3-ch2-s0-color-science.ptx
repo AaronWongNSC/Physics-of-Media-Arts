@@ -33,11 +33,11 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="p3-ch4-s1-color.ptx" />
-  <xi:include href="p3-ch4-s2-color-space.ptx" />
-  <xi:include href="p3-ch4-s3-kelvin-scale.ptx" />
-  <xi:include href="p3-ch4-s4-rgb-cmyk.ptx" />
+  <xi:include href="p3-ch2-s1-color.ptx" />
+  <xi:include href="p3-ch2-s2-color-space.ptx" />
+  <xi:include href="p3-ch2-s3-kelvin-scale.ptx" />
+  <xi:include href="p3-ch2-s4-rgb-cmyk.ptx" />
 
-  <xi:include href="p3-ch4-sL-0-color-science-labs.ptx" />
+  <xi:include href="p3-ch2-sL-0-color-science-labs.ptx" />
 
 </chapter>

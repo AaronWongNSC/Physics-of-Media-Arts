@@ -19,6 +19,6 @@
 
   <!-- include sections -->
   <!-- <xi:include href="sec-section-name.ptx" /> -->
-  <xi:include href="p3-ch2-sL-0-reflection-refraction-labs.ptx" />
+  <xi:include href="p3-ch3-sL-0-reflection-refraction-labs.ptx" />
 
 </chapter>

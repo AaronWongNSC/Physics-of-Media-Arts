@@ -43,9 +43,9 @@
       <title>Lights... Camera... Optics!</title>
 
       <xi:include href="./p3-ch1-s0-light.ptx" />
-      <xi:include href="./p3-ch2-s0-reflection-refraction.ptx" />
-      <xi:include href="./p3-ch3-s0-lenses.ptx" />
-      <xi:include href="./p3-ch4-s0-color-science.ptx" />
+      <xi:include href="./p3-ch2-s0-color-science.ptx" />
+      <xi:include href="./p3-ch3-s0-reflection-refraction.ptx" />
+      <xi:include href="./p3-ch4-s0-lenses.ptx" />
     </part>
 
     <part xml:id="part-sound">
