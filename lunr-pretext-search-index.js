@@ -1465,7 +1465,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "7.5.1",
   "title": "Gravity-Powered Projectile Launcher",
-  "body": " Gravity-Powered Projectile Launcher   Introduction  For this lab, you are going to make a gravity-powered projectile launcher in order to study energy conservation and projectile motion. This lab will be a combination of practical construction and theoretical calculation.  To use the launcher, place the marble inside of the elbow of the swinging arm and raise the arm at an angle. Note that you will have to use your fingers to keep the marble in place as you do this. When you release the arm, the marble should stay in the elbow until the arm hits the stopper, at which point the marble should launch forward and fall to the ground.  We will be manipulating two primary variables for this lab: launcher height and marble height. The launcher height is measured from the ground to the bottom of the piece of wood, which is also the same as the top of the table it is placed on. The marble height is how far above the table the marble is when it is let go. Measuring this value will require practice, as the marble is not always visible (and making it visible can lead to inconsistent results). This is where the practice will come in. (A third variable that will be manipulated is the direction that the launcher is facing, but we won't be trying to control for this.)  The outcome variable will be the horizontal distance from the front edge of the wood to the place where the marble first hits the ground. It is convenient to align the edge of the wood with the edge of the table to make this a little easier to measure. You can use some string and a weight if you wanted to be very precise about transferring the edge of the table to the floor. You might even mark it with a piece of tape to make it eaiser.    Equipment List    Meter stick    Calculator    Marble    1 meter of 1\/2\" PVC    3 90-degree 1\/2\" PVC elbows    PVC Cutter    Hot glue gun (or a drill and screws)    30 cm piece 2x4 (or other scrap wood)    Table and chair to launch from      Procedure  There are two parts to the procedure. The first part is to build the gravity launcher. The second part is to learn how to use it.    Mark and cut your 1-meter PVC into the following lengths: 29 cm, 29 cm, 25 cm, 7 cm, and the remainder. The remainder is theoretically 10 cm in length, but this one is the least relevant length. The launcher will be workable with a piece as short as 8 cm, though you should have one that is at least 9 cm.    Dry fit the launcher according the schematic that has been provided. When you're finished, the arm should swing freely until it hits the stopper, and the stopper cause the arm to stop in the vertical position (hitting the \"inner elbow\").    Once you are satisfied the construction of the launcher, glue at the indicated locations.    Measure the following distances. Note that these are going to be adjusting factors to help align the measured results with theoretical results, so it is important to be as accurate as possible.   The distance from the front edge of the wood to the middle of the vertical pieces.    The distance from the bottom of the wood to the height of the marble if the marble is at rest in launcher and the launcher is vertical.       Measure the height of the chair. (Measure to the surface on which the launcher will be placed.) Then place your launcher on the table.    Raise the arm until the marble height is 10 cm. Then release and measure the launch distance. Do this until you start to get a consistent result. Then repeat this at a height of 20 cm. (This step is just getting a feel for the launcher before we begin to systematically collect data.)    Collect data for the launch distance for the following marble heights: 5 cm, 10 cm, 15 cm, 20 cm, 25 cm, 30 cm. For each launch height, take 5 measurements and then compute the average. (Note: If you are using a 2x4)    Repeat the measurements, but this time using the table instead of the chair.      Sample Charts   Launch distance    Arm Height  5 cm  10 cm  15 cm  20 cm  25 cm  30 cm    Launch #1    Launch #2    Launch #3    Launch #4    Launch #5    Average       Discussion    The gravity launcher converts gravitational potential energy to kinetic energy. Explain why it should be the change in potential energy from the start and end of the launch should be equal to the kinetic energy of the marble.    From the previous question, it should be the case that , where is the mass of the marble, is the gravitational acceleration, is the change in height of the marble between the start and end of the launch, and is the velocity of the marble at the moment of launch. If we solve for from this equation, we get . Notice that there is no in this formula. What does this mean?    We saw from the formulas for projectile motion that an object launched horizontally from a height will hit the ground at time . We also know that the horizontal speed will be constant throughout (ignoring gravity), so we can use the value of from the previous problem. The horizontal distance traveled before it hits the ground is . Notice that there is no in this formula. What does this mean? (Hint: What if you did this experiment on the moon?)    Using the marble heights and chair\/table heights, calculate the theoretical distances that the marble should travel and compare that with the averages you obtained. They should not match up well. Explain why this is the case. (Hint: These errors would exist without human error. There is something systematically wrong.)    Use the adjusting values you obtained after building your launcher to correct the values of and , then try the formula again. How close are the values now?    What other possible sources of error are there in the launcher?      Conclusion  This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you're able to make it all come together in the end. Theoretically, you should be able to place a container on the floor and consistent make the marble land in it with a device like this.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the process of building the launcher and collecting the data. Were there any particular challenges?    Results and Data  Present your charts of data, including both the individual and average results.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?      "
+  "body": " Gravity-Powered Projectile Launcher   Introduction  For this lab, you are going to make a gravity-powered projectile launcher in order to study energy conservation and projectile motion. This lab will be a combination of practical construction and theoretical calculation.  To use the launcher, place the marble inside of the elbow of the swinging arm and raise the arm at an angle. Note that you will have to use your fingers to keep the marble in place as you do this. When you release the arm, the marble should stay in the elbow until the arm hits the stopper, at which point the marble should launch forward and fall to the ground.  We will be manipulating two primary variables for this lab: launcher height and marble height. The launcher height is measured from the ground to the bottom of the piece of wood, which is also the same as the top of the table it is placed on. The marble height is how far above the table the marble is when it is let go. Measuring this value will require practice, as the marble is not always visible (and making it visible can lead to inconsistent results). This is where the practice will come in. (A third variable that will be manipulated is the direction that the launcher is facing, but we won't be trying to control for this.)  The outcome variable will be the horizontal distance from the front edge of the wood to the place where the marble first hits the ground. It is convenient to align the edge of the wood with the edge of the table to make this a little easier to measure. You can use some string and a weight if you wanted to be very precise about transferring the edge of the table to the floor. You might even mark it with a piece of tape to make it eaiser.    Equipment List    Meter stick    Calculator    Marble    1 meter of 1\/2\" PVC    3 90-degree 1\/2\" PVC elbows    PVC Cutter    Hot glue gun (or a drill and screws)    30 cm piece 2x4 (or other scrap wood)    Table and chair to launch from      Procedure  There are two parts to the procedure. The first part is to build the gravity launcher. The second part is to learn how to use it.    Mark and cut your 1-meter PVC into the following lengths: 29 cm, 29 cm, 25 cm, 7 cm, and the remainder. The remainder is theoretically 10 cm in length, but this one is the least relevant length. The launcher will be workable with a piece as short as 8 cm, though you should have one that is at least 9 cm.    Dry fit the launcher according the schematic that has been provided. When you're finished, the arm should swing freely until it hits the stopper, and the stopper cause the arm to stop in the vertical position (hitting the \"inner elbow\").    Once you are satisfied the construction of the launcher, glue at the indicated locations.    Measure the following distances. Note that these are going to be adjusting factors to help align the measured results with theoretical results, so it is important to be as accurate as possible.   The distance from the front edge of the wood to the middle of the vertical pieces.    The distance from the bottom of the wood to the height of the marble if the marble is at rest in launcher and the launcher is vertical.       Measure the height of the chair. (Measure to the surface on which the launcher will be placed.) Then place your launcher on the table.    Raise the arm until the marble height is 10 cm. Then release and measure the launch distance. Do this until you start to get a consistent result. Then repeat this at a height of 20 cm. (This step is just getting a feel for the launcher before we begin to systematically collect data.)    Collect data for the launch distance for the following marble heights: 5 cm, 10 cm, 15 cm, 20 cm, 25 cm, 30 cm. For each launch height, take 5 measurements and then compute the average. (Note: If you are using a 2x4)    Repeat the measurements, but this time using the table instead of the chair.      Sample Charts   Launch distance    Arm Height  5 cm  10 cm  15 cm  20 cm  25 cm  30 cm    Launch #1    Launch #2    Launch #3    Launch #4    Launch #5    Average       Discussion    The gravity launcher converts gravitational potential energy to kinetic energy. Explain why it should be the change in potential energy from the start and end of the launch should be equal to the kinetic energy of the marble.    From the previous question, it should be the case that , where is the mass of the marble, is the gravitational acceleration, is the change in height of the marble between the start and end of the launch, and is the velocity of the marble at the moment of launch. If we solve for from this equation, we get . Notice that there is no in this formula. What does this mean?    We saw from the formulas for projectile motion that an object launched horizontally from a height will hit the ground at time . We also know that the horizontal speed will be constant throughout (ignoring gravity), so we can use the value of from the previous problem. The horizontal distance traveled before it hits the ground is . Notice that there is no in this formula. What does this mean? (Hint: What if you did this experiment on the moon?)    Using the marble heights and chair\/table heights, calculate the theoretical distances that the marble should travel and compare that with the averages you obtained. They should not match up well. Explain why this is the case. (Hint: These errors would exist without human error. There is something systematically wrong.)    Use the adjusting values you obtained after building your launcher to correct the values of and , then try the formula again. How close are the values now?    What other possible sources of error are there in the launcher?    Suppose someone drew a target next to the table and challenged you to hit it with the marble. What information would you need to measure and what calculation(s) would you do to determine how to do it?      Conclusion  This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you're able to make it all come together in the end. Theoretically, you should be able to place a container on the floor and consistent make the marble land in it with a device like this.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the process of building the launcher and collecting the data. Were there any particular challenges?    Results and Data  Present your charts of data, including both the individual and average results.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?      "
 },
 {
   "id": "lab-gravity-launcher-5",
@@ -1870,7 +1870,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "10.4.1",
   "title": "Toothpick Structures",
-  "body": " Toothpick Structures   Introduction  We are going to build some simple structures out of toothpicks to try to understand a little bit more about building structures that are stable under loads.    Equipment List    A box of toothpicks (a couple hundred is enough)    Hot glue gun    Several books and\/or binders    Craft paper, cardboard, or other protective surface so you don't damage the table you're working on      Procedure  We are going to create a number of three-dimensional shapes out of toothpicks. Then we will test them to see how strong they are.    Lay out the protective surface on top of whatever table you're working on.    Use the hot glue gun to stick the ends of the toothpicks together to make four of each of the following shapes:   Cube: Create two squares and then attach the appropriate corners together with a toothpick in the middle.    Reinforced Cube: Create a cube, then add diagonal pieces to the four vertical sides. You can break the toothpicks for the cube to make them smaller if you wanted to go from corner-to-corner. But if you don't want to do that, you can just attach the diagonals to the sides of the square.    Pyramid with square base: Create a square, then add one vertical toothpick from each of the corners to create the pyramid.       For each shape, arrange the four pieces in a rectangle so that the first book and\/or binder rests comfortably on them. (For the pyramids, the tip of the pyramid should point upward). After everything appears to be stable, give the weight a little nudge in each direction to see if it remains stable. (It should survive this.)    Add a second weight and repeat the process. Continue adding weights until the structure fails. If you run out of weights before the structure fails, you can push downward on it to try to get it to fail. Be sure to give it a nudge in each direction after each weight to check for overall stability. When the structure fails, make a note of how it failed. Here are some potential observations to consider: Did it fail during a nudge or by simply adding weight? Did a toothpick break, or did a glue joint fail?      Discussion    Which of your structures was the strongest?    Which of your structures was the weakest?    What ideas do you have for making a stronger structure? (If you have the time, you might even want to try to build this.)      Conclusion  These structures hint at some of the basic concepts that are used to create strong and stable structures.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe the failure of each of the structures.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         Google      "
+  "body": " Toothpick Structures   Introduction  We are going to build some simple structures out of toothpicks to try to understand a little bit more about building structures that are stable under loads.    Equipment List    A box of toothpicks (a couple hundred is enough)    Hot glue gun    Several books and\/or binders    Craft paper, cardboard, or other protective surface so you don't damage the table you're working on      Procedure  We are going to create a number of three-dimensional shapes out of toothpicks. Then we will test them to see how strong they are. You may find it somewhat challenging at first to use the hot glue gun. It may be helpful for you to lay out a sheet of paper and do your gluing on that, so that you can just tear the paper and not worry about it.    Lay out the protective surface on top of whatever table you're working on.    Use the hot glue gun to stick the ends of the toothpicks together to make four of each of the following shapes:   Cube: Create two squares and then attach the appropriate corners together with a toothpick in the middle.    Reinforced Cube: Create a cube, then add diagonal pieces to the four vertical sides. You can break the toothpicks for the cube to make them smaller if you wanted to go from corner-to-corner. But if you don't want to do that, you can just attach the diagonals to the sides of the square.    Pyramid with square base: Create a square, then add one vertical toothpick from each of the corners to create the pyramid.       For each shape, arrange the four pieces in a rectangle so that the first book and\/or binder rests comfortably on them. (For the pyramids, the tip of the pyramid should point upward). After everything appears to be stable, give the weight a little nudge in each direction to see if it remains stable. (It should survive this.)    Add a second weight and repeat the process. Continue adding weights until the structure fails. If you run out of weights before the structure fails, you can push downward on it to try to get it to fail. Be sure to give it a nudge in each direction after each weight to check for overall stability. When the structure fails, make a note of how it failed. Here are some potential observations to consider: Did it fail during a nudge or by simply adding weight? Did a toothpick break, or did a glue joint fail? If it failed, did the joint remain intact or did it break?      Discussion    Which of your structures was the strongest?    Which of your structures was the weakest?    What ideas do you have for making a stronger structure? (If you have the time, you might even want to try to build this.)      Conclusion  These structures hint at some of the basic concepts that are used to create strong and stable structures.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe the failure of each of the structures.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         Google      "
 },
 {
   "id": "lab-toothpick-structures-8",
@@ -2224,119 +2224,11 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "lab-optical-illusions",
-  "level": "1",
-  "url": "lab-optical-illusions.html",
-  "type": "Lab Activity",
-  "number": "13.1.1",
-  "title": "Optical Illusions",
-  "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-optical-illusions-4",
-  "level": "2",
-  "url": "lab-optical-illusions.html#lab-optical-illusions-4",
-  "type": "Example",
-  "number": "13.1.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-optical-illusions-8",
-  "level": "2",
-  "url": "lab-optical-illusions.html#lab-optical-illusions-8",
-  "type": "Additional Resources",
-  "number": "13.1.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-light-and-shadow",
-  "level": "1",
-  "url": "lab-light-and-shadow.html",
-  "type": "Lab Activity",
-  "number": "13.1.2",
-  "title": "Light and Shadow",
-  "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-light-and-shadow-4",
-  "level": "2",
-  "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
-  "type": "Example",
-  "number": "13.1.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-light-and-shadow-8",
-  "level": "2",
-  "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
-  "type": "Additional Resources",
-  "number": "13.1.2",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-analog-photography",
-  "level": "1",
-  "url": "lab-analog-photography.html",
-  "type": "Lab Activity",
-  "number": "14.1.1",
-  "title": "Analog Photography",
-  "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-analog-photography-4",
-  "level": "2",
-  "url": "lab-analog-photography.html#lab-analog-photography-4",
-  "type": "Example",
-  "number": "14.1.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-analog-photography-8",
-  "level": "2",
-  "url": "lab-analog-photography.html#lab-analog-photography-8",
-  "type": "Additional Resources",
-  "number": "14.1.1",
-  "title": "",
-  "body": "    Google     "
-},
-{
-  "id": "lab-pinhole-camera",
-  "level": "1",
-  "url": "lab-pinhole-camera.html",
-  "type": "Lab Activity",
-  "number": "14.1.2",
-  "title": "Pinhole Camera",
-  "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
-},
-{
-  "id": "lab-pinhole-camera-4",
-  "level": "2",
-  "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
-  "type": "Example",
-  "number": "14.1.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-pinhole-camera-8",
-  "level": "2",
-  "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
-  "type": "Additional Resources",
-  "number": "14.1.2",
-  "title": "",
-  "body": "    Google     "
-},
-{
   "id": "sec-color",
   "level": "1",
   "url": "sec-color.html",
   "type": "Section",
-  "number": "15.1",
+  "number": "13.1",
   "title": "Color",
   "body": " Color     Color is the place where our brain and the universe meet.   Paul Klee     visible light  Visible light is the part of the electromagnetic spectrum that our eyes can detect. It turns out that this is a tiny sliver of the entire electromagnetic spectrum. We typically describe the photons in this range by their wavelengths, which span from approximately 380 to 700 nm. It is important to recognize that the cutoff is based on our biology, and not some larger physical principle. There are other creates in the animal world that can detect wavelengths that go outside of what we can see, and so their \"visible light\" would be a different range.   ROYGBIV The order of the colors from long to short wavelengths is typically described using the mnemonic ROYGBIV . This stands for the following colors (and their approximate range of wavelengths):    Red: 620 to 750 nm    Orange: 590 to 620 nm    Yellow: 570 to 590 nm    Green: 495 to 570 nm    Blue: 450 to 495 nm    Violet: 380 to 450 nm    You might notice that the I is missing. The letter I stands for indigo, and most people don't distinguish it as a color that's separate from blue or violet. It mostly remains for historical reasons, as this was how the color spectrum was first organized, and sometimes it's difficult to change something once it has been established.  None of these colors are \"real\" in the sense that there are no well-defined boundaries on these colors. In fact, what we perceive as color is a complex biological and psychological system for using our eyes and brains to differentiate between different wavelengths. While physics certain plays a role in bringing us color, our brains play a gigantic role in how we actually perceive it.   photoreceptors Basically, your eyes have two different photon detectors ( photoreceptors ), one for low light called rods, and one for bright light called cones. It turns out that cones are completely responsible for seeing colors, which explains why low light situations are typically experienced with a muted color range. (The light is low so only the rods get activated.) Among the cones, there are three different types of detectors, one for each of the colors red, green, and blue.  But how can we see so many colors if we only have receptors for three colors? Each color receptor is activated by a range of wavelengths, and not a single one. The colors are just the ones where each type reaches its peak level of activation. When we perceive other colors, it's because our brains are trying to interpret a mixed collection of signals. As the difference cones are activated to different levels, our brain comes up with a way of representing that activiation visually for us, and those are the colors that we see. One of the challenges of dealing with human color perception is that there is no guarantee that the way we perceive a color is the same way that someone else would perceive them. The easiest example of this to understand is the case of color blindness, where a person's brain is unable to distinguish between photons of different wavelengths that other people's brains are typically able to do.  So even though we will walk about colors as if they are concrete and specific objects, it's important to keep in mind that it's really much more complicated than that.      (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra      "
 },
@@ -2372,7 +2264,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color.html#sec-color-11",
   "type": "Additional Resources",
-  "number": "15.1",
+  "number": "13.1",
   "title": "",
   "body": "    (Nasa.gov) Visible Light      (Thought.co) The Visible Spectrum: Wavelengths and Colors      (Datacolor.com) The Science Behind Color Perception      (Dr. Eric C. Toolson at The University of New Mexico) Human Cone Action Spectra     "
 },
@@ -2381,7 +2273,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-color-space.html",
   "type": "Section",
-  "number": "15.2",
+  "number": "13.2",
   "title": "Color Space",
   "body": " Color Space     -----   -----   Color space is a topic that students of digital visual media need to understand. But it can often be a difficult topic because there are a lot of pieces that go into it. The goal of this section is to help you understand and interpret what color space is without getting too bogged down in the details.    The Perception of Color  In the previous section, we talked about how different wavelengths of light generate different colors. However, we did not say that every color that we see is the result of a particular wavelength of light. You will not find pink or brown in the rainbow. So where does it come from?   spectrophotometer A device known as a spectrophotometer can be used to measure the amounts of all of the incoming wavelengths of light. These can generate graphs (called the \"spectral power distribution\") that will show peaks around the wavelengths of light that are the most common when viewing an object. While we could say that these graphs can \"define\" colors for us, and this would be a very scientific and concrete way to understand colors, this isn't what actually happens in our heads. Our eyes are simply not as sophisticated, and we aren't able to isolate the exact wavelengths of lights in that way. All we have are our three colors of cones. This means that our understanding of color is going to be much simpler.  The solution our brains have developed is that it invents new colors for us to see when we're seeing mixtures of wavelengths at the same time in the same spot. So if the red and blue cones are being activated in the same spot, our brains create a color that we call magenta to try to tell us that this is a mixture of colors.  An important fact about our color perception is that it depends on the level of activation of the cones, and not the actual wavelengths of light that are hitting them. So we might perceive two colors to be the same even if the spectral power distributions are different.    The In-Between Layer  Imagine that you're watching a sunset. What is the physical process that's happening to allow you to experience it? The sun is generating photons, which are bouncing around all through the atmosphere and off of the ground, the clouds, the trees, and anything else that you see. Those photons then reach your eyes, which causes your brain to generate a picture that you interpret as watching the sunset.  Now imagine that you want to take a picture of this sunset so that you can see it again at some point in the future. This will introduce (at least) two more steps into the process. The first thing you need to do is to try to capture the photons (you do this with your camera), and then you need to find a way to reproduce those photons using a medium of some sort (your cell phone, your computer monitor, or your printer). We are going to focus on digital images because it presents a distinct set of challenges from analog images.  In this in-between layer, we create opportunities for errors to occur. Some of the errors are generated from things like an out-of-focus camera or corrupted data. But even if all of that were perfect, we still have a significant challenge. How do we capture reality and then reproduce it? The concept of color space is specifically focused on trying to figure out how to get colors as \"correct\" as possible.   photosite The challenge is that cameras, like our eyes, are limited in the information they can capture. They aren't capturing all of the information like a photospectrometer would. What is typically happening is that there is a sensor called a photosite which converts photons into voltages, which are converted to digital information. And then that digital information will need to be re-translated back into colors generated by a monitor, which can only generate three distinct colors with different levels of intensity. So the broad spectrum of photons that you started with gets boiled down to essentially three specific wavelengths, which somehow needs to capture our experience of color.    Color Space  Color space is our attempt to take what we can understand about human perception and do what we can to recreate as closely as possible an experience of reality within the limitations of the equipment that we have. The first thing we need to do is to chart our experience of colors. It starts with a graph that looks something like this:    Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition   There are actually lots of graphs that can be generated, and they are all different ways of trying to conceptualize the same thing. The main features of each of these graphs are the following:    The boundary of the shape represents the visible light spectrum. In this specific example, the wavelengths are specifically indicated, but not all graphs will have this feature.    The colors that you see represent colors that are perceived. These colors are based on both theoretical and empirical data.    If we mix two wavelengths of light, we perceive a color that is somewhere on the line connecting them. Exactly where along the line it is depends on the relative intensity of the two wavelengths. In general, the perceived color is the weighted average of the wavelengths.      Gamuts  The purpose of color spaces is that provides us a framework for understanding how colors can be translated through the in-between layer.  On the recording end, we need to be able to understand and interpret the data we are collecting. If we had two color sensors where each one only detected a single wavelength of light, then the only colors that we would be able to record would be on the line connecting the two points on the boundary corresponding to those wavelengths. In other words, the color space that the camera could access is limited, and it will be unable to reproduce colors outside of that range. This example is mostly theoretical because modern technology doesn't have this type of limitation, but it is an important conceptual point to help understand the next part.  On the reproducing end, things are quite a bit more complicated. To keep our discussion as simple as possible, we will focus on RGB color schemes, which are used for electronic monitor displays (desktops, phones, tablets). These displays can really only create three distinct colors of light, namely red, green, and blue. But exactly which colors it generates depends on the specifics of how the electronics are set up. You might be familiar with trying to calibrate a monitor by turning the brightness up or down, or adjusting the contrast. Regardless of the specifics, there is a particular color of red, green, and blue that are generated, and those colors are located somewhere on thee color space. Once those three colors are identified, the only colors that can be displayed live inside of the triangle formed by those three points.  The goal is to have the colors collected by the recording end to be perfectly matched up with the colors generaeted on the reproducing end. And the only way this can happen is if there is agreement about what the colors are. And this is where the various standards came from. The following diagram shows three common color spaces:    Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space    gamut The triangles are known as gamuts , and they represent the range of colors that can be represented under the different color concepts, and this is based on the specific red, blue, and green that is used by that gamut. It also shows how using the wrong standard on your display relative to the camera can lead to poor results. For example, if your camera is set to Adobe RGB but your computer is set to interpret the data as sRGB, you will find that your greens are a little more yellow. This is because the camera's concept of green is more green than green of sRGB. And this is why it is important to make sure that you are using the same settings on both sides of the process.       Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces      "
 },
@@ -2408,7 +2300,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-5-3",
   "type": "Figure",
-  "number": "15.2.0.1",
+  "number": "13.2.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/www.studiobinder.com\/blog\/what-is-color-space-definition  "
 },
@@ -2417,7 +2309,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-6-6",
   "type": "Figure",
-  "number": "15.2.0.2",
+  "number": "13.2.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/stephaniebryanphoto.com\/myblog\/understanding-color-space  "
 },
@@ -2435,7 +2327,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-color-space.html#sec-color-space-7",
   "type": "Additional Resources",
-  "number": "15.2",
+  "number": "13.2",
   "title": "",
   "body": "    Color Spaces: Explained from the Ground Up - Video Tech Explained      The Essential Guide to Color Spaces     "
 },
@@ -2444,7 +2336,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-kelvin-scale.html",
   "type": "Section",
-  "number": "15.3",
+  "number": "13.3",
   "title": "Kelvin Scale",
   "body": " Kelvin Scale     -----   -----     Blackbody Radiation  When we introduced the topic of photons and the electromagnetic spectrum, we stated that every object whose temperature is above zero emits radiation. This phenomenon is known as blackbody radiation . When we look at an object, there are two types of radiation that come from it. The most common type that we see is reflected light. An example of this is that sunlight hits the tree, and the tree reflects some of that light to our eyes so we can see it. But there's another type of radiation that comes from the object itself. The most common example of this that we see is a flame. The flame's light is coming from itself, not a reflection off of something else. Specifically, the light that we see is the blackbody radiation of tiny particles of soot. But what does that mean?  If we were to put a heated particle inside of a perfect vacuum, over time it will slowly release its energy in the form of photons. You can think of this as the sun slowly burning itself out in space. That release of energy in the form of photons that follow a specific mathematical formula that describes the spectral distribution, and the formula only depends on the temperature of the object (which is measured in Kelvin). In other words, you can know the temperature of a blackbody object by looking at what color it is.    The Kelvin Scale of Color  Since we have a mathematical model of the distribution of photons from blackbody radiation, and we have a model for what colors our brains create when we detect a range of photons, it's possible to roll the two concepts together into a graph. This graph shows us the color that we expect to see with our eyes based on the temperature of an object's blackbody radiation.    Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png   Under this framework, lower temperatures tend to be more red and orange, and then the colors work their way up through yellows and whites, and if the temperature keeps rising it starts to tip into the blues. Note that this is the opposite direction of traditional \"color temperatures\" (where blue is cool and red is warm). The difference is mostly historical, as artists were describing colors long before the science of blackbody radiation was developed.  The most common application of the Kelvin scale of color is the color of lights. Here is an example of the color spectrum for different temperatures of light.    Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications        (Britannica) Blackbody Radiation      "
 },
@@ -2462,7 +2354,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-3",
   "type": "Figure",
-  "number": "15.3.0.1",
+  "number": "13.3.0.1",
   "title": "",
   "body": "  Image taken from https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/ba\/PlanckianLocus.png  "
 },
@@ -2471,7 +2363,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-4-6",
   "type": "Figure",
-  "number": "15.3.0.2",
+  "number": "13.3.0.2",
   "title": "",
   "body": "  Image taken from https:\/\/www.larsonelectronics.com\/blog\/2019\/04\/19\/led-lighting\/understanding-kelvin-ranges-in-lighting-and-their-best-applications  "
 },
@@ -2480,7 +2372,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-kelvin-scale.html#sec-kelvin-scale-5",
   "type": "Additional Resources",
-  "number": "15.3",
+  "number": "13.3",
   "title": "",
   "body": "    (Britannica) Blackbody Radiation     "
 },
@@ -2489,7 +2381,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-rgb-cmyk.html",
   "type": "Section",
-  "number": "15.4",
+  "number": "13.4",
   "title": "RGB and CMYK",
   "body": " RGB and CMYK     To attain knowledge, add things every day. To attain wisdom, subtract things every day.   Lao Tzu   Within the media arts, there are two complementary color schemes that have been developed, and these are based on the underlying physics of how those colors are created. If you think about a computer monitor, the default state is black and colors are added in to make the screen brighter. If you think about a sheet of paper, the default state is white and colors are subtracted away to make the paper darker. This basic framework sets us up for understanding of the RGB and CYMK color schemes.    RGB   additive color RGB is the color scheme whose primary colors are red, green, and blue. The reason for this color combination is a matter of our human biology, and not some underlying physical principle. Our eyes simply have receptors that are mostly sensitive to those colors, and so this maximizes our responsiveness to this color scheme. Most importantly, this is an additive color scheme, which means that we are starting from black (no photons) and increasing the number of photons that reach our eyes when we add these colors into the mix.  If you were to take a very close look at your computer monitor or cellphone screen, you would see that each pixel is constructed from three subpixels. Unsurprisingly, the colors of those subpixels are red, green, and blue. The way that colors are produced is that those subpixels display at different levels of intensity. The itensity levels are usually given as a number from 0 to 255, where lower numbers mean lower levels of intensity. (If you have ever seen hex color codes, such as #A72EBD, you have seen this color system. The only difference is that the numbers are being represented in hexadecimal instead of using our usual decimal number system. If this were a math class, we'd talk about how hexadecmial works. But it's not, so we'll just direct you to search for a hexademical to decimal converter online.)   Technicolor The ideas for this system go back to the 1920s when Technicolor developed their three strip system. At that time, film was only able to capture black-and-white. How can you use black-and-white film to capture color? The basic idea was to capture the footage three times, with one film capturing the reds, one film capturing the greens, and one film capturing the blues. Then the three layers can be put back together using red, green, and blue lights to reproduce the original image.    CMYK  CMYK is the color scheme whose primary colors are cyan, magenta, yellow, and black. This is also built around human biology, but moving in the opposite direction as RGB. Instead of starting with black and turning up the colors, this starts with white and removes colors. This is used for pigment-based colors, like paint and ink, where the illumination source is external and the colors that are seen are only from reflected light.   subtractive color The reason a white piece of paper looks white is because it's reflecting red, green, and blue photons back at us. If we add red ink to the paper, the reason that we see red is because the ink is absorbing the green and blue photons, and is only reflecting back the red ones. And this is what is meant by subtractive color . However, when it comes to pigments, thinking in terms of red, green, and blue turns out to be more complicated when you mix them. The underlying reason for this is that generating red means absorbing green and blue, and it makes more sense to have the primary colors absorb single colors rather than pairs of colors.  And this is where we get the cyan, magenta, and yellow base colors. Cyan is the color you get when you absorb only red light. Magenta comes from absorbing green. Yellow is the result of absorbing blue. Then you can mix two of these colors together to get the secondary colors of red, green, and blue. For example, red is a mixture of magenta (which absorbs green) and yellow (which absorbs blue).  The role of black in this system is because there's a gap between theory and practice. In theory, if you mix cyan, magenta, and yellow together, you should get black. However, in practice, the pigments are not perfect. That is, cyan doesn't absorb all of the blue, and so on. This means that mixing the colors together usually results in a brown color. So adding black as a separate color sidesteps the challenge of needing to make perfect cyan, magenta, and yellow colors in order to mix them together to get black.       (The George Eastman Museum) Three-Strip Camera      "
 },
@@ -2516,7 +2408,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rgb-cmyk.html#sec-rgb-cmyk-5",
   "type": "Additional Resources",
-  "number": "15.4",
+  "number": "13.4",
   "title": "",
   "body": "    (The George Eastman Museum) Three-Strip Camera     "
 },
@@ -2525,7 +2417,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-colored-light-shadows.html",
   "type": "Lab Activity",
-  "number": "15.5.1",
+  "number": "13.5.1",
   "title": "Colored Lights and Shadows",
   "body": " Colored Lights and Shadows   Introduction  This lab is an exploration of colored lights and shadows. We will be playing around with different types of setups to help us understand what colors are being created and why.    Equipment List    Red, green, and blue flashlights    Plain white paper (whiter is better) for a \"wall\"    Index card, paper, or thin cardboard to cast shadows    A couple pencils or other similarly-shaped objects    Scissors    [Optional] Camera (photo or video) for capturing visual data.        Procedure  For this lab, we are going to start by using a set of red, blue, and green lights to get a white light. Then we will create shadows and various colors and try to understand the ways that lights are combining to create those colors.    Create a \"wall\" using the white paper. You need a place to shine your lights and create shadows. This could be a piece of paper leaning against a book or a binder, or even just folded in half. It only needs to stand a few inches tall.    Using the paper for the shadows, create two thin strips that are a few inches long and an inch wide. You will want a clean side edge where the two strips can be brought together like a curtain. The exact dimensions are not important. In one of the strips, create a slit that is about a quarter inch in width. Use the diagram below as a model.    Line up the three flashlights side-by-side pointing towards the wall. Make a note of which light is in which location.    Darken the room as much as possible and turn on the lights. (Note: If the flashlights have multiple settings, pick the brightest non-blinking option.) Position them so that they combine into a white light in the middle. There may be other colors on the edges, but we're not going to worry about that. From this point forward, you may want to take pictures or video of the lab for future reference.    Hold the strip of paper with the slit in it between the lights and the wall. You should see three lines of light of different colors if you move it close enough to the wall. Identify the colors and think about why the colors appear in the order that they do.    Hold the pencil between the lights and the wall. You should see three shadows of different colors. Identify the colors and think about why the colors are what they are. Then take the paper with the slit in it and place it between the pencil and the wall to create the three lines from before. Move the pencil so that its shadows cross the slit (one at a time) and make a note of your observations. Think about what is causing these outcomes.    Put two strips of paper end-to-end like a closed curtain and position them between the lights and the wall. Slowly separate the strips to reveal a thin slit. You should see three light lines similar to the paper with the slit. Continue pulling the papers apart and watch how the lines spread out. When the lines touch each other, make a note of the colors that are created. As they continue to get further apart, you will see a number of different color patterns. Make note of each one. You will eventually have just two sets of shadows, one from each piece of paper. Think about what is causing these outcomes.      Discussion  After you've completed the tasks, answer the following discussion questions. Some simple diagrams have been included to help you to explain your observations.    In the first phase, you created three lines of light. Explain why the lights appear in the order that they do.    In the first part of the second phase, you created a set of three colored shadows. Explain why you see the colors that you saw in the order that you saw them.    In the second part of the second phase, you created an interaction of three colored shadows with the slit. Explain the relationship between the color of the shadow and which line disappeared.    In the third phase, you created a sequence of several different color patterns. Draw them and explain how each color pattern was created.      Conclusion  As you went through this lab, you should have started to develop a stronger sense of how colors of light mix together. There is also a connection to be made between the additive and subtractive interpretation of colors. In the first phase, you were displaying the additive nature of light by allowing certain colors to shine through to the black shadow. In the second phase, you were displaying the subtractive nature of light by blocking certain colors from hitting the white wall. And in the third phase, you exhibited how the two perspectives are part of the same underlying reality of colors.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity? You should be able to condense the core purpose to just a few sentences.    Equipment List  List the equipment that you actually used. Try to be clear in your description. For example, did you use a pen, pencil, or something else? How large were the papers you actually used? And what material were they (office paper, index cards, etc.)?    Procedure  Write down the steps that you executed. This should be similar to the given procedure, but it's possible you may have done something out of order, or perhaps you skipped something or did some additional experiments. The important thing is to just be sure you captured your actual activity.    Results and Data  Your information should be organized by the three phases of the lab activity. If you took photos or videos, this would be a good place to include those images. If you didn't, then you'll need to describe the results in words. Make sure to present the information in a way that is easy to understand. For example, avoid using a wall of text to describe something that might better be presented as a picture.    Discussion  Answer the questions in the discussion. Be sure to include diagrams that are helpful for explaining what's happening.    Conclusion  Write a paragraph or two that summarizes the lab and what you learned from it. You should reference additive and subtractive colors in some form. Be sure to include information about any particular moments of insight (or intrigue) that you had.         (color.nerd on TikTok) Color Theory with Shadows      "
 },
@@ -2534,7 +2426,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-colored-light-shadows.html#lab-colored-light-shadows-8",
   "type": "Additional Resources",
-  "number": "15.5.1",
+  "number": "13.5.1",
   "title": "",
   "body": "    (color.nerd on TikTok) Color Theory with Shadows     "
 },
@@ -2543,7 +2435,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-paint-color-mixing.html",
   "type": "Lab Activity",
-  "number": "15.5.2",
+  "number": "13.5.2",
   "title": "Mixing Paint Colors",
   "body": " Mixing Paint Colors   Introduction  This lab is an exploration of how paint colors mix together to create new colors. We will use a colorimeter to help us objectively measure of how close or far two colors are from each other.    Equipment List    Colored paints (including cyan, magenta, yellow, and black)    Brushes    Paper    Colorimeter capable of producing CYMK values (and its corresponding software)      Procedure      Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2552,7 +2444,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-5",
   "type": "Example",
-  "number": "15.5.2.1",
+  "number": "13.5.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2561,7 +2453,115 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-paint-color-mixing.html#lab-paint-color-mixing-9",
   "type": "Additional Resources",
-  "number": "15.5.2",
+  "number": "13.5.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-optical-illusions",
+  "level": "1",
+  "url": "lab-optical-illusions.html",
+  "type": "Lab Activity",
+  "number": "14.1.1",
+  "title": "Optical Illusions",
+  "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-optical-illusions-4",
+  "level": "2",
+  "url": "lab-optical-illusions.html#lab-optical-illusions-4",
+  "type": "Example",
+  "number": "14.1.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-optical-illusions-8",
+  "level": "2",
+  "url": "lab-optical-illusions.html#lab-optical-illusions-8",
+  "type": "Additional Resources",
+  "number": "14.1.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-light-and-shadow",
+  "level": "1",
+  "url": "lab-light-and-shadow.html",
+  "type": "Lab Activity",
+  "number": "14.1.2",
+  "title": "Light and Shadow",
+  "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-light-and-shadow-4",
+  "level": "2",
+  "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
+  "type": "Example",
+  "number": "14.1.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-light-and-shadow-8",
+  "level": "2",
+  "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
+  "type": "Additional Resources",
+  "number": "14.1.2",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-analog-photography",
+  "level": "1",
+  "url": "lab-analog-photography.html",
+  "type": "Lab Activity",
+  "number": "15.1.1",
+  "title": "Analog Photography",
+  "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-analog-photography-4",
+  "level": "2",
+  "url": "lab-analog-photography.html#lab-analog-photography-4",
+  "type": "Example",
+  "number": "15.1.1.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-analog-photography-8",
+  "level": "2",
+  "url": "lab-analog-photography.html#lab-analog-photography-8",
+  "type": "Additional Resources",
+  "number": "15.1.1",
+  "title": "",
+  "body": "    Google     "
+},
+{
+  "id": "lab-pinhole-camera",
+  "level": "1",
+  "url": "lab-pinhole-camera.html",
+  "type": "Lab Activity",
+  "number": "15.1.2",
+  "title": "Pinhole Camera",
+  "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+},
+{
+  "id": "lab-pinhole-camera-4",
+  "level": "2",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
+  "type": "Example",
+  "number": "15.1.2.1",
+  "title": "Example.",
+  "body": " Example  ...  "
+},
+{
+  "id": "lab-pinhole-camera-8",
+  "level": "2",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
+  "type": "Additional Resources",
+  "number": "15.1.2",
   "title": "",
   "body": "    Google     "
 },
