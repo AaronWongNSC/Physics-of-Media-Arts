@@ -1945,27 +1945,27 @@ var ptx_lunr_docs = [
   "body": " Hydraulics and Pneumatics     .....   .....   Hydraulics and penumatics are powerful tools for increasing force and transmitting forces over distances. Hydraulics use incompressible fluids and pneumatics use air, but both work on the principle of generating a force through pressure.    Theory  There are two key elements of the theory behind these tools. The first is that the pressure in the system is constant throughout, or at least reaches an equilibrium state where this is true. The second is that the force is proportional to the area.  The following is a basic representation of a simple hydraulic system. A force on the smaller side gets multiplied on the larger side because the area of the surface is larger. However, the trade-off we saw with simple machines still exists because a large movement on the small side only results in a small movement on the larger side. In practice, the small side is replaced by a pump system with valves so that you can always \"reload\" the small cylinder with more liquid to keep pressing the other side upward.  A pneumatic device works with the same concept, except that instead of a valve system, there's an air compressor that can increase the pressure inside of the system.  There are some important differences between the two technologies. Hydraulics use incompressible fluids, which means that the response is immediate and well-controlled. Pneumatics use air, which is compressible, so it's not as predictable. However, it's possible to store up air and transfer it into the system more easily than fluids, so you can often get a faster response with high enough pressures.    Applications of Hydraulics  Hydraulics are often used in heavy lifting applications. A simple hydraulic jack is powerful enough so that an entire car can be lifted by a single person (a lever also helps!). Also, a lot of car brakes are hydraulic. (Brake fluid... what do you think that fluid is doing?)    Applications of Pneumatics  Pneumatics are used in situations where you may want more speed or repetitive movement. It also has the benefit of only needing an air compressor to run, instead of specialized fluids (that can leak or be expensive to replace). A jackhammer is a common pneumatic tool where compressed air is used to drive it outward, and a spring mechanism is used to return the bit to its original position so that the process can repeat.   "
 },
 {
-  "id": "lab-hydraulics",
+  "id": "lab-hydraulics-pneumatics",
   "level": "1",
-  "url": "lab-hydraulics.html",
+  "url": "lab-hydraulics-pneumatics.html",
   "type": "Lab Activity",
   "number": "11.5.1",
-  "title": "Hydraulics",
-  "body": " Hydraulics   Introduction  Understand how hydraulics work.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "title": "Hydraulics and Pneumatics",
+  "body": " Hydraulics and Pneumatics   Introduction  We are going to build a simple hydraulic and pneumatic system to get some tangible experiences with how they work and how to operate them.    Equipment List    1 mL plastic syringe    3 mL plastic syringe    12-18 inches of flexible PVC tubing that fits snugly over the tips of the syringes    A small cup of water    Some paper towel to clean up if you spill      Procedure  We will be building two systems. The first will be pneumatic and the second will be hydraulic.    Pull both of the syringes so that they are about halfway out. Put the tips of the syringes into the tubing. Be sure that it is snug.    Note the positions of the plungers using the volume markings. Press the plunger on the 1 mL plunger all the way in. What happened to the other syringe when you did that? Be sure to record the final positions of the plungers.    Press on plunger on the 3 mL syringe all the way in. What happened to the other syringe when you did that? Be sure to record the final positions of the plungers. (Note: You may need to rebuild your pneumatic system after this step.)    Press on both plungers at the same time. Are you able to push them both all the way in?    Press both plungers all the way in and then release the 3 mL plunger. Describe the behavior of the plunger. In particular, pay attention to the speed at which it moves and its final position. Do this several times.    Now repeat the previous step, except release the 1 mL plunger. Compare the behavior of this plunger to the 3 mL plunger.    Feel free to play around with your system before dismantling it. This completes the activity for the pneumatic system.    Use the 3 mL syringe to fill the tubing with water from the cup. The goal is to get the tube almost completely full of water without any air bubbles. (Full except for perhaps a few millimeters.) If you spill water, clean it up.    Fill both syringes half-full of water. You want to have as little air in the syringes as possible.    Note the positions of the plungers using the volume markings. Press the plunger on the 1 mL plunger all the way in. What happened to the other syringe when you did that? Be sure to record the final positions of the plungers.    Press on plunger on the 3 mL syringe, but be careful of breaking the system by pushing too far. (If you break it, clean up the water with paper towels.) What happened to the other syringe when you did that? Be sure to record the final positions of the plungers.    Press on both plungers at the same time. Are you able to push them both all the way in? (Don't press so hard as to break it. Otherwise, clean up your mess.) As you press, pay attention to the amount of force that you are applying to each syringe. Make a note of any differences that you experience.    Feel free to play around with your system before dismantling it. This completes the activity for the hydraulic system.      Sample Charts   Pneumatic    Action  Initial Positions  Final Positions  Observations    Press 1 mL      Press 3 mL      Press both, release 3 mL (1)      Press both, release 3 mL (2)      Press both, release 3 mL (3)      Press both, release 1 mL (1)      Press both, release 1 mL (2)      Press both, release 1 mL (3)        Pneumatic    Action  Initial Positions  Final Positions  Observations    Press 1 mL      Press 3 mL      Press both         Discussion    Before we dive into the data, what similarities did you notice between the two systems as you worked through the procedures? What differences did you notice?    Compare the change in position when pushing on the 1 mL plunger for both the pneumatic and hydraulic case. In particular, focus on the change of volume of each syringe. What do you notice about the pneumatic case compared to the hydraulic case?    Did the pneumatic system break when you fully pressed the 3 mL plunger? If so, why do you think that happened? If not, under what conditions do you think it would happen?    Were you able to press both plungers down in the pneumatic system? Why do you think that happens?    When you pressed both plungers and then released one, was the behavior of the plunger consistent? What do you think is happening?    Were you able to press both plungers down in the hydraulic system? Why do you think that happens?    Did you try pulling on any of the plungers? If so, what happened? If not, what do you think might happen?      Conclusion  This lab was a quick introduction to pneumatics and hydraulics. If you want to see some clever applications of hydraulics, search YouTube for \"cardboard hydraulic projects.\"    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe what you did.    Results and Data  Present your charts of data. Make sure that they are clearly labeled.    Discussion  Answer the discussion questions. Be sure that you state the original question and organize your calculations in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you watch any videos? If so, say a few words about what you saw.         Google      "
 },
 {
-  "id": "lab-hydraulics-4",
+  "id": "lab-hydraulics-pneumatics-5",
   "level": "2",
-  "url": "lab-hydraulics.html#lab-hydraulics-4",
+  "url": "lab-hydraulics-pneumatics.html#lab-hydraulics-pneumatics-5",
   "type": "Example",
   "number": "11.5.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "title": "Sample Charts.",
+  "body": " Sample Charts   Pneumatic    Action  Initial Positions  Final Positions  Observations    Press 1 mL      Press 3 mL      Press both, release 3 mL (1)      Press both, release 3 mL (2)      Press both, release 3 mL (3)      Press both, release 1 mL (1)      Press both, release 1 mL (2)      Press both, release 1 mL (3)        Pneumatic    Action  Initial Positions  Final Positions  Observations    Press 1 mL      Press 3 mL      Press both       "
 },
 {
-  "id": "lab-hydraulics-8",
+  "id": "lab-hydraulics-pneumatics-9",
   "level": "2",
-  "url": "lab-hydraulics.html#lab-hydraulics-8",
+  "url": "lab-hydraulics-pneumatics.html#lab-hydraulics-pneumatics-9",
   "type": "Additional Resources",
   "number": "11.5.1",
   "title": "",
@@ -2458,11 +2458,47 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
+  "id": "sec-absorption",
+  "level": "1",
+  "url": "sec-absorption.html",
+  "type": "Section",
+  "number": "14.1",
+  "title": "Absorption of Light",
+  "body": " Absorption of Light     ...   ...       Absorption  Absorption of light is when the photon's energy is absorbed into the surface that it hits. We know that when we see a black surface, we are seeing the absence of colors and that when we see a white surface, we're seeing \"all\" of the colors. When the photon hits the black surface, the energy of the photon is literally being taken in by the surface, and this causes the surface to get warmer. This explains why black surfaces are hotter than white surfaces when left in the sun. The black surface is absorbing many more photons than the white surface, and that energy is being converted into heat.  Absorption can be a little bit counter-intuitive. When we see a colored surface, we tend to think of the color as a property of the surface. For example, we see green grass and think that the grass itself is a green thing. That can lead us to think that the grass is absorbing green light (because it is absorbing the \"stuff\" that makes it green.) However, it works in the opposite way. We see grass as green because it reflects green light to our eyes. It's actually absorbing all of the other colors of light.  Sometimes, people erroneously think that this means that plants grown under green light will simply die (because it can't \"take in\" light for photosynthesis), but that's an oversimplification of the biology. Even though a lot of green light is reflected, some of it is still absorbed and can be used by the plant for making energy.    Absorption?  We'll start with the concept of absorption.       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-absorption-5",
+  "level": "2",
+  "url": "sec-absorption.html#sec-absorption-5",
+  "type": "Additional Resources",
+  "number": "14.1",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
+  "id": "sec-reflection",
+  "level": "1",
+  "url": "sec-reflection.html",
+  "type": "Section",
+  "number": "14.2",
+  "title": "Reflection of Light",
+  "body": " Reflection of Light     ...   ...   When it comes to photons, reflected light means light that bounces off of a surface. How we perceive this depends on the type of surface that we are looking at.    The Law of Reflection  We will start off with the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection. But what does this mean geometrically? Let's start with a flat surface. A line that is perpendicular to the surface is called a \"normal\" to the surface, and the incoming light creates an angle relative to that line. That angle is the angle of incidence. The Law of Reflection tells us that the reflected light will form an angle with the normal that is equal to the angle of incidence.  All reflected light will follow the law of reflection, but what we see will greatly depend on the nature of the surface that is doing the reflecting.    Flat Mirrors  The simplest case to consider is a flat mirror. In this case, the normal to the surface is always pointing in the same direction, which creates a simple geometry that is easy to understand.  If you are looking at yourself in a mirror, the reflection you see is formed by light bouncing off of you, hitting the mirror, and then hitting your eyes. But your eyes don't know the entire path that the photons have taken. They can only see the last step of the journey, which is the light bouncing off the mirror and reaching your eyes. Your brain takes the incoming photons and imagines that those photons were coming straight towards you the whole time. What your brain sees is the \"image\" of your body.  With a flat mirror, that image is literally a reflection of yourself as if you were on the other side of the mirror (and flipped). This is why flat mirrors behave like windows into some alternate universe where everything is flipped backwards. This is all due to the geometry of the flat mirror.    Curved Mirrors  The reason that curved mirrors create a distorted picture of reality is that the geometry of the mirror creates an warped alternate reality on the other side of it.  A convex mirror is one that is curved outward. A typical convex mirror is the round mirror that you see in stores and restaurants that allow someone to see around corners easily. When you look into it, you see a version of reality that feels a little bit squished. We can make sense of this by looking at the geometry.  For convex mirrors, the normal to the surface changes based on the location. The part that is closest to you will have a normal that is pointing right back at you. But as you move away from that point, the normal points outward. So as you shift your eyes upward along the surface, the normal vector is also pointing upward. If we apply the Law of Reflection to that point, we'll see that it exaggerates the shift even more. So if you look slightly upward from the closest point, you get a reflection that is from much further up than what you would see with a flat mirror.  The image that your brain constructs is therefore a compressed version of reality. If you would have to look up a certain amount to see the top of your head with a flat mirror, you would have to look up less with a convex mirror, and so the image of your head is going to be compressed.  Concave mirrors are mirrors that are bent inward. Concave mirrors can give two different types of images, depending on how close or far you are relative to the curvature of the mirror. Let's start with a very slightly curved mirror. As the mirror gets curved inward, your image will start to grow taller. This is because the normal to the surface is pointing in the opposite direction that your eyes are moving (relative to the nearest point). As you look upward, the normal points downward, which means that the movement is lessened. You would have to look up further to see the top of your head than you would with a flat mirror.  However, if the mirror is curved enough, you will actually start to see an upside down version of yourself. The reason is that the normal to the surface changes so much that you have to look downward to get a reflection from the upwards direction.  Funhouse mirrors are a combination of convex and concave, which leads to the alternating behavior of stretching and squishing.  [NOTE: THIS IS NOT WELL-WORDED!]    Light Scattering  Rough surfaces reflect light in essentially random ways. This means that the light reaching our eyes from a certain place are coming from all sorts of places. This leads to the image being created from random places in the room, which leads to the absence of any type of discernable image.       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-reflection-7",
+  "level": "2",
+  "url": "sec-reflection.html#sec-reflection-7",
+  "type": "Additional Resources",
+  "number": "14.2",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
   "id": "lab-optical-illusions",
   "level": "1",
   "url": "lab-optical-illusions.html",
   "type": "Lab Activity",
-  "number": "14.1.1",
+  "number": "14.3.1",
   "title": "Optical Illusions",
   "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2471,7 +2507,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-4",
   "type": "Example",
-  "number": "14.1.1.1",
+  "number": "14.3.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2480,7 +2516,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-optical-illusions.html#lab-optical-illusions-8",
   "type": "Additional Resources",
-  "number": "14.1.1",
+  "number": "14.3.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2489,7 +2525,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-light-and-shadow.html",
   "type": "Lab Activity",
-  "number": "14.1.2",
+  "number": "14.3.2",
   "title": "Light and Shadow",
   "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2498,7 +2534,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
   "type": "Example",
-  "number": "14.1.2.1",
+  "number": "14.3.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2507,7 +2543,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
   "type": "Additional Resources",
-  "number": "14.1.2",
+  "number": "14.3.2",
   "title": "",
   "body": "    Google     "
 },
