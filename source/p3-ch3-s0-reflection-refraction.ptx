@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-reflection-refraction" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch-reflection-refraction-absorption" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Reflection and Refraction</title>
 
   <objectives>
@@ -14,11 +14,24 @@
   </objectives>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p>
+      Look around the room and think about all of the different types of surfaces that you might see. Perhaps there's a window and you see some glare that partially obscures
+      the outside world. Perhaps there's a mirror and you can see a perfect image as if you're looking through a window into a different universe. Perhaps there are walls of
+      different colors that you see, or textures on the floor that you see. Maybe there's a glass of water and you can see a strange bending effect.
+    </p>
+    <p>
+      All of these types of interactions can be understood using three light concepts: absorption, reflection, refraction. Sometimes, a photon hits a surface, and then it
+      ceases to exist. This is known as absorption. When this happens, the photon basically gives its energy to the surface. Other times, the photon bounces off of the surface.
+      This is known as reflection. And sometimes, the photon passes through a surface, but perhaps with some changes to its direction. This is known as refraction. We are going
+      to study each of these.
+    </p>
+
   </introduction>
 
   <!-- include sections -->
-  <!-- <xi:include href="sec-section-name.ptx" /> -->
+  <xi:include href="p3-ch3-s1-absorption.ptx" />
+  <xi:include href="p3-ch3-s2-reflection.ptx" />
+
   <xi:include href="p3-ch3-sL-0-reflection-refraction-labs.ptx" />
 
 </chapter>

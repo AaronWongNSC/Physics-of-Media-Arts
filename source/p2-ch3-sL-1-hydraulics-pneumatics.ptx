@@ -1,0 +1,301 @@
+<subsection xml:id="lab-hydraulics-pneumatics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Hydraulics and Pneumatics</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      We are going to build a simple hydraulic and pneumatic system to get some tangible experiences with how they work and how to operate them.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+
+    <ul>
+      <li>
+        <p>
+          1 mL plastic syringe
+        </p>
+      </li>
+      <li>
+        <p>
+          3 mL plastic syringe
+        </p>
+      </li>
+      <li>
+        <p>
+          12-18 inches of flexible PVC tubing that fits snugly over the tips of the syringes
+        </p>
+      </li>
+      <li>
+        <p>
+          A small cup of water
+        </p>
+      </li>
+      <li>
+        <p>
+          Some paper towel to clean up if you spill
+        </p>
+      </li>
+    </ul>
+
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+      We will be building two systems. The first will be pneumatic and the second will be hydraulic. 
+    </p>
+    <ol>
+      <li>
+        <p>
+          Pull both of the syringes so that they are about halfway out. Put the tips of the syringes into the tubing. Be sure that it is snug.
+        </p>
+      </li>
+      <li>
+        <p>
+          Note the positions of the plungers using the volume markings. Press the plunger on the 1 mL plunger all the way in. What happened to the other syringe when you did
+          that? Be sure to record the final positions of the plungers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Press on plunger on the 3 mL syringe all the way in. What happened to the other syringe when you did that? Be sure to record the final positions of the plungers.
+          (Note: You may need to rebuild your pneumatic system after this step.)
+        </p>
+      </li>
+      <li>
+        <p>
+          Press on both plungers at the same time. Are you able to push them both all the way in?
+        </p>
+      </li>
+      <li>
+        <p>
+          Press both plungers all the way in and then release the 3 mL plunger. Describe the behavior of the plunger. In particular, pay attention to the speed at which it
+          moves and its final position. Do this several times.
+        </p>
+      </li>
+      <li>
+        <p>
+          Now repeat the previous step, except release the 1 mL plunger. Compare the behavior of this plunger to the 3 mL plunger. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Feel free to play around with your system before dismantling it. This completes the activity for the pneumatic system.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the 3 mL syringe to fill the tubing with water from the cup. The goal is to get the tube almost completely full of water without any air bubbles. (Full except
+          for perhaps a few millimeters.) If you spill water, clean it up. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Fill both syringes half-full of water. You want to have as little air in the syringes as possible. 
+        </p>
+      </li>
+      <li>
+        <p>
+          Note the positions of the plungers using the volume markings. Press the plunger on the 1 mL plunger all the way in. What happened to the other syringe when you did
+          that? Be sure to record the final positions of the plungers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Press on plunger on the 3 mL syringe, but be careful of breaking the system by pushing too far. (If you break it, clean up the water with paper towels.) What happened
+          to the other syringe when you did that? Be sure to record the final positions of the plungers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Press on both plungers at the same time. Are you able to push them both all the way in? (Don't press so hard as to break it. Otherwise, clean up your mess.) As
+          you press, pay attention to the amount of force that you are applying to each syringe. Make a note of any differences that you experience.
+        </p>
+      </li>
+      <li>
+        <p>
+          Feel free to play around with your system before dismantling it. This completes the activity for the hydraulic system.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Pneumatic</title>
+      <tabular>
+        <row>
+          <cell> Action </cell> <cell> Initial Positions </cell> <cell> Final Positions </cell> <cell> Observations </cell>
+        </row>
+        <row>
+          <cell> Press 1 mL </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press 3 mL </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 3 mL (1) </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 3 mL (2) </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 3 mL (3) </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 1 mL (1) </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 1 mL (2) </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both, release 1 mL (3) </cell> <cell>  </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Pneumatic</title>
+      <tabular>
+        <row>
+          <cell> Action </cell> <cell> Initial Positions </cell> <cell> Final Positions </cell> <cell> Observations </cell>
+        </row>
+        <row>
+          <cell> Press 1 mL </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press 3 mL </cell> <cell>  </cell>
+        </row>
+        <row>
+          <cell> Press both </cell> <cell>  </cell>
+        </row>
+      </tabular>
+    </table>
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <ol>
+      <li>
+        <p>
+          Before we dive into the data, what similarities did you notice between the two systems as you worked through the procedures? What differences did you notice?
+        </p>
+      </li>
+      <li>
+        <p>
+          Compare the change in position when pushing on the 1 mL plunger for both the pneumatic and hydraulic case. In particular, focus on the change of volume of each
+          syringe. What do you notice about the pneumatic case compared to the hydraulic case?
+        </p>
+      </li>
+      <li>
+        <p>
+          Did the pneumatic system break when you fully pressed the 3 mL plunger? If so, why do you think that happened? If not, under what conditions do you think it would
+          happen?
+        </p>
+      </li>
+      <li>
+        <p>
+          Were you able to press both plungers down in the pneumatic system? Why do you think that happens?
+        </p>
+      </li>
+      <li>
+        <p>
+          When you pressed both plungers and then released one, was the behavior of the plunger consistent? What do you think is happening?
+        </p>
+      </li>
+      <li>
+        <p>
+          Were you able to press both plungers down in the hydraulic system? Why do you think that happens?
+        </p>
+      </li>
+      <li>
+        <p>
+          Did you try pulling on any of the plungers? If so, what happened? If not, what do you think might happen?
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      This lab was a quick introduction to pneumatics and hydraulics. If you want to see some clever applications of hydraulics, search YouTube for "cardboard hydraulic
+      projects."
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe what you did. 
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Present your charts of data. Make sure that they are clearly labeled.
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize your calculations in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you watch any videos? If so, say a few words about what you saw.
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

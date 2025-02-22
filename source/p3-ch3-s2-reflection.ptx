@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-reflection" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Reflection of Light</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      When it comes to photons, reflected light means light that bounces off of a surface. How we perceive this depends on the type of surface that we are looking at.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Law of Reflection</title>
+
+    <p>
+      We will start off with the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection. But what does this mean geometrically?
+      Let's start with a flat surface. A line that is perpendicular to the surface is called a "normal" to the surface, and the incoming light creates an angle relative
+      to that line. That angle is the angle of incidence. The Law of Reflection tells us that the reflected light will form an angle with the normal that is equal to
+      the angle of incidence.
+    </p>
+    <p>
+      All reflected light will follow the law of reflection, but what we see will greatly depend on the nature of the surface that is doing the reflecting.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Flat Mirrors</title>
+
+    <p>
+      The simplest case to consider is a flat mirror. In this case, the normal to the surface is always pointing in the same direction, which creates a simple geometry
+      that is easy to understand.
+    </p>
+    <p>
+      If you are looking at yourself in a mirror, the reflection you see is formed by light bouncing off of you, hitting the mirror, and then hitting your eyes. But your eyes
+      don't know the entire path that the photons have taken. They can only see the last step of the journey, which is the light bouncing off the mirror and reaching your
+      eyes. Your brain takes the incoming photons and imagines that those photons were coming straight towards you the whole time. What your brain sees is the "image" of
+      your body.
+    </p>
+    <p>
+      With a flat mirror, that image is literally a reflection of yourself as if you were on the other side of the mirror (and flipped). This is why flat mirrors behave like
+      windows into some alternate universe where everything is flipped backwards. This is all due to the geometry of the flat mirror.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Curved Mirrors</title>
+
+    <p>
+      The reason that curved mirrors create a distorted picture of reality is that the geometry of the mirror creates an warped alternate reality on the other side of it.
+    </p>
+    <p>
+      A convex mirror is one that is curved outward. A typical convex mirror is the round mirror that you see in stores and restaurants that allow someone to see around corners
+      easily. When you look into it, you see a version of reality that feels a little bit squished. We can make sense of this by looking at the geometry.
+    </p>
+    <p>
+      For convex mirrors, the normal to the surface changes based on the location. The part that is closest to you will have a normal that is pointing right back at you. But as
+      you move away from that point, the normal points outward. So as you shift your eyes upward along the surface, the normal vector is also pointing upward. If we apply
+      the Law of Reflection to that point, we'll see that it exaggerates the shift even more. So if you look slightly upward from the closest point, you get a reflection that
+      is from much further up than what you would see with a flat mirror.
+    </p>
+    <p>
+      The image that your brain constructs is therefore a compressed version of reality. If you would have to look up a certain amount to see the top of your head with a flat
+      mirror, you would have to look up less with a convex mirror, and so the image of your head is going to be compressed.
+    </p>
+    <p>
+      Concave mirrors are mirrors that are bent inward. Concave mirrors can give two different types of images, depending on how close or far you are relative to the curvature
+      of the mirror. Let's start with a very slightly curved mirror. As the mirror gets curved inward, your image will start to grow taller. This is because the normal to the
+      surface is pointing in the opposite direction that your eyes are moving (relative to the nearest point). As you look upward, the normal points downward, which means that
+      the movement is lessened. You would have to look up further to see the top of your head than you would with a flat mirror.
+    </p>
+    <p>
+      However, if the mirror is curved enough, you will actually start to see an upside down version of yourself. The reason is that the normal to the surface changes so much
+      that you have to look downward to get a reflection from the upwards direction.
+    </p>
+    <p>
+      Funhouse mirrors are a combination of convex and concave, which leads to the alternating behavior of stretching and squishing.
+    </p>
+    
+    <p>
+      [NOTE: THIS IS NOT WELL-WORDED!]
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Light Scattering</title>
+
+    <p>
+      Rough surfaces reflect light in essentially random ways. This means that the light reaching our eyes from a certain place are coming from all sorts of places. This
+      leads to the image being created from random places in the room, which leads to the absence of any type of discernable image. 
+    </p>
+    
+  </paragraphs>
+
+
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>
