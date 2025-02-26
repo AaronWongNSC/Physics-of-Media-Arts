@@ -199,7 +199,7 @@
       <li>
         <p>
           We saw from the formulas for projectile motion that an object launched horizontally from a height <m>h</m> will hit the ground at time <m>t = \sqrt{\frac{2h}{g}}</m>.
-          We also know that the horizontal speed will be constant throughout (ignoring gravity), so we can use the value of <m>v</m> from the previous problem. The horizontal
+          We also know that the horizontal speed will be constant throughout (ignoring air resistance), so we can use the value of <m>v</m> from the previous problem. The horizontal
           distance traveled before it hits the ground is <m>d = vt = \sqrt{2g\ell} \cdot \sqrt{\frac{2h}{g}} = 2 \sqrt{h \ell}</m>. Notice that there is no <m>g</m> in this
           formula. What does this mean? (Hint: What if you did this experiment on the moon?)
         </p>
@@ -237,7 +237,7 @@
     <p>
       This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework
       that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you're able to make it all come together in the end.
-      Theoretically, you should be able to place a container on the floor and consistent make the marble land in it with a device like this.
+      Theoretically, you should be able to place a container on the floor and consistently make the marble land in it from an aribtrary height with a device like this.
     </p>
   </paragraphs>
 
