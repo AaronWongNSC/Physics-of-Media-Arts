@@ -3,8 +3,7 @@
 <section xml:id="sec-light-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Light</title>
 
-  <xi:include href="./p3-ch1-sL-1-ray-tracing.ptx" />
-  <xi:include href="./p3-ch1-sL-2-prisms.ptx" />
+  <xi:include href="./p3-ch1-sL-1-polarizing-filters.ptx" />
   <!-- Speed of light in a microwave -->
 
 </section>

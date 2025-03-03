@@ -1,0 +1,240 @@
+<subsection xml:id="lab-polarizing-filters" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Polarizing Filters</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      Polarizing filters are used to create linearly polarized light. They can also be used to detect polarized light by seeing how an image changes as you rotate it.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+    <ul>
+      <li>
+        <p>
+          A polarizing filters
+        </p>
+      </li>
+      <li>
+        <p>
+          Cell phones and other electronic devices with screens
+        </p>
+      </li>
+      <li>
+        <p>
+          Light bulbs or other light sources
+        </p>
+      </li>
+      <li>
+        <p>
+          Pairs of sunglasses
+        </p>
+      </li>
+      <li>
+        <p>
+          A car
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+        This lab is mostly about discovering where polarized light can be found. The procedure is mostly about gathering the data.
+    </p>
+
+    <ol>
+      <li>
+        <p>
+          For each cell phone that you have (there should be at least two), record the manufacturer and model. Then place the polarizing filter on top of the screen. Rotate the
+          filter and see whether the image fades in and out. If so, the device is making linearly polarized light. If you have access to a TV (or multiple TVs), try doing this
+          as well.
+        </p>
+      </li>
+      <li>
+        <p>
+          Identify at least there different light sources (light bulbs). Determine the type of bulb that it is (incandescent, LED, fluorescent, halogen). Then hold the filter
+          between your eyes and the bulb and rotate the filter to see whether that light is polarized. Record your results.
+        </p>
+      </li>
+      <li>
+        <p>
+          Go outside during the daytime and note the time of day. Determine which directions are the compass directions (north, south, east, and west) and the mixed directions
+          (northeast, northwest, southeast, southwest). For each of those eight directions, you will be looking in two locations. The first is near the horizon and the second
+          is at about a 45 degree angle in the sky, leading to a total of 16 locations in the sky. If one of these is towards the sun, do NOT look directly at the sun, but look
+          at a spot in the sky where the sun isn't. For each location, identify whether there are clouds, and look at it through the filter and rotate it. Describe how the
+          image changes, if at all.
+        </p>
+      </li>
+      <li>
+        <p>
+          Get into a car and position it so that you can see the reflection of the dashboard on the windshield. (In other words, so that you can see the glare of the dashboard.)
+          Hold the polarizing filter between you and the windshield and rotate it. How significantly does the view change?
+        </p>
+      </li>
+      <li>
+        <p>
+          For each pair of sunglasses that you have (there should be at least one), test whether it is polarized using the following method. Hold the sunglasses in one hand
+          and the filter in the other. Hold the sunglasses at arm length and the filter between your eyes and the sunglasses. Rotate the filter and watch the lenses of the
+          sunglasses. If the lenses go dark at certain angles, then the sunglasses are polarized.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Electronic Devices</title>
+      <tabular>
+        <row>
+          <cell> Type (Cell Phone/TV) </cell> <cell> Manufacturer </cell> <cell> Model </cell> <cell> Polarized Light? </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Light Bulbs</title>
+      <tabular>
+        <row>
+          <cell> Type (incandescent, etc.) </cell> <cell> Polarized Light? </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Sky</title>
+      <tabular>
+        <row>
+          <cell> Compass Direction </cell> <cell> Horizon/Angled Up </cell> <cell> Clouds? </cell> <cell> Description of Changes </cell>
+        </row>
+        <row>
+          <cell> North </cell> <cell> Horizon </cell>
+        </row>
+        <row>
+          <cell> North </cell> <cell> Angled Up </cell>
+        </row>
+        <row>
+          <cell> Northeast </cell> <cell> Horizon </cell>
+        </row>
+        <row>
+          <cell> Northeast </cell> <cell> Angled Up </cell>
+        </row>
+        <row>
+          <cell> Etc. </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Other Objects</title>
+      <tabular>
+        <row>
+          <cell> Object </cell> <cell> Polarized Light? </cell>
+        </row>
+        <row>
+          <cell> Glare from the dashboard </cell> <cell> Polarized Light? </cell>
+        </row>
+        <row>
+          <cell> Sunglasses </cell> <cell> Polarized Light? </cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <p>
+      
+    </p>
+
+    <ol>
+      <li>
+        <p>
+          
+        </p>
+      </li>
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      ...
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          ...
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          ...
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

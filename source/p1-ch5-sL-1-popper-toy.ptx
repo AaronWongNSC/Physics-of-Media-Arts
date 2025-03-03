@@ -72,17 +72,6 @@
           "mostly vertical" launches.)
         </p>
       </li>
-      <li>
-        <p>
-          Record the popper toy with a marble in it up-close in slow motion and launch it several times. Determine the time it takes for the popper to invert (after
-          it starts moving).
-        </p>
-      </li>
-      <li>
-        <p>
-          Place the marble in the popper toy and record it up-close next to a meter stick. Determine the initial velocity of the marble.
-        </p>
-      </li>
     </ol>
   </paragraphs>
 
@@ -101,9 +90,6 @@
         <row>
           <cell>Popper Maximum Height</cell>
         </row>
-        <row>
-          <cell>Marble Initial Velocity</cell>
-        </row>
       </tabular>
     </table>
 
@@ -118,8 +104,8 @@
     <ol>
       <li>
         <p>
-          Use the fact that <m>F = ma</m> to determine the mass of the popper toy and marble. (Note: You will need to convert grams-force to kilograms-force and use the
-          correct value of <m>a</m> to get the mass.)
+          Use the fact that <m>F = ma</m> to determine the mass of the popper toy. (Note: The acceleration in this case is gravity, and you'll want to pay attention to
+          your units.)
         </p>
       </li>
       <li>
@@ -135,21 +121,6 @@
       <li>
         <p>
           Use the equations for projectile motion to calculate the expected height of the popper given its initial speed. How does this compare to what you measured?
-        </p>
-      </li>
-      <li>
-        <p>
-          Using the launch speed of the marble and its mass, determine its initial momentum.
-        </p>
-      </li>
-      <li>
-        <p>
-          Compare this result to the initial momentum of the popper on its own. What conclusions can you draw from these results?
-        </p>
-      </li>
-      <li>
-        <p>
-          Use the equations for projectile motion to calculate the expected height of the marble given its initial speed. How does this compare to what you measured?
         </p>
       </li>
     </ol>
