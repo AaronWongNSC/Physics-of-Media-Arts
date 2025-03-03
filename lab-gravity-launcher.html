@@ -96,14 +96,14 @@ eBookConfig.allow_pairs = false;
 eBookConfig.enableScratchAC = false;
 eBookConfig.build_info = "";
 eBookConfig.python3 = null;
-eBookConfig.runestone_version = '7.5.9';
+eBookConfig.runestone_version = '7.5.10';
 eBookConfig.jobehost = '';
 eBookConfig.proxyuri_runs = '';
 eBookConfig.proxyuri_files = '';
 eBookConfig.enable_chatcodes =  false;
 </script>
 <!--*** Runestone Services ***-->
-<script src="_static/prefix-runtime.d7db380f34a0a67e.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.f6bda0c0ccce4835.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<script src="_static/prefix-runtime.c2d04816128ebb44.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.f6bda0c0ccce4835.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
 <link rel="stylesheet" type="text/css" href="_static/prefix-runestone.e0c6d4592e23c667.css">
 <style>
 #lab-curious-thinkerv2-subsection-3-3 { counter-set: lab-curious-thinkerv2-subsection-3-3 0; }
@@ -184,6 +184,12 @@ eBookConfig.enable_chatcodes =  false;
 #lab-hydraulics-pneumatics-6-2 { counter-set: lab-hydraulics-pneumatics-6-2 0; }
 #lab-hydraulics-pneumatics-6-2 > li::marker { content: ""counter(lab-hydraulics-pneumatics-6-2,decimal)"."; }
 #lab-hydraulics-pneumatics-6-2 > li { counter-increment: lab-hydraulics-pneumatics-6-2; }
+#lab-polarizing-filters-4-3 { counter-set: lab-polarizing-filters-4-3 0; }
+#lab-polarizing-filters-4-3 > li::marker { content: ""counter(lab-polarizing-filters-4-3,decimal)"."; }
+#lab-polarizing-filters-4-3 > li { counter-increment: lab-polarizing-filters-4-3; }
+#lab-polarizing-filters-6-3 { counter-set: lab-polarizing-filters-6-3 0; }
+#lab-polarizing-filters-6-3 > li::marker { content: ""counter(lab-polarizing-filters-6-3,decimal)"."; }
+#lab-polarizing-filters-6-3 > li { counter-increment: lab-polarizing-filters-6-3; }
 #lab-colored-light-shadows-4-3 { counter-set: lab-colored-light-shadows-4-3 0; }
 #lab-colored-light-shadows-4-3 > li::marker { content: ""counter(lab-colored-light-shadows-4-3,decimal)"."; }
 #lab-colored-light-shadows-4-3 > li { counter-increment: lab-colored-light-shadows-4-3; }
@@ -411,10 +417,7 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-polarized-light.html" class="internal"><span class="codenumber">12.4</span> <span class="title">Polarized Light</span></a></div></li>
 <li class="toc-item toc-section">
 <div class="toc-title-box"><a href="sec-light-labs.html" class="internal"><span class="codenumber">12.5</span> <span class="title">Lab Activities: Light</span></a></div>
-<ul class="structural toc-item-list">
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-ray-tracing.html" class="internal"><span class="codenumber">12.5.1</span> <span class="title">Ray Tracing</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-prisms.html" class="internal"><span class="codenumber">12.5.2</span> <span class="title">Prisms</span></a></div></li>
-</ul>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lab-polarizing-filters.html" class="internal"><span class="codenumber">12.5.1</span> <span class="title">Polarizing Filters</span></a></div></li></ul>
 </li>
 </ul>
 </li>
@@ -551,13 +554,13 @@ eBookConfig.enable_chatcodes =  false;
 <ol class="decimal" id="lab-gravity-launcher-6-2">
 <li id="lab-gravity-launcher-6-2-1"><div class="para" id="lab-gravity-launcher-6-2-1-1">The gravity launcher converts gravitational potential energy to kinetic energy. Explain why it should be the change in potential energy from the start and end of the launch should be equal to the kinetic energy of the marble.</div></li>
 <li id="lab-gravity-launcher-6-2-2"><div class="para" id="lab-gravity-launcher-6-2-2-1">From the previous question, it should be the case that <span class="process-math">\(mg \ell = \frac{1}{2} mv^2\text{,}\)</span> where <span class="process-math">\(m\)</span> is the mass of the marble, <span class="process-math">\(g\)</span> is the gravitational acceleration, <span class="process-math">\(\ell\)</span> is the change in height of the marble between the start and end of the launch, and <span class="process-math">\(v\)</span> is the velocity of the marble at the moment of launch. If we solve for <span class="process-math">\(v\)</span> from this equation, we get <span class="process-math">\(v = \sqrt{2g\ell}\text{.}\)</span> Notice that there is no <span class="process-math">\(m\)</span> in this formula. What does this mean?</div></li>
-<li id="lab-gravity-launcher-6-2-3"><div class="para" id="lab-gravity-launcher-6-2-3-1">We saw from the formulas for projectile motion that an object launched horizontally from a height <span class="process-math">\(h\)</span> will hit the ground at time <span class="process-math">\(t = \sqrt{\frac{2h}{g}}\text{.}\)</span> We also know that the horizontal speed will be constant throughout (ignoring gravity), so we can use the value of <span class="process-math">\(v\)</span> from the previous problem. The horizontal distance traveled before it hits the ground is <span class="process-math">\(d = vt = \sqrt{2g\ell} \cdot \sqrt{\frac{2h}{g}} = 2 \sqrt{h \ell}\text{.}\)</span> Notice that there is no <span class="process-math">\(g\)</span> in this formula. What does this mean? (Hint: What if you did this experiment on the moon?)</div></li>
+<li id="lab-gravity-launcher-6-2-3"><div class="para" id="lab-gravity-launcher-6-2-3-1">We saw from the formulas for projectile motion that an object launched horizontally from a height <span class="process-math">\(h\)</span> will hit the ground at time <span class="process-math">\(t = \sqrt{\frac{2h}{g}}\text{.}\)</span> We also know that the horizontal speed will be constant throughout (ignoring air resistance), so we can use the value of <span class="process-math">\(v\)</span> from the previous problem. The horizontal distance traveled before it hits the ground is <span class="process-math">\(d = vt = \sqrt{2g\ell} \cdot \sqrt{\frac{2h}{g}} = 2 \sqrt{h \ell}\text{.}\)</span> Notice that there is no <span class="process-math">\(g\)</span> in this formula. What does this mean? (Hint: What if you did this experiment on the moon?)</div></li>
 <li id="lab-gravity-launcher-6-2-4"><div class="para" id="lab-gravity-launcher-6-2-4-1">Using the marble heights and chair/table heights, calculate the theoretical distances that the marble should travel and compare that with the averages you obtained. They should not match up well. Explain why this is the case. (Hint: These errors would exist without human error. There is something systematically wrong.)</div></li>
 <li id="lab-gravity-launcher-6-2-5"><div class="para" id="lab-gravity-launcher-6-2-5-1">Use the adjusting values you obtained after building your launcher to correct the values of <span class="process-math">\(\ell\)</span> and <span class="process-math">\(h\text{,}\)</span> then try the formula again. How close are the values now?</div></li>
 <li id="lab-gravity-launcher-6-2-6"><div class="para" id="lab-gravity-launcher-6-2-6-1">What other possible sources of error are there in the launcher?</div></li>
 <li id="lab-gravity-launcher-6-2-7"><div class="para" id="lab-gravity-launcher-6-2-7-1">Suppose someone drew a target next to the table and challenged you to hit it with the marble. What information would you need to measure and what calculation(s) would you do to determine how to do it?</div></li>
 </ol></section><section class="paragraphs" id="lab-gravity-launcher-7"><h2 class="heading"><span class="title">Conclusion.</span></h2>
-<div class="para" id="lab-gravity-launcher-7-2">This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you’re able to make it all come together in the end. Theoretically, you should be able to place a container on the floor and consistent make the marble land in it with a device like this.</div></section><section class="paragraphs" id="lab-gravity-launcher-8"><h2 class="heading"><span class="title">Lab Write-Up Guidance.</span></h2>
+<div class="para" id="lab-gravity-launcher-7-2">This is one of the more advanced labs of the course, due to the fact that it combines multiple concepts (energy conservation and projectile motion) in a framework that has a lot of potential for error. However, for many students it is also one of the most satisfying labs if you’re able to make it all come together in the end. Theoretically, you should be able to place a container on the floor and consistently make the marble land in it from an aribtrary height with a device like this.</div></section><section class="paragraphs" id="lab-gravity-launcher-8"><h2 class="heading"><span class="title">Lab Write-Up Guidance.</span></h2>
 <div class="para" id="lab-gravity-launcher-8-2">Use the following outline to help you write up your lab report completely and correctly.</div>
 <ul class="disc" id="lab-gravity-launcher-8-3">
 <li id="lab-gravity-launcher-8-3-1">
