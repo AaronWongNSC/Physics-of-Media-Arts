@@ -138,10 +138,10 @@
           <cell> Object </cell> <cell> Polarized Light? </cell>
         </row>
         <row>
-          <cell> Glare from the dashboard </cell> <cell> Polarized Light? </cell>
+          <cell> Glare from the dashboard </cell> 
         </row>
         <row>
-          <cell> Sunglasses </cell> <cell> Polarized Light? </cell>
+          <cell> Sunglasses </cell>
         </row>
       </tabular>
     </table>
@@ -150,15 +150,24 @@
 
   <paragraphs>
     <title>Discussion</title>
-      
-    <p>
-      
-    </p>
 
     <ol>
       <li>
         <p>
-          
+          Sometimes, polarizing filters are used on cameras to take pictures outside, especially under bright sunlight. Describe how the filter affected how the colors
+          look at different locations in the sky and use your observations to explain why someone might want to use a polarizing filter in this case.
+        </p>
+      </li>
+      <li>
+        <p>
+          It is strongly recommended that you use polarized sunglasses when driving in sunny locations. While there is a price difference, you can find polarized lenses
+          fairly cheaply at stores like Walgreen's and CVS (though you will want to double check to ensure that they really are polarized because not all of them are). Based
+          on your observations from the glare of the dashboard, do you personally think it's worth getting polarized sunglasses?
+        </p>
+      </li>
+      <li>
+        <p>
+          Do some research on why LCD screens are polarized. Provide a brief summary of what you learned.
         </p>
       </li>
     </ol>
@@ -169,7 +178,7 @@
     <title>Conclusion</title>
     
     <p>
-      ...
+      Don't just copy this sentence. Come up with your own conclusion.
     </p>
   </paragraphs>
 
@@ -186,42 +195,42 @@
         <title>Title and Header</title>
         
         <p>
-          ...
+          What is the title of the lab and who was in the lab group?
         </p>
       </li>
       <li>
         <title>Introduction</title>
           
         <p>
-          ...
+          In your own words, what was the purpose of the lab activity?
         </p>
       </li>
       <li>
         <title>Procedure</title>
           
         <p>
-          ...
+          Describe what you did. 
         </p>
       </li>
       <li>
         <title>Results and Data</title>
           
         <p>
-          ...
+          Present your data. Make sure it's labeled.
         </p>
       </li>
       <li>
         <title>Discussion</title>
           
         <p>
-          ...
+          Answer the discussion questions. Be sure that you state the original question and organize your calculations in a way that is easy to follow.
         </p>
       </li>
       <li>
         <title>Conclusion</title>
         
         <p>
-          ...
+          Write a couple paragraphs about the lab.
         </p>
       </li>
     </ul>
