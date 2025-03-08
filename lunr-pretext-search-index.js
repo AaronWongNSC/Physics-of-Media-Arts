@@ -2431,146 +2431,128 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
-  "id": "sec-absorption",
-  "level": "1",
-  "url": "sec-absorption.html",
-  "type": "Section",
-  "number": "14.1",
-  "title": "Absorption of Light",
-  "body": " Absorption of Light     ...   ...       Absorption  Absorption of light is when the photon's energy is absorbed into the surface that it hits. We know that when we see a black surface, we are seeing the absence of colors and that when we see a white surface, we're seeing \"all\" of the colors. When the photon hits the black surface, the energy of the photon is literally being taken in by the surface, and this causes the surface to get warmer. This explains why black surfaces are hotter than white surfaces when left in the sun. The black surface is absorbing many more photons than the white surface, and that energy is being converted into heat.  Absorption can be a little bit counter-intuitive. When we see a colored surface, we tend to think of the color as a property of the surface. For example, we see green grass and think that the grass itself is a green thing. That can lead us to think that the grass is absorbing green light (because it is absorbing the \"stuff\" that makes it green.) However, it works in the opposite way. We see grass as green because it reflects green light to our eyes. It's actually absorbing all of the other colors of light.  Sometimes, people erroneously think that this means that plants grown under green light will simply die (because it can't \"take in\" light for photosynthesis), but that's an oversimplification of the biology. Even though a lot of green light is reflected, some of it is still absorbed and can be used by the plant for making energy.    Absorption?  We'll start with the concept of absorption.       (Space.com) What is the Electromagnetic Spectrum?      "
-},
-{
-  "id": "sec-absorption-5",
-  "level": "2",
-  "url": "sec-absorption.html#sec-absorption-5",
-  "type": "Additional Resources",
-  "number": "14.1",
-  "title": "",
-  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
-},
-{
   "id": "sec-reflection",
   "level": "1",
   "url": "sec-reflection.html",
   "type": "Section",
-  "number": "14.2",
+  "number": "14.1",
   "title": "Reflection of Light",
-  "body": " Reflection of Light     ...   ...   When it comes to photons, reflected light means light that bounces off of a surface. How we perceive this depends on the type of surface that we are looking at.    The Law of Reflection  We will start off with the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection. But what does this mean geometrically? Let's start with a flat surface. A line that is perpendicular to the surface is called a \"normal\" to the surface, and the incoming light creates an angle relative to that line. That angle is the angle of incidence. The Law of Reflection tells us that the reflected light will form an angle with the normal that is equal to the angle of incidence.  All reflected light will follow the law of reflection, but what we see will greatly depend on the nature of the surface that is doing the reflecting.    Flat Mirrors  The simplest case to consider is a flat mirror. In this case, the normal to the surface is always pointing in the same direction, which creates a simple geometry that is easy to understand.  If you are looking at yourself in a mirror, the reflection you see is formed by light bouncing off of you, hitting the mirror, and then hitting your eyes. But your eyes don't know the entire path that the photons have taken. They can only see the last step of the journey, which is the light bouncing off the mirror and reaching your eyes. Your brain takes the incoming photons and imagines that those photons were coming straight towards you the whole time. What your brain sees is the \"image\" of your body.  With a flat mirror, that image is literally a reflection of yourself as if you were on the other side of the mirror (and flipped). This is why flat mirrors behave like windows into some alternate universe where everything is flipped backwards. This is all due to the geometry of the flat mirror.    Curved Mirrors  The reason that curved mirrors create a distorted picture of reality is that the geometry of the mirror creates an warped alternate reality on the other side of it.  A convex mirror is one that is curved outward. A typical convex mirror is the round mirror that you see in stores and restaurants that allow someone to see around corners easily. When you look into it, you see a version of reality that feels a little bit squished. We can make sense of this by looking at the geometry.  For convex mirrors, the normal to the surface changes based on the location. The part that is closest to you will have a normal that is pointing right back at you. But as you move away from that point, the normal points outward. So as you shift your eyes upward along the surface, the normal vector is also pointing upward. If we apply the Law of Reflection to that point, we'll see that it exaggerates the shift even more. So if you look slightly upward from the closest point, you get a reflection that is from much further up than what you would see with a flat mirror.  The image that your brain constructs is therefore a compressed version of reality. If you would have to look up a certain amount to see the top of your head with a flat mirror, you would have to look up less with a convex mirror, and so the image of your head is going to be compressed.  Concave mirrors are mirrors that are bent inward. Concave mirrors can give two different types of images, depending on how close or far you are relative to the curvature of the mirror. Let's start with a very slightly curved mirror. As the mirror gets curved inward, your image will start to grow taller. This is because the normal to the surface is pointing in the opposite direction that your eyes are moving (relative to the nearest point). As you look upward, the normal points downward, which means that the movement is lessened. You would have to look up further to see the top of your head than you would with a flat mirror.  However, if the mirror is curved enough, you will actually start to see an upside down version of yourself. The reason is that the normal to the surface changes so much that you have to look downward to get a reflection from the upwards direction.  Funhouse mirrors are a combination of convex and concave, which leads to the alternating behavior of stretching and squishing.  [NOTE: THIS IS NOT WELL-WORDED!]    Light Scattering  Rough surfaces reflect light in essentially random ways. This means that the light reaching our eyes from a certain place are coming from all sorts of places. This leads to the image being created from random places in the room, which leads to the absence of any type of discernable image.       (Space.com) What is the Electromagnetic Spectrum?      "
+  "body": " Reflection of Light     ...   ...   When it comes to photons, reflected light means light that bounces off of a surface. How we perceive this depends on the type of surface that we are looking at.    The Law of Reflection  We will start off with the Law of Reflection, which states that the angle of incidence is equal to the angle of reflection. But what does this mean geometrically? Let's start with a flat surface. A line that is perpendicular to the surface is called a \"normal\" to the surface, and the incoming light creates an angle relative to that line. That angle is the angle of incidence. The Law of Reflection tells us that the reflected light will form an angle with the normal that is equal to the angle of incidence.  All reflected light will follow the law of reflection, but what we see will greatly depend on the nature of the surface that is doing the reflecting.    Flat Mirrors  The simplest case to consider is a flat mirror. In this case, the normal to the surface is always pointing in the same direction, which creates a simple geometry that is easy to understand.  If you are looking at yourself in a mirror, the reflection you see is formed by light bouncing off of you, hitting the mirror, and then hitting your eyes. But your eyes don't know the entire path that the photons have taken. They can only see the last step of the journey, which is the light bouncing off the mirror and reaching your eyes. Your brain takes the incoming photons and imagines that those photons were coming straight towards you the whole time. What your brain sees is the \"image\" of your body.  With a flat mirror, that image is literally a reflection of yourself as if you were on the other side of the mirror (and flipped). This is why flat mirrors behave like windows into some alternate universe where everything is flipped backwards. This is all due to the geometry of the flat mirror.    Curved Mirrors  The reason that curved mirrors create a distorted picture of reality is that the geometry of the mirror creates an warped alternate reality on the other side of it.  A convex mirror is one that is curved outward. A typical convex mirror is the round mirror that you see in stores and restaurants that allow someone to see around corners easily. When you look into it, you see a version of reality that feels a little bit squished. We can make sense of this by looking at the geometry.  For convex mirrors, the normal to the surface changes based on the location. The part that is closest to you will have a normal that is pointing right back at you. But as you move away from that point, the normal points outward. So as you shift your eyes upward along the surface, the normal vector is also pointing upward. If we apply the Law of Reflection to that point, we'll see that it exaggerates the shift even more. So if you look slightly upward from the closest point, you get a reflection that is from much further up than what you would see with a flat mirror.  The image that your brain constructs is therefore a compressed version of reality. If you would have to look up a certain amount to see the top of your head with a flat mirror, you would have to look up less with a convex mirror, and so the image of your head is going to be compressed.  Concave mirrors are mirrors that are bent inward. Concave mirrors can give two different types of images, depending on how close or far you are relative to the curvature of the mirror. Let's start with a very slightly curved mirror. As the mirror gets curved inward, your image will start to grow taller. This is because the normal to the surface is pointing in the opposite direction that your eyes are moving (relative to the nearest point). As you look upward, the normal points downward, which means that the movement is lessened. You would have to look up further to see the top of your head than you would with a flat mirror.  However, if the mirror is curved enough, you will actually start to see an upside down version of yourself. The reason is that the normal to the surface changes so much that you have to look downward to get a reflection from the upwards direction.  Funhouse mirrors are a combination of convex and concave, which leads to the alternating behavior of stretching and squishing.    Light Scattering  Rough surfaces reflect light in essentially random ways. This means that the light reaching our eyes from a certain place are coming from all sorts of places. This leads to the image being created from random places in the room, which leads to the absence of any type of discernable image.       (Space.com) What is the Electromagnetic Spectrum?      "
 },
 {
   "id": "sec-reflection-7",
   "level": "2",
   "url": "sec-reflection.html#sec-reflection-7",
   "type": "Additional Resources",
+  "number": "14.1",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
+  "id": "sec-absorption",
+  "level": "1",
+  "url": "sec-absorption.html",
+  "type": "Section",
+  "number": "14.2",
+  "title": "Refraction of Light",
+  "body": " Refraction of Light     ...   ...       Refraction  Refraction is the deflection of light. This can be caused by light passing from one medium to another (such as light going from air to glass), and it can also happen if the medium is inconsistent (such as when heat rises off the ground, causing the air above to move and have different densities in different areas).  Refraction differs from reflection in that refracted light is traveling through the surface, whereas reflected light does not pass through. It is possible for some surfaces to result in a mixture of reflection and refraction. For example, if you see the glare of your dashboard on your windshield, you're seeing some light passing through from the outside of the car, but the light coming off the dashboard and reflecting off the glass is more intense and is making it harder to see.    Snell's Law  When a light gets refracted, there are two different angles. The angle of incidence is the angle at which the incoming light hits the surface, measured relative to the perpendicular direction. The angle of refraction is the angle that the light is traveling after it passes through the surface, also measured relative to the perpendicular direction.  Snell's law is a formula that relates the two angles together. It can be stated as , where is the speed of light on the side where is being measured, and is the speed of light on the side where is being measured.  The idea that the speed of light may be different in different media may seem to contradict that the speed of light is constant. What's happening is not that the speed of any individual photon is going slower, but because of additional interactions with the particles in the medium, there it just appears to be slowing down. The actual physics behind this is extremely complicated, but a not-quite-right picture is that the photon is bouncing around off of the particles.    Refractive Index  Instead of using the speed of light in the medium, we typically use a quantity known as the refractive index. For any medium, this is defined by . This makes the numbers much smaller and a bit easier to understand and interpret. Here are a few examples (values are approximate and depend on specific conditions):  Table of Indices of Refraction    Material  Refractive Index    Vacuum  1    Air (at STP) 1.0003    Water 1.33    Glass 1.5      The refractive index also changes with the wavelength of light is passing through it. This means that light of different energy will bend different amounts when it passes through an object. If light passes from a lower refractive index to a higher one, the light is bent more towards the normal, and if it goes from a high index to a low one the light is bent away from the normal.    Prisms  A prism is a triangular piece of glass. Since glass will bend light by different amounts depending on the wavelength, prisms can be used to separate out different wavelengths of light. If you use a prism with sunlight, you will see that you get a full range of colors spread out. It will also spread out the photons that are outside the visible spectrum, but we just can't see those.  The type of light you use is important, as not all light that appears white is the same. A flashlight with an incandescent bulb will create a rainbow spectrum because that light is mostly blackbody radiation. But if you were to use a cellphone light (which is typically a single LED), you will probably just get a single band. This is because LEDs actually only emit a small set of wavelengths of light. It's possible that if your white LED is actually an RGB LED, that you would see three bands. However, those LEDs are more expensive and so it's unlikely that it would be used in that way.  Through careful calibration, this allows us to isolate photons of a very specific energy level. This was used in the 1950s to accomplish what we try to do with green screens today (but far more effective). The process is known as the sodium vapor process (or yellowscreen). Here is a 12-minute video that gives a good overview of the process (1:20 - 3:25): (YouTube.com) This Invension Made Disney MILLIONS, but Then They Lost It .       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-absorption-5-2-2",
+  "level": "2",
+  "url": "sec-absorption.html#sec-absorption-5-2-2",
+  "type": "Table",
+  "number": "14.2.0.1",
+  "title": "Table of Indices of Refraction",
+  "body": " Table of Indices of Refraction    Material  Refractive Index    Vacuum  1    Air (at STP) 1.0003    Water 1.33    Glass 1.5    "
+},
+{
+  "id": "sec-absorption-7",
+  "level": "2",
+  "url": "sec-absorption.html#sec-absorption-7",
+  "type": "Additional Resources",
   "number": "14.2",
   "title": "",
   "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
 {
-  "id": "lab-optical-illusions",
+  "id": "sec-lenses",
   "level": "1",
-  "url": "lab-optical-illusions.html",
-  "type": "Lab Activity",
-  "number": "14.3.1",
-  "title": "Optical Illusions",
-  "body": " Optical Illusions   Introduction  Using mirrors to create illusions    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "url": "sec-lenses.html",
+  "type": "Section",
+  "number": "14.3",
+  "title": "Lenses",
+  "body": " Lenses     ...   ...   Lenses are devices (typically made of glass or plastic) that bend light in particular ways.    The Focus of a Lens  If you have ever used a magnifying lens, you would probably have noticed that in order for it to work, the object that is being magnified must be in a specific location, otherwise the image doesn't make a lot of sense. The focus of a lens is the point at which the light rays converge (or at least appear to converge) after passing through the lens, and the focal length is how far away that point is from the lens (assuming that the light source is far away).  A typical lens is convex, meaning that it is thicker in the middle than around the edges. Convex lenses bend light inwards due to Snell's law and the thickness of the lens. In this case, the light will pass through and all coincide at a single point. If you do this with sunlight, there is enough energy to ignite a piece of paper.  There is another type of lens called a concave lens, and this one is thinner in the middle than at the edges. Concave lenses cause the light to become more spread out, so that the focus of the lens is on the same side that the light is coming from. These are sometimes called \"diverging lenses.\"    The Lens Equation  Before giving the lens equation, we need to define a couple terms. An object is the physical item that is either emitting light or reflecting light through the lens. We typically draw this as an arrow whose tail end is on the axis of symmetry of the lens, pointing upward on the page. The image is the result of the light passing through the lens.  There is a standard drawing for this...      Magnification and Inversion  Lenses are used to magnify the size of an image. Of course, we're not actually changing the size of the object. What is changing is how large the object appears to be. This is impacted by the location of the object relative to the focal point, and this explains why you have to play around with the distances to get a magnifying lens to focus on an object.         (Space.com) What is the Electromagnetic Spectrum?      "
 },
 {
-  "id": "lab-optical-illusions-4",
+  "id": "sec-lenses-6",
   "level": "2",
-  "url": "lab-optical-illusions.html#lab-optical-illusions-4",
-  "type": "Example",
-  "number": "14.3.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-optical-illusions-8",
-  "level": "2",
-  "url": "lab-optical-illusions.html#lab-optical-illusions-8",
+  "url": "sec-lenses.html#sec-lenses-6",
   "type": "Additional Resources",
-  "number": "14.3.1",
+  "number": "14.3",
   "title": "",
-  "body": "    Google     "
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
 {
-  "id": "lab-light-and-shadow",
+  "id": "sec-aperture",
   "level": "1",
-  "url": "lab-light-and-shadow.html",
-  "type": "Lab Activity",
-  "number": "14.3.2",
-  "title": "Light and Shadow",
-  "body": " Light and Shadow   Introduction  Different lighting scenarios create different types of shadows (harsh, soft).    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "url": "sec-aperture.html",
+  "type": "Section",
+  "number": "14.4",
+  "title": "Aperture",
+  "body": " Aperture     ...   ...   Understanding the aperture of a lens is important for photography (digital or otherwise). The aperture is the opening that allows light to hit the camera lens, and controlling its size impacts the resulting image.    Pinhole Camera  The pinhole camera is the most basic type of camera, constructed from just a box with a small hole on the side. It's called a pinhole camera because the hole is typically small. This is also our first introduction to how apertures work.  Apertures control the amount of light that goes into the camera, as well as the angles at which the light can pass through. If the aperture is really small (a very small hole), only a small amount of light can get in. Not only that, but the angles through which the light can pass through are very limited. (Exaggerated drawing.) This leads to a very crisp image because the light from a particular position only hits a small area, which limits the amount of overlap between different objects.  On the other hand, if the aperture is large, then a lot of light gets through, and the image is a bit more blurry because the light from a particular location is now spread out over a larger area, leading to more overlap between different parts of the image. In fact, if the aperture is too large, all you get is a spot of light with no image because too many different images are overlapping each other.  Notice that images will be inverted because the light travels straight through the hole. So light from above the hole must travel downward to pass through the hole.    Depth of Field  The depth of field of a camera is the range of distances within a scene that will appear to be in focus in the picture. As objects leave the depth of field, they will become increasingly blurry.  Depth of field is controlled by both the lens and the aperture. Lowering the aperture increases the depth of field because the light is less spread out, leading to less blurriness overall. Increasing the aperture decreases the depth of field because now light can get more spread out and overlap, leading to blurry images. The focal distance of the lens impacts which objects are in focus. As objects get further away from where the camera is focused, the image gets increasingly spread out.       (Space.com) What is the Electromagnetic Spectrum?      "
 },
 {
-  "id": "lab-light-and-shadow-4",
+  "id": "sec-aperture-5",
   "level": "2",
-  "url": "lab-light-and-shadow.html#lab-light-and-shadow-4",
-  "type": "Example",
-  "number": "14.3.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-light-and-shadow-8",
-  "level": "2",
-  "url": "lab-light-and-shadow.html#lab-light-and-shadow-8",
+  "url": "sec-aperture.html#sec-aperture-5",
   "type": "Additional Resources",
-  "number": "14.3.2",
+  "number": "14.4",
   "title": "",
-  "body": "    Google     "
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
 {
-  "id": "lab-analog-photography",
+  "id": "sec-ray-tracing",
   "level": "1",
-  "url": "lab-analog-photography.html",
-  "type": "Lab Activity",
-  "number": "15.1.1",
-  "title": "Analog Photography",
-  "body": " Analog Photography   Introduction  Something about F-stops and whateer    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "url": "sec-ray-tracing.html",
+  "type": "Section",
+  "number": "14.5",
+  "title": "Ray Tracing",
+  "body": " Ray Tracing     ...   ...   Ray tracing is a method for rendering simulated images in a computer. While the details of the process are quite complex, the basic ideas are built on the physics of light, including reflection and refraction.    Capturing Reality  Imagine that we are trying to paint a realistic picture of a landscape. To be realistic, we would want the result to be as close as possible to setting up an empty picture frame and physically looking through it to see the landscape. This idea sets up how we can attempt to capture the picture.  If we were to set actually set up that picture frame, the image we would see would depend on where we are relative to the frame. So we would also need to set up a chair that represents our viewing perspective. Once this location is established, we have all of the components for how we would capture that image of reality. But how does the capturing process actually work?  Light is coming down from the sky and bouncing off all sorts of things. Some of that light ends up passing through the picture frame and hitting our eyes, and that's what we see. Note that some of the light may have bounced off multiple surfaces before reaching our eyes. At the back of our eyes are sensors (cones) that detect different types of photons coming in and the information from those sensors is how we create our image of reality.    Ray Tracing (The Reverse Process)  Ray tracing takes this process and tries to run it in reverse. Rather than starting with light from the outside world, we start with our eyes. Treating our eyes as a single point (specifically, the lens of our eyes), we can imagine shooting out a ray from our eyes through different places in the picture frame. If we follow that ray, it will eventually hit something, and that is the thing that we see in that part of the picture.  However, we can only see this object if there is light that is illuminating it in that spot. The magic of ray tracing is that we can use the properties of reflection and refraction to tell us where the light is coming from. Depending on the properties of the surface, there may be some reflected light that can be traced using the law of reflection and there may be some refracted light that can be traced using Snell's law. By continuing to trace those lines through the various surfaces, we can figure out how the object is lit, and how that light might change as it passes through different surfaces.  This is a computationally expensive process, meaning that there are a lot of calculations that need to be done for it to work. In the earlier days of computer graphics, it was not really possible to do this. But the processing speeds have reached the points where this can be done in real-time, meaning that it's doing all of the calculations fast enough to update the image for each frame of animation. There is a lot of fancy math that goes into this, but that's not important for this class. It's enough to understand the process.    Oblique Anamorphism  Oblique anamorophism is a fancy name for a particular type of art that must be viewed from a specific direction for the image to be \"properly\" seen. An example of this is 3D chalk art. When viewed from the correct position, you see something that creates an illusion of a 3-dimensional scene. But when viewed from the wrong perspective, you see a disproportionately stretched version of the scene.  Oblique anamorphism is a particular type of optical illusion created by a forced perspective. It is not possible to know the distance to the object from just a single perspective (such as looking through the camera lens). You can only know the direction that the light is coming from. This is basically an extension of ray tracing, where you trace the light backwards to where it would need to originate from in order to create the desired image.  This can be done by using a projector to project an image onto a room, and then tracing that image. Then if you look at the image from where the projector was, you will see the desired image. In settings where this is not possible, this is also accomplished using string and rulers to help trace straight lines from the desired position to wherever the object needs to be drawn.       (Space.com) What is the Electromagnetic Spectrum?      "
 },
 {
-  "id": "lab-analog-photography-4",
+  "id": "sec-ray-tracing-6",
   "level": "2",
-  "url": "lab-analog-photography.html#lab-analog-photography-4",
-  "type": "Example",
-  "number": "15.1.1.1",
-  "title": "Example.",
-  "body": " Example  ...  "
-},
-{
-  "id": "lab-analog-photography-8",
-  "level": "2",
-  "url": "lab-analog-photography.html#lab-analog-photography-8",
+  "url": "sec-ray-tracing.html#sec-ray-tracing-6",
   "type": "Additional Resources",
-  "number": "15.1.1",
+  "number": "14.5",
   "title": "",
-  "body": "    Google     "
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
 },
 {
   "id": "lab-pinhole-camera",
   "level": "1",
   "url": "lab-pinhole-camera.html",
   "type": "Lab Activity",
-  "number": "15.1.2",
+  "number": "14.6.1",
   "title": "Pinhole Camera",
-  "body": " Pinhole Camera   Introduction  Make a pinhole camera and make observations about it.    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
+  "body": " Pinhole Camera   Introduction  We are going to make a pinhole camera and use our modern cell phone camera to capture what it sees.    Equipment List    Cell phone with camera    Plain white paper    Sheets of cardboard (to build a box) or a cardboard box    Duct tape (to block light at the corners)    Aluminum foil    Scotch tape    A staple or very fine needle point    A thumbtack or straightened metal paper clip    A sharpened pencil or similarly tapered object    A sunny day or a well-lit room    Optional: A sweatshirt or other cloth to cover the box better        Procedure  We are going to build the pinhole camera, and then use cellphone video to see what it sees. Then we'll adjust the size of the aperture to see how that impacts the images.    If you are attempting to use an existing box, use the measurements in this step to ensure that the box is an appropriate size.   The goal is to have a box big enough so that you can lean the phone up against one side of the box and have the camera close the center of the box. That side will be the front of the box. The box must also be tall enough so that you can put a hole on the side of the box above the camera and have a little bit of room to spare.    The exact dimensions of the box beyond these conditions are mostly irrelevant. We only need the box to be big enough so that we can use the cell phone camera to capture the images. This size can be adjusted to get slightly different results.    If you are building a box from cardboard, a good starting point is to make a box where the width is 1.5-2 times the long side of the cell phone, the height is 2-3 times the short side of the cell phone, and the depth is 20-30 cm. You will create a 5-sided box, with the top remaining open (for now). Use duct tape on the edges to block light from getting in. Be sure to check the corners.    For the top of the box, cut a piece of cardboard a few centimeters larger than the base. This will be used to block light from the outside, and so the extra size will be helpful.       Tape your phone to the inside of the front of the box. This is the side that is 1.5-2 times the long side of the cell phone. Align the camera (preferably the selfie camera so that you can activate the phone without taking it out again) so that it faces the opposite side of the box and is as close to the center as possible. The phone must be secure enough that it won't fall as you move the box around.    Cut a small hole (just 1-2 cm in diameter) on the front side of the box in the middle (left-to-right) and above the cell phone. Ideally, this will be in the middle of the box (to maximize the potential image size), but it's probably fine as long as it's above the camera.    Tape a piece of white paper directly across from the hole. If that side of the box is larger than a piece of a paper, it's fine to just use a single sheet with the possibility of adding more later, depending on how the images turn out. If the paper is too large, cut it down to size.    Tear a piece of foil that is a couple centimeters larger than the hole. (Tearing is better than cutting with scissors because that will make the scissors dull.) Tape this over the hole. It should block out all light from coming in the hole.    Use the thumbtack or paperclip to poke a hole in the foil. The hole should be about a mm in diameter, but not much larger.    Turn on the camera so that it's recording the inside of the box. Cover the box with the cardboard lid (and optional fabric) and take it outside. Point the aperture at a few objects, preferably of different colors. You might also stand in front of the box and dance or jump.    Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. If you didn't get anything at all, figure out why and fix it.    Remove the foil and apply a new piece. Pick a location where you felt that you had a good image from the initial test. Set the phone to record and cover the box. Use the pin or staple to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate the aperture. Then use the pin or paperclip to enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase the hole size a little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more.    Remove the lid and review the footage. You will need these observations for the discussion.      Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Pin\/Staple    Tack\/paperclip    Pencil (first time)    Pencil (second time)    Pencil (third time)       Discussion    How did the initial pinhole camera go? Describe the quality of the image. (Was it bright? Dim? Focused? Blurry? Big? Small?)    The second part of the exercise was to see how the aperture size affected the image. As the aperture got larger, how did the image change?    At what aperture size did you get the best image? (Note that \"best\" is a subjective measurement. You are looking for a mixture of clarity and brightness.)    If you were to build another pinhole camera, what would change about the first one and why would you make those changes?      Conclusion  Reach your own conclusion.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe your images    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         Google      "
 },
 {
-  "id": "lab-pinhole-camera-4",
+  "id": "lab-pinhole-camera-5",
   "level": "2",
-  "url": "lab-pinhole-camera.html#lab-pinhole-camera-4",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-5",
   "type": "Example",
-  "number": "15.1.2.1",
-  "title": "Example.",
-  "body": " Example  ...  "
+  "number": "14.6.1.1",
+  "title": "Sample Charts.",
+  "body": " Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Pin\/Staple    Tack\/paperclip    Pencil (first time)    Pencil (second time)    Pencil (third time)     "
 },
 {
-  "id": "lab-pinhole-camera-8",
+  "id": "lab-pinhole-camera-9",
   "level": "2",
-  "url": "lab-pinhole-camera.html#lab-pinhole-camera-8",
+  "url": "lab-pinhole-camera.html#lab-pinhole-camera-9",
   "type": "Additional Resources",
-  "number": "15.1.2",
+  "number": "14.6.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2579,7 +2561,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-chladni-plate.html",
   "type": "Lab Activity",
-  "number": "16.1.1",
+  "number": "15.1.1",
   "title": "Chladni Plates",
   "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2588,7 +2570,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-4",
   "type": "Example",
-  "number": "16.1.1.1",
+  "number": "15.1.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2597,7 +2579,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-8",
   "type": "Additional Resources",
-  "number": "16.1.1",
+  "number": "15.1.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2606,7 +2588,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "16.1.2",
+  "number": "15.1.2",
   "title": "Oscilloscope",
   "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2615,7 +2597,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-4",
   "type": "Example",
-  "number": "16.1.2.1",
+  "number": "15.1.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2624,7 +2606,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-8",
   "type": "Additional Resources",
-  "number": "16.1.2",
+  "number": "15.1.2",
   "title": "",
   "body": "    Google     "
 },
@@ -2633,7 +2615,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-resonance.html",
   "type": "Chapter",
-  "number": "17",
+  "number": "16",
   "title": "Resonance",
   "body": " Resonance     Students will be able to...      Text before the first section.      "
 },
@@ -2642,7 +2624,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-resonance.html#ch-resonance-2",
   "type": "Learning Objectives",
-  "number": "17",
+  "number": "16",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2651,7 +2633,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-music.html",
   "type": "Chapter",
-  "number": "18",
+  "number": "17",
   "title": "Music",
   "body": " Music     Students will be able to...      Text before the first section.      "
 },
@@ -2660,7 +2642,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-music.html#ch-music-2",
   "type": "Learning Objectives",
-  "number": "18",
+  "number": "17",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2669,7 +2651,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-electronics.html",
   "type": "Chapter",
-  "number": "19",
+  "number": "18",
   "title": "Basic Electronics",
   "body": " Basic Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2678,7 +2660,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-electronics.html#ch-electronics-2",
   "type": "Learning Objectives",
-  "number": "19",
+  "number": "18",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2687,7 +2669,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-practical.html",
   "type": "Chapter",
-  "number": "20",
+  "number": "19",
   "title": "Practical Electronics",
   "body": " Practical Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2696,7 +2678,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-practical.html#ch-practical-2",
   "type": "Learning Objectives",
-  "number": "20",
+  "number": "19",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2705,7 +2687,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-hacking.html",
   "type": "Chapter",
-  "number": "21",
+  "number": "20",
   "title": "Hacking Electronics",
   "body": " Hacking Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2714,7 +2696,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-hacking.html#ch-hacking-2",
   "type": "Learning Objectives",
-  "number": "21",
+  "number": "20",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2723,7 +2705,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-building.html",
   "type": "Chapter",
-  "number": "22",
+  "number": "21",
   "title": "Building Electronics",
   "body": " Building Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2732,7 +2714,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-building.html#ch-building-2",
   "type": "Learning Objectives",
-  "number": "22",
+  "number": "21",
   "title": "",
   "body": "   Students will be able to...    "
 },
