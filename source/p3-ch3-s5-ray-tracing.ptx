@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-ray-tracing" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Ray Tracing</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      Ray tracing is a method for rendering simulated images in a computer. While the details of the process are quite complex, the basic ideas are built on the physics of
+      light, including reflection and refraction.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Capturing Reality</title>
+
+    <p>
+      Imagine that we are trying to paint a realistic picture of a landscape. To be realistic, we would want the result to be as close as possible to setting up an empty picture
+      frame and physically looking through it to see the landscape. This idea sets up how we can attempt to capture the picture.
+    </p>
+    <p>
+      If we were to set actually set up that picture frame, the image we would see would depend on where we are relative to the frame. So we would also need to set up a chair
+      that represents our viewing perspective. Once this location is established, we have all of the components for how we would capture that image of reality. But how does the
+      capturing process actually work?
+    </p>
+    <p>
+      Light is coming down from the sky and bouncing off all sorts of things. Some of that light ends up passing through the picture frame and hitting our eyes, and that's what
+      we see. Note that some of the light may have bounced off multiple surfaces before reaching our eyes. At the back of our eyes are sensors (cones) that detect different
+      types of photons coming in and the information from those sensors is how we create our image of reality.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Ray Tracing (The Reverse Process)</title>
+
+    <p>
+      Ray tracing takes this process and tries to run it in reverse. Rather than starting with light from the outside world, we start with our eyes. Treating our eyes as a
+      single point (specifically, the lens of our eyes), we can imagine shooting out a ray from our eyes through different places in the picture frame. If we follow that ray,
+      it will eventually hit something, and that is the thing that we see in that part of the picture.
+    </p>
+    <p>
+      However, we can only see this object if there is light that is illuminating it in that spot. The magic of ray tracing is that we can use the properties of reflection
+      and refraction to tell us where the light is coming from. Depending on the properties of the surface, there may be some reflected light that can be traced using
+      the law of reflection and there may be some refracted light that can be traced using Snell's law. By continuing to trace those lines through the various surfaces,
+      we can figure out how the object is lit, and how that light might change as it passes through different surfaces.
+    </p>
+    <p>
+      This is a computationally expensive process, meaning that there are a lot of calculations that need to be done for it to work. In the earlier days of computer graphics,
+      it was not really possible to do this. But the processing speeds have reached the points where this can be done in real-time, meaning that it's doing all of the
+      calculations fast enough to update the image for each frame of animation. There is a lot of fancy math that goes into this, but that's not important for this class.
+      It's enough to understand the process.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Oblique Anamorphism</title>
+
+    <p>
+      Oblique anamorophism is a fancy name for a particular type of art that must be viewed from a specific direction for the image to be "properly" seen. An example of
+      this is 3D chalk art. When viewed from the correct position, you see something that creates an illusion of a 3-dimensional scene. But when viewed from the wrong
+      perspective, you see a disproportionately stretched version of the scene.
+    </p>
+    <p>
+      Oblique anamorphism is a particular type of optical illusion created by a forced perspective. It is not possible to know the distance to the object from just a single
+      perspective (such as looking through the camera lens). You can only know the direction that the light is coming from. This is basically an extension of ray tracing,
+      where you trace the light backwards to where it would need to originate from in order to create the desired image.
+    </p>
+    <p>
+      This can be done by using a projector to project an image onto a room, and then tracing that image. Then if you look at the image from where the projector was, you will
+      see the desired image. In settings where this is not possible, this is also accomplished using string and rulers to help trace straight lines from the desired position
+      to wherever the object needs to be drawn.
+    </p>
+
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

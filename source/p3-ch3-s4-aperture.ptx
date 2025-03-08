@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-aperture" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Aperture</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      Understanding the aperture of a lens is important for photography (digital or otherwise). The aperture is the opening that allows light to hit the camera lens,
+      and controlling its size impacts the resulting image.
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Pinhole Camera</title>
+
+    <p>
+      The pinhole camera is the most basic type of camera, constructed from just a box with a small hole on the side. It's called a pinhole camera because the hole is typically
+      small. This is also our first introduction to how apertures work.
+    </p>
+    <p>
+      Apertures control the amount of light that goes into the camera, as well as the angles at which the light can pass through. If the aperture is really small (a very small
+      hole), only a small amount of light can get in. Not only that, but the angles through which the light can pass through are very limited. (Exaggerated drawing.) This leads
+      to a very crisp image because the light from a particular position only hits a small area, which limits the amount of overlap between different objects.
+    </p>
+    <p>
+      On the other hand, if the aperture is large, then a lot of light gets through, and the image is a bit more blurry because the light from a particular location is now
+      spread out over a larger area, leading to more overlap between different parts of the image. In fact, if the aperture is too large, all you get is a spot of light
+      with no image because too many different images are overlapping each other.
+    </p>
+    <p>
+      Notice that images will be inverted because the light travels straight through the hole. So light from above the hole must travel downward to pass through the hole.
+    </p>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Depth of Field</title>
+
+    <p>
+      The depth of field of a camera is the range of distances within a scene that will appear to be in focus in the picture. As objects leave the depth of field, they will
+      become increasingly blurry. 
+    </p>
+    <p>
+      Depth of field is controlled by both the lens and the aperture. Lowering the aperture increases the depth of field because the light is less spread out, leading to 
+      less blurriness overall. Increasing the aperture decreases the depth of field because now light can get more spread out and overlap, leading to blurry images. The
+      focal distance of the lens impacts which objects are in focus. As objects get further away from where the camera is focused, the image gets increasingly spread out.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

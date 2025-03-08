@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-absorption" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Refraction of Light</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Refraction</title>
+
+    <p>
+      Refraction is the deflection of light. This can be caused by light passing from one medium to another (such as light going from air to glass), and it can also happen
+      if the medium is inconsistent (such as when heat rises off the ground, causing the air above to move and have different densities in different areas).
+    </p>
+    <p>
+      Refraction differs from reflection in that refracted light is traveling through the surface, whereas reflected light does not pass through. It is possible for some
+      surfaces to result in a mixture of reflection and refraction. For example, if you see the glare of your dashboard on your windshield, you're seeing some light passing
+      through from the outside of the car, but the light coming off the dashboard and reflecting off the glass is more intense and is making it harder to see.
+    </p>
+      
+  </paragraphs>
+
+  <paragraphs>
+    <title>Snell's Law</title>
+
+    <p>
+      When a light gets refracted, there are two different angles. The angle of incidence is the angle at which the incoming light hits the surface, measured relative
+      to the perpendicular direction. The angle of refraction is the angle that the light is traveling after it passes through the surface, also measured relative to
+      the perpendicular direction.
+    </p>
+    <p>
+      Snell's law is a formula that relates the two angles together. It can be stated as <m>\frac{\sin(\theta_1)}{\sin(\theta_2)} = \frac{v_1}{v_2}</m>, where
+      <m>v_1</m> is the speed of light on the side where <m>\theta_1</m> is being measured, and <m>v_2</m> is the speed of light on the side where <m>\theta_2</m>
+      is being measured.
+    </p>
+    <p>
+      The idea that the speed of light may be different in different media may seem to contradict that the speed of light is constant. What's happening is not that
+      the speed of any individual photon is going slower, but because of additional interactions with the particles in the medium, there it just appears to be slowing
+      down. The actual physics behind this is extremely complicated, but a not-quite-right picture is that the photon is bouncing around off of the particles.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Refractive Index</title>
+
+    <p>
+      Instead of using the speed of light in the medium, we typically use a quantity known as the refractive index. For any medium, this is defined by <m>n =
+      \frac{c}{v}</m>. This makes the numbers much smaller and a bit easier to understand and interpret. Here are a few examples (values are approximate and depend on
+      specific conditions):
+      <table>
+        <title>Table of Indices of Refraction</title>
+        <tabular>
+          <row>
+            <cell> Material </cell> <cell> Refractive Index </cell>
+          </row>
+          <row>
+            <cell> Vacuum </cell> <cell>1</cell>
+          </row>
+          <row>
+            <cell>Air (at STP) </cell><cell>1.0003</cell>
+          </row>
+          <row>
+            <cell>Water </cell><cell>1.33</cell>
+          </row>
+          <row>
+            <cell>Glass </cell><cell>1.5</cell>
+          </row>
+        </tabular>
+      </table>
+
+    </p>
+    <p>
+      The refractive index also changes with the wavelength of light is passing through it. This means that light of different energy will bend different amounts when it
+      passes through an object. If light passes from a lower refractive index to a higher one, the light is bent more towards the normal, and if it goes from a high index
+      to a low one the light is bent away from the normal.
+    </p>
+   
+  </paragraphs>
+
+  <paragraphs>
+    <title>Prisms</title>
+
+    <p>
+      A prism is a triangular piece of glass. Since glass will bend light by different amounts depending on the wavelength, prisms can be used to separate out different
+      wavelengths of light. If you use a prism with sunlight, you will see that you get a full range of colors spread out. It will also spread out the photons that are
+      outside the visible spectrum, but we just can't see those.
+    </p>
+    <p>
+      The type of light you use is important, as not all light that appears white is the same. A flashlight with an incandescent bulb will create a rainbow spectrum because
+      that light is mostly blackbody radiation. But if you were to use a cellphone light (which is typically a single LED), you will probably just get a single band. This
+      is because LEDs actually only emit a small set of wavelengths of light. It's possible that if your white LED is actually an RGB LED, that you would see three bands.
+      However, those LEDs are more expensive and so it's unlikely that it would be used in that way.
+    </p>
+    <p>
+      Through careful calibration, this allows us to isolate photons of a very specific energy level. This was used in the 1950s to accomplish what we try to do with green
+      screens today (but far more effective). The process is known as the sodium vapor process (or yellowscreen). Here is a 12-minute video that gives a good overview of
+      the process (1:20 - 3:25): <url href="https://www.youtube.com/watch?v=UQuIVsNzqDk">(YouTube.com) This Invension Made Disney MILLIONS, but Then They Lost It</url>.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

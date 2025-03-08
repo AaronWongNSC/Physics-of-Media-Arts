@@ -3,8 +3,7 @@
 <section xml:id="sec-reflection-refraction-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Light</title>
 
-  <xi:include href="./p3-ch3-sL-1-optical-illusions.ptx" />
-  <xi:include href="./p3-ch3-sL-2-light-and-shadow.ptx" />
+  <xi:include href="./p3-ch3-sL-1-pinhole-camera.ptx" />
   <!-- Maybe shadows -->
 
 </section>

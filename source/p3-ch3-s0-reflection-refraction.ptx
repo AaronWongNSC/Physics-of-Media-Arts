@@ -29,8 +29,11 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="p3-ch3-s1-absorption.ptx" />
-  <xi:include href="p3-ch3-s2-reflection.ptx" />
+  <xi:include href="p3-ch3-s1-reflection.ptx" />
+  <xi:include href="p3-ch3-s2-refraction.ptx" />
+  <xi:include href="p3-ch3-s3-lenses.ptx" />
+  <xi:include href="p3-ch3-s4-aperture.ptx" />
+  <xi:include href="p3-ch3-s5-ray-tracing.ptx" />
 
   <xi:include href="p3-ch3-sL-0-reflection-refraction-labs.ptx" />
 

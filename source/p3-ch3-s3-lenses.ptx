@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-lenses" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lenses</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+      Lenses are devices (typically made of glass or plastic) that bend light in particular ways. 
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Focus of a Lens</title>
+
+    <p>
+      If you have ever used a magnifying lens, you would probably have noticed that in order for it to work, the object that is being magnified must be in a specific location,
+      otherwise the image doesn't make a lot of sense. The focus of a lens is the point at which the light rays converge (or at least appear to converge) after passing through
+      the lens, and the focal length is how far away that point is from the lens (assuming that the light source is far away).
+    </p>
+    <p>
+      A typical lens is convex, meaning that it is thicker in the middle than around the edges. Convex lenses bend light inwards due to Snell's law and the thickness of the
+      lens. In this case, the light will pass through and all coincide at a single point. If you do this with sunlight, there is enough energy to ignite a piece of paper.
+    </p>
+    <p>
+      There is another type of lens called a concave lens, and this one is thinner in the middle than at the edges. Concave lenses cause the light to become more spread out,
+      so that the focus of the lens is on the same side that the light is coming from. These are sometimes called "diverging lenses."
+    </p>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>The Lens Equation</title>
+
+    <p>
+      Before giving the lens equation, we need to define a couple terms. An object is the physical item that is either emitting light or reflecting light through the lens.
+      We typically draw this as an arrow whose tail end is on the axis of symmetry of the lens, pointing upward on the page. The image is the result of the light passing
+      through the lens.
+    </p>
+    <p>
+      There is a standard drawing for this...
+    </p>
+    <p>
+      
+    </p>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Magnification and Inversion</title>
+
+    <p>
+      Lenses are used to magnify the size of an image. Of course, we're not actually changing the size of the object. What is changing is how large the object appears to
+      be. This is impacted by the location of the object relative to the focal point, and this explains why you have to play around with the distances to get a magnifying
+      lens to focus on an object.
+    </p>
+    <p>
+      
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

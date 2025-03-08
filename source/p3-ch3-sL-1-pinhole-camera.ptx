@@ -1,0 +1,317 @@
+<subsection xml:id="lab-pinhole-camera" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pinhole Camera</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      We are going to make a pinhole camera and use our modern cell phone camera to capture what it sees.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Equipment List</title>
+    <ul>
+      <li>
+        <p>
+          Cell phone with camera
+        </p>
+      </li>
+      <li>
+        <p>
+          Plain white paper
+        </p>
+      </li>
+      <li>
+        <p>
+          Sheets of cardboard (to build a box) or a cardboard box
+        </p>
+      </li>
+      <li>
+        <p>
+          Duct tape (to block light at the corners)
+        </p>
+      </li>
+      <li>
+        <p>
+          Aluminum foil
+        </p>
+      </li>
+      <li>
+        <p>
+          Scotch tape
+        </p>
+      </li>
+      <li>
+        <p>
+          A staple or very fine needle point
+        </p>
+      </li>
+      <li>
+        <p>
+          A thumbtack or straightened metal paper clip
+        </p>
+      </li>
+      <li>
+        <p>
+          A sharpened pencil or similarly tapered object
+        </p>
+      </li>
+      <li>
+        <p>
+          A sunny day or a well-lit room
+        </p>
+      </li>
+      <li>
+        <p>
+          Optional: A sweatshirt or other cloth to cover the box better
+        </p>
+      </li>
+    </ul>
+
+    <p>
+      
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+      We are going to build the pinhole camera, and then use cellphone video to see what it sees. Then we'll adjust the size of the aperture to see how that impacts the
+      images.
+    </p>
+
+    <ol>
+      <li>
+        <p>
+          If you are attempting to use an existing box, use the measurements in this step to ensure that the box is an appropriate size.
+          <ul>
+            <li>
+              <p>
+                The goal is to have a box big enough so that you can lean the phone up against one side of the box and have the camera close the center of the box. That
+                side will be the front of the box. The box must also be tall enough so that you can put a hole on the side of the box above the camera and have a little
+                bit of room to spare.
+              </p>
+            </li>
+            <li>
+              <p>
+                The exact dimensions of the box beyond these conditions are mostly irrelevant. We only need the box to be big enough so that we can use the cell phone
+                camera to capture the images. This size can be adjusted to get slightly different results.
+              </p>
+            </li>
+            <li>
+              <p>
+                If you are building a box from cardboard, a good starting point is to make a box where the width is 1.5-2 times the long side of the cell phone, the height is
+                2-3 times the short side of the cell phone, and the depth is 20-30 cm. You will create a 5-sided box, with the top remaining open (for now). Use duct tape on
+                the edges to block light from getting in. Be sure to check the corners.
+              </p>
+            </li>
+            <li>
+              <p>
+                For the top of the box, cut a piece of cardboard a few centimeters larger than the base. This will be used to block light from the outside, and so the
+                extra size will be helpful.
+              </p>
+            </li>
+          </ul> 
+        </p>
+      </li>
+      <li>
+        <p>
+          Tape your phone to the inside of the front of the box. This is the side that is 1.5-2 times the long side of the cell phone. Align the camera (preferably the
+          selfie camera so that you can activate the phone without taking it out again) so that it faces the opposite side of the box and is as close to the center as
+          possible. The phone must be secure enough that it won't fall as you move the box around.
+        </p>
+      </li>
+      <li>
+        <p>
+          Cut a small hole (just 1-2 cm in diameter) on the front side of the box in the middle (left-to-right) and above the cell phone. Ideally, this will be in the
+          middle of the box (to maximize the potential image size), but it's probably fine as long as it's above the camera.
+        </p>
+      </li>
+      <li>
+        <p>
+          Tape a piece of white paper directly across from the hole. If that side of the box is larger than a piece of a paper, it's fine to just use a single sheet with
+          the possibility of adding more later, depending on how the images turn out. If the paper is too large, cut it down to size.
+        </p>
+      </li>
+      <li>
+        <p>
+          Tear a piece of foil that is a couple centimeters larger than the hole. (Tearing is better than cutting with scissors because that will make the scissors dull.)
+          Tape this over the hole. It should block out all light from coming in the hole.
+        </p>
+      </li>
+      <li>
+        <p>
+          Use the thumbtack or paperclip to poke a hole in the foil. The hole should be about a mm in diameter, but not much larger.
+        </p>
+      </li>
+      <li>
+        <p>
+          Turn on the camera so that it's recording the inside of the box. Cover the box with the cardboard lid (and optional fabric) and take it outside. Point the aperture
+          at a few objects, preferably of different colors. You might also stand in front of the box and dance or jump.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. If you didn't get anything at all, figure out why and
+          fix it.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove the foil and apply a new piece. Pick a location where you felt that you had a good image from the initial test. Set the phone to record and cover the box.
+          Use the pin or staple to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate
+          the aperture. Then use the pin or paperclip to enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase
+          the hole size a little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more.
+        </p>
+      </li>
+      <li>
+        <p>
+          Remove the lid and review the footage. You will need these observations for the discussion.
+        </p>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Camera Dimensions</title>
+      <tabular>
+        <row>
+          <cell> Width (left-to-right) </cell> <cell> Depth (front-to-back) </cell> <cell> Height </cell>
+        </row>
+        <row>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Aperture</title>
+      <tabular>
+        <row>
+          <cell> Object </cell> <cell> Diameter </cell>
+        </row>
+        <row>
+          <cell> Pin/Staple </cell>
+        </row>
+        <row>
+          <cell> Tack/paperclip </cell>
+        </row>
+        <row>
+          <cell> Pencil (first time) </cell>
+        </row>
+        <row>
+          <cell> Pencil (second time) </cell>
+        </row>
+        <row>
+          <cell> Pencil (third time) </cell>
+        </row>
+      </tabular>
+    </table>
+
+  </example>
+
+  <paragraphs>
+    <title>Discussion</title>
+
+    <ol>
+      <li>
+        <p>
+          How did the initial pinhole camera go? Describe the quality of the image. (Was it bright? Dim? Focused? Blurry? Big? Small?)
+        </p>
+      </li>
+      <li>
+        <p>
+          The second part of the exercise was to see how the aperture size affected the image. As the aperture got larger, how did the image change?
+        </p>
+      </li>
+      <li>
+        <p>
+          At what aperture size did you get the best image? (Note that "best" is a subjective measurement. You are looking for a mixture of clarity and brightness.)
+        </p>
+      </li>
+      <li>
+        <p>
+          If you were to build another pinhole camera, what would change about the first one and why would you make those changes?
+        </p>
+      </li>
+    </ol>      
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      Reach your own conclusion.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the steps of the lab.
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Describe your images
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.google.com/">Google</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>
