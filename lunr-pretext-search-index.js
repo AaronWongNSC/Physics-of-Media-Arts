@@ -2536,7 +2536,7 @@ var ptx_lunr_docs = [
   "type": "Lab Activity",
   "number": "14.6.1",
   "title": "Pinhole Camera",
-  "body": " Pinhole Camera   Introduction  We are going to make a pinhole camera and use our modern cell phone camera to capture what it sees.    Equipment List    Cell phone with camera    Plain white paper    Sheets of cardboard (to build a box) or a cardboard box    Duct tape (to block light at the corners)    Aluminum foil    Scotch tape    A staple or very fine needle point    A thumbtack or straightened metal paper clip    A sharpened pencil or similarly tapered object    A sunny day or a well-lit room    Optional: A sweatshirt or other cloth to cover the box better        Procedure  We are going to build the pinhole camera, and then use cellphone video to see what it sees. Then we'll adjust the size of the aperture to see how that impacts the images.    If you are attempting to use an existing box, use the measurements in this step to ensure that the box is an appropriate size.   The goal is to have a box big enough so that you can lean the phone up against one side of the box and have the camera close the center of the box. That side will be the front of the box. The box must also be tall enough so that you can put a hole on the side of the box above the camera and have a little bit of room to spare.    The exact dimensions of the box beyond these conditions are mostly irrelevant. We only need the box to be big enough so that we can use the cell phone camera to capture the images. This size can be adjusted to get slightly different results.    If you are building a box from cardboard, a good starting point is to make a box where the width is 1.5-2 times the long side of the cell phone, the height is 2-3 times the short side of the cell phone, and the depth is 20-30 cm. You will create a 5-sided box, with the top remaining open (for now). Use duct tape on the edges to block light from getting in. Be sure to check the corners.    For the top of the box, cut a piece of cardboard a few centimeters larger than the base. This will be used to block light from the outside, and so the extra size will be helpful.       Tape your phone to the inside of the front of the box. This is the side that is 1.5-2 times the long side of the cell phone. Align the camera (preferably the selfie camera so that you can activate the phone without taking it out again) so that it faces the opposite side of the box and is as close to the center as possible. The phone must be secure enough that it won't fall as you move the box around.    Cut a small hole (just 1-2 cm in diameter) on the front side of the box in the middle (left-to-right) and above the cell phone. Ideally, this will be in the middle of the box (to maximize the potential image size), but it's probably fine as long as it's above the camera.    Tape a piece of white paper directly across from the hole. If that side of the box is larger than a piece of a paper, it's fine to just use a single sheet with the possibility of adding more later, depending on how the images turn out. If the paper is too large, cut it down to size.    Tear a piece of foil that is a couple centimeters larger than the hole. (Tearing is better than cutting with scissors because that will make the scissors dull.) Tape this over the hole. It should block out all light from coming in the hole.    Use the thumbtack or paperclip to poke a hole in the foil. The hole should be about a mm in diameter, but not much larger.    Turn on the camera so that it's recording the inside of the box. Cover the box with the cardboard lid (and optional fabric) and take it outside. Point the aperture at a few objects, preferably of different colors. You might also stand in front of the box and dance or jump.    Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. If you didn't get anything at all, figure out why and fix it.    Remove the foil and apply a new piece. Pick a location where you felt that you had a good image from the initial test. Set the phone to record and cover the box. Use the pin or staple to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate the aperture. Then use the pin or paperclip to enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase the hole size a little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more.    Remove the lid and review the footage. You will need these observations for the discussion.      Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Pin\/Staple    Tack\/paperclip    Pencil (first time)    Pencil (second time)    Pencil (third time)       Discussion    How did the initial pinhole camera go? Describe the quality of the image. (Was it bright? Dim? Focused? Blurry? Big? Small?)    The second part of the exercise was to see how the aperture size affected the image. As the aperture got larger, how did the image change?    At what aperture size did you get the best image? (Note that \"best\" is a subjective measurement. You are looking for a mixture of clarity and brightness.)    If you were to build another pinhole camera, what would change about the first one and why would you make those changes?      Conclusion  Reach your own conclusion.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe your images    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         Google      "
+  "body": " Pinhole Camera   Introduction  We are going to make a pinhole camera and use our modern cell phone camera to capture what it sees.    Equipment List    Cell phone with camera    Plain white paper    Sheets of cardboard (to build a box) or a cardboard box    Duct tape (to block light at the corners)    Aluminum foil    Scotch tape    A thumbtack (be sure it has a tapered tip)    A sharp pencil    A sunny day or a well-lit room    Optional: A sweatshirt or other cloth to cover the box better        Procedure  We are going to build the pinhole camera, and then use cellphone video to see what it sees. Then we'll adjust the size of the aperture to see how that impacts the images.    If you are attempting to use an existing box, use the measurements in this step to ensure that the box is an appropriate size.   The goal is to have a box big enough so that you can lean the phone up against one side of the box and have the camera close the center of the box. That side will be the front of the box. The box must also be tall enough so that you can put a hole on the side of the box above the camera and have a little bit of room to spare.    The exact dimensions of the box beyond these conditions are mostly irrelevant. We only need the box to be big enough so that we can use the cell phone camera to capture the images. This size can be adjusted to get slightly different results.    If you are building a box from cardboard, a good starting point is to make a box where the width is 1.5-2 times the long side of the cell phone, the height is 2-3 times the short side of the cell phone, and the depth is 20-30 cm. You will create a 5-sided box, with the top remaining open (for now). Use duct tape on the edges to block light from getting in. Be sure to check the corners.    For the top of the box, cut a piece of cardboard a few centimeters larger than the base. This will be used to block light from the outside, and so the extra size will be helpful.       Tape your phone to the inside of the front of the box. This is the side that is 1.5-2 times the long side of the cell phone. Align the camera (preferably the selfie camera so that you can activate the phone without taking it out again) so that it faces the opposite side of the box and is as close to the center as possible. The phone must be secure enough that it won't fall as you move the box around.    Cut a small hole (just 1-2 cm in diameter) on the front side of the box in the middle (left-to-right) and above the cell phone. Ideally, this will be in the middle of the box (to maximize the potential image size), but it's probably fine as long as it's above the camera.    Tape a piece of white paper directly across from the hole. If that side of the box is larger than a piece of a paper, it's fine to just use a single sheet with the possibility of adding more later, depending on how the images turn out. If the paper is too large, cut it down to size.    Tear a piece of foil that is a couple centimeters larger than the hole. (Tearing is better than cutting with scissors because that will make the scissors dull.) Tape this over the hole. It should block out all light from coming in the hole.    Use the thumbtack poke a hole in the foil. Then follow up with the pencil. You should aim to have a hole that is 1-1.5 mm in diameter.    Turn on the camera so that it's recording the inside of the box. Cover the box with the cardboard lid (and optional fabric) and take it outside. Point the aperture at a few objects, preferably of different colors. You might also stand in front of the box and dance or jump.    Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. (If you only got light without an image, then the hole was too large. Go back and try again with a new piece of foil and a smaller hole. You want to ensure that you can see some sort of image)    Remove the foil and apply a new piece. Pick a location where you felt that you had a good image from the initial test. Set the phone to record and cover the box. Use the pin to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate the size of aperture. Then enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase the hole size a little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more. It should take about 5 expansions with the pencil to reach that point.    Remove the lid and review the footage. You will need these observations for the discussion.      Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Tack (first time)    Tack (second time)    Pencil (first time)    Pencil (second time)    Pencil (third time)    Pencil (fourth time)    Pencil (fifth time)       Discussion    How did the initial pinhole camera go? Describe the quality of the image. (Was it bright? Dim? Focused? Blurry? Big? Small?)    The second part of the exercise was to see how the aperture size affected the image. As the aperture got larger, how did the image change?    At what aperture size did you get the best image? (Note that \"best\" is a subjective measurement. You are looking for a mixture of clarity and brightness.)    If you were to build another pinhole camera, what would change about the first one and why would you make those changes?      Conclusion  Reach your own conclusion.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe your images    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         Google      "
 },
 {
   "id": "lab-pinhole-camera-5",
@@ -2545,7 +2545,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "14.6.1.1",
   "title": "Sample Charts.",
-  "body": " Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Pin\/Staple    Tack\/paperclip    Pencil (first time)    Pencil (second time)    Pencil (third time)     "
+  "body": " Sample Charts   Camera Dimensions    Width (left-to-right)  Depth (front-to-back)  Height        Aperture    Object  Diameter    Tack (first time)    Tack (second time)    Pencil (first time)    Pencil (second time)    Pencil (third time)    Pencil (fourth time)    Pencil (fifth time)     "
 },
 {
   "id": "lab-pinhole-camera-9",
@@ -2557,11 +2557,65 @@ var ptx_lunr_docs = [
   "body": "    Google     "
 },
 {
+  "id": "sec-sound-basics",
+  "level": "1",
+  "url": "sec-sound-basics.html",
+  "type": "Section",
+  "number": "15.1",
+  "title": "The Basics of Sound",
+  "body": " The Basics of Sound     ...   ...       What is Sound?  Sound is a physical vibration of particles. While we typically experience sound through the vibration of air, sound can also be heard through other materials, such as water and metal. Specifically, sound is a longitudinal wave, meaning that the virations of the particles move in the direction of the sound and not transverse (or perpendicular) to it. This is sometimes a bit confusing because many of the portrayals of sound give the impression that the sound is moving to the side while the wave form is up and down. The reason for this inaccuracy is that it's simply much easier to display the magnitude of a vibration this way.  A more accurate demonstration of a longtiduinal wave is to stretch out a spring (or a slinky) and to shake it in the direction of the spring. You basically \"push\" the wave down the spring instead of \"shaking\" it. For this reason, sound is seen as a pressure wave as it is a literal change of pressure caused by the vibration of the molecules.  The pushing and pulling model accurately describes how speakers work. A speaker basically consists of a cone that is attached to an electromagnet that pushes the cone forward and backwards. Those forward and backward motions create the pressure wave that generates the sounds that we hear.    What is the Experience of Sound?  The experience of sound is a complex process. Typically, the sound vibrations hit our ear drums, causing the ear drum to vibrate. That vibration gets amplified in the middle ear (which is a collection of small bones), and those vibrations enter the innear ear and cochlea. The cochlea is a shell-shaped fluid-filled organ with nerves, and the stimulation of those nerves by the fluid creates the electrical signals that reaches our brain that leads to the experience of sound.  It is important to note that there are other ways to stimulate the inner ear without starting at the ear drum. There is another process known as bone conduction, which uses a device to vibrate the skull in a way that causes the same types of cochelar vibrations directly. This is a gimmick that is used in some magic tricks to give people audible instructions without creating noises that the audience can hear.       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-sound-basics-5",
+  "level": "2",
+  "url": "sec-sound-basics.html#sec-sound-basics-5",
+  "type": "Additional Resources",
+  "number": "15.1",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
+  "id": "sec-sound-speed",
+  "level": "1",
+  "url": "sec-sound-speed.html",
+  "type": "Section",
+  "number": "15.2",
+  "title": "The Speed of Sound",
+  "body": " The Speed of Sound     ...   ...       The Speed of Sound  Since sound is a longitudinal wave, the speed of sound depends on how quickly the energy from one particle can get transferred to the next one. At an intuitive level, the more dense an object is, the faster it can propagate sound. As a practical reflection of that, the speed of sound in air is approximately 343 meters per second, but the speed of sound in water is nearly 1500 meters per second. Sound can also travel through solids, and those lead to even higher speeds. For example, the speed of sound in steel is nearly 6000 meters per second.    Frequency and Wavelength  There are two important characteristics of sound that are related to the speed of sound: frequency and wavelength.  When it comes to a sound wave, frequency is a measure of how often the pattern repeats in time, and it is measured in units of , which is often called Hertz (Hz). You can intuitively think of this as the number of vibrations per second. This quantity is denoted . Humans can hear sounds from as about 20 Hz to 20,000 Hz. When you hear stringed instruments tuning before a concert, they typically tune to 440 Hz (though this has been different at different times of history and is sometimes different in certain geographical regions).  Wavelength is a measure of how often the pattern repeats in space. In other words, it is the physical distance between repetitions of the waveform. This means that wavelength is measured as a distance, and is denoted as .  The formula that relates these three variables together is . The 440 Hz tone has a wavelength of about 0.78 meters.       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-sound-speed-5",
+  "level": "2",
+  "url": "sec-sound-speed.html#sec-sound-speed-5",
+  "type": "Additional Resources",
+  "number": "15.2",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
+  "id": "sec-interference",
+  "level": "1",
+  "url": "sec-interference.html",
+  "type": "Section",
+  "number": "15.3",
+  "title": "Interference",
+  "body": " Interference     ...   ...       Constructive and Destructive Interference  Interference is the term used to describe the interaction of waves. If we think about a sound wave being push and pull of molecules, it is not hard to imagine that the interaction of two sound waves depends how those pushes and pulls line up with each other. If both sound waves are pushing in the same direction at the same time, we would expect the vibration to be larger. However, if one is pushing while the other is pulling, that would lead to a lower amount of vibration. When the two waves are supporting each other, it is called constructive interference. When they are working against each other, it's called destructive interference.  In some settings, you can experience constructive and destructive interference with sounds. If you are in a room with two speakers, certain sounds will be louder or softer in different parts of the room based on the the interference of those sounds. An analogy to this is if you watch waves rippling outward from drops of water. Areas where the interference is constructive will have larger waves than areas where the intereference is destructive.    Transmission and Reflection  We have been thinking about waves as traveling through the air, but what happens when those sound waves hit an object? It turns out that there is typically a mixture of transmission and reflection of the wave.  Transmission of a wave is when the energy of the wave goes from one medium into another. If you put your ear to a wall to hear what's going on in the next room, you're hearing the transmission of the sound through the wall.  Reflection is when the sound bounces off and travels back through the original medium. This is what you hear when you hear an echo.  The amount of transmission and reflection you get depends on the materials. Harder surfaces tend to reflect sound, whereas softer surfaces tend to absorb them. This is why an empty room echoes and why sound baffles are typically made of soft fabrics.    Resonance  When an object is struck, it will tend to vibrate at a certain frequency based on the physical characteristics of the object (shape, material, forces being applied to it, etc.). This is known as the natural frequency of the object.  Resonance is when a sound causes an object to vibrate. Physically, what's happening is that the sound is bouncing off of the object at the natural frequency, leading to a type of constructive inteference. The sound waves are vibrating the object in a way that adds more energy to their vibrations. If this is done with enough energy, it can lead to the classic \"breaking of the wine glass\" scenario.       (Space.com) What is the Electromagnetic Spectrum?      "
+},
+{
+  "id": "sec-interference-6",
+  "level": "2",
+  "url": "sec-interference.html#sec-interference-6",
+  "type": "Additional Resources",
+  "number": "15.3",
+  "title": "",
+  "body": "    (Space.com) What is the Electromagnetic Spectrum?     "
+},
+{
   "id": "lab-chladni-plate",
   "level": "1",
   "url": "lab-chladni-plate.html",
   "type": "Lab Activity",
-  "number": "15.1.1",
+  "number": "15.4.1",
   "title": "Chladni Plates",
   "body": " Chladni Plates   Introduction  Something to do with vibrating surfaces    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2570,7 +2624,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-4",
   "type": "Example",
-  "number": "15.1.1.1",
+  "number": "15.4.1.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2579,7 +2633,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-chladni-plate.html#lab-chladni-plate-8",
   "type": "Additional Resources",
-  "number": "15.1.1",
+  "number": "15.4.1",
   "title": "",
   "body": "    Google     "
 },
@@ -2588,7 +2642,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "lab-oscilloscope.html",
   "type": "Lab Activity",
-  "number": "15.1.2",
+  "number": "15.4.2",
   "title": "Oscilloscope",
   "body": " Oscilloscope   Introduction  Use oscilloscope to see sound waves    Procedure  ...    Example  ...    Discussion  ...    Conclusion  ...    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  ...    Introduction  ...    Procedure  ...    Results and Data  ...    Discussion  ...    Conclusion  ...         Google      "
 },
@@ -2597,7 +2651,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-4",
   "type": "Example",
-  "number": "15.1.2.1",
+  "number": "15.4.2.1",
   "title": "Example.",
   "body": " Example  ...  "
 },
@@ -2606,52 +2660,97 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "lab-oscilloscope.html#lab-oscilloscope-8",
   "type": "Additional Resources",
-  "number": "15.1.2",
+  "number": "15.4.2",
   "title": "",
   "body": "    Google     "
 },
 {
-  "id": "ch-resonance",
+  "id": "sec-pitch-timbre",
   "level": "1",
-  "url": "ch-resonance.html",
-  "type": "Chapter",
-  "number": "16",
-  "title": "Resonance",
-  "body": " Resonance     Students will be able to...      Text before the first section.      "
+  "url": "sec-pitch-timbre.html",
+  "type": "Section",
+  "number": "16.1",
+  "title": "Pitch and Timbre",
+  "body": " Pitch and Timbre     ...   ...       What is Music?  This is a deep philosophical question that we're not going to get deep into. But we can at least experience it with a wave form generator and a speaker. At really low frequencies, you hear just a vague click-click-click. But as the frequency goes up, at a certain moment, it turns into a musical tone. This is the point at which our brains start to perceive the noise as a single object and not a set of discrete clicks.    What are Pitch and Timbre?  When you listen to a musical instrument playing a single note, you are listening to a very complex sound wave that is repeating itself over and over again. The frequency at which that wave repeats is the frequency, and that frequency is related to the musical concept of pitch. The pitch is essentially the musical note that the instrument is playing.  Timbre is the unique sound that an instrument makes that makes it different from other instruments. For example, a horn and a piano can play the same note, but they will still sound different. Timbre is related to the exact shape of the waveform being created.  Returning to the wave form generator, the different waveforms all sound like just a click at low frequencies, and it's not until it turns into a tone that we can really start to hear the differences between them.       (Physics Girl) Singing this Note is IMPOSSIBLE!      "
 },
 {
-  "id": "ch-resonance-2",
+  "id": "sec-pitch-timbre-5",
   "level": "2",
-  "url": "ch-resonance.html#ch-resonance-2",
-  "type": "Learning Objectives",
-  "number": "16",
+  "url": "sec-pitch-timbre.html#sec-pitch-timbre-5",
+  "type": "Additional Resources",
+  "number": "16.1",
   "title": "",
-  "body": "   Students will be able to...    "
+  "body": "    (Physics Girl) Singing this Note is IMPOSSIBLE!     "
 },
 {
-  "id": "ch-music",
+  "id": "sec-overtones",
   "level": "1",
-  "url": "ch-music.html",
-  "type": "Chapter",
-  "number": "17",
-  "title": "Music",
-  "body": " Music     Students will be able to...      Text before the first section.      "
+  "url": "sec-overtones.html",
+  "type": "Section",
+  "number": "16.2",
+  "title": "Overtones",
+  "body": " Overtones     ...   ...       What is an Overtone?  Although objects have a fundamental frequency, some objects have other frequencies at which they can vibrate at. We typically hear the lowest natural vibrating frequency, and the other (higher) ones are called overtones. They are part of what give different instruments their characteristic sounds.  This concept is easiest to visualize with a vibrating string. When you pluck a string, it does not result in just a single standing wave. You actually get a bunch of different standing waves that are overlapping each other. Each standing wave creates its own tone and you hear the overlapping of all of these tones. (Reality is a bit more complicated, as you're also hearing vibrations in the structure of the instrument.)       (Physics Girl) Singing this Note is IMPOSSIBLE!      "
 },
 {
-  "id": "ch-music-2",
+  "id": "sec-overtones-4",
   "level": "2",
-  "url": "ch-music.html#ch-music-2",
-  "type": "Learning Objectives",
-  "number": "17",
+  "url": "sec-overtones.html#sec-overtones-4",
+  "type": "Additional Resources",
+  "number": "16.2",
   "title": "",
-  "body": "   Students will be able to...    "
+  "body": "    (Physics Girl) Singing this Note is IMPOSSIBLE!     "
+},
+{
+  "id": "sec-beats",
+  "level": "1",
+  "url": "sec-beats.html",
+  "type": "Section",
+  "number": "16.3",
+  "title": "Beats",
+  "body": " Beats     ...   ...       What are Beats?  Beats are an acoustic phenomenon in which the sound appears to come and go. See lab.       (Physics Girl) Singing this Note is IMPOSSIBLE!      "
+},
+{
+  "id": "sec-beats-4",
+  "level": "2",
+  "url": "sec-beats.html#sec-beats-4",
+  "type": "Additional Resources",
+  "number": "16.3",
+  "title": "",
+  "body": "    (Physics Girl) Singing this Note is IMPOSSIBLE!     "
+},
+{
+  "id": "lab-tones",
+  "level": "1",
+  "url": "lab-tones.html",
+  "type": "Lab Activity",
+  "number": "16.4.1",
+  "title": "Playing with Tones",
+  "body": " Playing with Tones   Introduction  We are going to use an online multiple tone generator app to experience different acoustic phenomena. Please make sure your headphones or speaker are turned down so that you don't accidentally damage your ears. Use the link at the bottom of the page.    Procedure  We are going to do a number of explorations of sound using the multiple tone generator.    We are first going to explore the concept of beats.    Set the tone generator to create two tones. Set both tones to be the Sine waveform and set both to be 440 Hz. Turn them both on. You should hear just one note.    Now adjust one of the frequencies to be 441. You should continue to hear one tone, but it will sound different. Describe what you hear.    Now adjust the frequency to 442. Describe what you hear, paying attention how the phenomenon changes. Continue doing this until you reach 445.    Repeat the same process, but now set both waveforms to square. Then do it again for sawtooth and triangle waves. Record your observations.      We are now going to look at tones in mathematical ratios. Throughout this exercise, keep the frequencies between 40 and 4000 Hz. You can use whatever waveform you want, as long as you keep them the same.    Pick three pairs of numbers that are in a 2:1 ratio to each other and play those sounds together. (For example, 800 and 400 are in a 2:1 ratio.) Describe what you hear.    Do this again with the following ratios: 3:2, 4:3, 5:4, 5:4, and 5:2. Then pick two more ratios on your own. Describe what you hear, paying attention to whether you think (subjectively) they sound good or bad.        Sample Charts   Beats (Sine)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Square)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Sawtooth)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Triangle)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Ratios    Ratio  First Tone  Second Tone  Description    2:1    2:1    3:2    3:2    4:3    5:4    5:4    5:3    5:3    5:2    5:2    ??       Discussion    How would you describe the phenomenon that you heard when you were doing the sine waveform in the beats section? How did that phenomenon change as the two frequencies got further apart?    How did the phenomenon change as you changed the waveforms?    What did you hear when you were working with the ratios of frequencies? Were there any ratios that were more or less pleasant to listen to than others?      Conclusion  Talk about your experiences.    Lab Write-Up Guidance  Use the following outline to help you write up your lab report completely and correctly.    Title and Header  What is the title of the lab and who was in the lab group?    Introduction  In your own words, what was the purpose of the lab activity?    Procedure  Describe the steps of the lab.    Results and Data  Describe your images    Discussion  Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.    Conclusion  Write a couple paragraphs about the lab. Did you find anything interesting or surprising?         (Online Tone Generator) Multiple Tone Generator      "
+},
+{
+  "id": "lab-tones-4",
+  "level": "2",
+  "url": "lab-tones.html#lab-tones-4",
+  "type": "Example",
+  "number": "16.4.1.1",
+  "title": "Sample Charts.",
+  "body": " Sample Charts   Beats (Sine)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Square)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Sawtooth)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Beats (Triangle)    First Tone  Second Tone  Description    440  441    440  442    440  443    440  444    440  445      Ratios    Ratio  First Tone  Second Tone  Description    2:1    2:1    3:2    3:2    4:3    5:4    5:4    5:3    5:3    5:2    5:2    ??     "
+},
+{
+  "id": "lab-tones-8",
+  "level": "2",
+  "url": "lab-tones.html#lab-tones-8",
+  "type": "Additional Resources",
+  "number": "16.4.1",
+  "title": "",
+  "body": "    (Online Tone Generator) Multiple Tone Generator     "
 },
 {
   "id": "ch-electronics",
   "level": "1",
   "url": "ch-electronics.html",
   "type": "Chapter",
-  "number": "18",
+  "number": "17",
   "title": "Basic Electronics",
   "body": " Basic Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2660,7 +2759,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-electronics.html#ch-electronics-2",
   "type": "Learning Objectives",
-  "number": "18",
+  "number": "17",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2669,7 +2768,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-practical.html",
   "type": "Chapter",
-  "number": "19",
+  "number": "18",
   "title": "Practical Electronics",
   "body": " Practical Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2678,7 +2777,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-practical.html#ch-practical-2",
   "type": "Learning Objectives",
-  "number": "19",
+  "number": "18",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2687,7 +2786,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-hacking.html",
   "type": "Chapter",
-  "number": "20",
+  "number": "19",
   "title": "Hacking Electronics",
   "body": " Hacking Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2696,7 +2795,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-hacking.html#ch-hacking-2",
   "type": "Learning Objectives",
-  "number": "20",
+  "number": "19",
   "title": "",
   "body": "   Students will be able to...    "
 },
@@ -2705,7 +2804,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ch-building.html",
   "type": "Chapter",
-  "number": "21",
+  "number": "20",
   "title": "Building Electronics",
   "body": " Building Electronics     Students will be able to...      Text before the first section.      "
 },
@@ -2714,7 +2813,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ch-building.html#ch-building-2",
   "type": "Learning Objectives",
-  "number": "21",
+  "number": "20",
   "title": "",
   "body": "   Students will be able to...    "
 },
