@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-pitch-timbre" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pitch and Timbre</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>What is Music?</title>
+
+    <p>
+      This is a deep philosophical question that we're not going to get deep into. But we can at least experience it with a wave form generator and a speaker. At really
+      low frequencies, you hear just a vague click-click-click. But as the frequency goes up, at a certain moment, it turns into a musical tone. This is the point at which
+      our brains start to perceive the noise as a single object and not a set of discrete clicks.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>What are Pitch and Timbre?</title>
+
+    <p>
+      When you listen to a musical instrument playing a single note, you are listening to a very complex sound wave that is repeating itself over and over again. The frequency
+      at which that wave repeats is the frequency, and that frequency is related to the musical concept of pitch. The pitch is essentially the musical note that the instrument
+      is playing.
+    </p>
+    <p>
+      Timbre is the unique sound that an instrument makes that makes it different from other instruments. For example, a horn and a piano can play the same note, but they
+      will still sound different. Timbre is related to the exact shape of the waveform being created.
+    </p>
+    <p>
+      Returning to the wave form generator, the different waveforms all sound like just a click at low frequencies, and it's not until it turns into a tone that we can really
+      start to hear the differences between them.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.youtube.com/watch?v=F64xcPKKES8">(Physics Girl) Singing this Note is IMPOSSIBLE!</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

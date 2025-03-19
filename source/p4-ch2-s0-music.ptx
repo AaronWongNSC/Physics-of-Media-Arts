@@ -18,7 +18,9 @@
   </introduction>
 
   <!-- include sections -->
-  <!-- <xi:include href="sec-section-name.ptx" /> -->
-  <!-- <xi:include href="sec-section-labs.ptx" /> -->
+  <xi:include href="p4-ch2-s1-pitch-and-timbre.ptx" /> -->
+  <xi:include href="p4-ch2-s2-overtones.ptx" /> -->
+  <xi:include href="p4-ch2-s3-beats.ptx" /> -->
+  <xi:include href="p4-ch2-sL-0-music-labs.ptx" /> -->
 
 </chapter>

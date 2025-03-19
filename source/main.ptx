@@ -51,8 +51,7 @@
       <title>These Go to Eleven</title>
 
       <xi:include href="./p4-ch1-s0-sound.ptx" />
-      <xi:include href="./p4-ch2-s0-resonance.ptx" />
-      <xi:include href="./p4-ch3-s0-music.ptx" />
+      <xi:include href="./p4-ch2-s0-music.ptx" />
     </part>
 
     <part xml:id="part-electronics">

@@ -1,0 +1,310 @@
+<subsection xml:id="lab-tones" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Playing with Tones</title>
+
+  <paragraphs>
+    <title>Introduction</title>
+
+    <p>
+      We are going to use an online multiple tone generator app to experience different acoustic phenomena. Please make sure your headphones or speaker are turned
+      down so that you don't accidentally damage your ears. Use the link at the bottom of the page.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Procedure</title>
+
+    <p>
+      We are going to do a number of explorations of sound using the multiple tone generator.
+    </p>
+    <ol>
+      <li>
+        <p>
+          We are first going to explore the concept of beats.
+        </p>
+        <ol>
+          <li>
+            <p>
+              Set the tone generator to create two tones. Set both tones to be the Sine waveform and set both to be 440 Hz. Turn them both on. You should hear just one note.
+            </p>
+          </li>
+          <li>
+            <p>
+              Now adjust one of the frequencies to be 441. You should continue to hear one tone, but it will sound different. Describe what you hear.
+            </p>
+          </li>
+          <li>
+            <p>
+              Now adjust the frequency to 442. Describe what you hear, paying attention how the phenomenon changes. Continue doing this until you reach 445.
+            </p>
+          </li>
+          <li>
+            <p>
+              Repeat the same process, but now set both waveforms to square. Then do it again for sawtooth and triangle waves. Record your observations.
+            </p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>
+          We are now going to look at tones in mathematical ratios. Throughout this exercise, keep the frequencies between 40 and 4000 Hz. You can use whatever waveform
+          you want, as long as you keep them the same.
+        </p>
+        <ol>
+          <li>
+            <p>
+              Pick three pairs of numbers that are in a 2:1 ratio to each other and play those sounds together. (For example, 800 and 400 are in a 2:1 ratio.) Describe
+              what you hear.
+            </p>
+          </li>
+          <li>
+            <p>
+              Do this again with the following ratios: 3:2, 4:3, 5:4, 5:4, and 5:2. Then pick two more ratios on your own. Describe what you hear, paying attention to
+              whether you think (subjectively) they sound good or bad.
+            </p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </paragraphs>
+
+  <example>
+    <title>Sample Charts</title>
+    
+    <table>
+      <title>Beats (Sine) </title>
+      <tabular>
+        <row>
+          <cell> First Tone </cell> <cell> Second Tone </cell> <cell> Description </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 441 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 442 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 443 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 444 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 445 </cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title>Beats (Square) </title>
+      <tabular>
+        <row>
+          <cell> First Tone </cell> <cell> Second Tone </cell> <cell> Description </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 441 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 442 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 443 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 444 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 445 </cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title>Beats (Sawtooth) </title>
+      <tabular>
+        <row>
+          <cell> First Tone </cell> <cell> Second Tone </cell> <cell> Description </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 441 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 442 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 443 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 444 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 445 </cell>
+        </row>
+      </tabular>
+    </table>
+    <table>
+      <title>Beats (Triangle) </title>
+      <tabular>
+        <row>
+          <cell> First Tone </cell> <cell> Second Tone </cell> <cell> Description </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 441 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 442 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 443 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 444 </cell>
+        </row>
+        <row>
+          <cell> 440 </cell> <cell> 445 </cell>
+        </row>
+      </tabular>
+    </table>
+
+    <table>
+      <title>Ratios </title>
+      <tabular>
+        <row>
+          <cell> Ratio </cell> <cell> First Tone </cell> <cell> Second Tone </cell> <cell> Description </cell>
+        </row>
+        <row>
+          <cell> 2:1 </cell>
+        </row>
+        <row>
+          <cell> 2:1 </cell>
+        </row>
+        <row>
+          <cell> 3:2 </cell>
+        </row>
+        <row>
+          <cell> 3:2 </cell>
+        </row>
+        <row>
+          <cell> 4:3 </cell>
+        </row>
+        <row>
+          <cell> 5:4 </cell>
+        </row>
+        <row>
+          <cell> 5:4 </cell>
+        </row>
+        <row>
+          <cell> 5:3 </cell>
+        </row>
+        <row>
+          <cell> 5:3 </cell>
+        </row>
+        <row>
+          <cell> 5:2 </cell>
+        </row>
+        <row>
+          <cell> 5:2 </cell>
+        </row>
+        <row>
+          <cell> ?? </cell>
+        </row>
+      </tabular>
+    </table>
+  </example>
+
+
+  <paragraphs>
+    <title>Discussion</title>
+      
+    <ol>
+      <li>
+        <p>
+          How would you describe the phenomenon that you heard when you were doing the sine waveform in the beats section? How did that phenomenon change as the two
+          frequencies got further apart?
+        </p>
+      </li>
+      <li>
+        <p>
+          How did the phenomenon change as you changed the waveforms?
+        </p>
+      </li>
+      <li>
+        <p>
+          What did you hear when you were working with the ratios of frequencies? Were there any ratios that were more or less pleasant to listen to than others?
+        </p>
+      </li>
+      
+    </ol>
+
+  </paragraphs>
+
+  <paragraphs>
+    <title>Conclusion</title>
+    
+    <p>
+      Talk about your experiences.
+    </p>
+  </paragraphs>
+
+
+  <paragraphs>
+    <title>Lab Write-Up Guidance</title>
+  
+    <p>
+      Use the following outline to help you write up your lab report completely and correctly.
+    </p>
+
+    <ul>
+      <li>
+        <title>Title and Header</title>
+        
+        <p>
+          What is the title of the lab and who was in the lab group?
+        </p>
+      </li>
+      <li>
+        <title>Introduction</title>
+          
+        <p>
+          In your own words, what was the purpose of the lab activity?
+        </p>
+      </li>
+      <li>
+        <title>Procedure</title>
+          
+        <p>
+          Describe the steps of the lab.
+        </p>
+      </li>
+      <li>
+        <title>Results and Data</title>
+          
+        <p>
+          Describe your images
+        </p>
+      </li>
+      <li>
+        <title>Discussion</title>
+          
+        <p>
+          Answer the discussion questions. Be sure that you state the original question and organize it in a way that is easy to follow.
+        </p>
+      </li>
+      <li>
+        <title>Conclusion</title>
+        
+        <p>
+          Write a couple paragraphs about the lab. Did you find anything interesting or surprising?
+        </p>
+      </li>
+    </ul>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://onlinetonegenerator.com/multiple-tone-generator.html">(Online Tone Generator) Multiple Tone Generator</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+
+</subsection>

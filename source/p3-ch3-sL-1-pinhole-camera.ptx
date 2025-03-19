@@ -44,17 +44,12 @@
       </li>
       <li>
         <p>
-          A staple or very fine needle point
+          A thumbtack (be sure it has a tapered tip)
         </p>
       </li>
       <li>
         <p>
-          A thumbtack or straightened metal paper clip
-        </p>
-      </li>
-      <li>
-        <p>
-          A sharpened pencil or similarly tapered object
+          A sharp pencil
         </p>
       </li>
       <li>
@@ -143,7 +138,7 @@
       </li>
       <li>
         <p>
-          Use the thumbtack or paperclip to poke a hole in the foil. The hole should be about a mm in diameter, but not much larger.
+          Use the thumbtack poke a hole in the foil. Then follow up with the pencil. You should aim to have a hole that is 1-1.5 mm in diameter.
         </p>
       </li>
       <li>
@@ -154,16 +149,17 @@
       </li>
       <li>
         <p>
-          Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. If you didn't get anything at all, figure out why and
-          fix it.
+          Remove the lid and review the footage. You should have captured something, even if it's too small or blurry. (If you only got light without an image, then the hole
+          was too large. Go back and try again with a new piece of foil and a smaller hole. You want to ensure that you can see some sort of image)
         </p>
       </li>
       <li>
         <p>
           Remove the foil and apply a new piece. Pick a location where you felt that you had a good image from the initial test. Set the phone to record and cover the box.
-          Use the pin or staple to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate
-          the aperture. Then use the pin or paperclip to enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase
-          the hole size a little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more.
+          Use the pin to create the smallest hole that you can. (It might be helpful when reviewing the footage to verbally announce what you're doing.) Estimate
+          the size of aperture. Then enlarge the hole as slightly as you can. Estimate the size of the new aperture. Then use the pencil to increase the hole size a
+          little bit at a time, estimating the aperture size as you go until you have a hole that is 3 mm in diameter or more. It should take about 5 expansions with
+          the pencil to reach that point.
         </p>
       </li>
       <li>
@@ -195,10 +191,10 @@
           <cell> Object </cell> <cell> Diameter </cell>
         </row>
         <row>
-          <cell> Pin/Staple </cell>
+          <cell> Tack (first time) </cell>
         </row>
         <row>
-          <cell> Tack/paperclip </cell>
+          <cell> Tack (second time) </cell>
         </row>
         <row>
           <cell> Pencil (first time) </cell>
@@ -208,6 +204,12 @@
         </row>
         <row>
           <cell> Pencil (third time) </cell>
+        </row>
+        <row>
+          <cell> Pencil (fourth time) </cell>
+        </row>
+        <row>
+          <cell> Pencil (fifth time) </cell>
         </row>
       </tabular>
     </table>

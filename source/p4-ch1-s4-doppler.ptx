@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-doppler" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Doppler Effect</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>Constructive and Destructive Interference</title>
+
+    <p>
+      Interference is the term used to describe the interaction of waves. If we think about a sound wave being push and pull of molecules, it is not hard to imagine that
+      the interaction of two sound waves depends how those pushes and pulls line up with each other. If both sound waves are pushing in the same direction at the same time,
+      we would expect the vibration to be larger. However, if one is pushing while the other is pulling, that would lead to a lower amount of vibration. When the two waves
+      are supporting each other, it is called constructive interference. When they are working against each other, it's called destructive interference.
+    </p>
+    <p>
+      In some settings, you can experience constructive and destructive interference with sounds. If you are in a room with two speakers, certain sounds will be louder or
+      softer in different parts of the room based on the the interference of those sounds. An analogy to this is if you watch waves rippling outward from drops of water.
+      Areas where the interference is constructive will have larger waves than areas where the intereference is destructive.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Transmission and Reflection</title>
+
+    <p>
+      We have been thinking about waves as traveling through the air, but what happens when those sound waves hit an object? It turns out that there is typically a mixture
+      of transmission and reflection of the wave.
+    </p>
+    <p>
+      Transmission of a wave is when the energy of the wave goes from one medium into another. If you put your ear to a wall to hear what's going on in the next room, you're
+      hearing the transmission of the sound through the wall.
+    </p>
+    <p>
+      Reflection is when the sound bounces off and travels back through the original medium. This is what you hear when you hear an echo.
+    </p>
+    <p>
+      The amount of transmission and reflection you get depends on the materials. Harder surfaces tend to reflect sound, whereas softer surfaces tend to absorb them. This is
+      why an empty room echoes and why sound baffles are typically made of soft fabrics.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Resonance</title>
+
+    <p>
+      When an object is struck, it will tend to vibrate at a certain frequency based on the physical characteristics of the object (shape, material, forces being applied to it,
+      etc.). This is known as the natural frequency of the object.
+    </p>
+    <p>
+      Resonance is when a sound causes an object to vibrate. Physically, what's happening is that the sound is bouncing off of the object at the natural frequency, leading to
+      a type of constructive inteference. The sound waves are vibrating the object in a way that adds more energy to their vibrations. If this is done with enough energy, it
+      can lead to the classic "breaking of the wine glass" scenario.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

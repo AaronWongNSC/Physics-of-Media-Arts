@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-sound-speed" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Speed of Sound</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>The Speed of Sound</title>
+
+    <p>
+      Since sound is a longitudinal wave, the speed of sound depends on how quickly the energy from one particle can get transferred to the next one. At an intuitive
+      level, the more dense an object is, the faster it can propagate sound. As a practical reflection of that, the speed of sound in air is approximately 343
+      meters per second, but the speed of sound in water is nearly 1500 meters per second. Sound can also travel through solids, and those lead to even higher speeds.
+      For example, the speed of sound in steel is nearly 6000 meters per second.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>Frequency and Wavelength</title>
+
+    <p>
+      There are two important characteristics of sound that are related to the speed of sound: frequency and wavelength.
+    </p>
+    <p>
+      When it comes to a sound wave, frequency is a measure of how often the pattern repeats in time, and it is measured in units of <m>\frac{1}{\text{sec}}</m>, which is
+      often called Hertz (Hz). You can intuitively think of this as the number of vibrations per second. This quantity is denoted <m>f</m>. Humans can hear sounds from 
+      as about 20 Hz to 20,000 Hz. When you hear stringed instruments tuning before a concert, they typically tune to 440 Hz (though this has been different at different
+      times of history and is sometimes different in certain geographical regions).
+    </p>
+    <p>
+      Wavelength is a measure of how often the pattern repeats in space. In other words, it is the physical distance between repetitions of the waveform. This means that
+      wavelength is measured as a distance, and is denoted as <m>\lambda</m>.
+    </p>
+    <p>
+      The formula that relates these three variables together is <m>v = f \lambda</m>. The 440 Hz tone has a wavelength of about 0.78 meters.
+    </p>
+  </paragraphs>
+
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

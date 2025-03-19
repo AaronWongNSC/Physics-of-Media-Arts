@@ -19,6 +19,9 @@
 
   <!-- include sections -->
   <!-- <xi:include href="sec-section-name.ptx" /> -->
+  <xi:include href="p4-ch1-s1-sound-basics.ptx" />
+  <xi:include href="p4-ch1-s2-speed-of-sound.ptx" />
+  <xi:include href="p4-ch1-s3-interference.ptx" />
   <xi:include href="p4-ch1-sL-0-sound-labs.ptx" />
 
 </chapter>

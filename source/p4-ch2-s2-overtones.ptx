@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-overtones" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Overtones</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>What is an Overtone?</title>
+
+    <p>
+      Although objects have a fundamental frequency, some objects have other frequencies at which they can vibrate at. We typically hear the lowest natural vibrating
+      frequency, and the other (higher) ones are called overtones. They are part of what give different instruments their characteristic sounds.
+    </p>
+    <p>
+      This concept is easiest to visualize with a vibrating string. When you pluck a string, it does not result in just a single standing wave. You actually get a bunch
+      of different standing waves that are overlapping each other. Each standing wave creates its own tone and you hear the overlapping of all of these tones. (Reality
+      is a bit more complicated, as you're also hearing vibrations in the structure of the instrument.)
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.youtube.com/watch?v=F64xcPKKES8">(Physics Girl) Singing this Note is IMPOSSIBLE!</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

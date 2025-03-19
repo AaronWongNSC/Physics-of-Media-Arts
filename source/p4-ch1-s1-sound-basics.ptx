@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-sound-basics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Basics of Sound</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>What is Sound?</title>
+
+    <p>
+      Sound is a physical vibration of particles. While we typically experience sound through the vibration of air, sound can also be heard through other materials, such
+      as water and metal. Specifically, sound is a longitudinal wave, meaning that the virations of the particles move in the direction of the sound and not transverse (or
+      perpendicular) to it. This is sometimes a bit confusing because many of the portrayals of sound give the impression that the sound is moving to the side while the
+      wave form is up and down. The reason for this inaccuracy is that it's simply much easier to display the magnitude of a vibration this way.
+    </p>
+    <p>
+      A more accurate demonstration of a longtiduinal wave is to stretch out a spring (or a slinky) and to shake it in the direction of the spring. You basically "push" the
+      wave down the spring instead of "shaking" it. For this reason, sound is seen as a pressure wave as it is a literal change of pressure caused by the vibration
+      of the molecules.
+    </p>
+    <p>
+      The pushing and pulling model accurately describes how speakers work. A speaker basically consists of a cone that is attached to an electromagnet that pushes the cone
+      forward and backwards. Those forward and backward motions create the pressure wave that generates the sounds that we hear.
+    </p>
+  </paragraphs>
+
+  <paragraphs>
+    <title>What is the Experience of Sound?</title>
+
+    <p>
+      The experience of sound is a complex process. Typically, the sound vibrations hit our ear drums, causing the ear drum to vibrate. That vibration gets amplified in
+      the middle ear (which is a collection of small bones), and those vibrations enter the innear ear and cochlea. The cochlea is a shell-shaped fluid-filled organ with
+      nerves, and the stimulation of those nerves by the fluid creates the electrical signals that reaches our brain that leads to the experience of sound.
+    </p>
+    <p>
+      It is important to note that there are other ways to stimulate the inner ear without starting at the ear drum. There is another process known as bone conduction,
+      which uses a device to vibrate the skull in a way that causes the same types of cochelar vibrations directly. This is a gimmick that is used in some magic tricks
+      to give people audible instructions without creating noises that the audience can hear.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.space.com/what-is-the-electromagnetic-spectrum/">(Space.com) What is the Electromagnetic Spectrum?</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

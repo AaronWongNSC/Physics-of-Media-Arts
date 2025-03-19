@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-beats" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Beats</title>
+  
+  <introduction>
+    <blockquote>
+      <p>
+        <q>
+          ...
+        </q>
+      </p>
+      <attribution>...</attribution>
+    </blockquote>
+
+    <p>
+
+    </p>
+  </introduction>
+
+  <paragraphs>
+    <title>What are Beats?</title>
+
+    <p>
+      Beats are an acoustic phenomenon in which the sound appears to come and go. See lab.
+    </p>
+  </paragraphs>
+
+  <outcomes>
+    <ul>
+      <li>
+        <p>
+          <url href="https://www.youtube.com/watch?v=F64xcPKKES8">(Physics Girl) Singing this Note is IMPOSSIBLE!</url>
+        </p>
+      </li>
+    </ul>
+  </outcomes>
+</section>

@@ -3,6 +3,6 @@
 <section xml:id="sec-music-labs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Lab Activities: Music</title>
 
-  <!-- <xi:include href="./p4-ch1-sL-1-chladni-plate.ptx" /> -->
+  <xi:include href="./p4-ch2-sL-1-tones.ptx" /> -->
   
 </section>
